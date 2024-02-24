@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d38d52adcaf4c3fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AlphaFold/SE(3) Transformer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a33afaaa5348ef8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AlphaFold/MSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a18f8eee60036f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AlphaFold/MSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58695ee3abef0114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AlphaFold/Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Understanding Distributed Systems by Roberto Vitillo.md",
+                "file": "AlphaFold/Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Understanding Distributed Systems by Roberto Vitillo.md",
+                "file": "AlphaFold/Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Understanding Distributed Systems by Roberto Vitillo.md"
+                "file": "AlphaFold/Templates.md"
               }
             }
           }
@@ -148,6 +197,11 @@
   },
   "active": "80f6f9d9b21bcc37",
   "lastOpenFiles": [
+    "Untitled",
+    "AlphaFold/MSA.md",
+    "AlphaFold/Templates.md",
+    "AlphaFold/Protein.md",
+    "AlphaFold/SE(3) Transformer.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
     "Books/Understanding Distributed Systems by Roberto Vitillo.md",
     "How",
