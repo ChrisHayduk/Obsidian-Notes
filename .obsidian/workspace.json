@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/How to Read a Book by Mortimer J. Adler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "383ce59a89cdc81b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md",
+                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md",
+                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md",
+                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md"
+                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md"
               }
             }
           }
@@ -207,29 +195,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "383ce59a89cdc81b",
+  "active": "80f6f9d9b21bcc37",
   "lastOpenFiles": [
-    "Books/Conversations of Socrates by Xenophon.md",
+    "Readwise/Tweets/With many 🧩 dropping recently, a more complete picture is....md",
+    "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md",
+    "Readwise/Book Highlights/Ai 2041.md",
+    "Readwise/Tweets",
+    "Readwise/Article Highlights",
+    "Readwise/Book Highlights/Alexander the Great.md",
+    "Readwise/Book Highlights/Ancient Greece.md",
+    "Readwise/Book Highlights/ABM Is B2B..md",
+    "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
+    "Readwise/Book Highlights/Zeckendorf.md",
+    "Readwise/Book Highlights/Working Backwards.md",
+    "Readwise/Book Highlights/You Don't Know JS Yet.md",
+    "Readwise/Book Highlights/Napoleon.md",
+    "Readwise/Book Highlights/Rubicon.md",
+    "Readwise/Book Highlights/Central Banking 101.md",
+    "Readwise/Book Highlights/Augustus.md",
+    "Readwise/Book Highlights/Beginning MERN Stack.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
-    "Books/Operating Systems - Three Easy Pieces.md",
-    "Books/Understanding Distributed Systems by Roberto Vitillo.md",
-    "Books/Plato's Five Dialogues.md",
-    "Books/Code - The Hidden Language of Computer Hardware and Software.md",
-    "Untitled.md",
+    "Readwise/Book Highlights/Creators, Conquerors, and Citizens.md",
+    "Readwise/Book Highlights/The Dawn of Everything.md",
+    "Readwise/Book Highlights/The War That Made the Roman Empire.md",
+    "Readwise/Book Highlights/The Theoretical Minimum.md",
+    "Readwise/Book Highlights/High Output Management.md",
+    "Readwise/Book Highlights/Selective Breeding and the Birth of Philosophy.md",
+    "Readwise/Book Highlights/The Long Game.md",
+    "Readwise/Book Highlights/Churchill.md",
+    "Readwise/Book Highlights/The Phoenix Project.md",
+    "Readwise/Book Highlights/The Goal.md",
+    "Readwise/Book Highlights",
+    "Readwise",
     "Learning Notes/OMSCS Courses/Machine Learning for Trading",
     "Learning Notes/OMSCS Courses",
     "Learning Notes/OMSCS Courses/Algorithms",
     "Learning Notes/OMSCS Courses/Computer Architecture",
     "Learning Notes/OMSCS Courses/Deep Learning",
-    "Learning Notes/Untitled/Untitled.md",
-    "Learning Notes/OMSCS Courses/Operating Systems",
-    "Learning Notes",
-    "Ideas",
-    "Papers",
-    "Articles",
-    "Learning Notes/AlphaFold/MSA.md",
-    "Learning Notes/AlphaFold/Templates.md",
-    "Learning Notes/AlphaFold/Protein.md",
-    "Learning Notes/AlphaFold/SE(3) Transformer.md"
+    "Learning Notes/OMSCS Courses/Operating Systems"
   ]
 }

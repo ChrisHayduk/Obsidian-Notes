@@ -1,0 +1,337 @@
+# The Great Mental Models
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51KkhKqszLL._SL200_.jpg)
+
+## Metadata
+- Author: [[Shane Parrish, Rhiannon Beaubien]]
+- Full Title: The Great Mental Models
+- Category: #books
+
+## Highlights
+- Munger has a way of thinking through problems using what he calls a broad latticework of mental models. These are chunks of knowledge from different disciplines that can be simplified and applied to better understand the world. The way he describes it, they help identify what information is relevant in any given situation, and the most reasonable parameters to work in. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=72))
+    - Tags: [[blue]] 
+- « You only think you know, as a matter of fact. And most of your actions are based on incomplete knowledge and you really don’t know what it is all about, or what the purpose of the world is, or know a great deal of other things. It is possible to live and not know. » Richard Feynman1 ([Location 88](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=88))
+    - Tags: [[blue]] 
+- In life and business, the person with the fewest blind spots wins. Removing blind spots means we see, interact with, and move closer to understanding reality. We think better. And thinking better is about finding simple processes that help us work through problems from multiple dimensions and perspectives, allowing us to better choose solutions that fit what matters to us. The skill for finding the right solutions for the right problems is one form of wisdom. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=99))
+    - Tags: [[blue]] 
+- Decisions based on improved understanding will be better than ones based on ignorance. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=104))
+    - Tags: [[blue]] 
+- Mental models describe the way the world works. They shape how we think, how we understand, and how we form beliefs. Largely subconscious, mental models operate below the surface. We’re not generally aware of them and yet they’re the reason when we look at a problem we consider some factors relevant and others irrelevant. They are how we infer causality, match patterns, and draw analogies. They are how we think and reason. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=113))
+    - Tags: [[blue]] 
+    - Note: Mental models operate below the level of consciousness
+- We cannot keep all of the details of the world in our brains, so we use models to simplify the complex into understandable and organizable chunks. ([Location 117](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=117))
+    - Tags: [[blue]] 
+- Not having the ability to shift perspective by applying knowledge from multiple disciplines makes us vulnerable. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=130))
+    - Tags: [[blue]] 
+- Multidisciplinary thinking, learning these mental models and applying them across our lives, creates less stress and more freedom. The more we can draw on the diverse knowledge contained in these models, the more solutions will present themselves. ([Location 131](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=131))
+    - Tags: [[blue]] 
+- Using the lenses of our mental models helps us illuminate these interconnections. The more lenses used on a given problem, the more of reality reveals itself. The more of reality we see, the more we understand. The more we understand, the more we know what to do. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=138))
+    - Tags: [[blue]] 
+- most problems are multidimensional, and thus having more lenses often offers significant help with the problems we are facing. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=145))
+    - Tags: [[blue]] 
+- When understanding is separated from reality, we lose our powers. Understanding must constantly be tested against reality and updated accordingly. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=155))
+    - Tags: [[blue]] 
+- The only way you’ll know the extent to which you understand reality is to put your ideas and understanding into action. If you don’t test your ideas against the real world—keep contact with the earth—how can you be sure you understand? ([Location 158](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=158))
+    - Tags: [[blue]] 
+- Our failures to update from interacting with reality spring primarily from three things: not having the right perspective or vantage point, ego-induced denial, and distance from the consequences of our decisions. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=166))
+    - Tags: [[blue]] 
+- The first flaw is perspective. We have a hard time seeing any system that we are in. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=169))
+    - Tags: [[blue]] 
+- We must be open to other perspectives if we truly want to understand the results of our actions. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=177))
+    - Tags: [[blue]] 
+- The second flaw is ego. Many of us tend to have too much invested in our opinions of ourselves to see the world’s feedback—the feedback we need to update our beliefs about reality. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=179))
+    - Tags: [[blue]] 
+- First, we’re so afraid about what others will say about us that we fail to put our ideas out there and subject them to criticism. This way we can always be right. Second, if we do put our ideas out there and they are criticized, our ego steps in to protect us. We become invested in defending instead of upgrading our ideas. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=181))
+    - Tags: [[blue]] 
+- The third flaw is distance. The further we are from the results of our decisions, the easier it is to keep our current views rather than update them. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=184))
+    - Tags: [[blue]] 
+- Organizations over a certain size often remove us from the direct consequences of our decisions. When we make decisions that other people carry out, we are one or more levels removed and may not immediately be able to update our understanding. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=188))
+    - Tags: [[blue]] 
+    - Note: Standard connsulting
+- It’s easier to fool ourselves that we’re right at a high level than at the micro level, because at the micro level we see and feel the immediate consequences. When we touch that hot stove, the feedback is powerful and instantaneous. At a high or macro level we are removed from the immediacy of the situation, and our ego steps in to create a narrative that suits what we want to believe, instead of what really happened. ([Location 192](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=192))
+    - Tags: [[blue]] 
+- As Confucius said, “A man who has committed a mistake and doesn’t correct it, is committing another mistake.” ([Location 195](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=195))
+    - Tags: [[blue]] 
+- We also tend to undervalue the elementary ideas and overvalue the complicated ones. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=199))
+    - Tags: [[blue]] 
+- « Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. » Andy Benoit6 ([Location 208](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=208))
+    - Tags: [[blue]] 
+- understanding reality is not everything. The pursuit of understanding fuels meaning and adaptation, but this understanding, by itself, is not enough. Understanding only becomes useful when we adjust our behavior and actions accordingly. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=213))
+    - Tags: [[blue]] 
+- We are passive, thinking these things just happened to us and not that we did something to cause them. This passivity means that we rarely reflect on our decisions and the outcomes. Without reflection we cannot learn. Without learning we are doomed to repeat mistakes, become frustrated when the world doesn’t work the way we want it to, and wonder why we are so busy. The cycle goes on. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=227))
+    - Tags: [[blue]] 
+- We need to learn to understand when ego serves us and when it hinders us. Wrapping ego up in outcomes instead of in ourselves makes it easier to update our views. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=235))
+    - Tags: [[blue]] 
+    - Note: Wrap your ego up in your goals and do everything to achieve them
+- we also apply our understanding of gravity in other, less obvious ways. We use the model as a metaphor to explain the influence of strong personalities, as when we say, “He was pulled into her orbit.” This is a reference to our basic understanding of the role of mass in gravity—the more there is the stronger the pull. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=246))
+    - Tags: [[blue]] 
+- Better models mean better thinking. The degree to which our models accurately explain reality is the degree to which they improve our thinking. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=261))
+    - Tags: [[blue]] 
+- Flawed models, regardless of intentions, cause harm when they are put to use. When it comes to applying mental models we tend to run into trouble either when our model of reality is wrong, that is, it doesn’t survive real world experience, or when our model is right and we apply it to a situation where it doesn’t belong. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=265))
+    - Tags: [[blue]] 
+- Only by repeated testing of our models against reality and being open to feedback can we update our understanding of the world and change our thinking. We need to look at the results of applying the model over the largest sample size possible to be able to refine it so that it aligns with how the world actually works. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=272))
+    - Tags: [[blue]] 
+- The key here is variety. Most of us study something specific and don’t get exposure to the big ideas of other disciplines. We don’t develop the multidisciplinary mindset that we need to accurately see a problem. And because we don’t have the right models to understand the situation, we overuse the models we do have and use them even when they don’t belong. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=277))
+    - Tags: [[blue]] 
+- Through their disciplines, each of these people sees part of the situation, the part of the world that makes sense to them. None of them, however, see the entire situation unless they are thinking in a multidisciplinary way. In short, they have blind spots. Big blind spots. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=281))
+    - Tags: [[blue]] 
+- What are the three largest, most relevant sample sizes for identifying universal principles? Bucket number one is inorganic systems, which are 13.7 billion years in size. It’s all the laws of math and physics, the entire physical universe. Bucket number two is organic systems, 3.5 billion years of biology on Earth. And bucket number three is human history, you can pick your own number, I picked 20,000 years of recorded human behavior. Those are the three largest sample sizes we can access and the most relevant.” ([Location 287](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=287))
+    - Tags: [[blue]] 
+- the key to sample sizes is to look for them not just over space, but over time. You need to reach back into the past as far as you can to contribute to your sample. ([Location 292](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=292))
+    - Tags: [[blue]] 
+- Charlie Munger summed up this approach to practical wisdom: “Well, the first rule is that you can’t really know anything if you just remember isolated facts and try and bang ‘em back. If the facts don’t hang together on a latticework of theory, you don’t have them in a usable form. You’ve got to have models in your head. And you’ve got to array your experience both vicarious and direct on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.”8 ([Location 314](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=314))
+    - Tags: [[blue]] 
+- once we learn something, we need to put it back into the complex system in which it occurs. We need to see where it connects to other bits of knowledge, to build our understanding of the whole. This is the value of putting the knowledge contained in mental models into a latticework. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=324))
+    - Tags: [[blue]] 
+- “80 or 90 important models will carry about 90 percent of the freight in making you a worldly-wise person. And, of those, only a mere handful really carry very heavy freight.” ([Location 333](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=333))
+    - Tags: [[blue]] 
+- «I think it is undeniably true that the human brain must work in models. The trick is to have your brain work better than the other person’s brain because it understands the most fundamental models: ones that will do most work per unit. If you get into the mental habit of relating what you’re reading to the basic structure of the underlying ideas being demonstrated, you gradually accumulate some wisdom.» Charlie Munger11 ([Location 340](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=340))
+    - Tags: [[blue]] 
+- It’s not just knowing the mental models that is important. First you must learn them, but then you must use them. Each decision presents an opportunity to comb through your repertoire and try one out, so you can also learn how to use them. This will slow you down at first, and you won’t always choose the right models, but you will get better and more efficient at using mental models as time progresses. ([Location 346](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=346))
+    - Tags: [[blue]] 
+- You need to be deliberate about choosing the models you will use in a situation. As you use them, a great practice is to record and reflect. That way you can get better at both choosing models and applying them. Take the time to notice how you applied them, what the process was like, and what the results were. Over time you will develop your knowledge of which situations are best tackled through which models. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=359))
+    - Tags: [[blue]] 
+- As soon as you begin to take in the knowledge that other people have of the world, like learning the perspectives others have of the elephant, you will start having more success because your decisions will be aligned with how the world really is. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=374))
+    - Tags: [[blue]] 
+- Even the best maps are imperfect. That’s because they are reductions of what they represent. If a map were to represent the territory with perfect fidelity, it would no longer be a reduction and thus would no longer be useful to us. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=394))
+    - Tags: [[blue]] 
+- Think of the financial statements for a company, which are meant to distill the complexity of thousands of transactions into something simpler. Or a policy document on office procedure, a manual on parenting a two-year-old, or your performance review. All are models or maps that simplify some complex territory in order to guide you through it. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=398))
+    - Tags: [[blue]] 
+- the description of the thing is not the thing itself. The model is not reality. The abstraction is not the abstracted. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=405))
+    - Tags: [[blue]] 
+- We can lose the specific and relevant details that were distilled into an abstraction. And, because we often consume these abstractions as gospel, without having done the hard mental work ourselves, it’s tricky to see when the map no longer agrees with the territory. We inadvertently forget that the map is not reality. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=419))
+    - Tags: [[blue]] 
+    - Note: Read primary sources and great books, draw your own conclusions
+- When we mistake the map for reality, we start to think we have all the answers. We create static rules or policies that deal with the map but forget that we exist in a constantly changing world. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=425))
+    - Tags: [[blue]] 
+- Maps and models are not meant to live forever as static references. The world is dynamic. As territories change, our tools to navigate them must be flexible to handle a wide variety of situations or adapt to the changing times. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=429))
+    - Tags: [[blue]] 
+- what physicists do so well, and most of us do so poorly, is that they carefully delimit what Newtonian and Einsteinian physics are able to explain. They know down to many decimal places where those maps are useful guides to reality, and where they aren’t. And when they hit uncharted territory, like quantum mechanics, they explore it carefully instead of assuming the maps they have can explain it all. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=438))
+    - Tags: [[blue]] 
+    - Note: Understand the assumptions your map makes and where those assumptions apply
+- Any user of a map or model must realize that we do not understand a model, map, or reduction unless we understand and respect its limitations. If we don’t understand what the map does and doesn’t tell us, it can be useless or even dangerous. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=443))
+    - Tags: [[blue]] 
+- What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others. –Aristotle ([Location 462](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=462))
+    - Tags: [[blue]] 
+- In order to use a map or model as accurately as possible, we should take three important considerations into account: Reality is the ultimate update. Consider the cartographer. Maps can influence territories. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=476))
+    - Tags: [[blue]] 
+- a map captures a territory at a moment in time. Just because it might have done a good job at depicting what was, there is no guarantee that it depicts what is there now or what will be there in the future. The faster the rate of change in the territory, the harder it will be for a map to keep up to date. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=493))
+    - Tags: [[blue]] 
+- Maps are not purely objective creations. They reflect the values, standards, and limitations of their creators. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=498))
+    - Tags: [[blue]] 
+    - Note: Everything is presented from a particular perspective
+- Models, then, are most useful when we consider them in the context they were created. What was the cartographer trying to achieve? How does this influence what is depicted in the map? ([Location 506](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=506))
+    - Tags: [[blue]] 
+- «In general, when building statistical models, we must not forget that the aim is to understand something about the real world. Or predict, choose an action, make a decision, summarize evidence, and so on, but always about the real world, not an abstract mathematical world: our models are not the reality. » ([Location 519](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=519))
+    - Tags: [[blue]] 
+- When ego and not competence drives what we undertake, we have blind spots. If you know what you understand, you know where you have an edge over others. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=558))
+    - Tags: [[blue]] 
+- The difference between the detailed web of knowledge in the Lifer’s head and the surface knowledge in the Stranger’s head is the difference between being inside a circle of competence and being outside the perimeter. True knowledge of a complex territory cannot be faked. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=576))
+    - Tags: [[blue]] 
+- Within our circles of competence, we know exactly what we don’t know. ([Location 606](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=606))
+    - Tags: [[blue]] 
+- There is no shortcut to understanding. Building a circle of competence takes years of experience, of making mistakes, and of actively seeking out better methods of practice and thought. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=616))
+    - Tags: [[blue]] 
+- There are three key practices needed in order to build and maintain a circle of competence: curiosity and a desire to learn, monitoring, and feedback. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=620))
+    - Tags: [[blue]] 
+- Learning comes when experience meets reflection. You can learn from your own experiences. Or you can learn from the experience of others, through books, articles, and conversations. ([Location 622](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=622))
+    - Tags: [[blue]] 
+- you need to monitor your track record in areas which you have, or want to have, a circle of competence. And you need to have the courage to monitor honestly so the feedback can be used to your advantage. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=626))
+    - Tags: [[blue]] 
+- Keeping a journal of your own performance is the easiest and most private way to give self-feedback. ([Location 635](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=635))
+    - Tags: [[blue]] 
+- you must occasionally solicit external feedback. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=638))
+    - Tags: [[blue]] 
+- Learn at least the basics of the realm you’re operating in, while acknowledging that you’re a Stranger, not a Lifer. ([Location 656](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=656))
+    - Tags: [[blue]] 
+- Whenever we are getting advice, it is from a person whose set of incentives is not the same as ours. It is not being cynical to know that this is the case, and to then act accordingly. ([Location 676](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=676))
+    - Tags: [[blue]] 
+- The idea a circle of competence in the realm of investments was stated very well by Berkshire Hathaway’s Warren Buffett. When asked, he recommended that each individual stick to their area of special competence, and be very reluctant to stray. For when we stray too far, we get into areas where we don’t even know what we don’t know. We may not even know the questions we need to ask. ([Location 706](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=706))
+    - Tags: [[blue]] 
+    - Note: Ignorance brings unknown unknowns. Not even aware of how much we're lacking
+- Karl Popper wrote “A theory is part of empirical science if and only if it conflicts with possible experiences13 and is therefore in principle falsifiable by experience.” ([Location 720](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=720))
+    - Tags: [[blue]] 
+- In a true science, as opposed to a pseudo-science, the following statement can be easily made: “If x happens, it would show demonstrably that theory y is not true.” We can then design an experiment, a physical one or sometimes a thought experiment, to figure out if x actually does happen. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=725))
+    - Tags: [[blue]] 
+- Here we hit on the problem of trying to assert any fundamental laws by which human history must inevitably progress. Trend is not destiny. Even if we can derive and understand certain laws of human biological nature, the trends of history itself are dependent on conditions, and conditions change. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=747))
+    - Tags: [[blue]] 
+- Applying the filter of falsifiability helps us sort through which theories are more robust. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=756))
+    - Tags: [[blue]] 
+- Sometimes called reasoning from first principles, it’s a tool to help clarify complicated problems by separating the underlying ideas or facts from any assumptions based on them. What remain are the essentials. If you know the first principles of something, you can build the rest of your knowledge around them to produce something new. ([Location 771](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=771))
+    - Tags: [[blue]] 
+- first principles thinking identifies the elements that are, in the context of any given situation, non-reducible. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=779))
+    - Tags: [[blue]] 
+- First principles are the boundaries that we have to work within in any given situation—so when it comes to thermodynamics an appliance maker might have different first principles than a physicist. ([Location 784](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=784))
+    - Tags: [[blue]] 
+- If we never learn to take something apart, test our assumptions about it, and reconstruct it, we end up bound by what other people tell us—trapped in the way things have always been done. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=786))
+    - Tags: [[blue]] 
+- Socratic questioning can be used to establish first principles through stringent analysis. This is a disciplined questioning process, used to establish truths, reveal underlying assumptions, and separate knowledge from ignorance. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=793))
+    - Tags: [[blue]] 
+- Socratic questioning generally follows this process: Clarifying your thinking and explaining the origins of your ideas. (Why do I think this? What exactly do I think?) Challenging assumptions. (How do I know this is true? What if I thought the opposite?) Looking for evidence. (How can I back this up? What are the sources?) Considering alternative perspectives. (What might others think? How do I know I am correct?) Examining consequences and implications. (What if I am wrong? What are the consequences if I am?) Questioning the original questions. (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?) Socratic questioning stops you from relying on your gut and limits strong emotional responses. This process helps you build something that lasts. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=795))
+    - Tags: [[blue]] 
+- The goal of the Five Whys is to land on a “what” or “how”. ([Location 806](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=806))
+    - Tags: [[blue]] 
+- It turned out, however, that a sterile stomach was not a first principle. It was an assumption. As Kevin Ashton writes in his book on creativity, discovery, and invention, “the dogma of the sterile stomach said that bacteria could not live in the gut.”3 Because this dogma was taken as truth, for a long time no one ever looked for reasons that it could be false. ([Location 821](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=821))
+    - Tags: [[blue]] 
+    - Note: Decide whether accepted knowledge is factual or at least falsifiable (and therefore a valid first principle) or simply dogma
+- First principles thinking helps us avoid the problem of relying on someone else’s tactics without understanding the rationale behind them. Even incremental improvement is harder to achieve if we can’t identify the first principles. ([Location 840](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=840))
+    - Tags: [[blue]] 
+- «As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.» ([Location 873](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=873))
+    - Tags: [[blue]] 
+- Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible. When you really understand the principles at work, you can decide if the existing methods make sense. Often they don’t. ([Location 876](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=876))
+    - Tags: [[blue]] 
+- Thought experiments can be defined as “devices of the imagination used to investigate the nature of things.” ([Location 888](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=888))
+    - Tags: [[blue]] 
+- a detailed thought experiment. Its chief value is that it lets us do things in our heads we cannot do in real life, and so explore situations from more angles than we can physically examine and test for. ([Location 907](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=907))
+    - Tags: [[blue]] 
+- Much like the scientific method, a thought experiment generally has the following steps: Ask a question Conduct background research Construct hypothesis Test with (thought) experiments Analyze outcomes and draw conclusions Compare to hypothesis and adjust accordingly (new question, etc.) ([Location 909](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=909))
+    - Tags: [[blue]] 
+- One of the real powers of the thought experiment is that there is no limit to the number of times you can change a variable to see if it influences the outcome. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=916))
+    - Tags: [[blue]] 
+- few areas in which thought experiments are tremendously useful. Imagining physical impossibilities Re-imagining history Intuiting the non-intuitive ([Location 920](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=920))
+    - Tags: [[blue]] 
+- Albert Einstein was a great user of the thought experiment because it is a way to logically carry out a test in one’s own head that would be very difficult or impossible to perform in real life. With this tool, we can solve problems with intuition and logic that cannot be demonstrated physically. ([Location 923](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=923))
+    - Tags: [[blue]] 
+- These approaches are called the historical counter-factual and semi-factual. If Y happened instead of X, what would the outcome have been? Would the outcome have been the same? ([Location 942](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=942))
+    - Tags: [[blue]] 
+- history is what we call a chaotic system. A small change in the beginning conditions can cause a very different outcome down the line. This is where the rigor of the scientific method is indispensable if we want to draw conclusions that are actually useful. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=945))
+    - Tags: [[blue]] 
+- a small change in the past could have a massive, unpredictable effect on the future. Thus, running historical counter-factuals is an easy way to accidentally mislead yourself. ([Location 966](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=966))
+    - Tags: [[blue]] 
+- One of the goals of a thought experiment like this is to understand the situation enough to identify the decisions and actions that had impact. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=994))
+    - Tags: [[blue]] 
+- One of the uses of thought experiments is to improve our ability to intuit the non-intuitive. In other words, a thought experiment allows us to verify if our natural intuition is correct by running experiments in our deliberate, conscious minds that make a point clear. ([Location 1000](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1000))
+    - Tags: [[blue]] 
+- Thought experiments tell you about the limits of what you know and the limits of what you should attempt. In order to improve our decision-making and increase our chances of success, we must be willing to probe all of the possibilities we can think of. Thought experiments are not daydreams. They require both rigor and work. But the more you use them, the more you understand actual cause and effect, and the more knowledge you have of what can really be accomplished. ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1029))
+    - Tags: [[blue]] 
+- Assume you wanted to make it into the Fortune 500. Capital is necessary, but not sufficient. Hard work is necessary, but not sufficient. Intelligence is necessary, but not sufficient. Billionaire success takes all of those things and more, plus a lot of luck. That’s a big reason that there’s no recipe. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1038))
+    - Tags: [[blue]] 
+- Second-order thinking is thinking farther ahead and thinking holistically. It requires us to not only consider our actions and their immediate consequences, but the subsequent effects of those actions as well. Failing to consider the second- and third-order effects can unleash disaster. ([Location 1061](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1061))
+    - Tags: [[blue]] 
+- any comprehensive thought process considers the effects of the effects as seriously as possible. You are going to have to deal with them anyway. The genie never gets back in the bottle. You can never delete consequences to arrive at the original starting conditions. ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1074))
+    - Tags: [[blue]] 
+- Garrett Hardin proposed his First Law of Ecology: “You can never merely do one thing.”3 We operate in a world of multiple, overlapping connections, like a web, with many significant, yet obscure and unpredictable, relationships. He developed second-order thinking into a tool, showing that if you don’t consider “the effects of the effects,” you can’t really claim to be doing any thinking at all. ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1081))
+    - Tags: [[blue]] 
+- High degrees of connections make second-order thinking all the more critical, because denser webs of relationships make it easier for actions to have far-reaching consequences. You may be focused in one direction, not recognizing that the consequences are rippling out all around you. Things are not produced and consumed in a vacuum. ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1089))
+    - Tags: [[blue]] 
+- Second-order thinking is not a way to predict the future. You are only able to think of the likely consequences based on the information available to you. ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1094))
+    - Tags: [[blue]] 
+- Second-order thinking teaches us two important concepts that underlie the use of this model. If we’re interested in understanding how the world really works, we must include second and subsequent effects. We must be as observant and honest as we can about the web of connections we are operating in. ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1102))
+    - Tags: [[blue]] 
+- two areas where second-order thinking can be used to great benefit: Prioritizing long-term interests over immediate gains Constructing effective arguments ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1110))
+    - Tags: [[blue]] 
+- Second-order thinking involves asking ourselves if what we are doing now is going to get us the results we want. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1116))
+    - Tags: [[blue]] 
+- Being aware of second-order consequences and using them to guide your decision-making may mean the short term is less spectacular, but the payoffs for the long term can be enormous. ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1149))
+    - Tags: [[blue]] 
+- Arguments are more effective when we demonstrate that we have considered the second-order effects and put effort into verifying that these are desirable as well. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1156))
+    - Tags: [[blue]] 
+- Second-order thinking, as valuable as it is, must be tempered in one important way: You can’t let it lead to the paralysis of the Slippery Slope Effect, the idea that if we start with action A, everything after is a slippery slope down to hell, with a chain of consequences B, C, D, E, and F. ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1169))
+    - Tags: [[blue]] 
+- In practical life, everything has limits. Even if we consider second and subsequent effects, we can only go so far. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1176))
+    - Tags: [[blue]] 
+- Second-order thinking needs to evaluate the most likely effects and their most likely consequences, checking our understanding of what the typical results of our actions will be. If we worried about all possible effects of effects of our actions, we would likely never do anything, and we’d be wrong. ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1179))
+    - Tags: [[blue]] 
+    - Note: Don't focus on ALL second order effects (which are probably infinite). Focus on just the most likely ones
+- Thinking in terms of the system in which you are operating will allow you to see that your consequences have consequences. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1185))
+    - Tags: [[blue]] 
+- The theory of probability is the only mathematical tool available to help map the unknown and the uncontrollable. It is fortunate that this tool, while tricky, is extraordinarily powerful and convenient. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1189))
+    - Tags: [[blue]] 
+- Probabilistic thinking is essentially trying to estimate, using some tools of math and logic, the likelihood of any specific outcome coming to pass. It is one of the best tools we have to improve the accuracy of our decisions. ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1197))
+    - Tags: [[blue]] 
+- The best we can do is estimate the future by generating realistic, useful probabilities. ([Location 1206](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1206))
+    - Tags: [[blue]] 
+- There are three important aspects of probability that we need to explain so you can integrate them into your thinking to get into the ballpark and improve your chances of catching the ball: Bayesian thinking Fat-tailed curves Asymmetries ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1214))
+    - Tags: [[blue]] 
+- The core of Bayesian thinking (or Bayesian updating, as it can be called) is this: given that we have limited but useful information about the world, and are constantly encountering new information, we should probably take into account what we already know when we learn something new. ([Location 1221](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1221))
+    - Tags: [[blue]] 
+- It is important to remember that priors themselves are probability estimates. For each bit of prior knowledge, you are not putting it in a binary structure, saying it is true or not. You’re assigning it a probability of being true. ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1234))
+    - Tags: [[blue]] 
+- When making uncertain decisions, it’s nearly always a mistake not to ask: What are the relevant priors? What might I already know that I can use to better understand the reality of the situation? ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1239))
+    - Tags: [[blue]] 
+- In a bell curve the extremes are predictable. There can only be so much deviation from the mean. In a fat-tailed curve there is no real cap on extreme events. ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1256))
+    - Tags: [[blue]] 
+- The more extreme events that are possible, the longer the tails of the curve get. Any one extreme event is still unlikely, but the sheer number of options means that we can’t rely on the most common outcomes as representing the average. The more extreme events that are possible, the higher the probability that one of them will occur. ([Location 1257](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1257))
+    - Tags: [[blue]] 
+- The important thing is not to sit down and imagine every possible scenario in the tail (by definition, it is impossible) but to deal with fat-tailed domains in the correct way: by positioning ourselves to survive or even benefit from the wildly unpredictable future, by being the only ones thinking correctly and planning for a world we don’t fully understand. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1272))
+    - Tags: [[blue]] 
+- you need to think about something we might call “metaprobability”—the probability that your probability estimates themselves are any good. ([Location 1276](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1276))
+    - Tags: [[blue]] 
+- any small error in measuring the risk of an extreme event can mean we’re not just slightly off, but way off—off by orders of magnitude, in fact. In other words, not just 10% wrong but ten times wrong, or 100 times wrong, or 1,000 times wrong. Something we thought could only happen every 1,000 years might be likely to happen in any given year! ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1284))
+    - Tags: [[blue]] 
+- We can think about three categories of objects: Ones that are harmed by volatility and unpredictability, ones that are neutral to volatility and unpredictability, and finally, ones that benefit from it. The latter category is antifragile—like a package that wants to be mishandled. Up to a point, certain things benefit from volatility, and that’s how we want to be. Why? Because the world is fundamentally unpredictable and volatile, and large events—panics, crashes, wars, bubbles, and so on—tend to have a disproportionate impact on outcomes. There are two ways to handle such a world: try to predict, or try to prepare. Prediction is tempting. For all of human history, seers and soothsayers have turned a comfortable trade. The problem is that nearly all studies of “expert” predictions in such complex real-world realms as the stock market, geopolitics, and global finance have proven again and again that, for the rare and impactful events in our world, predicting is impossible! It’s more efficient to prepare. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1292))
+    - Tags: [[blue]] 
+    - Note: Don't predict specific black swan events (impossible), but instead prepare for the set of fat tailed outcomes
+- Wall Street traders would call “upside optionality”, that is, seeking out situations that we expect have good odds of offering us opportunities. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1301))
+    - Tags: [[blue]] 
+- The second thing we can do is to learn how to fail properly. Failing properly has two major components. First, never take a risk that will do you in completely. (Never get taken out of the game completely.) Second, develop the personal resilience to learn from your failures and start again. With these two rules, you can only fail temporarily. ([Location 1305](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1305))
+    - Tags: [[blue]] 
+- Far more probability estimates are wrong on the “over-optimistic” side than the “under-optimistic” side. You’ll rarely read about an investor who aimed for 25% annual return rates who subsequently earned 40% over a long period of time. ([Location 1318](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1318))
+    - Tags: [[blue]] 
+- Successfully thinking in shades of probability means roughly identifying what matters, coming up with a sense of the odds, doing a check on our assumptions, and then making a decision. We can act with a higher level of certainty in complex, unpredictable situations. We can never know the future with exact precision. Probabilistic thinking is an extremely useful tool to evaluate how the world will most likely look so that we can effectively strategize. ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1353))
+    - Tags: [[blue]] 
+- It is entirely possible that having parents who consume a lot of alcohol leads to worse academic outcomes for their children. It is also possible, however, that the reverse is true, or even that having kids who do poorly in school causes parents to drink more. Trying to invert the relationship can help you sort through claims to determine if you are dealing with true causation or just correlation. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1392))
+    - Tags: [[blue]] 
+- The test of a first-rate intelligence is the ability to hold two opposing ideas in mind at the same time and still retain the ability to function. One should, for example, be able to see that things are hopeless yet be determined to make them otherwise. ([Location 1417](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1417))
+    - Tags: [[blue]] 
+- The root of inversion is “invert,” which means to upend or turn upside down. As a thinking tool it means approaching a situation from the opposite end of the natural starting point. Most of us tend to think one way about a problem: forward. Inversion allows us to flip the problem around and think backward. Sometimes it’s good to start at the beginning, but it can be more useful to start at the end. ([Location 1431](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1431))
+    - Tags: [[blue]] 
+- Combining the ability to think forward and backward allows you to see reality from multiple angles. ([Location 1434](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1434))
+    - Tags: [[blue]] 
+- There are two approaches to applying inversion in your life. Start by assuming that what you’re trying to prove is either true or false, then show what else would have to be true. Instead of aiming directly for your goal, think deeply about what you want to avoid and then see what options are left over. ([Location 1435](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1435))
+    - Tags: [[blue]] 
+- If it is true that Adler has this compromising picture of the king and is planning to blackmail him, what would also be true? Likely that she would greatly value the photo as it will bring her money, and that it would be hidden in an accessible location so she could retrieve it in a hurry. We tend to keep our most prized possessions where we can easily grab them in case of emergency. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1470))
+    - Tags: [[blue]] 
+- By starting with the logical outcome of his assumptions and seeking to validate those, he advances his case with significantly more efficiency and accuracy than if he had searched first for proof of the assumptions themselves. ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1475))
+    - Tags: [[blue]] 
+- Bernays didn’t focus on how to sell more cigarettes to women within the existing social structure. Sales would have undoubtedly been a lot more limited. Instead he thought about what the world would look like if women smoked often and anywhere, and then set about trying to make that world a reality. Once he did that, selling cigarettes to women was comparatively easy. ([Location 1495](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1495))
+    - Tags: [[blue]] 
+- Instead, we can try inverting the goal. It becomes, not getting rich, but avoiding being poor. Instead of trying to divine the decisions that will bring wealth, we first try to eliminate those behaviors that are guaranteed to erode it. ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1511))
+    - Tags: [[blue]] 
+- We can more readily secure wealth by using inversion to make sure we are not doing the worst things that prevent the accumulation of wealth. ([Location 1514](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1514))
+    - Tags: [[blue]] 
+- Once we figure out our objective, we focus on the things we need to put in place to make it happen, the new training or education, the messaging and marketing. But Lewin theorized that it can be just as powerful to remove obstacles to change. ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1523))
+    - Tags: [[blue]] 
+- Whatever angle you choose to approach your problem from, you need to then follow with consideration of the opposite angle. Think about not only what you could do to solve a problem, but what you could do to make it worse—and then avoid doing that, or eliminate the conditions that perpetuate it. ([Location 1525](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1525))
+    - Tags: [[blue]] 
+- Using inversion to identify your end goal and work backward from there can lead to innovation. ([Location 1538](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1538))
+    - Tags: [[blue]] 
+- Simpler explanations are more likely to be true than complicated ones. This is the essence of Occam’s Razor, a classic principle of logic and problem-solving. ([Location 1580](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1580))
+    - Tags: [[blue]] 
+    - Note: Is this always true? What about complex systems that are inherently unexplainable?
+- Occam’s Razor is a great tool for avoiding unnecessary complexity by helping you identify and commit to the simplest explanation possible. ([Location 1588](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1588))
+    - Tags: [[blue]] 
+- Ockham wrote that “a plurality is not to be posited without necessity”—essentially that we should prefer the simplest explanation with the fewest moving parts.2,3 They are easier to falsify, easier to understand, and generally more likely to be correct. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1591))
+    - Tags: [[blue]] 
+- The simpler explanation for a miracle is that there are principles of nature being exploited that we do not understand. This is Hume’s and Sagan’s point. ([Location 1610](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1610))
+    - Tags: [[blue]] 
+- Take two competing explanations, each of which seem to equally explain a given phenomenon. If one of them requires the interaction of three variables and the other the interaction of thirty variables, all of which must have occurred to arrive at the stated conclusion, which of these is more likely to be in error? If each variable has a 99% chance of being correct, the first explanation is only 3% likely to be wrong. The second, more complex explanation, is about nine times as likely to be wrong, or 26%. The simpler explanation is more robust in the face of uncertainty. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1623))
+    - Tags: [[blue]] 
+    - Note: Uncertainty in a model compounds
+- With limited time and resources, it is not possible to track down every theory with a plausible explanation of a complex, uncertain event. Without the filter of Occam’s Razor, we are stuck chasing down dead ends. We waste time, resources, and energy. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1645))
+    - Tags: [[blue]] 
+    - Note: Allows us to cut through infinite solution space to a single solution quickly. Supports decisive decisions
+- Occam’s Razor is a good counter to hypochondria. Based on the same principles, you factor in the current state of your health to an evaluation of your current symptoms. Knowing that the simplest explanation is most likely to be true can help us avoid unnecessary panic and stress. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1666))
+    - Tags: [[blue]] 
+- One important counter to Occam’s Razor is the difficult truth that some things are simply not that simple. ([Location 1676](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1676))
+    - Tags: [[blue]] 
+- irreducible complexity, like simplicity, is a part of our reality. Therefore, we can’t use this Razor to create artificial simplicity. If something cannot be broken down any further, we must deal with it as it is. ([Location 1695](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1695))
+    - Tags: [[blue]] 
+- An explanation can be simplified only to the extent that it can still provide an accurate understanding. ([Location 1698](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1698))
+    - Tags: [[blue]] 
+- focusing on simplicity when all others are focused on complexity is a hallmark of genius, and it’s easier said than done. But always remembering that a simpler explanation is more likely to be correct than a complicated one goes a long way towards helping us conserve our most precious resources of time and energy. ([Location 1699](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1699))
+    - Tags: [[blue]] 
+- Hanlon’s Razor states that we should not attribute to malice that which is more easily explained by stupidity. ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1712))
+    - Tags: [[blue]] 
+- a sort of tic in our mental machinery: we’re deeply affected by vivid, available evidence, to such a degree that we’re willing to make judgments that violate simple logic. We over-conclude based on the available information. We have no trouble packaging in unrelated factors if they happen to occur in proximity to what we already believe. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1734))
+    - Tags: [[blue]] 
+    - Note: Great storytelling can override logic. It is THE marketing and sales skill
+- Always assuming malice puts you at the center of everyone else’s world. This is an incredibly self-centered approach to life. In reality, for every act of malice, there is almost certainly far more ignorance, stupidity, and laziness. ([Location 1744](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1744))
+    - Tags: [[blue]] 
+- When we assume someone is out to get us, our very natural instinct is to take actions to defend ourselves. It’s harder to take advantage of, or even see, opportunities while in this defensive mode because our priority is saving ourselves—which tends to reduce our vision to dealing with the perceived threat instead of examining the bigger picture. ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1763))
+    - Tags: [[blue]] 
+    - Note: A defensive stance limits opportunity-taking because opportunities are inherently offensive in nature (you need to go out and HUNT/TAKE them. As such, negative world views are unhelpful EVEN IF THEY ARE TRUE. If my behavior is constrained by an unjust world, believing this to be the case only causes me to voluntarily constrain my own behavior further. An optimistic worldview, by contrast, encourages us to find the limits and boundaries of these constraints
+- Although the explosions around the submarine could have been malicious, Arkhipov realized that to assume so would put the lives of billions in peril. Far better to suppose mistakes and ignorance, and base the decision not to launch on that. In doing so, he saved the world. ([Location 1778](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1778))
+    - Tags: [[blue]] 
+- of all possible motives behind an action, the ones that require the least amount of energy to execute (such as ignorance or laziness) are more likely to occur than one that requires active malice. ([Location 1789](https://readwise.io/to_kindle?action=open&asin=B07P79P8ST&location=1789))
+    - Tags: [[blue]] 

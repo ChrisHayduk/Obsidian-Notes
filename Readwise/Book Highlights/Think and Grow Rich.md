@@ -1,0 +1,184 @@
+# Think and Grow Rich
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/510rYEl0gIL._SL200_.jpg)
+
+## Metadata
+- Author: [[Napoleon Hill]]
+- Full Title: Think and Grow Rich
+- Category: #books
+
+## Highlights
+- all achievement, all earned riches, have their beginning in an idea! ([Location 208](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=208))
+    - Tags: [[blue]] 
+- One of the chief characteristics of Barnes’ desire was that it was definite. He wanted to work with Edison, not for him. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=216))
+    - Tags: [[blue]] 
+- Barnes did not get his partnership with Edison on his first interview. He did get a chance to work in the Edison offices, at a very nominal wage. Months went by. Apparently nothing happened to bring nearer the coveted goal which Barnes had set up in his mind as his definite major purpose. But something important was happening in Barnes’ mind. He was constantly intensifying his desire to become the business associate of Edison. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=230))
+    - Tags: [[blue]] 
+- One of the most common causes of failure is the habit of quitting when one is overtaken by temporary defeat. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=255))
+    - Tags: [[blue]] 
+- Before success comes in any man’s life, he is sure to meet with much temporary defeat, and, perhaps, some failure. When defeat overtakes a man, the easiest and most logical thing to do is to quit. That is exactly what the majority of men do. More than five hundred of the most successful men this country has ever known told the author their greatest success came just one step beyond the point at which defeat had overtaken them. Failure is a trickster with a keen sense of irony and cunning. It takes great delight in tripping one when success is almost within reach. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=277))
+    - Tags: [[blue]] 
+- When riches begin to come they come so quickly, in such great abundance, that one wonders where they have been hiding during all those lean years. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=334))
+    - Tags: [[blue]] 
+- Barnes’ desire was not a hope! It was not a wish! It was a keen, pulsating desire, which transcended everything else. It was definite. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=417))
+    - Tags: [[blue]] 
+- Barnes succeeded because he chose a definite goal, placed all his energy, all his will power, all his effort, everything, back of that goal. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=420))
+    - Tags: [[blue]] 
+- He left himself no possible way of retreat. He had to win or perish! ([Location 432](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=432))
+    - Tags: [[blue]] 
+- Wishing will not bring riches. But desiring riches with a state of mind that becomes an obsession, then planning definite ways and means to acquire riches, and backing those plans with persistence which does not recognize failure, will bring riches. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=449))
+    - Tags: [[blue]] 
+- there is one quality which one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=485))
+    - Tags: [[blue]] 
+- Thomas Edison dreamed of a lamp that could be operated by electricity, began where he stood to put his dream into action, and despite more than ten thousand failures, he stood by that dream until he made it a physical reality. Practical dreamers do not quit! ([Location 494](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=494))
+    - Tags: [[blue]] 
+- no one ever is defeated until defeat has been accepted as a reality. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=516))
+    - Tags: [[blue]] 
+- There is a difference between wishing for a thing and being ready to receive it. No one is ready for a thing until he believes he can acquire it. The state of mind must be belief, not mere hope or wish. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=520))
+    - Tags: [[blue]] 
+- “The whole course of things goes to teach us faith. We need only obey. There is guidance for each of us, and by lowly listening, we shall hear the right word.” ([Location 537](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=537))
+    - Tags: [[blue]] 
+- faith is a state of mind which may be induced, or created, by affirmation or repeated instructions to the subconscious mind, through the principle of autosuggestion. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=646))
+    - Tags: [[blue]] 
+- Repetition of affirmation of orders to your subconscious mind is the only known method of voluntary development of the emotion of faith. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=654))
+    - Tags: [[blue]] 
+- any impulse of thought which is repeatedly passed on to the subconscious mind is, finally, accepted and acted upon by the subconscious mind, which proceeds to translate that impulse into its physical equivalent, by the most practical procedure available. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=658))
+    - Tags: [[blue]] 
+- one comes, finally, to believe whatever one repeats to one’s self, whether the statement be true or false. If a man repeats a lie over and over, he will eventually accept the lie as truth. Moreover, he will believe it to be the truth. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=700))
+    - Tags: [[blue]] 
+- Thoughts which are mixed with any of the feelings of emotions constitute a “magnetic” force which attracts other similar or related thoughts. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=705))
+    - Tags: [[blue]] 
+- The information is easily conveyed: any idea, plan, or purpose may be placed in the mind through repetition of thought. ([Location 712](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=712))
+    - Tags: [[blue]] 
+- you may discover that your greatest weakness is lack of self-confidence. This handicap can be surmounted, and timidity translated into courage, through the aid of the principle of autosuggestion. The application of this principle may be made through a simple arrangement of positive thought impulses stated in writing, memorized, and repeated, until they become a part of the working equipment of the subconscious faculty of your mind. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=716))
+    - Tags: [[blue]] 
+- Riches begin in the form of thought! The amount is limited only by the person in whose mind the thought is put into motion. Faith removes limitations! ([Location 891](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=891))
+    - Tags: [[blue]] 
+- Plain, unemotional words do not influence the subconscious mind. You will get no appreciable results until you learn to reach your subconscious mind with thoughts, or spoken words which have been well emotionalized with belief. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=918))
+    - Tags: [[blue]] 
+- When visualizing the money you intend to accumulate, (with closed eyes), see yourself rendering the service, or delivering the merchandise you intend to give in return for this money. This is important! ([Location 946](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=946))
+    - Tags: [[blue]] 
+- Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that “knowledge is power.” It is nothing of the sort! Knowledge is only potential power. It becomes power only when, and if, it is organized into definite plans of action and directed to a definite end. ([Location 996](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=996))
+    - Tags: [[blue]] 
+    - Note: Visualize your goals, direct your learning towards those specific goals, and then put in plans of action that use that learning to achieve concrete steps towards those goals
+- An educated man is not, necessarily, one who has an abundance of general or specialized knowledge. An educated man is one who has so developed the faculties of his mind that he may acquire anything he wants, or its equivalent, without violating the rights of others. ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1002))
+    - Tags: [[blue]] 
+    - Note: Develop strong logic skills, reading fluency, and an iron will that pursues what it desires. In this way you’ll be capable of learning anything
+- Any man is educated who knows where to get knowledge when he needs it, and how to organize that knowledge into definite plans of action. Through the assistance of his “Master Mind” group Henry Ford had at his command all the specialized knowledge he needed to enable him to become one of the wealthiest men in America. It was not essential that he have this knowledge in his own mind. ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1020))
+    - Tags: [[blue]] 
+- First of all, decide the sort of specialized knowledge you require, and the purpose for which it is needed. To a large extent your major purpose in life, the goal toward which you are working, will help determine what knowledge you need. With this question settled, your next move requires that you have accurate information concerning dependable sources of knowledge. ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1037))
+    - Tags: [[blue]] 
+- As knowledge is acquired it must be organized and put into use, for a definite purpose, through practical plans. Knowledge has no value except that which can be gained from its application toward some worthy end. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1045))
+    - Tags: [[blue]] 
+    - Note: USE the knowledge you acquire. Write blog posts and work on projects towards your goals to turn knowledge into ACTION
+- One of the major points I am trying to emphasize through this entire philosophy is that we rise to high positions or remain at the bottom because of conditions we can control if we desire to control them. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1163))
+    - Tags: [[blue]] 
+- there is something to the idea that hero-worship is helpful, provided one worships a winner. ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1168))
+    - Tags: [[blue]] 
+    - Note: Pick someone to model your life off of in a metaphorical way
+- Man’s only limitation, within reason, lies in his development and use of his imagination. He has not yet reached the apex of development in the use of his imaginative faculty. He has merely discovered that he has an imagination, and has commenced to use it in a very elementary way. ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1196))
+    - Tags: [[blue]] 
+- Synthetic Imagination:—Through this faculty, one may arrange old concepts, ideas, or plans into new combinations. ([Location 1200](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1200))
+    - Tags: [[blue]] 
+- Creative Imagination:—Through the faculty of creative imagination, the finite mind of man has direct communication with Infinite Intelligence. It is the faculty through which “hunches” and “inspirations” are received. It is by this faculty that all basic, or new ideas are handed over to man. It is through this faculty that one individual may “tune in,” or communicate with the subconscious minds of other men. ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1204))
+    - Tags: [[blue]] 
+- While the synthetic imagination is the one which will be used most frequently, in the process of transforming the impulse of desire into money, you must keep in mind the fact that you may face circumstances and situations which demand use of the creative imagination as well. ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1213))
+    - Tags: [[blue]] 
+- Transformation of the intangible impulse, of desire, into the tangible reality, of money, calls for the use of a plan, or plans. These plans must be formed with the aid of the imagination, and mainly, with the synthetic faculty. ([Location 1219](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1219))
+    - Tags: [[blue]] 
+- the moment you reduce the statement of your desire, and a plan for its realization, to writing, you have actually taken the first of a series of steps, which will enable you to convert the thought into its physical counterpart. ([Location 1225](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1225))
+    - Tags: [[blue]] 
+- ideas can be transmuted into cash through the power of definite purpose, plus definite plans. ([Location 1328](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1328))
+    - Tags: [[blue]] 
+- Generally speaking, an idea is an impulse of thought that impels action, by an appeal to the imagination. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1331))
+    - Tags: [[blue]] 
+- Ideas are like that. First you give life and action and guidance to ideas, then they take on power of their own and sweep aside all opposition. Ideas are intangible forces, but they have more power than the physical brains that give birth to them. They have the power to live on, after the brain that creates them has returned to dust. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1351))
+    - Tags: [[blue]] 
+- A quitter never wins—and a winner never quits. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1394))
+    - Tags: [[blue]] 
+- The man who can follow a leader most efficiently, is usually the man who develops into leadership most rapidly. An intelligent follower has many advantages, among them the opportunity to acquire knowledge from his leader. ([Location 1410](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1410))
+    - Tags: [[blue]] 
+- Remember that it is not the lawyer who knows the most law, but the one who best prepares his case, who wins. If your “case” is properly prepared and presented, your victory will have been more than half won at the outset. ([Location 1545](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1545))
+    - Tags: [[blue]] 
+- Opportunity has spread its wares before you. Step up to the front, select what you want, create your plan, put the plan into action, and follow through with persistence. ([Location 1900](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1900))
+    - Tags: [[blue]] 
+- You have a brain and mind of your own. Use it, and reach your own decisions. If you need facts or information from other people to enable you to reach decisions, as you probably will in many instances, acquire these facts or secure the information you need quietly, without disclosing your purpose. ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1936))
+    - Tags: [[blue]] 
+    - Note: Acquire facts and information but come to your own decisions and hold those decisions firmly
+- Keep your eyes and ears wide open—and your mouth closed, if you wish to acquire the habit of prompt decision. Those who talk too much do little else. If you talk more than you listen, you not only deprive yourself of many opportunities to accumulate useful knowledge, but you also disclose your plans and purposes to people who will take great delight in defeating you, because they envy you. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=1940))
+    - Tags: [[blue]] 
+- It will not be difficult to detect, in the story of the Declaration of Independence, at least six of these principles: desire, decision, faith, persistence, the Master Mind, and organized planning. ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2054))
+    - Tags: [[blue]] 
+- thought, backed by strong desire, has a tendency to transmute itself into its physical equivalent. ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2057))
+    - Tags: [[blue]] 
+- Those who reach decisions promptly and definitely, know what they want, and generally get it. The leaders in every walk of life decide quickly, and firmly. That is the major reason why they are leaders. The world has the habit of making room for the man whose words and actions show that he knows where he is going. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2062))
+    - Tags: [[blue]] 
+- Will-power and desire, when properly combined, make an irresistible pair. Men who accumulate great fortunes are generally known as cold-blooded, and sometimes ruthless. Often they are misunderstood. What they have is will-power, which they mix with persistence, and place back of their desires to insure the attainment of their objectives. ([Location 2077](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2077))
+    - Tags: [[blue]] 
+- The ease with which lack of persistence may be conquered will depend entirely upon the intensity of one’s desire. ([Location 2089](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2089))
+    - Tags: [[blue]] 
+- The starting point of all achievement is desire. Keep this constantly in mind. Weak desires bring weak results, just as a small amount of fire makes a small amount of heat. If you find yourself lacking in persistence, this weakness may be remedied by building a stronger fire under your desires. ([Location 2091](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2091))
+    - Tags: [[blue]] 
+- Without persistence, you will be defeated, even before you start. With persistence you will win. ([Location 2110](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2110))
+    - Tags: [[blue]] 
+- Examine the first hundred people you meet, ask them what they want most in life, and ninety-eight of them will not be able to tell you. If you press them for an answer, some will say—security; many will say—money; a few will say—happiness; others will say—fame and power; and still others will say—social recognition, ease in living, ability to sing, dance, or write; but none of them will be able to define these terms, or give the slightest indication of a plan by which they hope to attain these vaguely expressed wishes. Riches do not respond to wishes. They respond only to definite plans, backed by definite desires, through constant persistence. ([Location 2238](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2238))
+    - Tags: [[blue]] 
+- There are four simple steps which lead to the habit of persistence. They call for no great amount of intelligence, no particular amount of education, and but little time or effort. The necessary steps are:—       1.   A definite purpose backed by burning desire for its fulfillment.       2.   A definite plan, expressed in continuous action.       3.   A mind closed tightly against all negative and discouraging influences, including negative suggestions of relatives, friends and acquaintances.       4.   A friendly alliance with one or more persons who will encourage one to follow through with both plan and purpose. These four steps are essential for success in all walks of life. The entire purpose of the thirteen principles of this philosophy is to enable one to take these four steps as a matter of habit. ([Location 2244](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2244))
+    - Tags: [[blue]] 
+- I had the happy privilege of analyzing both Mr. Edison and Mr. Ford, year by year, over a long period of years, and therefore, the opportunity to study them at close range, so I speak from actual knowledge when I say that I found no quality save persistence, in either of them, that even remotely suggested the major source of their stupendous achievements. ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2266))
+    - Tags: [[blue]] 
+- Knowledge may be acquired from any of the foregoing sources. It may be converted into power by organizing it into definite plans and by expressing those plans in terms of action. ([Location 2320](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2320))
+    - Tags: [[blue]] 
+- Poverty and riches often change places. When riches take the place of poverty, the change is usually brought about through well-conceived and carefully executed plans. Poverty needs no plan. It needs no one to aid it, because it is bold and ruthless. Riches are shy and timid. They have to be “attracted.” ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2395))
+    - Tags: [[blue]] 
+- The subconscious mind is more susceptible to influence by impulses of thought mixed with “feeling” or emotion, than by those originating solely in the reasoning portion of the mind. ([Location 2782](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2782))
+    - Tags: [[blue]] 
+- Positive and negative emotions cannot occupy the mind at the same time. One or the other must dominate. It is your responsibility to make sure that positive emotions constitute the dominating influence of your mind. Here the law of habit will come to your aid. Form the habit of applying and using the positive emotions! Eventually, they will dominate your mind so completely that the negatives cannot enter it. ([Location 2810](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2810))
+    - Tags: [[blue]] 
+- I have never entirely divested myself of this habit of hero-worship. My experience has taught me that the next best thing to being truly great is to emulate the great, by feeling and action, as nearly as possible. ([Location 2963](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2963))
+    - Tags: [[blue]] 
+    - Note: Read biographies and use great men as a metaphor for your own life
+- I followed the habit of reshaping my own character, by trying to imitate the nine men whose lives and life-works had been most impressive to me. These nine men were Emerson, Paine, Edison, Darwin, Lincoln, Burbank, Napoleon, Ford, and Carnegie. Every night, over a long period of years, I held an imaginary council meeting with this group whom I called my “Invisible Counselors.” ([Location 2965](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=2965))
+    - Tags: [[blue]] 
+- My original purpose in conducting council meetings with imaginary beings was solely that of impressing my own subconscious mind, through the principle of autosuggestion, with certain characteristics which I desired to acquire. In more recent years, my experimentation has taken on an entirely different trend. I now go to my imaginary counselors with every difficult problem which confronts me and my clients. The results are often astonishing, although I do not depend entirely on this form of counsel. ([Location 3025](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3025))
+    - Tags: [[blue]] 
+- Fears are nothing more than states of mind. One’s state of mind is subject to control and direction. ([Location 3062](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3062))
+    - Tags: [[blue]] 
+- every human being has the ability to completely control his own mind, ([Location 3069](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3069))
+    - Tags: [[blue]] 
+- Nature has endowed man with absolute control over but one thing, and that is thought. ([Location 3072](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3072))
+    - Tags: [[blue]] 
+    - Note: Stoicism
+- If you demand riches, determine what form, and how much will be required to satisfy you. You know the road that leads to riches. ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3083))
+    - Tags: [[blue]] 
+- Fear of poverty is a state of mind, nothing else! But it is sufficient to destroy one’s chances of achievement in any undertaking. ([Location 3089](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3089))
+    - Tags: [[blue]] 
+- The majority of people, if asked what they fear most, would reply, “I fear nothing.” The reply would be inaccurate, because few people realize that they are bound, handicapped, whipped spiritually and physically through some form of fear. So subtle and deeply seated is the emotion of fear that one may go through life burdened with it, never recognizing its presence. Only a courageous analysis will disclose the presence of this universal enemy. When you begin such an analysis, search deeply into your character. ([Location 3111](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3111))
+    - Tags: [[blue]] 
+- The fear of criticism robs man of his initiative, destroys his power of imagination, limits his individuality, takes away his self-reliance, and does him damage in a hundred other ways. Parents often do their children irreparable injury by criticizing them. The mother of one of my boyhood chums used to punish him with a switch almost daily, always completing the job with the statement, “You’ll land in the penitentiary before you are twenty.” He was sent to a reformatory at the age of seventeen. ([Location 3182](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3182))
+    - Tags: [[blue]] 
+- Criticism will plant fear in the human heart, or resentment, but it will not build love or affection. ([Location 3189](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3189))
+    - Tags: [[blue]] 
+- Your business in life is, presumably, to achieve success. To be successful, you must find peace of mind, acquire the material needs of life, and above all, attain happiness. All of these evidences of success begin in the form of thought impulses. ([Location 3354](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3354))
+    - Tags: [[blue]] 
+- Those who succeed in any calling must prepare their minds to resist the evil. ([Location 3365](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3365))
+    - Tags: [[blue]] 
+- To protect yourself against negative influences, whether of your own making, or the result of the activities of negative people around you, recognize that you have a will-power, and put it into constant use, until it builds a wall of immunity against negative influences in your own mind. ([Location 3376](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3376))
+    - Tags: [[blue]] 
+- Without doubt, the most common weakness of all human beings is the habit of leaving their minds open to the negative influence of other people. ([Location 3385](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3385))
+    - Tags: [[blue]] 
+- You have absolute control over but one thing, and that is your thoughts. This is the most significant and inspiring of all facts known to man! It reflects man’s divine nature. This divine prerogative is the sole means by which you may control your own destiny. If you fail to control your own mind, you may be sure you will control nothing else. ([Location 3451](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3451))
+    - Tags: [[blue]] 
+- Mind control is the result of self-discipline and habit. You either control your mind or it controls you. There is no half-way compromise. The most practical of all methods for controlling the mind is the habit of keeping it busy with a definite purpose, backed by a definite plan. ([Location 3467](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3467))
+    - Tags: [[blue]] 
+- People who do not succeed have one distinguishing trait in common. They know all the reasons for failure, and have what they believe to be air-tight alibis to explain away their own lack of achievement. ([Location 3472](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3472))
+    - Tags: [[blue]] 
+- IF I didn’t have a wife and family … ([Location 3478](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3478))
+    - Tags: [[blue]] 
+    - Note: This is a bullshit alibi you tell yourself. Cliche as hell, you need to do better
+- “The first and best victory is to conquer self. To be conquered by self is, of all things, the most shameful and vile.” ([Location 3518](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3518))
+    - Tags: [[blue]] 
+- “It was a great surprise to me when I discovered that most of the ugliness I saw in others, was but a reflection of my own nature.” ([Location 3519](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3519))
+    - Tags: [[blue]] 
+- conquer self and force life to pay whatever is asked. ([Location 3529](https://readwise.io/to_kindle?action=open&asin=B01I9ND4CA&location=3529))
+    - Tags: [[blue]] 

@@ -1,0 +1,268 @@
+# The Power Law
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71Cyx+CaAdS._SY160.jpg)
+
+## Metadata
+- Author: [[Sebastian Mallaby]]
+- Full Title: The Power Law
+- Category: #books
+
+## Highlights
+- “All progress depends upon the unreasonable man,” the “creatively maladjusted,” Khosla declared, borrowing eclectically from George Bernard Shaw and Martin Luther King Jr.[4] “Most people think improbable ideas are unimportant,” he loved to add, “but the only thing that’s important is something that’s improbable.” If you were going to pitch Khosla an invention, it had better not fall into the incremental category he called “one sheet of toilet paper, not two.”[5] Khosla wanted radical dreams, the bolder and more improbable the better. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=136))
+    - Tags: [[blue]] 
+- “You can imagine, if Pat fails, the hubris of saying he could eliminate animal husbandry; he’ll be mocked for that,” Khosla observed. But, he continued, the mockery would be misplaced. Which is better: to try and fail, or to fail to try?[13] ([Location 176](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=176))
+    - Tags: [[blue]] 
+- Reasonable people—well-adjusted people, people without hubris or naïveté—routinely fail in life’s important missions by not even attempting them; ([Location 179](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=179))
+    - Tags: [[blue]] 
+- there is no glory in projects that will probably succeed, for these by definition won’t transform the human predicament. ([Location 182](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=182))
+    - Tags: [[blue]] 
+- power law, so called because the winners advance at an accelerating, exponential rate, so that they explode upward far more rapidly than in a linear progression. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=218))
+    - Tags: [[blue]] 
+- Anytime you have outliers whose success multiplies success, you switch from the domain of the normal distribution to the land ruled by the power law—from a world in which things vary slightly to one of extreme contrasts. And once you cross that perilous frontier, you better begin to think differently. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=220))
+    - Tags: [[blue]] 
+- Horsley Bridge is an investment company with stakes in venture funds that backed 7,000 startups between 1985 and 2014. A small subset of these deals, accounting for just 5 percent of the total capital deployed, generated fully 60 percent of all the Horsley Bridge returns during this period.[17] ([Location 231](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=231))
+    - Tags: [[blue]] 
+- “The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund,” the venture capitalist Peter Thiel has written.[20] “Venture capital is not even a home-run business,” Bill Gurley of Benchmark Capital once remarked. “It’s a grand-slam business.”[21] ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=238))
+    - Tags: [[blue]] 
+- Of course, investing in what is categorically impossible is a waste of resources. But the more common error, the more human one, is to invest too timidly: to back obvious ideas that others can copy and from which, consequently, it will be hard to extract profits. ([Location 254](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=254))
+    - Tags: [[blue]] 
+- Venture capital was not merely a business; it was a mindset, a philosophy, a theory of progress. Seven hundred million people enjoyed the lifestyle that seven billion wanted, he liked to say. Bold innovators goaded by even bolder venture capitalists offered the best shot at satisfying human aspirations.[31] ([Location 291](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=291))
+    - Tags: [[blue]] 
+- the way venture capitalists see things, the disciplined calibrations of conventional social scientists can be a blindfold, not a telescope. Extrapolations from past data anticipate the future only when there is not much to anticipate; if tomorrow will be a mere extension of today, why bother with forecasting? The revolutions that will matter—the big disruptions that create wealth for inventors and anxiety for workers, or that scramble the geopolitical balance and alter human relations—cannot be predicted based on extrapolations of past data, precisely because such revolutions are so thoroughly disruptive. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=299))
+    - Tags: [[blue]] 
+- The future can be discovered by means of iterative, venture-backed experiments.[32] It cannot be predicted. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=306))
+    - Tags: [[blue]] 
+- Experts may be the most likely source of incremental advances, but radical rethinks tend to come from outsiders. ([Location 310](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=310))
+    - Tags: [[blue]] 
+- retail innovation did not come from Walmart; it came from Amazon. Media innovation did not come from Time magazine or CBS; it came from YouTube and Twitter and Facebook. Space innovation did not come from Boeing and Lockheed; it came from Elon Musk’s SpaceX. Next-generation cars did not come from GM and Volkswagen; they came from another Musk company, Tesla. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=313))
+    - Tags: [[blue]] 
+- “I can’t think of a single, major innovation coming from experts in the last thirty, forty years,” Khosla exclaims. “Think about it, isn’t that stunning?” ([Location 315](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=315))
+    - Tags: [[blue]] 
+- Most financiers allocate scarce capital based on quantitative analysis. Venture capitalists meet people, charm people, and seldom bother with spreadsheets.[36] Most financiers value companies by projecting their cash flows. Venture capitalists frequently back startups before they have cash flows to analyze. Other financiers trade millions of dollars of paper assets in the blink of an eye. Venture capitalists take relatively small stakes in real companies and hold them. Most fundamentally, other financiers extrapolate trends from the past, disregarding the risk of extreme “tail” events. Venture capitalists look for radical departures from the past. Tail events are all they care about. ([Location 349](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=349))
+    - Tags: [[blue]] 
+- It is the contention of this book that this frenzy of activity explains much of the variation in creativity across regions: by forging connections among entrepreneurs, ideas, customers, and capital, venture capitalists transform a mere agglomeration of smart people into an inventive network. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=383))
+    - Tags: [[blue]] 
+    - Note: VCs are the edges between the nodes representing real innovators
+- It was this combination of laid-back creativity and driving commercial ambition that truly defined Silicon Valley, making it the place where flights of imaginative fancy begat businesses that shaped societies and cultures. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=465))
+    - Tags: [[blue]] 
+- In an earlier era, J. P. Morgan’s brand of finance fashioned American business into muscular oligopolies; in the 1980s, Michael Milken’s junk bonds fueled a burst of corporate takeovers and slash-and-burn cost cuts. In similar fashion, venture capital has stamped its mark on an industrial culture, making Silicon Valley the most durably productive crucible of applied science anywhere, ever. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=472))
+    - Tags: [[blue]] 
+- “Look, goddammit!” one rebel declared. “We either have to do something about this or stop talking about it!”[21] ([Location 506](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=506))
+    - Tags: [[blue]] 
+- Despite his scientific talent, Shockley was stifling progress; sometimes it takes a good defenestration for capitalism to advance. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=516))
+    - Tags: [[blue]] 
+- The 1929 crash and the ensuing Depression had destroyed investors’ risk appetite for a generation; the big money-management houses had names like Fidelity and Prudential and were more interested in preserving capital than in taking chances. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=534))
+    - Tags: [[blue]] 
+- In lectures delivered in his thick French accent, he proclaimed that the greatest rewards were to be had from the most ambitious and least obvious projects; that investors would have to wait patiently for returns to mature over the long term; and that the best prospects involved advanced technology, not orange juice or fishing in Asia.[56] Anticipating later venture capitalists, he understood that his role was to provide not simply money but also managerial counsel, assistance with hiring, and tips on everything from marketing to finance. He staged technology fairs to advertise his portfolio companies’ products and advised Digital Equipment to present sample circuit boards on sheets of purple velvet, in the manner of a jeweler showing off a brooch. Plugging his protégés into ARD’s network was all part of Doriot’s service. “Your company was on display,” one founder said of ARD’s well-attended annual meetings, at which entrepreneurs mingled with investors. “The networking that was created and the introductions that were possible, all of that was very important. Anything that helps you keep your confidence, when you have no reason to have confidence, is valuable.”[57] ([Location 642](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=642))
+    - Tags: [[blue]] 
+- “Seek out creative men with the vision of things to be done,” he counseled; show “loyalty to the idea and to its initiator, the creative man.”[59] ([Location 656](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=656))
+    - Tags: [[blue]] 
+- Liberation capital was about unlocking human talent. It was about sharpening incentives. It was about forging a new kind of applied science and a new commercial culture. ([Location 861](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=861))
+    - Tags: [[blue]] 
+- Rock and his partner articulated an approach to risk management that would resonate with future venture capitalists. Modern portfolio theory, the set of ideas that was coming to dominate academic finance, stressed diversification: by owning a broad mix of assets exposed to a wide variety of uncorrelated risks, investors could reduce the overall volatility of their holdings and improve their risk-return ratio. Davis and Rock ignored this teaching: they promised to make concentrated bets on a dozen or so companies. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=992))
+    - Tags: [[blue]] 
+- by buying just under half of a firm’s equity, the Davis & Rock partnership would get a seat on the board and a say in its strategy: in the absence of diversification, a venture capitalist could manage his risk by exercising a measure of control over his assets. ([Location 996](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=996))
+    - Tags: [[blue]] 
+- Self-contradiction, wishful thinking, a fondness for ingratiation at the expense of honesty: these were the clues that Rock should pass on an investment. Intelligent consistency, gritty realism, fiery determination: these were the signs that he should seize the opportunity.[33] ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1030))
+    - Tags: [[blue]] 
+    - Note: You need to pick an orienting North Star and stick to it. That North Star will be what gives you consistency as you fight towards it
+- What struck Rock particularly was Palevsky’s warmth and informality.[40] He could joke, flatter and cajole, and generally draw the best out of others: he was an anti-Shockley. Entrepreneurs with managerial magic can’t lose, Rock reflected later. “If their strategy doesn’t work, they can develop another one.”[41] ([Location 1063](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1063))
+    - Tags: [[blue]] 
+    - Note: If you have technical chips and great people/management skills, you’re unstoppable. Just keep iterating until you hit a home run
+- Fortuitously, the 1970s marked the arrival of a new kind of venture investor, equipped with an expanded tool kit that transformed previously unbackable Atari-type startups into thinkable wagers. Rather than merely identifying entrepreneurs and monitoring them, as Rock had done, the new venture capitalists actively shaped them: they told company founders whom to hire, how to sell, and how to structure their research. And to ensure that their instructions were implemented, the new venture capitalists came up with a second innovation: rather than organizing one large fundraising, they doled out capital in tranches, with each cautious infusion calibrated to support the company until it reached an agreed milestone. ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1245))
+    - Tags: [[blue]] 
+- By controlling risk through activist recruitment of the CEO, West Coast VCs could afford to be bolder.[43] ([Location 1405](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1405))
+    - Tags: [[blue]] 
+- We are not investors. We’re not Wall-Street, stock-picker, investor people,” Perkins later said. “We are entrepreneurs ourselves, and we will work with entrepreneurs in an entrepreneurial way. . . . We will be in it up to our elbows.”[51] ([Location 1433](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1433))
+    - Tags: [[blue]] 
+- The new Kleiner Perkins formula doubled down on activism. Rather than funding outside entrepreneurs, the partners would incubate startups in-house, kicking ideas around with junior associates. ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1452))
+    - Tags: [[blue]] 
+- Perkins’s law: “market risk is inversely proportional to technical risk,” because if you solve a truly difficult technical problem, you will face minimal competition.[69] ([Location 1514](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1514))
+    - Tags: [[blue]] 
+- By coming up with a strategy to isolate and neutralize the white-hot risks, Perkins had transformed a daunting venture bet into an irresistible one. ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1603))
+    - Tags: [[blue]] 
+- All four companies had too much of a stake in the status quo to risk disrupting it. A startup that filled the resulting vacuum looked like an obvious bet for venture capitalists. ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1707))
+    - Tags: [[blue]] 
+- The financing of Apple showed how the network could be stronger than the individual. No venture capitalist in this story covered himself in glory. Several missed Apple completely, despite the rather obvious opportunity that the innovator’s dilemma presented. ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1875))
+    - Tags: [[blue]] 
+- A cluster that is dominated by large, self-contained, secretive companies will be characterized by tight relationships among insiders at each firm, but few links between professionals at one firm and similar professionals at another one. In contrast, a cluster that consists of transient startups will feature fewer deep bonds among colleagues, but it will be enriched by myriad, looser external connections. Saxenian’s contention was that a small number of tight relationships makes for less idea sharing and innovation than a large number of loose relationships. ([Location 1969](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1969))
+    - Tags: [[blue]] 
+- a plethora of weak ties generates a greater circulation of information than a handful of strong ones.[5] ([Location 1974](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=1974))
+    - Tags: [[blue]] 
+- Bill Younger, who joined Sutter Hill in 1981, set himself the task of taking the smartest people in his Rolodex to lunch; at the end of every meal he’d ask, “Who is the absolutely best guy you’ve worked with?” Younger then made it his mission to meet that best guy—it was almost never a woman—and toward the end of the meeting he would repeat the question: “Who is the absolutely best guy out there?”[10] After a year of moving from one best guy to the next one, Younger had a list of about eighty superstars, and he cultivated each of them methodically. He would send one luminary a technical article that might be relevant to his research; he would call another to mention that an old colleague was asking after him. In this way, Younger spun a web of loose connections that would form the basis for productive startups when the right opportunities beckoned. The social capital that Saxenian stressed did not arise by accident.[11] ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2000))
+    - Tags: [[blue]] 
+- this insight came to be known as Metcalfe’s law: the value of a network rises with the square of the number of devices connected to it. ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2119))
+    - Tags: [[blue]] 
+- “Sincerity begins at a little over a hundred hours a week,” he said. “You have to get down to eating once a day and showering every other day to really get your life organized.”[59] ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2300))
+    - Tags: [[blue]] 
+- A fleet of switching and routing companies sailed around Cisco, and Valentine stood on the deck of the flagship, remaining its chairman long after an IPO had multiplied Sequoia’s investment nearly forty times over. From this privileged vantage point, Valentine could see which sorts of innovative networking technology Cisco might want to acquire. As a result, Sequoia backed a series of startups that it sold profitably to the mother ship. The partnership’s reputation swelled, and Silicon Valley flourished. ([Location 2450](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2450))
+    - Tags: [[blue]] 
+    - Note: Valentine used his perch on top of Cisco to select networking companies to invest in and then sell back to Cisco. It was guaranteed returns for Sequoia
+- Accel embraced an approach that it came to call “the prepared mind.” Rather than looking anywhere and everywhere for the next big thing, the partnership carried out management-consultant-style studies on the technologies and business models that seemed to hold promise. ([Location 2490](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2490))
+    - Tags: [[blue]] 
+- He had invested on the basis of an improvised presentation unsupported by a business plan, doing so because he believed that he could will huge technological leaps into being. ([Location 2587](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2587))
+    - Tags: [[blue]] 
+- the old Tom Perkins dictum: when you invest in a company facing a technical challenge, the first thing you do is take the white-hot risks off the table. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2598))
+    - Tags: [[blue]] 
+- “Chance favors only the prepared mind,” Pasteur had observed sagely. ([Location 2606](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2606))
+    - Tags: [[blue]] 
+- Because the partners were experts in the sectors they invested in, they could quickly grasp the essence of an entrepreneur’s pitch and come to a rapid decision. ([Location 2644](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2644))
+    - Tags: [[blue]] 
+- They spoke internally of the “90 percent rule.” An Accel investor should know 90 percent of what founders are going to say before they open their mouths to say it.[18] ([Location 2649](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2649))
+    - Tags: [[blue]] 
+- the power law was inexorable. Even a methodical, anti-Kleiner, prepared-mind partnership could not escape it. ([Location 2673](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2673))
+    - Tags: [[blue]] 
+- VCs as individuals can stumble sideways into lucky fortunes: chance and serendipity and the mere fact of being in the venture game can matter more than diligence or foresight. At the same time, venture capital as a system is a formidable engine of progress—more so than is frequently acknowledged. ([Location 2682](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2682))
+    - Tags: [[blue]] 
+- venture capitalists are not like banks or stock market investors. They spend their lives dealing with startups that crash from one crisis to the next; they know better than to cut and run at the first sign of adversity. ([Location 2863](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2863))
+    - Tags: [[blue]] 
+- This was the flip side of the Kapor dictum: if a startup is not going well, the VCs will punish you.[56] ([Location 2870](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2870))
+    - Tags: [[blue]] 
+- tech-focused venture portfolios are dominated by the power law for an additional reason: tech startups are founded upon technologies that may themselves progress exponentially. ([Location 2969](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=2969))
+    - Tags: [[blue]] 
+- Yahoo might become the internet equivalent of TV Guide: the service that directed consumers to the information that they wanted on this new medium. The question was how an internet guide would make money. ([Location 3032](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3032))
+    - Tags: [[blue]] 
+- Don Valentine had overruled these objections because he had seen in Moritz a versatile learner, and he preferred to hire a hungry upstart than someone who was coasting on experience.[7] Now, serendipitously, Moritz’s unconventional background was about to prove its value. ([Location 3046](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3046))
+    - Tags: [[blue]] 
+- The innovation of backing companies that charged little or nothing for products spread through the venture-capital business like wildfire. Startups came to be assessed not according to this year’s revenues or even next year’s, but rather according to their momentum, traction, audience, or brand—things that could, in theory at least, be monetized in the future. ([Location 3074](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3074))
+    - Tags: [[blue]] 
+- it presented a negative illustration of Tom Perkins’s dictum: because Yahoo entailed no technological risk, it involved a huge amount of market risk, because no technological moat protected it from competitors. What’s more, competition was bound to be especially ferocious because of the winner-takes-all logic of Yahoo’s business. Internet users were likely to gravitate to a single way of searching for information on the web. The winner would capture the lion’s share of online ad dollars. The also-rans would collect pennies. ([Location 3087](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3087))
+    - Tags: [[blue]] 
+- Traditional venture capitalists, observing a cash-burning business with no technological moat and nothing more substantial than a brand, might have refused Yahoo the lifeline that it needed. But by late 1995, tradition was passé. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3098))
+    - Tags: [[blue]] 
+- As often happens in finance, the player who first sees a shift in the landscape, and who has the ready capital to match the novel need, can make bumper profits before competitors wake up. By one reckoning, Son expanded his personal fortune by $15 billion between 1996 and 2000.[35] This was at a time when no other venture capitalist even appeared on the Forbes billionaires’ list: not John Doerr, not Don Valentine, not anyone. ([Location 3217](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3217))
+    - Tags: [[blue]] 
+    - Note: Son recognized that he could be the king maker of branded internet companies. If there was no technological moat and it all depended on branding, his funds for advertising became the end all be all for internet companies trying to grow. If one company didn’t accept it, their competitors would. And whichever took it would grow with near certainty
+- The small fund size meant that they would carefully evaluate each deal: they aimed for alpha, not beta. Small would also ensure that each partner sat on just a handful of boards, and so added value to each portfolio company. ([Location 3261](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3261))
+    - Tags: [[blue]] 
+- it was in the nature of the venture game that many bets went to zero.[43] Therefore, to be sure of creating alpha, Benchmark had to descend into the trenches with the entrepreneurs; ([Location 3269](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3269))
+    - Tags: [[blue]] 
+- Unlike Yahoo, which was pouring money into marketing, eBay’s marketing budget was zero. Its hectic expansion was instead propelled by Metcalfe’s law: as the size of its auction network grew, its value rose exponentially. The more sellers listed stuff on eBay, the more bargain hunters were drawn to the site; the more buyers there were, the more sellers turned to it. ([Location 3317](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3317))
+    - Tags: [[blue]] 
+- By the end of 1998, Brin and Page had raised a bit over $1 million from the four angels—more than Yahoo had raised from Sequoia.[13] But they had done so without speaking with a venture capitalist, without giving away more than a tenth of their equity, and without signing up for the performance targets and oversight on which venture capitalists insisted.[14] ([Location 3523](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3523))
+    - Tags: [[blue]] 
+- The trend that had started with Yahoo—the financing of early movers because of their momentum—could obviously be pushed too far: in many cases, the finance itself was creating the momentum, and many dot-coms would never actually earn profits. ([Location 3539](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3539))
+    - Tags: [[blue]] 
+- Unlike hedge funds, which can bet against a bubble by using derivatives or other tricks, venture capitalists can only bet on values going up. They have one simple business, which is to buy equity in startups, and they have no choice but to pay the going price for it. ([Location 3541](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3541))
+    - Tags: [[blue]] 
+- Seeking to explain the public’s bottomless appetite for tech stocks, Wall Streeters pointed to the spread of power-law thinking. “There has been a fundamental shift in American capitalism,” marveled Joseph Perella, the chief investment banker at Morgan Stanley. “Basically, the public is saying, ‘I want to own every one of these companies. If I’m wrong on nineteen and the twentieth one is Yahoo it doesn’t matter.’”[18] ([Location 3555](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3555))
+    - Tags: [[blue]] 
+    - Note: Shifting to all-or-nothing bets
+- having raised money on such favorable terms from the angels, Brin and Page were determined to maintain the upper hand in the next round of financing. Given the flush state of the venture funds, it was a good time to test their limits. Capital, being plentiful, would logically be cheap. A pair of unusually confident founders had an opportunity to show how far the capitalists could be forced into concessions. ([Location 3577](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3577))
+    - Tags: [[blue]] 
+- Primed by Shriram, they had boiled their mission statement down to just eight words: “We deliver the world’s information in one click.” ([Location 3608](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3608))
+    - Tags: [[blue]] 
+    - Note: A clear, easily understandable and highly impactful vision. Everything flows downstream from this (technology, marketing, business structure, etc)
+- Whether or not this goal was plausible, it certainly telegraphed audacity. Doerr seldom met entrepreneurs who dreamed bigger than he did. ([Location 3618](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3618))
+    - Tags: [[blue]] 
+- For Doerr, an engineer who backed engineers, Google’s technical edge was the main attraction. Plenty of skeptics argued that with eighteen rivals jostling for position, search would be a low-margin commodity business. But Doerr had enough faith in technological advance to believe that a latecomer with a better algorithm could stand out from its competitors. ([Location 3633](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3633))
+    - Tags: [[blue]] 
+    - Note: The follower companies can win massive market share in winner-take-all markets, learning from the early entrants
+- The lesson was that engineering products could improve more than non-engineers imagined. ([Location 3641](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3641))
+    - Tags: [[blue]] 
+- “I had the surety that the venture guys would be kind to me if Larry and Sergey bounced me out,” Schmidt said.[58] If Google did not work out, Doerr and Moritz would slot him into an equally good job elsewhere. With the venture capitalists’ safety net stretched out beneath him, Schmidt took the leap. ([Location 3754](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3754))
+    - Tags: [[blue]] 
+    - Note: A large network that knows your strong ability makes your career invincible. Opportunities fall into your lap
+- Graham’s first advice to younger hackers was to be wary of venture capitalists. “Spend as little as you can, because every dollar of the investor’s money you get will be taken out of your ass,” he told his readers. ([Location 3830](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3830))
+    - Tags: [[blue]] 
+- Graham also echoed the Googlers’ opinion of seasoned executives. “People who are mature and experienced, with a business background, may be overrated,” he declared flatly. “We used to call these guys ‘newscasters,’” he went on; “they had neat hair and spoke in deep, confident voices, and generally didn’t know much more than they read on the teleprompter.” ([Location 3836](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3836))
+    - Tags: [[blue]] 
+- With the coming of the internet, the hottest kind of company produced little more than code: it had no need for large amounts of capital with which to build manufacturing operations. Meanwhile, the open-source movement made chunks of software available for free, and the internet itself slashed the cost of marketing and distributing new products.[69] For all these reasons, the new generation of startups required relatively little cash, but venture capitalists were out of step with this development.[70] ([Location 3843](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3843))
+    - Tags: [[blue]] 
+- Arriving at the conference room, Zuckerberg and McCollum claimed to have overslept—hence the pajamas. The message was: “Sequoia? Who cares?” A meeting with this celebrated firm was no reason to set an alarm clock. ([Location 3881](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=3881))
+    - Tags: [[blue]] 
+- Moritz told Levchin, “If you go forward with this merger, I’ll never sell a single share”—the implication being that a merged company would grow and grow forever. It was one of those classic VC call-to-greatness challenges. The senior venture statesman was asking the young entrepreneur, do you want to forge a major company that will be remembered years from now? Or do you lack the character to make your mark on the universe? ([Location 4036](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4036))
+    - Tags: [[blue]] 
+- If Thiel opposed VC mentoring of founders lest it suppress quirky genius, he also disliked it for another reason. From the investor’s point of view, there was a hefty opportunity cost. Venture capitalists who spent their days mentoring portfolio companies would not be seeking out the next batch of investment opportunities. ([Location 4201](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4201))
+    - Tags: [[blue]] 
+    - Note: Always ask yourself: is the activity I’m doing the highest ROI thing I could be doing right now?
+- like George Soros, Thiel had the courage to connect his philosophical convictions to his investment practices. ([Location 4212](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4212))
+    - Tags: [[blue]] 
+    - Note: Think big and philosophically, then bring it down to the details. The macro vision informs the micro actions
+- Soros had absorbed the notion that limits to human cognition prevent people from stably apprehending truth; it followed that Soros should speculate aggressively on the self-reinforcing booms and busts that imperfect cognition generated.[50] ([Location 4213](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4213))
+    - Tags: [[blue]] 
+- Soros’s longtime partner and alter ego Stanley Druckenmiller observed that huge and well-timed gambles were the essence of Soros’s genius. Soros was right about the market’s direction no more often than other traders. What distinguished him was that when he felt a truly strong conviction, he acted on it more courageously.[53] ([Location 4229](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4229))
+    - Tags: [[blue]] 
+    - Note: Let the winners win and cut the losers. 
+      Does this contradict Kelly bet sizing? Or is it just an example of a person who’s on a hot streak, hitting multiple heads in a row on a coin toss?
+- Because only a handful of startups would grow exponentially, there was no point getting excited about opportunities that seemed merely solid; in venture, the median investment was a failure. But when he encountered a potential grand slam, Thiel was ready to pile his chips onto the table. ([Location 4233](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4233))
+    - Tags: [[blue]] 
+    - Note: Here is the obsession with total addressable market (TAM). Because most start ups fail, it’s not worth investing in ones with a small TAM because even if they succeed, they won’t make the VCs enough money to make up for the failures
+- But in a field ruled by the power law, Thiel was certain that a small number of huge, high-conviction bets was better than a large spread of halfhearted ones.[54] ([Location 4238](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4238))
+    - Tags: [[blue]] 
+- In 2010, Andreessen Horowitz invested $250,000 in the social-networking app Instagram. It was by some metrics a spectacular home run: two years later, Facebook paid $1 billion for Instagram, and Andreessen netted $78 million—a 312x return on its investment. And yet by other measures this was a debacle. Andreessen Horowitz made the Instagram investment out of a $1.5 billion fund, so it needed fully nineteen $78 million payouts merely to break even. To have backed a winning company was nice for the ego. But the brutal truth was that Instagram had been a wasted opportunity. ([Location 4241](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4241))
+    - Tags: [[blue]] 
+    - Note: By spreading bets relatively evenly, the winning companies don’t contribute as much as they should. Bets should be proportional to conviction
+- It would plug the gap that Graham saw in mainstream venture capital: the new breed of software founders just needed enough cash to buy groceries, plus occasional guidance and camaraderie to relieve the solitude of coding. ([Location 4319](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4319))
+    - Tags: [[blue]] 
+- Then he announced the plan in no-frills 10-point Verdana on his blog. The red bold title announced, “Summer Founders Program.” ([Location 4323](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4323))
+    - Tags: [[blue]] 
+    - Note: Having an audience makes launching new businesses significantly easier
+- With enough money for rent and pizza and not much else, the chosen worked maniacally, replicating the round-the-clock programming lifestyle that Graham had embraced when building Viaweb. ([Location 4345](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4345))
+    - Tags: [[blue]] 
+    - Note: Life frugally and work around the clock to make a name for yourself
+- Graham was saying you could liberate yourself before you even joined a company. He distilled his message into a few stirring phrases. Work for yourself. Capture the value of your own ideas. Rather than climbing a ladder, grow a ladder underneath you. ([Location 4375](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4375))
+    - Tags: [[blue]] 
+- In sum, Y Combinator’s example and the wider youth revolt signaled a new phase for venture capital. An industry that had initially consisted of generalist investors, and that later featured Accel-style specialists, was now dividing into seed investors, early-stage investors, and growth investors. Meanwhile, the capitalists were learning to defer to the founders; VC became less about Valentine-Perkins hands-on investing and more about Rock-style liberation. ([Location 4392](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4392))
+    - Tags: [[blue]] 
+- One teacher, an impressive African American woman named Donda West, instilled in her pupils an American ethos. “You are unique, you are a marvel. There has been no person like you in the last 500 years and there will be no person like you in the next 500 years,” she lectured. This paean to individualism was, as Xu recalled vividly, an eye-opening experience for a Chinese teenager from Sichuan.[40] Donda West also stuck in Xu’s memory because of her son, who was often seen performing acrobatic tricks on campus. Years later, Xu was intrigued to discover that the boy, named Kanye, had become famous. ([Location 4657](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4657))
+    - Tags: [[blue]] 
+- Her plan was to make just a handful of investments, as few as five or six per year, and ride the winners for as long as possible. “There are not many great companies in the world,” she reflected, sounding like a Chinese version of Peter Thiel, who launched Founders Fund in the same year. “If you’re lucky enough to find one, hold on. That’s how you make money.”[43] ([Location 4673](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4673))
+    - Tags: [[blue]] 
+- “There is a saying in our business, ‘If you are treated like an analyst, you are going to act like an analyst,’” Efrusy explained later.[2] An analyst could point out the arguments on both sides of an issue, but that was different from taking a stand, and this difference defined the psychological gulf between being a venture capitalist and not being one. In the end, venture investing came down to that scary jump from messy information to a binary yes-or-no call. ([Location 4934](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4934))
+    - Tags: [[blue]] 
+    - Note: Expect more of yourself. Expect that you can and will build. Expect that you can and will be decisive make the hard decisions
+- Experience showed that consumer internet companies were often founded by unorthodox characters: Yahoo and eBay had been founded by hobbyists. Second, the good news about consumer internet companies was that you could judge their prospects in a different way: you could look past the founders and analyze the data on their progress. The next time Accel came across an internet property that customers turned to multiple times per day, it should seal the deal no matter what. In a world of power-law returns, the costs of missing out were higher by far than the risk of losing one times your money.[11] ([Location 4979](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=4979))
+    - Tags: [[blue]] 
+- Compton even argued that the cleantech error violated the lessons handed down by Tom Perkins himself. Far from going all in on high-stakes bets, Perkins had used small amounts of capital to eliminate the main risks in a venture—the “white-hot risks,” as he called them. Moreover, far from swooning over new technologies, Perkins often cautioned that for an innovation to matter, it had to be radically better than what came before. “If it’s not 10x different, it’s not different,” went his mantra.[48] ([Location 5243](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5243))
+    - Tags: [[blue]] 
+- International experience demonstrated that Zuckerberg had enormous room to monetize mindshare. Thanks to his global perspective, the Russian who had never set foot in the Valley understood Facebook better than the Palo Alto mafia.[5] ([Location 5410](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5410))
+    - Tags: [[blue]] 
+- whereas Thiel’s deference to founders was grounded in his understanding of the power law, Milner framed his concession more simply. He was investing in a company whose size and sophistication qualified it to go public. Therefore he would behave like a public stock market investor: passively.[13] ([Location 5465](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5465))
+    - Tags: [[blue]] 
+- Shleifer began by applying a technique that was standard at Blackstone but foreign to most Valley investors. Rather than looking at profit margins—that is, the share of revenues remaining after costs are deducted—he looked at incremental margins, meaning the share of revenue growth that falls to the bottom line as profits. Any amateur could see that the three Chinese portals all had negative margins; put simply, they were losing money. But a pro would know to focus on the incremental picture, and this looked spectacularly positive. As revenues grew, costs grew much less, so most of the additional income showed up as profits. It followed that growth would soon drive the three portals into the black. By thinking incrementally, Shleifer could see into the future. ([Location 5499](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5499))
+    - Tags: [[blue]] 
+- In Silicon Valley, investors pursue deals because other investors are pursuing them. ([Location 5514](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5514))
+    - Tags: [[blue]] 
+    - Note: Think differently to attain radically different outcomes
+- by moving sideways from hedge-fund stock picking into private technology bets, Tiger had created the template for Milner’s later Facebook investment. The Tiger tool kit featured the global tabulation of tech business segments, the modeling of earnings and fair value, and rapid intercontinental opportunism in response to a shock—in ([Location 5632](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5632))
+    - Tags: [[blue]] 
+- Much as the idea of tech incubators took off after Y Combinator’s founding in 2005, so growth investing blossomed after Milner showed how to deliver capital to precocious breakout firms, seducing founders by allowing them to vote his shares and providing employees with a way to sell some equity. ([Location 5687](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5687))
+    - Tags: [[blue]] 
+    - Note: Let founders keep control and let employees get their payday. Everyone is happy
+- To mark themselves out, Andreessen and Horowitz proposed a fresh approach to technical founders. They promised not to displace them, as traditional VCs had often done. But they also promised not to abandon them, as newer VCs might do. Rather, they would coach technical founders as the tough questions arose: how to motivate executives, how to rally sales teams, how to sideline a loyal friend who has poured all his energy into your company. ([Location 5725](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5725))
+    - Tags: [[blue]] 
+- For their part, Andreessen and Horowitz promised to smooth the learning curve for scientists who wanted to be chief executives. ([Location 5731](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5731))
+    - Tags: [[blue]] 
+- To make good on the promise of coaching founders, the partnership promised to recruit a much larger head count than other VC outfits. In the past, other VCs had hired “operating partners” who focused on helping portfolio companies rather than making investments, but Andreessen Horowitz aimed to build an extensive consultancy under its roof. ([Location 5748](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5748))
+    - Tags: [[blue]] 
+- “The high offer is a signal that something in the environment has changed. A high offer from an acquirer means you should not take it!” ([Location 5781](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5781))
+    - Tags: [[blue]] 
+- Horowitz’s rebuke revealed a distinguishing strength of Andreessen Horowitz. Even though it was a product of the youth revolt, a16z was not necessarily founder-friendly. It aimed to help technical founders succeed, but if they were set on doing the wrong thing, it had no problem confronting them.[50] ([Location 5815](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5815))
+    - Tags: [[blue]] 
+- Since his early life as a business journalist, Moritz had admired “the purposeful cadence of a relentless, disciplined march”—the stamina and willpower that patiently built success, one advance upon another.[7] ([Location 5962](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5962))
+    - Tags: [[blue]] 
+- To rise above mediocrity, Moritz intimated, was an almost spiritual task. You had to be obsessed—obsessed ([Location 5964](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5964))
+    - Tags: [[pink]] 
+- Moritz and Leone instilled a culture that made the partnership stand out. “I would show up at Sequoia at 8:30am for an appointment and see the top partners in conference rooms, meeting with startups. I would swing by Sequoia for coffee at 4pm and see the same partners still there, still meeting with startups.”[8] ([Location 5967](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=5967))
+    - Tags: [[blue]] 
+    - Note: Stamina can win the day
+- Goetz brought Accel’s prepared-mind approach to Sequoia, leading the partners in mapping out tech trends and anticipating which sorts of startups would prosper from them. ([Location 6037](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=6037))
+    - Tags: [[blue]] 
+- The best venture capitalists consciously create their luck. They work systematically to boost the odds that serendipity will strike repeatedly. ([Location 6123](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=6123))
+    - Tags: [[blue]] 
+- As part of his focus on proactivity, Goetz had conceived a system he called “early bird”: seeing in the advent of the Apple App Store a trove of useful investment leads, Sequoia had written code that tracked downloads by consumers in sixty different countries. It was this exercise in digital sleuthing that alerted Goetz to WhatsApp: the messaging service was the first or second most downloaded application in around thirty-five of the sixty markets. ([Location 6149](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=6149))
+    - Tags: [[blue]] 
+- Sequoia would need investors with an appetite for learning everything. ([Location 6539](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=6539))
+    - Tags: [[blue]] 
+    - Note: My current generalist path
+- Gurley had been right. The IPO process did what broken private governance had failed to do: administer the cold shower that both unicorns needed. ([Location 7256](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=7256))
+    - Tags: [[blue]] 
+- Much as in Salganik’s experiment with songs, luck and path dependency appear to explain who wins in venture capital. ([Location 7316](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=7316))
+    - Tags: [[blue]] 
+- Echoing what Kleiner Perkins did with Genentech, Flagship incubated startups internally and eliminated the white-hot risks before seeking capital from other firms. ([Location 7424](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=7424))
+    - Tags: [[blue]] 
+    - Note: Can this be done by a consulting company? Incubating and funding B2B SaaS companies
+- It embodies the audacity of the Valley and the special way of coming at the world that animates venture capital. If others are daunted by a problem, go there. Try and fail, don’t fail to try. Remember, above everything, the logic of the power law: the rewards for success will be massively greater than the costs of honorable setbacks. This invigorating set of axioms has turned America’s venture-capital machine into an enduring pillar of national power. Six decades after the formation of Davis & Rock, it remains unwise to bet against it. ([Location 7823](https://readwise.io/to_kindle?action=open&asin=B0942SZJ8H&location=7823))
+    - Tags: [[blue]] 
+    - Note: Run at challenges, not away from them

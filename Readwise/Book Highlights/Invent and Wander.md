@@ -1,0 +1,668 @@
+# Invent and Wander
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71wuqeGKjyL._SY160.jpg)
+
+## Metadata
+- Author: [[Walter Isaacson and Jeff Bezos]]
+- Full Title: Invent and Wander
+- Category: #books
+
+## Highlights
+- “I have no special talent,” Einstein once said. “I am only passionately curious.” That’s not fully true (he certainly did have special talent), but he was right when he said, “Curiosity is more important than knowledge.” ([Location 88](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=88))
+    - Tags: [[blue]] 
+- A second key trait is to love and to connect the arts and sciences. Whenever Steve Jobs launched a new product such as the iPod or iPhone, his presentation ended with street signs that showed an intersection of Liberal Arts Street and Technology Street. “It’s in Apple’s DNA that technology alone is not enough,” he said at one of these presentations. “We believe that it’s technology married with the humanities that yields us the result that makes our heart sing.” ([Location 90](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=90))
+    - Tags: [[blue]] 
+- Einstein, likewise, realized how important it is to interweave the arts and the sciences. When he felt stymied in his quest for the theory of general relativity, he would pull out his violin and play Mozart, saying that the music helped connect him to the harmony of the spheres. ([Location 93](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=93))
+    - Tags: [[blue]] 
+- People who love all fields of knowledge are the ones who can best spot the patterns that exist across nature. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=99))
+    - Tags: [[blue]] 
+- Another characteristic of truly innovative and creative people is that they have a reality-distortion field, a phrase that was used about Steve Jobs and comes from a Star Trek episode in which aliens create an entire new world through sheer mental force. When his colleagues protested that one of Jobs’s ideas or proposals would be impossible to implement, he would use a trick he learned from a guru in India: he would stare at them without blinking and say, “Don’t be afraid. You can do it.” ([Location 103](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=103))
+    - Tags: [[blue]] 
+- One final trait shared by all my subjects is that they retained a childlike sense of wonder. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=114))
+    - Tags: [[blue]] 
+- That trifecta—humanities, technology, business—is what has made him one of our era’s most successful and influential innovators. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=126))
+    - Tags: [[blue]] 
+- Jeff was a voracious reader with an adventurous mind. His grandfather would take him to the library, which had a huge collection of science fiction books. Over the summers Jeff worked his way through the shelves, reading hundreds of them. Isaac Asimov and Robert Heinlein became his favorites, and later in life he would not only quote them but also occasionally invoke their rules, lessons, and lingo. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=144))
+    - Tags: [[blue]] 
+- His mother encouraged his love of electronics and mechanics by shuttling him to and from RadioShack and letting him turn the family garage into a science project lab. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=173))
+    - Tags: [[blue]] 
+- “That was the very moment when I realized I was never going to be a great theoretical physicist,” Bezos says. “I saw the writing on the wall, and I changed my major very quickly to electrical engineering and computer science.” It was a difficult realization. His heart had been set on becoming a physicist, but finally he had confronted his own limits. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=189))
+    - Tags: [[blue]] 
+    - Note: Realism about limitations, playing to one’s strengths
+- While working at the hedge fund in 1994, Bezos came across the statistic that the web had been growing by more than 2,300 percent each year. He decided that he wanted to get aboard that rocket, and he came up with the idea of opening a retail store online, sort of a Sears catalogue for the digital age. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=196))
+    - Tags: [[blue]] 
+    - Note: Keep abreast of mega trends growing exponentially
+- Realizing that it was prudent to start with one product, he chose books—partly because he liked them and also because they were not perishable, were a commodity, and could be bought from two big wholesale distributors. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=198))
+    - Tags: [[blue]] 
+    - Note: Begin with a focused strategy & niche market, dominate it, then move outwards
+- To make the decision, Bezos used a mental exercise that would become a famous part of his risk-calculation process. He called it a “regret minimization framework.” ([Location 205](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=205))
+    - Tags: [[blue]] 
+- I knew that if I failed, I wouldn’t regret that, but I knew the one thing I might regret is not ever having tried. I knew that that would haunt me every day.” ([Location 209](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=209))
+    - Tags: [[blue]] 
+- “You know the business plan won’t survive its first encounters with reality,” he says. “But the discipline of writing the plan forces you to think through some of the issues and to get sort of mentally comfortable in the space. Then you start to understand, if you push on this knob, this will move over here and so on. So, that’s the first step.” ([Location 212](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=212))
+    - Tags: [[blue]] 
+    - Note: Make strategy concrete
+      MAKE A BUSINESS PLAN FOR PROTEIN DESIGN
+- “It formed a culture of customer service in every department of the company,” he says. “Every single person in the company, because we had to work with our hands so close to the customers, making sure those orders went out, really set up a culture that served us well, and that is our goal, to be Earth’s most customer-centric company.” ([Location 254](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=254))
+    - Tags: [[blue]] 
+    - Note: Everything is about serving the customer
+- “Stick with your choice. Jeff Bezos is not in the internet business. He’s in the customer-service business. He will be around for decades to come, well after people have forgotten all the dot.coms that are going to go bust.” ([Location 270](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=270))
+    - Tags: [[blue]] 
+- Bezos succeeded by keeping his eye on the long game, foregoing profits for growth, and being relentless and sometimes ruthless with competitors and even his own colleagues. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=290))
+    - Tags: [[blue]] 
+- The greatest and most serendipitous innovation Bezos made was the creation of Amazon Web Services. The initial ideas—which included a software layer known as Elastic Compute Cloud and a hosting operation known as Simple Storage Service—bubbled up from inside the company. Eventually a variety of related ideas came together in a memo that proposed the creation of a service that would “enable developers and companies to use Web Services to build sophisticated and scalable applications.” ([Location 308](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=308))
+    - Tags: [[blue]] 
+- The company’s applications developers had been in a constant struggle with the hardware teams, but Bezos made them develop some standard application programming interfaces (APIs) and access to computing resources. “As soon as we did that, it was immediately obvious that every company in the world was going to want this,” he says. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=320))
+    - Tags: [[blue]] 
+    - Note: Identify problems in your business/life and come up with creative solutions
+- The genesis of Amazon Echo was, in one way, like Steve Jobs’s development of Apple iPod. It arose out of intuition rather than focus groups, and it was not in response to some obvious customer demand. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=335))
+    - Tags: [[blue]] 
+    - Note: Learn everything you can and have empathy. Then the intuition from knowing what’s possible and understanding people will lead to innovative ideas
+- “I’m always trying to figure out one thing first and foremost: Is that person a missionary or a mercenary?” Bezos says. “The mercenaries are trying to flip their stock. The missionaries love their product or their service and love their customers and are trying to build a great service. By the way, the great paradox here is that it’s usually the missionaries who make more money.” ([Location 344](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=344))
+    - Tags: [[blue]] 
+- “I want my grandchildren’s grandchildren to be using way more energy per capita than I am,” he says. “And I would like to see us not have a population cap. I wish there were a trillion humans in the solar system; then there would be a thousand Einsteins and a thousand Mozarts.” ([Location 367](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=367))
+    - Tags: [[blue]] 
+- Focus on the long term. “It’s All About the Long Term,” ([Location 406](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=406))
+    - Tags: [[blue]] 
+- Focusing on the long term allows the interests of your customers, who want better and faster services cheaper, and the interests of your shareholders, who want a return on investment, to come into alignment. That’s not always true in the short term. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=408))
+    - Tags: [[blue]] 
+- long-term thinking permits innovation. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=410))
+    - Tags: [[blue]] 
+- Focus relentlessly and passionately on the customer. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=421))
+    - Tags: [[blue]] 
+- “The core of the company is customer obsession as opposed to competitor obsession,” ([Location 425](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=425))
+    - Tags: [[blue]] 
+    - Note: Customer-centric strategy
+- Avoid PowerPoint and slide presentations. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=434))
+    - Tags: [[blue]] 
+- Bezos’s belief in the power of storytelling means that he thinks that his colleagues should be able to create a readable narrative when they pitch an idea. “We don’t do PowerPoint (or any other slide-oriented) presentations at Amazon,” he wrote in a recent shareholder letter. “Instead, we write narratively structured six-page memos. We silently read one at the beginning of each meeting in a kind of study hall.” ([Location 435](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=435))
+    - Tags: [[blue]] 
+    - Note: Writing forces clear, structured thinking
+- Focus on the big decisions. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=441))
+    - Tags: [[blue]] 
+- He divides the decisions that have to be made into those that can be walked back and those that are irrevocable. The latter require a lot more caution. In the case of the former, he tries to decentralize the process. At Amazon he created what he calls “multiple paths to yes.” In other organizations, he points out, a proposal can be killed by supervisors at many levels, and it needs to pass through all those gates in order to be approved. At Amazon, employees can shop their ideas around to any of the hundreds of executives who are empowered to get to yes. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=443))
+    - Tags: [[blue]] 
+- Hire the right people. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=448))
+    - Tags: [[blue]] 
+- There are three criteria he instructs managers to consider when they are hiring: Will you admire this person? Will this person raise the average level of effectiveness of the group he or she is entering? Along what dimension might this person be a superstar? ([Location 451](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=451))
+    - Tags: [[blue]] 
+- Today, online commerce saves customers money and precious time. Tomorrow, through personalization, online commerce will accelerate the very process of discovery. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=523))
+    - Tags: [[blue]] 
+    - Note: Seeing coming trends (ML recommendations)
+- Amazon.com uses the Internet to create real value for its customers ([Location 524](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=524))
+    - Tags: [[blue]] 
+    - Note: Don’t just use new technologies for the buzz words - create real value
+- We have a window of opportunity as larger players marshal the resources to pursue the online opportunity and as customers, new to purchasing online, are receptive to forming new relationships. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=526))
+    - Tags: [[blue]] 
+    - Note: Enter new technologies early before established players adjust
+- Our goal is to move quickly to solidify and extend our current position while we begin to pursue the online commerce opportunities in other areas. ([Location 528](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=528))
+    - Tags: [[blue]] 
+    - Note: Dominate niche and then expand out
+- Market leadership can translate directly to higher revenue, higher profitability, greater capital velocity, and correspondingly stronger returns on invested capital. ([Location 534](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=534))
+    - Tags: [[blue]] 
+- We first measure ourselves in terms of the metrics most indicative of our market leadership: customer and revenue growth, the degree to which our customers continue to purchase from us on a repeat basis, and the strength of our brand. ([Location 536](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=536))
+    - Tags: [[blue]] 
+- We will continue to focus relentlessly on our customers. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=542))
+    - Tags: [[blue]] 
+- We will continue to make investment decisions in light of long-term market leadership considerations rather than short-term profitability considerations or short-term Wall Street reactions. ([Location 542](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=542))
+    - Tags: [[blue]] 
+- We will continue to measure our programs and the effectiveness of our investments analytically, to jettison those that do not provide acceptable returns, and to step up our investment in those that work best. ([Location 544](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=544))
+    - Tags: [[blue]] 
+- We will make bold rather than timid investment decisions where we see a sufficient probability of gaining market leadership advantages. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=547))
+    - Tags: [[blue]] 
+- We will work hard to spend wisely and maintain our lean culture. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=552))
+    - Tags: [[blue]] 
+- We will balance our focus on growth with emphasis on long-term profitability and capital management. At this stage, we choose to prioritize growth because we believe that scale is central to achieving the potential of our business model. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=554))
+    - Tags: [[blue]] 
+- We will continue to focus on hiring and retaining versatile and talented employees and continue to weight their compensation to stock options rather than cash. We know our success will be largely affected by our ability to attract and retain a motivated employee base, each of whom must think like, and therefore must actually be, an owner. ([Location 556](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=556))
+    - Tags: [[blue]] 
+- From the beginning, our focus has been on offering our customers compelling value. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=563))
+    - Tags: [[blue]] 
+- We brought them much more selection than was possible in a physical store (our store would now occupy six football fields), and presented it in a useful, easy-to-search, and easy-to-browse format in a store open 365 days a year, twenty-four hours a day. We maintained a dogged focus on improving the shopping experience, ([Location 565](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=565))
+    - Tags: [[blue]] 
+    - Note: Use technology to improve consumer lives/business processes in ways that weren’t possible before
+- We are still in the early stages of learning how to bring new value to our customers through Internet commerce and merchandising. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=594))
+    - Tags: [[blue]] 
+    - Note: Don’t need to know everything at the start. Begin with the advantage that the new technology brings, then move out from there
+- Despite this strong new customer growth, the percentage of orders placed on the Amazon.com website by repeat customers grew from over 58 percent in the fourth quarter of 1997 to over 64 percent in the same period in 1998. ([Location 622](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=622))
+    - Tags: [[blue]] 
+    - Note: Tracking how much customers liked the product
+- We’re fortunate to benefit from a business model that is cash-favored and capital efficient. As we do not need to build physical stores or stock those stores with inventory, our centralized distribution model has allowed us to build our business to a billion-dollar sales rate with just $30 million in inventory and $30 million in net plant and equipment. ([Location 642](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=642))
+    - Tags: [[blue]] 
+    - Note: Cost efficient company
+- We hold as axiomatic that customers are perceptive and smart, and that brand image follows reality and not the other way around. ([Location 647](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=647))
+    - Tags: [[blue]] 
+- Our customers tell us that they choose Amazon.com and tell their friends about us because of the selection, ease-of-use, low prices, and service that we deliver. ([Location 648](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=648))
+    - Tags: [[blue]] 
+- I constantly remind our employees to be afraid, to wake up every morning terrified. Not of our competition, but of our customers. Our customers have made our business what it is, they are the ones with whom we have a relationship, and they are the ones to whom we owe a great obligation. And we consider them to be loyal to us—right up until the second that someone else offers them a better service. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=649))
+    - Tags: [[blue]] 
+- I ask people to visualize the company five years from now. At that point, each of us should look around and say, “The standards are so high now—boy, I’m glad I got in when I did!” ([Location 667](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=667))
+    - Tags: [[blue]] 
+- Distribution capacity: We intend to build out a significant distribution infrastructure to ensure that we can support all the sales our customers demand, with speedy access to a deep product inventory. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=678))
+    - Tags: [[blue]] 
+    - Note: Fast/frictionless customer experience
+- Systems capacity: We’ll be expanding our systems capacity to support similar growth levels. The systems group has a significant task: expand to meet near term growth, restructure systems for multi-billion-dollar scale and tens of millions of customers, build out features and systems for new initiatives and new innovations, and increase operational excellence and efficiency. All while keeping a billion-dollar, eight-million-customer store up and available on a 24/7 basis. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=680))
+    - Tags: [[blue]] 
+    - Note: Micro service cloud architecture with strong support team
+- Brand promise: ([Location 684](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=684))
+    - Tags: [[blue]] 
+- we must ensure that we build wide, strong customer relationships during this critical period. ([Location 685](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=685))
+    - Tags: [[blue]] 
+- Expanded product and service offerings: In 1999, we will continue to enhance the scope of our current product and service offerings, as well as add new initiatives. ([Location 686](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=686))
+    - Tags: [[blue]] 
+    - Note: Dominate niche, expand out
+- Bench strength and processes: We’ve complicated our business dramatically with new products, services, geographies, acquisitions, and additions to our business model. We intend to invest in teams, processes, communication, and people-development practices. Scaling in this way is among the most challenging and difficult elements of our plan. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=690))
+    - Tags: [[blue]] 
+    - Note: Creating processes and organizations to integrate services and departments
+- We added 10.7 million new customers, increasing cumulative customer accounts from 6.2 million to 16.9 million. The percentage of orders placed by repeat customers grew from over 64 percent in the fourth quarter of 1998 to greater than 73 percent in the same period in 1999. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=714))
+    - Tags: [[blue]] 
+    - Note: Repeat customers growing faster than new customers (also growing fast) - shows customer satisfaction
+- Only two years ago, Amazon.com’s US book business represented 100 percent of our sales. Today, despite strong growth in US books, other areas account for more than half our sales. Major 1999 initiatives included Auctions, zShops, Toys, Consumer Electronics, Home Improvement, Software, Video Games, Payments, and our wireless initiative, Amazon Anywhere. ([Location 718](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=718))
+    - Tags: [[blue]] 
+    - Note: Dominate niche and expand out
+- We believe we have reached a “tipping point,” where this platform allows us to launch new ecommerce businesses faster, with a higher quality of customer experience, a lower incremental cost, a higher chance of success, and a faster path to scale and profitability than any other company. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=745))
+    - Tags: [[blue]] 
+    - Note: Go into a niche that makes it easier/cheaper to expand into other areas once you’ve scaled that niche
+- Though it’s sometimes hard to imagine with all that has happened in the last five years, this remains Day 1 for e-commerce, and these are the early days of category formation where many customers are forming relationships for the first time. ([Location 758](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=758))
+    - Tags: [[blue]] 
+    - Note: Even if it seems late for some technologies (blockchain, VR), keep an eye on growth rate and the number of people get to adopt it. It may still be early
+- To us, operational excellence implies two things: delivering continuous improvement in customer experience and driving productivity, margin, efficiency, and asset velocity across all our businesses. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=769))
+    - Tags: [[blue]] 
+- Often, the best way to drive one of these is to deliver the other. For instance, more efficient distribution yields faster delivery times, which in turn lowers contacts per order and customer service costs. These, in turn, improve customer experience and build brand, which in turn decreases customer acquisition and retention costs. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=770))
+    - Tags: [[blue]] 
+- One point worth emphasizing: the quality of customer experience a partner delivers is the single most important criteria in our selection process—we simply won’t build a partnership with any company that does not share our passion for serving customers. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=783))
+    - Tags: [[blue]] 
+- Each successive product and service we launch this year should build on our platform, so our investment curve can be less steep and the time to profitability for each business should, in general, continue to shorten. ([Location 791](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=791))
+    - Tags: [[blue]] 
+    - Note: The product needs to expand into areas SO RELATED that the experience curve from your initial niche applies, at least in part, to the new area
+- In closing, consider this most important point: the current online shopping experience is the worst it will ever be. It’s good enough today to attract seventeen million customers, but it will get so much better. Increased bandwidth will result in faster page views and richer content. Further improvements will lead to “always-on access” (which I expect will be a strong boost to online shopping at home, as opposed to the office) and we’ll see significant growth in non-PC devices and wireless access. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=795))
+    - Tags: [[blue]] 
+- We are doubly blessed. We have a market-size unconstrained opportunity in an area where the underlying foundational technology we employ improves every day. That is not normal. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=799))
+    - Tags: [[blue]] 
+    - Note: Market AND tech improving in concert. Once in a lifetime opportunity
+- our heads-down focus on the customer was reflected in a score of eighty-four on the American Customer Satisfaction Index. We are told this is the highest score ever recorded for a service company in any industry. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=820))
+    - Tags: [[blue]] 
+- As the famed investor Benjamin Graham said, “In the short term, the stock market is a voting machine; in the long term, it’s a weighing machine.” Clearly there was a lot of voting going on in the boom year of ’99—and much less weighing. We’re a company that wants to be weighed, and over time, we will be—over the long term, all companies are. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=822))
+    - Tags: [[blue]] 
+- we believed passionately in the “land rush” metaphor for the Internet. Indeed, that metaphor was an extraordinarily useful decision aid for several years starting in 1994, but we now believe its usefulness largely faded away over the last couple of years. In retrospect, we significantly underestimated how much time would be available to enter these categories and underestimated how difficult it would be for single-category e-commerce companies to achieve the scale necessary to succeed. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=830))
+    - Tags: [[blue]] 
+    - Note: Opportunities with new technologies last longer than expected and are more difficult to take advantage of than expected
+- Online selling (relative to traditional retailing) is a scale business characterized by high fixed costs and relatively low variable costs. This makes it difficult to be a medium-sized e-commerce company. With a long enough financing runway, Pets.com and living.com may have been able to acquire enough customers to achieve the needed scale. But when the capital markets closed the door on financing Internet companies, these companies simply had no choice but to close their doors. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=834))
+    - Tags: [[blue]] 
+    - Note: Think about fixed and variable costs to understand the scale a company needs to reach for it to be profitable
+- Price performance of processing power is doubling about every eighteen months (Moore’s Law), price performance of disk space is doubling about every twelve months, and price performance of bandwidth is doubling about every nine months. Given that last doubling rate, Amazon.com will be able to use sixty times as much bandwidth per customer five years from now while holding our bandwidth cost per customer constant. Similarly, price performance improvements in disk space and processing power will allow us to, for example, do ever more and better real-time personalization of our website. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=844))
+    - Tags: [[blue]] 
+    - Note: Project technology trends and understand how they will affect your business
+- Focus on cost improvement makes it possible for us to afford to lower prices, which drives growth. Growth spreads fixed costs across more sales, reducing cost per unit, which makes possible more price reductions. Customers like this, and it’s good for shareholders. Please expect us to repeat this loop. ([Location 869](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=869))
+    - Tags: [[blue]] 
+    - Note: Developed positive feedback loop between growth and cost reduction
+- Until July, Amazon.com had been primarily built on two pillars of customer experience: selection and convenience. In July, as I already discussed, we added a third customer experience pillar: relentlessly lowering prices. ([Location 886](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=886))
+    - Tags: [[blue]] 
+- one of the most important things we’ve done to improve convenience and experience for customers also happens to be a huge driver of variable cost productivity: eliminating mistakes and errors at their root. Every year that’s gone by since Amazon.com’s founding, we’ve done a better and better job of eliminating errors, and this past year was our best ever. Eliminating the root causes of errors saves us money and saves customers time. ([Location 901](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=901))
+    - Tags: [[blue]] 
+    - Note: Root cause analysis of errors allows the product to continuously improve
+- Why focus on cash flows? Because a share of stock is a share of a company’s future cash flows, and, as a result, cash flows more than any other single variable seem to do the best job of explaining a company’s stock price over the long term. ([Location 910](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=910))
+    - Tags: [[blue]] 
+- If you could know for certain just two things—a company’s future cash flows and its future number of shares outstanding—you would have an excellent idea of the fair value of a share of that company’s stock today. ([Location 912](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=912))
+    - Tags: [[blue]] 
+- It’s not easy, but you can make an informed forecast of future cash flows by examining a company’s performance in the past and by looking at factors such as the leverage points and scalability in that company’s model. Estimating the number of shares outstanding in the future requires you to forecast items such as option grants to employees or other potential capital transactions. Ultimately, your determination of cash flow per share will be a strong indicator of the price you might be willing to pay for a share of ownership in any company. ([Location 915](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=915))
+    - Tags: [[blue]] 
+- As I’ve discussed many times before, we are firm believers that the long-term interests of shareholders are tightly linked to the interests of our customers: if we do our jobs right, today’s customers will buy more tomorrow, we’ll add more customers in the process, and it will all add up to more cash flow and more long-term value for our shareholders. ([Location 928](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=928))
+    - Tags: [[blue]] 
+    - Note: Happier customers = more customers = more cash flow = higher stock price = happier shareholders. Therefore, to satisfy shareholders, start by satisfying customers
+- We trade real estate for technology (which gets cheaper and more capable every year). ([Location 940](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=940))
+    - Tags: [[blue]] 
+    - Note: Traditional retail uses real estate (gets more expensive over time + capability doesn’t change much at all). Amazon used technology (gets cheaper AND more capable over time). 
+      So lead over traditional retail grows as the tech grows. Amazon positioned itself to ride the technological wave to success
+- Traditional stores face a time-tested trade-off between offering high-touch customer experience on the one hand and the lowest possible prices on the other. How can Amazon.com be trying to do both? The answer is that we transform much of customer experience—such as unmatched selection, extensive product information, personalized recommendations, and other new software features—into largely a fixed expense. With customer experience costs largely fixed (more like a publishing model than a retailing model), our costs as a percentage of sales can shrink rapidly as we grow our business. Moreover, customer experience costs that remain variable—such as the variable portion of fulfillment costs—improve in our model as we reduce defects. Eliminating defects improves costs and leads to better customer experience. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=945))
+    - Tags: [[blue]] 
+- Our pricing objective is not to discount a small number of products for a limited period of time, but to offer low prices every day and apply them broadly across our entire product range. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=969))
+    - Tags: [[blue]] 
+- what’s good for customers is good for shareholders. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=988))
+    - Tags: [[blue]] 
+- LONG-TERM THINKING IS both a requirement and an outcome of true ownership. ([Location 998](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=998))
+    - Tags: [[blue]] 
+- As we design our customer experience, we do so with long-term owners in mind. We try to make all of our customer experience decisions—big and small—in that framework. ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1007))
+    - Tags: [[blue]] 
+    - Note: Decisions need to be about what pays off in the long run, don’t make cheap, get-rich-quick decisions
+- Though negative reviews cost us some sales in the short term, helping customers make better purchase decisions ultimately pays off for the company. ([Location 1012](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1012))
+    - Tags: [[blue]] 
+- When we launched Instant Order Update, we were able to measure with statistical significance that the feature slightly reduced sales. Good for customers? Definitely. Good for shareowners? Yes, in the long run. ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1015))
+    - Tags: [[blue]] 
+    - Note: Lower sales is worse for shareholders NOW, but the improved customer experience drives future cashflow which drives the stock price more than anything
+- Eliminating defects, improving productivity, and passing the resulting cost savings back to customers in the form of lower prices is a long-term decision. Increased volumes take time to materialize, and price reductions almost always hurt current results. In the long term, however, relentlessly driving the “price-cost structure loop” will leave us with a stronger, more valuable business. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1018))
+    - Tags: [[blue]] 
+- To give one small example, engineering a feature like Instant Order Update for use by forty million customers costs nowhere near forty times what it would cost to do the same for one million customers. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1022))
+    - Tags: [[blue]] 
+    - Note: Software engineering costs DO NOT scale with users - essentially fixed cost
+- OUR ULTIMATE FINANCIAL measure, and the one we most want to drive over the long-term, is free cash flow per share. Why not focus first and foremost, as many do, on earnings, earnings per share or earnings growth? The simple answer is that earnings don’t directly translate into cash flows, and shares are worth only the present value of their future cash flows, not the present value of their future earnings. Future earnings are a component—but not the only important component—of future cash flow per share. Working capital and capital expenditures are also important, as is future share dilution. ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1035))
+    - Tags: [[blue]] 
+- Though some may find it counterintuitive, a company can actually impair shareholder value in certain circumstances by growing earnings. This happens when the capital investments required for growth exceed the present value of the cash flow derived from those investments. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1040))
+    - Tags: [[blue]] 
+    - Note: Not all growth is good growth - look at how it impacts net cash flows
+- Notice, too, that a focus on EBITDA (earnings before interest, taxes, depreciation, and amortization) would lead to the same faulty conclusion about the health of the business. Sequential annual EBITDA would have been $50, $100, $200 and $400 million—100 percent growth for three straight years. But without taking into account the $1.28 billion in capital expenditures necessary to generate this “cash flow,” we’re getting only part of the story—EBITDA isn’t cash flow. ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1107))
+    - Tags: [[blue]] 
+- Unfortunately our transportation business is fundamentally flawed. There is no growth rate at which it makes sense to invest initial or subsequent capital to operate the business. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1128))
+    - Tags: [[blue]] 
+    - Note: Use business plan to project cash flows and see if business is worth it using net present value of cash flows
+- We work to increase operating profit by focusing on improving all aspects of the customer experience to grow sales and by maintaining a lean cost structure. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1135))
+    - Tags: [[blue]] 
+- We have a cash generative operating cycle* because we turn our inventory quickly, collecting payments from our customers before payments are due to suppliers. ([Location 1137](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1137))
+    - Tags: [[blue]] 
+- Efficiently managing share count means more cash flow per share and more long-term value for owners. ([Location 1148](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1148))
+    - Tags: [[blue]] 
+    - Note: Don’t want to dilute shares
+- *The operating cycle is number of days of sales in inventory plus number of days of sales in accounts receivable minus accounts payable days. ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1152))
+    - Tags: [[blue]] 
+- MANY OF THE important decisions we make at Amazon.com can be made with data. There is a right answer or a wrong answer, a better answer or a worse answer, and math tells us which is which. These are our favorite kinds of decisions. ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1162))
+    - Tags: [[blue]] 
+    - Note: Decide if the decision needs intuition or hard numbers and, if it needs numbers, DO THE DAMN ANALYSIS
+- The above decisions require us to make some assumptions and judgments, but in such decisions, judgment and opinion come into play only as junior partners. The heavy lifting is done by the math. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1176))
+    - Tags: [[blue]] 
+- not all of our important decisions can be made in this enviable, math-based way. Sometimes we have little or no historical data to guide us and proactive experimentation is impossible, impractical, or tantamount to a decision to proceed. Though data, analysis, and math play a role, the prime ingredient in these decisions is judgment.* ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1178))
+    - Tags: [[blue]] 
+- As our shareholders know, we have made a decision to continuously and significantly lower prices for customers year after year as our efficiency and scale make it possible. This is an example of a very important decision that cannot be made in a math-based way. In fact, when we lower prices, we go against the math that we can do, which always says that the smart move is to raise prices. We have significant data related to price elasticity. With fair accuracy, we can predict that a price reduction of a certain percentage will result in an increase in units sold of a certain percentage. With rare exceptions, the volume increase in the short term is never enough to pay for the price decrease. However, our quantitative understanding of elasticity is short-term. We can estimate what a price reduction will do this week and this quarter. But we cannot numerically estimate the effect that consistently lowering prices will have on our business over five years or ten years or more. Our judgment is that relentlessly returning efficiency improvements and scale economies to customers in the form of lower prices creates a virtuous cycle that leads over the long term to a much larger dollar amount of free cash flow, and thereby to a much more valuable Amazon.com. We’ve made similar judgments around Free Super Saver Shipping and Amazon Prime, both of which are expensive in the short term and—we believe—important and valuable in the long term. ([Location 1181](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1181))
+    - Tags: [[blue]] 
+    - Note: Understand limitations of the models being applied and, with those limitations in mind, use intuition and judgement to make decisions
+- Math-based decisions command wide agreement, whereas judgment-based decisions are rightly debated and often controversial, at least until put into practice and demonstrated. Any institution unwilling to endure controversy must limit itself to decisions of the first type. In our view, doing so would not only limit controversy—it would also significantly limit innovation and long-term value creation. ([Location 1200](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1200))
+    - Tags: [[blue]] 
+    - Note: Intuitive decisions are groundbreaking but controversial - be prepared to fight for the ones you really believe in
+- we’ll start with the customer and work backward. In our judgment, that is the best way to create shareholder value. ([Location 1212](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1212))
+    - Tags: [[blue]] 
+- “Excessive attention by management scientists to operating decisions may well cause organizations to pursue inappropriate courses of action more efficiently.” They are not debating the importance of rigorous and quantitative analysis, but only noting that it gets a lopsided amount of study and attention, probably because of the very fact that it is more quantifiable. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1217))
+    - Tags: [[blue]] 
+    - Note: Logical/operating decision making is great for lowering costs, but for overall DIRECTION and CREATIVITY, intuition is probably more important
+- we must convince ourselves that the new business can grow to a scale where it can be significant in the context of our overall company. ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1228))
+    - Tags: [[blue]] 
+    - Note: Scale matters. A one man SaaS business only needs to do a couple million in profits to be wildly successful. A B2B product offering at Deloitte needs to do tend to hundreds of millions
+- I often get asked, “When are you going to open physical stores?” That’s an expansion opportunity we’ve resisted. It fails all but one of the tests outlined above. The potential size of a network of physical stores is exciting. However, we don’t know how to do it with low capital and high returns; physical-world retailing is a cagey and ancient business that’s already well served; and we don’t have any ideas for how to build a physical world store experience that’s meaningfully differentiated for customers. ([Location 1232](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1232))
+    - Tags: [[blue]] 
+- differentiated, can be large, and passes our returns bar. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1243))
+    - Tags: [[blue]] 
+    - Note: Three markers for large scale product success
+- In our experience, if a new business enjoys runaway success, it can only begin to be meaningful to the overall company economics in something like three to seven years. ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1260))
+    - Tags: [[blue]] 
+    - Note: Be patient with your products. Step by step, ferociously
+- As we continue to grow, we’ll work to maintain a culture that embraces new businesses. We will do so in a disciplined way, with an eye on returns, potential size, and the ability to create differentiation that customers care about. ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1265))
+    - Tags: [[blue]] 
+- At the beginning of our design process, we identified what we believe is the book’s most important feature. It disappears. When you read a book, you don’t notice the paper and the ink and the glue and the stitching. All of that dissolves, and what remains is the author’s world. ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1285))
+    - Tags: [[blue]] 
+- We also knew we shouldn’t try to copy every last feature of a book—we could never out-book the book. We’d have to add new capabilities—ones that could never be possible with a traditional book. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1288))
+    - Tags: [[blue]] 
+    - Note: Use new technologies to enable new experiences and possibilities
+- Instead of trying to duplicate physical bookstores, we’ve been inspired by them and worked to find things we could do in the new medium that could never be done in the old one. We don’t have electronic book signings, and similarly we can’t provide a comfortable spot to sip coffee and relax. However, we can offer literally millions of titles, help with purchase decisions through customer reviews, and provide discovery features like “customers who bought this item also bought.” The list of useful things that can be done only in the new medium is a long one. ([Location 1292](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1292))
+    - Tags: [[blue]] 
+    - Note: New medium = new possibilities
+- We humans coevolve with our tools. We change our tools, and then our tools change us. ([Location 1305](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1305))
+    - Tags: [[blue]] 
+    - Note: Analyze the process, build tools to make it more efficient or better, change the world
+- networked tools such as desktop computers, laptops, cell phones and PDAs have changed us too. They’ve shifted us more toward information snacking, and I would argue toward shorter attention spans. ([Location 1308](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1308))
+    - Tags: [[blue]] 
+    - Note: Trade offs of new technology
+- IN THIS TURBULENT global economy, our fundamental approach remains the same. Stay heads down, focused on the long term and obsessed over customers. ([Location 1325](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1325))
+    - Tags: [[blue]] 
+- Seek instant gratification—or the elusive promise of it—and chances are you’ll find a crowd there ahead of you. ([Location 1328](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1328))
+    - Tags: [[blue]] 
+- “Working backward” from customer needs can be contrasted with a “skills-forward” approach where existing skills and competencies are used to drive business opportunities. The skills-forward approach says, “We are really good at X. What else can we do with X?” That’s a useful and rewarding business approach. However, if used exclusively, the company employing it will never be driven to develop fresh skills. Eventually the existing skills will become outmoded. Working backward from customer needs often demands that we acquire new competencies and exercise new muscles, never mind how uncomfortable and awkward-feeling those first steps might be. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1331))
+    - Tags: [[blue]] 
+    - Note: Focus on what would be valuable to the customer, not what you can provide. If there’s a skills gap between you and what the customer wants, learn those skills.
+- Amazon had never designed or built a hardware device, but rather than change the vision to accommodate our then-existing skills, we hired a number of talented (and missionary!) hardware engineers and got started learning a new institutional skill, one that we needed to better serve readers in the future. ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1338))
+    - Tags: [[blue]] 
+- Our pricing objective is to earn customer trust, not to optimize short-term profit dollars. We take it as an article of faith that pricing in this manner is the best way to grow our aggregate profit dollars over the long term. ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1351))
+    - Tags: [[blue]] 
+- The customer-experience path we’ve chosen requires us to have an efficient cost structure. The good news for shareowners is that we see much opportunity for improvement in that regard. Everywhere we look (and we all look), we find what experienced Japanese manufacturers would call muda, or waste.† I find this incredibly energizing. I see it as potential—years and years of variable and fixed productivity gains and more efficient, higher velocity, more flexible capital expenditures. ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1366))
+    - Tags: [[blue]] 
+- Senior leaders that are new to Amazon are often surprised by how little time we spend discussing actual financial results or debating projected financial outputs. To be clear, we take these financial outputs seriously, but we believe that focusing our energy on the controllable inputs to our business is the most effective way to maximize financial outputs over time. Our annual goal setting process begins in the fall and concludes early in the new year after we’ve completed our peak holiday quarter. Our goal setting sessions are lengthy, spirited, and detail oriented. We have a high bar for the experience our customers deserve and a sense of urgency to improve that experience. ([Location 1412](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1412))
+    - Tags: [[blue]] 
+- Taken as a whole, the set of goals is indicative of our fundamental approach. Start with customers and work backward. Listen to customers, but don’t just listen to customers—also invent on their behalf. ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1425))
+    - Tags: [[blue]] 
+    - Note: Listen to customers but also come up with unintuitive inventions that help customer experience (eg. iPhone)
+- Many of the problems we face have no textbook solutions, and so we—happily—invent new approaches. ([Location 1440](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1440))
+    - Tags: [[blue]] 
+- All the effort we put into technology might not matter that much if we kept technology off to the side in some sort of R&D department, but we don’t take that approach. Technology infuses all of our teams, all of our processes, our decision making, and our approach to innovation in each of our businesses. It is deeply integrated into everything we do. ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1468))
+    - Tags: [[blue]] 
+    - Note: Innovation needs to be part of the core business, not siloed off in an R&D department
+- We live in an era of extraordinary increases in available bandwidth, disk space, and processing power, all of which continue to get cheap fast. We have on our team some of the most sophisticated technologists in the world—helping to solve challenges that are right on the edge of what’s possible today. ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1480))
+    - Tags: [[blue]] 
+    - Note: Take advantage of waves of technological progress. Jump aboard and get the best/most knowledgeable people you can
+- Invention comes in many forms and at many scales. The most radical and transformative of inventions are often those that empower others to unleash their creativity—to pursue their dreams. ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1541))
+    - Tags: [[blue]] 
+    - Note: AWS, kindle self publishing, etc - remove barriers to entry for individuals. Very libertarian ethos - putting power and autonomy in the hands of individuals
+- All AWS services are pay-as-you-go and radically transform capital expense into a variable cost. ([Location 1549](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1549))
+    - Tags: [[blue]] 
+    - Note: Fixed costs are a barrier. Variable costs allow you to scale frictionlessly
+- I am emphasizing the self-service nature of these platforms because it’s important for a reason I think is somewhat nonobvious: even well-meaning gatekeepers slow innovation. When a platform is self-service, even the improbable ideas can get tried, because there’s no expert gatekeeper ready to say, “That will never work!” And guess what—many of those improbable ideas do work, and society is the beneficiary of that diversity. ([Location 1556](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1556))
+    - Tags: [[blue]] 
+    - Note: Removing friction increases innovation
+- Kindle Direct Publishing is good for readers because they get lower prices, but perhaps just as important, readers also get access to more diversity since authors that might have been rejected by establishment publishing channels now get their chance in the marketplace. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1568))
+    - Tags: [[blue]] 
+    - Note: “Marketplace of ideas” (books)
+- our energy at Amazon comes from the desire to impress customers rather than the zeal to best competitors. ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1579))
+    - Tags: [[blue]] 
+- One advantage—perhaps a somewhat subtle one—of a customer-driven focus is that it aids a certain type of proactivity. When we’re at our best, we don’t wait for external pressures. We are internally driven to improve our services, adding benefits and features, before we have to. ([Location 1583](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1583))
+    - Tags: [[blue]] 
+- Surprised by the proactive refund, he ended up writing about the experience: “Amazon ‘noticed that I experienced poor video playback …’ And they decided to give me a refund because of that? Wow … Talk about putting customers first.” ([Location 1601](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1601))
+    - Tags: [[blue]] 
+- Most customers are too busy themselves to monitor the price of an item after they preorder it, and our policy could be to require the customer to contact us and ask for the refund. Doing it proactively is more expensive for us, but it also surprises, delights, and earns trust. ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1605))
+    - Tags: [[blue]] 
+- Our business approach is to sell premium hardware at roughly breakeven prices. We want to make money when people use our devices—not when people buy our devices. ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1613))
+    - Tags: [[blue]] 
+- I think long-term thinking squares the circle. Proactively delighting customers earns trust, which earns more business from those customers, even in new business arenas. Take a long-term view, and the interests of customers and shareholders align. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1628))
+    - Tags: [[blue]] 
+    - Note: Short term profit maximization hurts the consumer and therefore long term profit. Long term customer satisfaction improvement leads to long term profits
+- as I frequently quote famed investor Benjamin Graham in our employee all-hands meetings—“In the short run, the market is a voting machine but in the long run, it is a weighing machine.” We don’t celebrate a 10 percent increase in the stock price like we celebrate excellent customer experience. We aren’t 10 percent smarter when that happens and conversely aren’t 10 percent dumber when the stock goes the other way. ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1631))
+    - Tags: [[blue]] 
+    - Note: Stock price is volatile and doesn’t always accurately reflect reality. Customer satisfaction is important
+- Even internally, it’s easy for us to forget that Prime was a new, unproven (some even said foolhardy) concept when we launched it nine years ago: all-you-can-eat, two-day shipping for a flat annual fee. ([Location 1653](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1653))
+    - Tags: [[blue]] 
+    - Note: Some ideas that look bad at first can be revolutionary
+- We are missionaries for reading and these stories inspire and encourage us to keep inventing on behalf of writers and readers. ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1665))
+    - Tags: [[blue]] 
+    - Note: Make customers’ lives easier/more frictionless. This is production line efficiency improvements applied to the customer
+- our ASAP technology predicts what you might want to watch and prebuffers it, so shows start instantly. Our team also put a small microphone in the remote control. Hold down the mic button on the remote, and you can speak your search term rather than type it into an alphabet grid. The team has done a terrific job—the voice search actually works. ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1682))
+    - Tags: [[blue]] 
+    - Note: MAKE EVERYTHING FRICTIONLESS. Use new tech to make life easier/more efficient
+- Whispersync for Voice allows customers to switch seamlessly back and forth between reading a book on their Kindle and listening to the corresponding Audible book on their smart phone. The Wall Street Journal called Whispersync for Voice “Amazon’s new killer app for books.” If you haven’t already, I recommend you give it a try—it’s fun and expands the amount of time you have available to read. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1713))
+    - Tags: [[blue]] 
+    - Note: Frictionless experience across devices. AMAZING
+- Career Choice is a program where we prepay 95 percent of tuition for our employees to take courses for in-demand fields, such as airplane mechanic or nursing, regardless of whether the skills are relevant to a career at Amazon. The goal is to enable choice. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1734))
+    - Tags: [[blue]] 
+- Our operations team is extraordinary—methodical and ingenious. Through our Kaizen program, named for the Japanese term meaning “change for the better,” employees work in small teams to streamline processes and reduce defects and waste. ([Location 1761](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1761))
+    - Tags: [[blue]] 
+    - Note: Find inefficiencies in production process and improve them
+- It’s not often you get to delight two customer sets with one program. With FBA, sellers can store their products in our fulfillment centers, and we pick, pack, ship, and provide customer service for these products. Sellers benefit from one of the most advanced fulfillment networks in the world, easily scaling their businesses to reach millions of customers. And not just any customers—Prime members. FBA products can be eligible for Prime free two-day shipping. Customers benefit from this additional selection—they get even more value out of their Prime membership. And, unsurprisingly, sellers see increased sales when they join FBA. In a 2013 survey, nearly three out of four FBA respondents reported that their unit sales increased on Amazon.com more than 20 percent after joining FBA. It’s a win-win. ([Location 1808](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1808))
+    - Tags: [[blue]] 
+    - Note: One product improving two customer segments
+- “Starting out as an unknown brand, it was difficult to find retailers willing to stock our goods. No such barriers existed at Amazon. The beauty of Amazon is that someone can say, ‘I want to start a business,’ and they can go on Amazon and really start a business. You don’t have to get a lease on a building or even have any employees at first. You can just do it on your own. And that’s what I did.” ([Location 1817](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1817))
+    - Tags: [[blue]] 
+    - Note: Reducing friction & barriers to entry
+- We have the good fortune of a large, inventive team and a patient, pioneering, customer-obsessed culture—great innovations, large and small, are happening every day on behalf of customers, and at all levels throughout the company. This decentralized distribution of invention throughout the company—not limited to the company’s senior leaders—is the only way to get robust, high-throughput innovation. ([Location 1852](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1852))
+    - Tags: [[blue]] 
+    - Note: Focus the whole company top to bottom in the goal and foster innovation in pursuit of that goal
+- Failure comes part and parcel with invention. It’s not optional. We understand that and believe in failing early and iterating until we get it right. When this process works, it means our failures are relatively small in size (most experiments can start small), and when we hit on something that is really working for customers, we double-down on it with hopes to turn it into an even bigger success. ([Location 1855](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1855))
+    - Tags: [[blue]] 
+- A DREAMY BUSINESS OFFERING has at least four characteristics. Customers love it, it can grow to very large size, it has strong returns on capital, and it’s durable in time—with the potential to endure for decades. When you find one of these, don’t just swipe right, get married. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1867))
+    - Tags: [[blue]] 
+- So, what happens when sellers join FBA and their items become Prime eligible? They get more sales. Notice also what happens from a Prime member’s point of view. Every time a seller joins FBA, Prime members get more Prime eligible selection. The value of membership goes up. This is powerful for our flywheel. FBA completes the circle: Marketplace pumps energy into Prime, and Prime pumps energy into Marketplace. ([Location 1948](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1948))
+    - Tags: [[blue]] 
+    - Note: Focus on improvements that fuel your company’s fly wheel
+- On-demand, pay-as-you-go cloud storage and compute resources dramatically increased the speed of starting a new business. ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1957))
+    - Tags: [[blue]] 
+    - Note: Reduced friction
+- the proposition, “I can save you a significant amount on your annual IT bill and my service is almost as good as what you have now,” won’t get too many customers. What customers really want in this arena is “better and faster,” and if “better and faster” can come with a side dish of cost savings, terrific. But the cost savings is the gravy, not the steak. ([Location 1962](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1962))
+    - Tags: [[blue]] 
+    - Note: Improved experience is the answer, cost is secondary (but also important)
+- I believe AWS is one of those dreamy business offerings that can be serving customers and earning financial returns for many years into the future. Why am I optimistic? For one thing, the size of the opportunity is big, ultimately encompassing global spend on servers, networking, datacenters, infrastructure software, databases, data warehouses, and more. Similar to the way I think about Amazon retail, for all practical purposes, I believe AWS is market-size unconstrained. ([Location 1987](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=1987))
+    - Tags: [[blue]] 
+- They share a distinctive organizational culture that cares deeply about and acts with conviction on a small number of principles. I’m talking about customer obsession rather than competitor obsession, eagerness to invent and pioneer, willingness to fail, the patience to think long-term, and the taking of professional pride in operational excellence. Through that lens, AWS and Amazon retail are very similar indeed. ([Location 2038](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2038))
+    - Tags: [[blue]] 
+- A word about corporate cultures: for better or for worse, they are enduring, stable, hard to change. They can be a source of advantage or disadvantage. ([Location 2042](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2042))
+    - Tags: [[blue]] 
+    - Note: A company’s founding culture informs its culture moving forward. Hard to change once it crystallizes
+- Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a ten percent chance of a one hundred times payoff, you should take that bet every time. But you’re still going to be wrong nine times out of ten. ([Location 2052](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2052))
+    - Tags: [[blue]] 
+    - Note: Be willing to fail on big bets - failures WILL happen
+- our scale enables us to build services for customers that we could otherwise never even contemplate. But also, if we’re not vigilant and thoughtful, size could slow us down and diminish our inventiveness. ([Location 2061](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2061))
+    - Tags: [[blue]] 
+    - Note: Consider how changes in scale change what’s possible for your company - both positive and negative
+- We want Prime to be such a good value that you’d be irresponsible not to be a member. ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2067))
+    - Tags: [[blue]] 
+    - Note: Drive so much customer value that it’s a no-brainer to use the product
+- Prime Now offers members one-hour delivery on an important subset of selection and was launched only 111 days after it was dreamed up. In that time, a small team built a customer-facing app, secured a location for an urban warehouse, determined which twenty-five thousand items to sell, got those items stocked, recruited and on-boarded new staff, tested, iterated, designed new software for internal use—both a warehouse management system and a driver-facing app—and launched in time for the holidays. Today, just fifteen months after that first city launch, Prime Now is serving members in more than thirty cities around the world. ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2071))
+    - Tags: [[blue]] 
+    - Note: Move to build out innovative ideas quickly
+- We took two big swings and missed—with Auctions and zShops—before we launched Marketplace over fifteen years ago. We learned from our failures and stayed stubborn on the vision, and today close to 50 percent of units sold on Amazon are sold by third-party sellers. ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2093))
+    - Tags: [[blue]] 
+    - Note: Be willing to make multiple bets on innovative ideas
+- We hope to expand Amazon Lending and are now working on ways to partner with banks so they can use their expertise to take and manage the bulk of the credit risk. ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2107))
+    - Tags: [[blue]] 
+    - Note: Think about how turning into a financial institution drives future growth
+- As with our retail business, AWS is made up of many small teams with single-threaded owners, enabling rapid innovation. The team rolls out new functionality almost daily across seventy services, and that new functionality just “shows up” for customers—there’s no upgrading. ([Location 2143](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2143))
+    - Tags: [[blue]] 
+- We even roll out and continuously improve services like Trusted Advisor, which alerts customers when they can save money—resulting in hundreds of millions of dollars in savings for our customers. I’m pretty sure we’re the only IT vendor telling customers how to stop spending money with us. ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2159))
+    - Tags: [[blue]] 
+    - Note: Customer experience > short term profits
+- We want to be a large company that’s also an invention machine. We want to combine the extraordinary customer-serving capabilities that are enabled by size with the speed of movement, nimbleness, and risk-acceptance mentality normally associated with entrepreneurial start-ups. ([Location 2180](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2180))
+    - Tags: [[blue]] 
+- Some decisions are consequential and irreversible or nearly irreversible—one-way doors—and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions. But most decisions aren’t like that—they are changeable, reversible—they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups. As organizations get larger, there seems to be a tendency to use the heavy-weight Type 1 decision-making process on most decisions, including many Type 2 decisions. The end result of this is slowness, unthoughtful risk aversion, failure to experiment sufficiently, and consequently diminished invention.* We’ll have to figure out how to fight that tendency. ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2186))
+    - Tags: [[blue]] 
+    - Note: Make reversible decisions quickly and use small experiments. Make non reversible decisions methodically
+- Here’s a starter pack of essentials for Day 1 defense: customer obsession, a skeptical view of proxies, the eager adoption of external trends, and high-velocity decision making. ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2242))
+    - Tags: [[blue]] 
+- There are many ways to center a business. You can be competitor focused, you can be product focused, you can be technology focused, you can be business model focused, and there are more. But in my view, obsessive customer focus is by far the most protective of Day 1 vitality. ([Location 2244](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2244))
+    - Tags: [[blue]] 
+- No customer ever asked Amazon to create the Prime membership program, but it sure turns out they wanted it, and I could give you many such examples. ([Location 2249](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2249))
+    - Tags: [[blue]] 
+- Staying in Day 1 requires you to experiment patiently, accept failures, plant seeds, protect saplings, and double down when you see customer delight. A customer-obsessed culture best creates the conditions where all of that can happen. ([Location 2250](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2250))
+    - Tags: [[blue]] 
+- As companies get larger and more complex, there’s a tendency to manage to proxies. This comes in many shapes and sizes, and it’s dangerous, subtle, and very Day 2. A common example is process as proxy. Good process serves you so you can serve customers. But if you’re not watchful, the process can become the thing. ([Location 2253](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2253))
+    - Tags: [[blue]] 
+- do we own the process or does the process own us? In a Day 2 company, you might find it’s the second. ([Location 2259](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2259))
+    - Tags: [[blue]] 
+- Good inventors and designers deeply understand their customer. They spend tremendous energy developing that intuition. They study and understand many anecdotes rather than only the averages you’ll find on surveys. They live with the design. ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2263))
+    - Tags: [[blue]] 
+    - Note: Can’t distill individual experience down to numbers. You find the infinite in the finite
+- The outside world can push you into Day 2 if you won’t or can’t embrace powerful trends quickly. If you fight them, you’re probably fighting the future. Embrace them and you have a tailwind. ([Location 2269](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2269))
+    - Tags: [[blue]] 
+- These big trends are not that hard to spot (they get talked and written about a lot), but they can be strangely hard for large organizations to embrace. We’re in the middle of an obvious one right now: machine learning and artificial intelligence. ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2271))
+    - Tags: [[blue]] 
+    - Note: Keep abreast of new technological and social trends and lean into them with business ideas
+- Though less visible, much of the impact of machine learning will be of this type—quietly but meaningfully improving core operations. ([Location 2281](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2281))
+    - Tags: [[blue]] 
+    - Note: SFL - stop being an AI consultancy and start being a business consultancy. How do we use AI to improve business processes?
+- Amazon Lex (what’s inside Alexa), Amazon Polly, and Amazon Rekognition remove the heavy lifting from natural language understanding, speech generation, and image analysis. They can be accessed with simple API calls—no machine learning expertise required. Watch this space. Much more to come. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2286))
+    - Tags: [[blue]] 
+    - Note: Make access to new technologies easier - democratize it. Exactly what protein design tool does
+- Second, most decisions should probably be made with somewhere around 70 percent of the information you wish you had. If you wait for 90 percent, in most cases, you’re probably being slow. Plus, either way, you need to be good at quickly recognizing and correcting bad decisions. If you’re good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure. ([Location 2296](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2296))
+    - Tags: [[blue]] 
+    - Note: Be content without perfection. You need to make decisions in imperfect environments
+- use the phrase “disagree and commit.” This phrase will save a lot of time. If you have conviction on a particular direction even though there’s no consensus, it’s helpful to say, “Look, I know we disagree on this, but will you gamble with me on it? Disagree and commit?” ([Location 2299](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2299))
+    - Tags: [[blue]] 
+    - Note: “Disagree and commit” is faster than waiting to be convinced. Not everyone needs to be convinced of everything
+- recognize true misalignment issues early and escalate them immediately. Sometimes teams have different objectives and fundamentally different views. They are not aligned. No amount of discussion, no number of meetings will resolve that deep misalignment. Without escalation, the default dispute resolution mechanism for this scenario is exhaustion. Whoever has more stamina carries the decision. ([Location 2311](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2311))
+    - Tags: [[blue]] 
+    - Note: SFL has many misaligned teams. Need to align them on objectives and values
+- So, have you settled only for decision quality, or are you mindful of decision velocity too? Are the world’s trends tailwinds for you? Are you falling prey to proxies, or do they serve you? And most important of all, are you delighting customers? We can have the scope and capabilities of a large company and the spirit and heart of a small one. But we have to choose it. ([Location 2318](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2318))
+    - Tags: [[blue]] 
+- One thing I love about customers is that they are divinely discontent. Their expectations are never static—they go up. It’s human nature. We didn’t ascend from our hunter-gatherer days by being satisfied. People have a voracious appetite for a better way, and yesterday’s “wow” quickly becomes today’s “ordinary.” ([Location 2339](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2339))
+    - Tags: [[blue]] 
+    - Note: Always need to be innovating
+- You cannot rest on your laurels in this world. Customers won’t have it. ([Location 2345](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2345))
+    - Tags: [[blue]] 
+- Do we first and foremost need to select for “high standards” people? If so, this letter would need to be mostly about hiring practices, but I don’t think so. I believe high standards are teachable. In fact, people are pretty good at learning high standards simply through exposure. High standards are contagious. Bring a new person onto a high standards team, and they’ll quickly adapt. The opposite is also true. If low standards prevail, those too will quickly spread. ([Location 2352](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2352))
+    - Tags: [[blue]] 
+    - Note: Make sure teams are high standards. Hold yourself to a high standard
+- I believe high standards are domain specific, and that you have to learn high standards separately in every arena of interest. When I started Amazon, I had high standards on inventing, on customer care, and (thankfully) on hiring. But I didn’t have high standards on operational process: how to keep fixed problems fixed, how to eliminate defects at the root, how to inspect processes, and much more. I had to learn and develop high standards on all of that (my colleagues were my tutors). ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2359))
+    - Tags: [[blue]] 
+- Understanding this point is important because it keeps you humble. You can consider yourself a person of high standards in general and still have debilitating blind spots. There can be whole arenas of endeavor where you may not even know that your standards are low or nonexistent, and certainly not world class. It’s critical to be open to that likelihood. ([Location 2363](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2363))
+    - Tags: [[blue]] 
+    - Note: Destroy your ego. Ego-less self confidence needs to be the goal
+- What do you need to achieve high standards in a particular domain area? First, you have to be able to recognize what good looks like in that domain. Second, you must have realistic expectations for how hard it should be (how much work it will take) to achieve that result—the scope. ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2367))
+    - Tags: [[blue]] 
+- Unrealistic beliefs on scope—often hidden and undiscussed—kill high standards. To achieve high standards yourself or as part of a team, you need to form and proactively communicate realistic beliefs about how hard something is going to be—something this coach understood well. ([Location 2377](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2377))
+    - Tags: [[blue]] 
+- The difference between a great memo and an average one is much squishier. It would be extremely hard to write down the detailed requirements that make up a great memo. Nevertheless, I find that much of the time, readers react to great memos very similarly. They know it when they see it. The standard is there, and it is real, even if it’s not easily describable. ([Location 2386](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2386))
+    - Tags: [[blue]] 
+    - Note: Intuition - hard to put into words. But just because a standard can’t be put into words doesn’t mean it isn’t there
+- Often, when a memo isn’t great, it’s not the writer’s inability to recognize the high standard, but instead a wrong expectation on scope: they mistakenly believe a high-standards, six-page memo can be written in one or two days or even a few hours, when really it might take a week or more! ([Location 2389](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2389))
+    - Tags: [[blue]] 
+- The great memos are written and re-written, shared with colleagues who are asked to improve the work, set aside for a couple of days, and then edited again with a fresh mind. They simply can’t be done in a day or two. ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2391))
+    - Tags: [[blue]] 
+- you can improve results through the simple act of teaching scope—that ([Location 2393](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2393))
+    - Tags: [[blue]] 
+- So, the four elements of high standards as we see it: they are teachable, they are domain specific, you must recognize them, and you must explicitly coach realistic scope. ([Location 2408](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2408))
+    - Tags: [[blue]] 
+- Leaders have relentlessly high standards—many people may think these standards are unreasonably high. ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2412))
+    - Tags: [[blue]] 
+    - Note: Hold yourself to an unbelievably high standard and follow through. Set the example for others and hold them to a high standard as well
+- This year marks the twentieth anniversary of our first shareholder letter, and our core values and approach remain unchanged. ([Location 2535](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2535))
+    - Tags: [[blue]] 
+    - Note: Stick to values and principles over time
+- We helped independent sellers compete against our first-party business by investing in and offering them the very best selling tools we could imagine and build. ([Location 2568](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2568))
+    - Tags: [[blue]] 
+- From very early on in Amazon’s life, we knew we wanted to create a culture of builders—people who are curious, explorers. They like to invent. Even when they’re experts, they are “fresh” with a beginner’s mind. They see the way we do things as just the way we do things now. A builder’s mentality helps us approach big, hard-to-solve opportunities with a humble conviction that success can come through iteration: invent, launch, reinvent, relaunch, start over, rinse, repeat, again and again. They know the path to success is anything but straight. ([Location 2578](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2578))
+    - Tags: [[blue]] 
+- Wandering is an essential counterbalance to efficiency. You need to employ both. The outsized discoveries—the “nonlinear” ones—are highly likely to require wandering. ([Location 2585](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2585))
+    - Tags: [[blue]] 
+- Much of what we build at AWS is based on listening to customers. It’s critical to ask customers what they want, listen carefully to their answers, and figure out a plan to provide it thoughtfully and quickly (speed matters in business!). ([Location 2590](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2590))
+    - Tags: [[blue]] 
+    - Note: Detailed anecdotes can be better than cold numbers
+- But it’s also not enough. The biggest needle movers will be things that customers don’t know to ask for. We must invent on their behalf. We have to tap into our own inner imagination about what’s possible. ([Location 2592](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2592))
+    - Tags: [[blue]] 
+- No one asked for AWS. No one. Turns out the world was in fact ready and hungry for an offering like AWS but didn’t know it. We had a hunch, followed our curiosity, took the necessary financial risks, and began building—reworking, experimenting, and iterating countless times as we proceeded. ([Location 2594](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2594))
+    - Tags: [[blue]] 
+    - Note: Wander to invent
+- our initial attempts to externalize some of our early internal machine learning tools were failures. It took years of wandering—experimentation, iteration, and refinement, as well as valuable insights from our customers—to enable us to find SageMaker, which launched just eighteen months ago. ([Location 2611](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2611))
+    - Tags: [[blue]] 
+    - Note: Need to experiment while you wander. Hit dead ends, iterate, no keep moving forward.
+- As a company grows, everything needs to scale, including the size of your failed experiments. If the size of your failures isn’t growing, you’re not going to be inventing at a size that can actually move the needle. Amazon will be experimenting at the right scale for a company of our size if we occasionally have multibillion-dollar failures. ([Location 2630](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2630))
+    - Tags: [[blue]] 
+    - Note: Need to have your ideas meet the scale of your company. Ideas that might return millions mean nothing to a company worth hundreds of billions. Keep scale in mind
+- AWS benefits from multitenant usage patterns and operates at far higher server utilization rates. ([Location 2792](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2792))
+    - Tags: [[blue]] 
+    - Note: Think of services you can offer that would be high utilization vs current low utilization offerings
+- Reflect on this from Theodor Seuss Geisel: “When something bad happens you have three choices. You can either let it define you, let it destroy you, or you can let it strengthen you.” ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2826))
+    - Tags: [[blue]] 
+- From age four to sixteen, I basically spent every summer working alongside him on the ranch. He was the most resourceful man. He did all his own veterinarian work. He would even make his own needles: pound the wire with an oxyacetylene torch, drill a little hole in it, sharpen it, and make a needle that he could suture up the cattle with. ([Location 2848](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2848))
+    - Tags: [[blue]] 
+    - Note: Learn to be resourceful and creative
+- That was an important moment for me because it was the very moment when I realized I was never going to be a great theoretical physicist, and so I started doing some soul-searching. In most occupations, if you’re in the ninetieth percentile or above, you’re going to contribute. In theoretical physics, you’ve got to be, like, one of the top fifty people in the world, or you’re really just not helping out much. It was very clear. I saw the writing on the wall and changed my major very quickly to electrical engineering and computer science. ([Location 2873](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2873))
+    - Tags: [[blue]] 
+    - Note: Look for areas where you don’t need to be #1. Play games where your probability of winning is high, but not so high that the game is too easy
+- My grandfather looked at me, and after a bit of silence, he gently and calmly said, “Jeff, one day you’ll understand that it’s harder to be kind than clever.” ([Location 2901](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2901))
+    - Tags: [[blue]] 
+- What I want to talk to you about today is the difference between gifts and choices. Cleverness is a gift; kindness is a choice. Gifts are easy—they’re given, after all. Choices can be hard. You can seduce yourself with your gifts if you’re not careful, and if you do, it’ll probably be to the detriment of your choices. ([Location 2902](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2902))
+    - Tags: [[blue]] 
+    - Note: Choose every day to be a good man. It’s hard but it must be done. Set unbelievably high standards for yourself as a person and follow through on them
+- I went to my boss and told him I wanted to start a company selling books on the Internet. He took me on a long walk in Central Park, listened carefully to me, and finally said, “That sounds like a really good idea, but it would be an even better idea for someone who didn’t already have a good job.” That logic made some sense to me, and he convinced me to think about it for forty-eight hours before making a final decision. Seen in that light, it really was a difficult choice, but ultimately I decided I had to give it a shot. I didn’t think I’d regret trying and failing. And I suspected I would always be haunted by a decision to not try at all. After much consideration, I took the less safe path to follow my passion, and I’m proud of that choice. ([Location 2922](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2922))
+    - Tags: [[blue]] 
+    - Note: Follow your passions. You won’t regret it
+- I will hazard a prediction. When you are eighty years old and, in a quiet moment of reflection, narrating for only yourself the most personal version of your life story, the telling that will be most compact and meaningful will be the series of choices you have made. In the end, we are our choices. Build yourself a great story. ([Location 2938](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2938))
+    - Tags: [[blue]] 
+- That resourcefulness of trying new things, figuring things out—what do customers really want?—pays off in everything. It pays off even in your daily life. How do you help your children? What’s the right thing? ([Location 2974](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2974))
+    - Tags: [[blue]] 
+- Even when our kids were four, we would let them use sharp knives, and when they were seven or eight, we would let them use certain power tools. My wife, much to her credit, has this great saying: “I would much rather have a kid with nine fingers than a resourceless kid,” which is a great attitude about life. ([Location 2976](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2976))
+    - Tags: [[blue]] 
+- I came across the fact that the web—the World Wide Web—was growing at something like 2,300 percent a year. Anything growing that fast, even if it’s baseline usage today is tiny, is going to be big. I concluded that I should come up with a business idea based on the internet and then let the internet grow around it and keep working to improve it. ([Location 2987](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2987))
+    - Tags: [[blue]] 
+    - Note: If your company uses growing technology, the rising tide will lift your boat too
+- I picked books because books are super unusual in one respect: there are more items in the book category than in any other category. There are three million different books in print around the world at any given time. The biggest bookstores had only 150,000 titles. So the founding idea of Amazon was to build a universal selection of books in print. ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=2990))
+    - Tags: [[blue]] 
+    - Note: Look for limitations that are alleviated by new technologies
+- People always accused us of selling dollar bills for ninety cents, and I said, “Look, anybody can do that and grow revenues.” That’s not what we were doing. We always had positive gross margins. It’s a fixed-cost business, and so I could see from the internal metrics that, at a certain volume level, we would cover our fixed costs, and the company would be profitable. ([Location 3024](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3024))
+    - Tags: [[blue]] 
+    - Note: Analyze fixed and variable costs, see what volume you need to reach profitability
+- I’ll ask the Amazon team to do a case study and find the real root cause or causes—and then do real root fixes. So then, when you fix it, you’re not just fixing it for that one customer. You’re fixing it for every customer, and that process is a gigantic part of what we do. So if I have a failed order or a bad customer experience, I treat it just like that. ([Location 3034](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3034))
+    - Tags: [[blue]] 
+    - Note: Use root cause analysis to eliminate errors at the source
+- You have to use heart and intuition. There has to be risk taking. You have to have instinct. All the good decisions have to be made that way. You do it with a group. You do it with great humility because, by the way, getting it wrong isn’t that bad. ([Location 3058](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3058))
+    - Tags: [[blue]] 
+- the big winners pay for thousands of failed experiments. ([Location 3061](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3061))
+    - Tags: [[blue]] 
+- Then on to eight hours of sleep. I prioritize sleep unless I’m traveling in different time zones. Sometimes getting eight hours is impossible, but I am very focused on it, and I need eight hours. I think better. I have more energy. My mood is better. And think about it: As a senior executive, what do you really get paid to do? You get paid to make a small number of high-quality decisions. Your job is not to make thousands of decisions every day. ([Location 3073](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3073))
+    - Tags: [[blue]] 
+    - Note: Higher quality decisions are more important than lots of decisions. Need sleep and good nutrition for that
+- all of our senior executives operate the same way I do. They work in the future. They live in the future. None of the people who report to me should really be focused on the current quarter. When I have a good quarterly conference call with Wall Street, people will stop me and say, “Congratulations on your quarter,” and I say, “Thank you,” but what I’m really thinking is that quarter was baked three years ago. Right now I’m working on a quarter that’s going to reveal itself in 2023 sometime, and that’s what you need to be doing. You need to be thinking two or three years in advance, and if you are, then why do I need to make a hundred decisions today? If I make, like, three good decisions a day, that’s enough, and they should just be as high quality as I can make them. Warren Buffet says he’s good if he makes three good decisions a year, and I really believe that. ([Location 3081](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3081))
+    - Tags: [[blue]] 
+- Just saying, “Alexa, please turn the temperature up two degrees” or “Alexa, turn off all the lights” is a very natural way of interacting in that kind of environment. Before Echo and Alexa, the primary way people interacted with their home automation system was bad: an app on their phone. If you want to control your lights, it’s very inconvenient if you need to find your phone, take it out, open a particular app, and find the right screen to control the lights on that app. ([Location 3121](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3121))
+    - Tags: [[blue]] 
+    - Note: Reducing friction
+- I always said we were only interested in having a differentiated offering, something that’s not me-too, because that space—physical stores—is so well served. If we had a me-too product offering, I knew it wasn’t going to work. Our culture is much better at pioneering and inventing, and so we have to have something that’s different. ([Location 3174](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3174))
+    - Tags: [[blue]] 
+    - Note: Make sure that you’re differentiated when you enter an established space
+- There’s one gift the internet brings newspapers. It destroys almost everything, but it brings one gift, and that is free global distribution. In the old days of paper newspapers, you would need to build printing plants everywhere. Your logistics operations, to have a truly global newspaper or even a really national newspaper, meant super-expensive, heavy-capital-expenditure investments. That’s why so few papers actually became national or global. But today, with the internet, you get that gift of free distribution. So we had to take advantage of that gift, and that was the basic strategy. ([Location 3207](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3207))
+    - Tags: [[blue]] 
+- it’s really dangerous to demonize the media. It’s dangerous to call the media lowlifes. It’s dangerous to say they’re the enemy of the people. We live in a society where it’s not just the laws of the land that protect us—we do have freedom of the press; it’s in the Constitution—but it’s also the social norms that protect us. It works because we believe those words on that piece of paper, and every time you attack the Constitution, you’re eroding it a little bit around the edges. ([Location 3221](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3221))
+    - Tags: [[blue]] 
+- “The administration may be at war with us. We are not at war with the administration. Just do the work. Just do the work.” I’ve heard him say it many times. I say it myself when I meet with journalists at the Washington Post. ([Location 3225](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3225))
+    - Tags: [[blue]] 
+- THE WAY YOU earn trust, the way you develop a reputation is by doing hard things well over and over and over. ([Location 3230](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3230))
+    - Tags: [[blue]] 
+    - Note: Commit to doing hard things and follow through on them no matter what
+- One of the things that’s happening inside technology companies is that there are groups of employees who, for example, think that technology companies should not work with the Department of Defense. In my view, if big tech is going to turn its back on the Department of Defense, this country is in trouble. ([Location 3243](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3243))
+    - Tags: [[blue]] 
+    - Note: Potential gap in market - high tech companies serving defense organizations
+- I don’t even like the phrase “work-life balance.” I think it’s misleading. I like the phrase “work-life harmony.” I know if I am energized at work, happy at work, feeling like I’m adding value, part of a team, whatever energizes you, that makes me better at home. It makes me a better husband, a better father. Likewise, if I’m happy at home, it makes me a better employee, a better boss. ([Location 3257](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3257))
+    - Tags: [[blue]] 
+- How do you hire great people and keep them from leaving? By giving them, first of all, a great mission—something that has real purpose, that has meaning. People want meaning in their lives. ([Location 3279](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3279))
+    - Tags: [[blue]] 
+- But you can drive great people away—for example, by making the speed of decision making really slow. Why would great people stay in an organization where they can’t get things done? ([Location 3282](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3282))
+    - Tags: [[blue]] 
+- When there’s a decision that needs to be made, you need to ask, “Is it a one-way door or a two-way door?” If it’s a two-way door, make the decision with a small team or even one high-judgment individual. Make the decision. If it’s wrong, it’s wrong. You’ll change it. But if it’s a one-way door, analyze it five different ways. Be careful, because that is where slow is smooth and smooth is fast. ([Location 3298](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3298))
+    - Tags: [[blue]] 
+- What can also really speed up decision making, in addition to asking whether a decision involves a one-way or two-way door, is teaching the principle of disagreeing and committing. So you’ve got passionate missionaries, which you need to have. Everybody cares, and if you’re not careful, the decision process can basically become a war of attrition. Whoever has the most stamina will win; eventually the other party, with the opposite opinion, will just capitulate: “Okay, I’m exhausted. We’ll do it your way.” That is the worst decision-making process in the world. It leaves everybody demoralized, and you also get a kind of random result. A much better approach is for the more senior person to escalate to even more senior leaders. Controversial decisions need to be escalated quickly. You can’t let two junior people argue for a year and exhaust themselves. You have to teach those junior people. ([Location 3303](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3303))
+    - Tags: [[blue]] 
+- “Look, none of us knows what the right decision is here, but I want you to gamble with me. I want you to disagree and commit. We’re going to do it this way. But I really want you to disagree and commit.” And here’s the important part: Sometimes this disagreement happens between the more senior person and a subordinate. ([Location 3310](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3310))
+    - Tags: [[blue]] 
+- It’s actually very calming really because it’s acknowledging the reality that the senior person has a lot of judgment. That judgment is super valuable, and that’s why sometimes you should overrule subordinates even when they have better ground truth. But that’s your judgment. And sometimes you’re, like, “I know this person, or I’ve worked with them for years. They have great judgment. They really disagree with me, and they have way better ground truth. I’m going to disagree and commit.” ([Location 3317](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3317))
+    - Tags: [[blue]] 
+- The most important thing for doing well against competition—in business and also, I think, with military adversaries—is to be both robust and nimble. And it is scale. ([Location 3326](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3326))
+    - Tags: [[blue]] 
+- Scale is a gigantic advantage because it gives you robustness. You can take a punch. But it’s also good if you can dodge a punch. And that’s the nimbleness. And as you get bigger, you grow more robust. ([Location 3327](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3327))
+    - Tags: [[blue]] 
+- The most important factor for nimbleness is decision-making speed. The second-most important factor is being willing to be experimental. You have to be willing to take risks. ([Location 3329](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3329))
+    - Tags: [[blue]] 
+- there are two different kinds of failure. There’s experimental failure—that’s the kind of failure you should be happy with. And there’s operational failure. We’ve built hundreds of fulfillment centers at Amazon over the years, and we know how to do that. If we build a new fulfillment center and it’s a disaster, that’s just bad execution. That’s not good failure. But when we are developing a new product or service or experimenting in some way, and it doesn’t work, that’s okay. That’s great failure. ([Location 3331](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3331))
+    - Tags: [[blue]] 
+    - Note: Make small bets and experiment. Those are good failures. Don’t fail on huge projects in core competencies. Those are bad failures.
+- Innovative people will flee an organization if they can’t make decisions and take risks. You might recruit them initially, but they won’t stay long. ([Location 3337](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3337))
+    - Tags: [[blue]] 
+- I would also say that it’s really important that politicians and others understand the value big companies bring in and not demonize or vilify business in general or especially big companies, and for the simple reason that there are certain things that only big companies can do. ([Location 3356](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3356))
+    - Tags: [[blue]] 
+- A fascinating thing about crowdsourcing is just how long-tailed it is. People are interested in trying to help the world in so many different ways—all involving what you would expect. ([Location 3450](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3450))
+    - Tags: [[blue]] 
+- We know for a fact that a kid who falls behind has a really, really hard time catching up, and if you can give somebody a leg up when they’re two, three, or four years old, by the time they get to kindergarten or first grade, they’re much less likely to fall behind. It can still happen, but you’ve really improved their odds. ([Location 3460](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3460))
+    - Tags: [[blue]] 
+    - Note: Get ahead early and you’ll stay ahead. Work as hard as you possibly can now to leap from other people and put an insurmountable gap in place
+- We’ll wander a little bit too. We have some very specific ideas about what we want to do, but I believe in the power of wandering. All my best decisions in business and in life have been made with heart, intuition, and guts, not analysis. When you can make a decision with analysis, you should do so, but it turns out in life that your most important decisions are always made with instinct, intuition, taste, and heart, and that’s what we’ll do with this Day One Fund too. ([Location 3472](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3472))
+    - Tags: [[blue]] 
+    - Note: Intuition > rationality when making the truly important decisions
+- When I was in high school I wrote, “The earth is finite, and if the world economy and population are to keep expanding, space is the only way to go.” I still believe this. ([Location 3505](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3505))
+    - Tags: [[blue]] 
+    - Note: Solution to overpopulation concerns. More room
+- You know the old saying “I hope I go to heaven when I die.” He said, “I realized at that moment, you go to heaven when you’re born.” Earth is heaven. ([Location 3513](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3513))
+    - Tags: [[blue]] 
+    - Note: Earth is Eden
+- we don’t want to face a civilization of stasis, and that is the real issue if we just stay on this planet—that’s the long-term issue. ([Location 3523](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3523))
+    - Tags: [[blue]] 
+    - Note: More planets = more resources = more growth
+- There’s good news: if we move out into the solar system, we will have, for all practical purposes, unlimited resources. So we get to choose: Do we want stasis and rationing? Or do we want dynamism and growth? This is an easy choice. We know what we want. We just need to get busy. We could have a trillion humans in the solar system, which means we’d have a thousand Mozarts and a thousand Einsteins. This would be an incredible civilization. ([Location 3551](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3551))
+    - Tags: [[blue]] 
+- O’Neill and his students came up with the idea of manufactured worlds, rotated to create artificial gravity with centrifugal force. These are very large structures, miles on end, and they hold a million people or more each. ([Location 3563](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3563))
+    - Tags: [[blue]] 
+- Earth will end up zoned residential and light industry. It’ll be a beautiful place to live. It’ll be a beautiful place to visit. It’ll be a beautiful place to go to college and to do some light industry. But heavy industry and all the polluting industry—all the things that are damaging our planet—will be done off Earth. We would thereby preserve this unique gem of a planet, which is completely irreplaceable. There is no plan B. We need to save our Earth, and we shouldn’t give up on a future of dynamism and growth for our grandchildren’s grandchildren. We can have both. ([Location 3582](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3582))
+    - Tags: [[blue]] 
+- There will be entrepreneurial activity, unleashing creative people to come up with new ideas about how to use space. But those entrepreneurial companies cannot exist today. It’s impossible because the price of admission to do interesting things in space right now is just too high. Because there’s no infrastructure. ([Location 3588](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3588))
+    - Tags: [[blue]] 
+    - Note: Infrastructure is needed to unleash ideas and creativity. Own the infrastructure (AWS, iPhone App Store, Vanderbilt’s railroads) and you own the future
+- Infrastructure lets entrepreneurs do amazing things. ([Location 3598](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3598))
+    - Tags: [[blue]] 
+- However the details of that future vision evolve, two things will be essential. First, we must have a radical reduction in launch cost. Launches are simply too expensive today. And second, we have to use in-space resources. Earth has a very powerful gravitational field, and lifting all of our resources off of Earth just isn’t going to work. We need to be able to use resources that are already in space. ([Location 3605](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3605))
+    - Tags: [[blue]] 
+    - Note: Reducing costs and energy usage is the focus. Process optimization, just like in the fulfillment centers
+- Right from the start, we wanted to build a human-rated system so we would be forced to think clearly about safety and reliability, escape systems—all the things we knew we would need to have practice with in order to build our next generation of vehicle. So it’s all about practice. ([Location 3638](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3638))
+    - Tags: [[blue]] 
+    - Note: Practice what you will need in the future (building products inside SFL to prep for starting a business)
+- When you can figure out the things that are going to remain true under almost all circumstances, then you can put energy into them. We know what those things are for New Glenn. It’s cost, reliability, and on-time launches. Each one needs improvement before we can enter the next phase of really going out into the solar system, and I know these things are stable in time. We are not going to have a New Glenn customer come to us in ten years and say, “Jeff, I wish the rocket just, you know, failed a little more often” or “I wish it was more expensive or that you were late on my launch dates.” ([Location 3648](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3648))
+    - Tags: [[blue]] 
+    - Note: Focus on customer desires that are stable across time and optimize for them relentlessly
+- When you get resources from the moon, you can get them into free space at very low cost. It takes twenty-four times less energy to lift a pound off the moon than it does off the Earth. That is a huge lever. ([Location 3666](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3666))
+    - Tags: [[blue]] 
+- When I’m eighty and reflecting back, I want to have minimized the number of regrets that I have in my life. And most of our regrets are acts of omission—the things we didn’t try, the paths untraveled. Those are the things that haunt us. And I decided that if I didn’t at least give it my best shot, I was going to regret not trying to participate in this thing called the internet that I thought was going to be a big deal. ([Location 3721](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3721))
+    - Tags: [[blue]] 
+    - Note: Regrets come more from things we didn’t do. Make sure to truly follow your passions
+- It took more than fifty meetings for me to raise $1 million from investors, ([Location 3727](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3727))
+    - Tags: [[blue]] 
+    - Note: Be patient and persistent selling your ideas
+- To invent you have to experiment, and if you know in advance that it’s going to work, it’s not an experiment. ([Location 3740](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3740))
+    - Tags: [[blue]] 
+- You earn trust slowly, over time, by doing hard things well—delivering on time; offering everyday low prices; making promises and keeping them; making principled decisions, even when they’re unpopular; and giving customers more time to spend with their families by inventing more convenient ways of shopping, reading, and automating their homes. ([Location 3758](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3758))
+    - Tags: [[blue]] 
+- When we’re criticized for those choices, we listen and look at ourselves in the mirror. When we think our critics are right, we change. When we make mistakes, we apologize. But when you look in the mirror, assess the criticism, and still believe you’re doing the right thing, no force in the world should be able to move you. ([Location 3761](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3761))
+    - Tags: [[blue]] 
+- more than eighty retailers in the US alone earn over $1 billion in annual revenue. ([Location 3796](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3796))
+    - Tags: [[blue]] 
+    - Note: How can you embed yourself in retail companies?
+- Shopify and Instacart—companies that enable traditionally physical stores to put up a full online store almost instantaneously and to deliver products directly to customers in new and innovative ways—and a growing list of omnichannel business models. ([Location 3804](https://readwise.io/to_kindle?action=open&asin=B08BCCT6MW&location=3804))
+    - Tags: [[blue]] 
+    - Note: Infrastructure for store building. Build and own the infrastructure

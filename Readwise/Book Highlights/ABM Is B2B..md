@@ -1,0 +1,143 @@
+# ABM Is B2B.
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41eQgrxFu1L._SL200_.jpg)
+
+## Metadata
+- Author: [[Sangram Vajre, Eric Spett]]
+- Full Title: ABM Is B2B.
+- Category: #books
+
+## Highlights
+- You can’t be a successful B2B organization in today’s world (no matter what the date is today, whenever you’re reading this) without going after the right customers, creating experiences designed just for them, and turning them into advocates for your product or service. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=227))
+    - Tags: [[blue]] 
+    - Note: Obsession with the customer a la Amazon
+- Marketing research firm Forrester discovered that fewer than one percent of all leads turn into customers. Put that another way: 99% of what you’re doing now doesn’t work. ([Location 233](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=233))
+    - Tags: [[blue]] 
+- We want you to train yourself and your teams to adopt an account-based mindset and let it worm its way into your entire operation until it becomes, for lack of a better phrase, just how you do things. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=253))
+    - Tags: [[blue]] 
+- marketing is defined by sales. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=291))
+    - Tags: [[blue]] 
+- B2B is not a marketing thing that marketers should figure out. It’s a business thing, and our job is to create business outcomes. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=306))
+    - Tags: [[blue]] 
+- Enable sales with metrics to engage only the accounts that could drive business outcomes. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=312))
+    - Tags: [[blue]] 
+- #OneTeam: Sales team. Marketing team. Customer Success team. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=316))
+    - Tags: [[blue]] 
+    - Note: Marketing and sales initiatives at SFL need to be more unified. Marketing initiatives right now are handed off to junior members who fumble them. That needs to change
+- The number-one company killer isn’t lack of growth; it’s a poor retention rate. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=319))
+    - Tags: [[blue]] 
+    - Note: Customer obsession and support leads to retention rate. Make sure to get into accounts and then serve them to the absolute best of your ability
+- ABM isn’t a marketing thing for marketers. It’s a cross-functional approach to being account-centric and customer-obsessed. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=325))
+    - Tags: [[blue]] 
+- We learned early on the value of running short sprints to show success. Go to your executives with your universe already trimmed to the best-fit accounts, the right verticals, the ideal company sizes, and hammer home the concept of targeting and nurturing customers that will generate revenue (you know, speak the CEO language for a bit). ([Location 352](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=352))
+    - Tags: [[blue]] 
+- To start doing something better, you must stop doing something else. That might seem vague, but B2B is really about taking the most efficient route to reach the right customers. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=386))
+    - Tags: [[blue]] 
+- One of our biggest early stories of customer success was an IT company that applied account-based thinking to cross-sell, up-sell (or up-serve, as we like to call it), and mentor current customers. We had never considered that. Suddenly, ABM was proving to be a multifaceted strategy adaptable for the entire customer life cycle. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=402))
+    - Tags: [[blue]] 
+- We ran a campaign for 10 accounts instead of 500, and saw engagement in five of them. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=431))
+    - Tags: [[blue]] 
+- Your first pilot might be one campaign for one customer. That’s not a failure, but an incredible opportunity to define your metrics of success. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=437))
+    - Tags: [[blue]] 
+- Not all accounts are equal in value, so why are you creating equal experiences for them? It’s okay to play favorites—in fact, it’s necessary! Assigning tiers is the fairest way to make sure you design experiences that reflect what each account is worth. Your top tier gets wined and dined; your bottom tier gets Sprite and takeout. A B2B approach gives such powerful insights into your accounts that you can decide how much to care about each of them. ([Location 453](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=453))
+    - Tags: [[blue]] 
+- If you have an account that’s worth a million dollars, care more! Pour everything you have into focused direct mail, a landing page with content tailored to that account and your support, a microsite all about them, a private dinner, and anything else that acknowledges how valuable the account is to you. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=456))
+    - Tags: [[blue]] 
+- We don’t organize dinners to pitch potential customers one-on-one; that’s a sales trick, and they see right through it. Instead, we invite CMOs from their industry who happen to be our customers and position the dinner as a networking event, an opportunity to meet people they otherwise wouldn’t. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=464))
+    - Tags: [[blue]] 
+- Because this ABM effort was so focused on retaining current customers, Thomson Reuters knew it wasn’t enough to be aligned just between sales and marketing; sales and account management had to be working as one team, too. No one knows an account better than the people working on it every day, and this partnership established trust that sales would be enabled with the correct strategy for key accounts. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=563))
+    - Tags: [[blue]] 
+- the ABM team leveraged new digital efforts such as personalized web experiences, gamification, more robust email and web marketing, and routine surveys to stay on top of customer needs. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=569))
+    - Tags: [[blue]] 
+- Customers in the early stages of a long renewal cycle were put on hold with a marketing strategy, then re-engaged with sales at a more tactical level when the time was right. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=573))
+    - Tags: [[blue]] 
+    - Note: Focus targeted sales on strategically important accounts (high probability new accounts and existing accounts up for renewal)
+- Including all accounts in an account-centric program was impossible, so it became critical to evaluate the most important techniques and tactics that would achieve scale within their target list and resources. Thomson Reuters landed on a combination of high-touch and high-tech to create powerful, blended messaging strategies. The marketing team created personalized web experiences based on IP backtracking data and leveraged online content syndication while sending impactful direct mail and attending relevant events. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=576))
+    - Tags: [[blue]] 
+    - Note: Personalized web experiences & email marketing leads to higher win rates
+- treating the sales and account management teams as though they are customers. The ABM team sends out twice-yearly surveys to check the program’s pulse, asking sales and account managers where they’re seeing value and giving them a platform to provide feedback. This helps the organization make future investments in the right places. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=590))
+    - Tags: [[blue]] 
+- Their multi-channel engagement strategy for this account included 1:1 ads, outbound calls with personalized messaging and direct mail, and email nurture programs that kept their brand in front of all the key stakeholders at the airline. ([Location 630](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=630))
+    - Tags: [[blue]] 
+- They gathered data and learned about customer challenges to identify opportunities to cross-sell. Marketers and account managers aligned on 1:1 engagement campaigns tailored to specific customer cases. They were ready with the perfect message at the perfect time, just as if they were trying to acquire a new customer. It was genius. By applying this approach to their current customer base, Masergy saw five times as much engagement from targeted accounts and a 40% increase in opportunity creation. And because they kept personal relationships and continued to serve relevant, high-touch content, their net promoter score jumped from 70% to 90%. ([Location 644](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=644))
+    - Tags: [[blue]] 
+- Pramata went right to the top with its initial ABM program, targeting sales ops and finance executives at 332 tech companies. They rebuilt the entire process and optimized tactics with the goal of simplifying everything. The first move? Eliminating the pointless form fills on their website. CFOs weren’t searching for Pramata, and engagements with people who were visiting the site were meaningless. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=677))
+    - Tags: [[blue]] 
+- education had to come before engagement. Their small sales and marketing teams worked together to develop personalized messaging aimed at the few individuals who understood the problem of revenue leakage. Paring down the target list allowed Pramata’s sales team to research the 10 to 20 people who cared and drive them to the website or curated event. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=680))
+    - Tags: [[blue]] 
+- Through an account-centric approach focused on targeting the right people and spreading the knowledge about revenue leakage, Pramata increased its inbound lead volume from one per quarter to five to seven, halving their deal time with those leads. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=689))
+    - Tags: [[blue]] 
+- Each team became responsible for running 200 concurrent 1:1 campaigns built on bespoke content experiences and personalized messaging. They created tailored landing pages for each account, empowering sales to choose content based on insights driven by marketing. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=725))
+    - Tags: [[blue]] 
+- the ABM team at Snowflake emphasized supporting sales at every touchpoint, from enabling sales with account intelligence for better discovery-call experiences to creating landing pages, ad groups, and segments in their ABM platform. ([Location 729](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=729))
+    - Tags: [[blue]] 
+- Ads evolved from “Snowflake + your company name” to “Hey, customer, here’s how we can help you solve one specific problem.” As the team members put it, they wanted viewers to understand they’d just been “ABM’ed.” ([Location 732](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=732))
+    - Tags: [[blue]] 
+- of the 1,000 campaigns Snowflake was running, there wasn’t a single form or piece of gated content to be found. Instead, the team became master retargeters, building credibility with the audience before driving viewers to more traditional conversion actions, such as demonstrations or free trials. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=737))
+    - Tags: [[blue]] 
+- Even if it seems like your customer base is “everyone,” you simply can’t deliver a personalized, human experience without shrinking your universe first. ([Location 765](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=765))
+    - Tags: [[blue]] 
+- To focus their efforts on demonstrating their value to the right people to reach their aggressive revenue goals, Sigstr filtered their total addressable market through three ICP criteria: geographics, firmographics, and technographics. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=780))
+    - Tags: [[blue]] 
+- you might try to filter your firmographic criteria by things like annual revenue, number of branches, how old or young the company is, and so on. ([Location 794](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=794))
+    - Tags: [[blue]] 
+- Sigstr took an aggressive account-based approach to become legit players in their category. They went from having an ideal customer that theoretically could have been any company in the world to creating personalized experiences for a tight list of about 2,000 companies. ([Location 805](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=805))
+    - Tags: [[blue]] 
+    - Note: Even if your target market is “everyone”, niche down so you can make an effective, targeted pitch
+- With a smaller list to work from, they’re able to get specific and build relationships that extend beyond the brand. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=810))
+    - Tags: [[blue]] 
+- We needed a framework to help us better target, engage, activate, and measure. So we created one. Target. Engage. Activate. Measure. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=877))
+    - Tags: [[blue]] 
+- you know the basic tenets of ABM: Sell to the people most likely to buy from you. Cultivate personal relationships with your customers. Land and expand to generate more revenue. Lather, rinse, and repeat. ([Location 898](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=898))
+    - Tags: [[blue]] 
+- the core functional areas of a modern B2B marketing organization: targeting, engagement, activation, and measurement against revenue-oriented key performance indicators. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=925))
+    - Tags: [[blue]] 
+- targeting the right accounts by creating a focused list of those that are best-fit. ([Location 936](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=936))
+    - Tags: [[blue]] 
+    - Note: Mid and large sized pharma
+- acquisition is still vital to your success with ABM, but it’s not the only application of targeting. Your best-fit accounts might be in your pipeline already, or among your existing customers. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=938))
+    - Tags: [[blue]] 
+- getting your message in front of every decision-maker in your target accounts. ([Location 942](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=942))
+    - Tags: [[blue]] 
+- ABM requires engagement on a more personalized level, with messaging that’s tailored to individual roles within an account at different decision-making stages. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=944))
+    - Tags: [[blue]] 
+- personalized sales outreach to the right people, at the right accounts, at the right time. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=950))
+    - Tags: [[blue]] 
+- Why are all those leads getting stuck in pipelines like a bottle cap down the sink? The reason probably is that your engagement efforts aren’t reaching the right decision-makers, or your sales and marketing teams are out of sync. ([Location 983](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=983))
+    - Tags: [[blue]] 
+- Once you acquire a customer, marketing should be enabled to focus resources efficiently on expansion to drive customer retention, land-and-expand opportunities, and cross-selling during the renewal period. That’s right: Marketers should be doing this. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=988))
+    - Tags: [[blue]] 
+- organizations with a strong ideal customer profile achieve 68% higher account win rates. ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1001))
+    - Tags: [[blue]] 
+- Your ICP is a precise profile of the companies who are the best fit for your product or service, as you determined. ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1007))
+    - Tags: [[blue]] 
+- total addressable market, which is every company in the conceivable universe that you could sell to. To do B2B right, you do not want to sell to all of them! As opposed to lead-based B2B marketing, which welcomes all potential customers to the pipeline, ABM says it’s necessary to ignore a large percentage of your TAM in order to find the rich account nuggets you can mine for gold over and over again. ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1010))
+    - Tags: [[blue]] 
+    - Note: Focus on best customers and hammer it home
+- The ICP defines the firmographic, environmental, and behavioral attributes of accounts expected to become a company’s most valuable customers. ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1018))
+    - Tags: [[blue]] 
+- A TAM is a more idealistic number of accounts, while an ICP is the realistic number of accounts that you should focus on. These are the accounts that are easiest to convert into opportunities, have the shortest sales cycles, and become the happiest customers. ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1030))
+    - Tags: [[blue]] 
+- To build a 360-degree account view, you need to look at two types of account data: fit and behavior. ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1064))
+    - Tags: [[blue]] 
+- Intent data: How the account is behaving in the market and what the account is searching for across the Internet. You can get this data from a variety of providers. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1071))
+    - Tags: [[blue]] 
+- Engagement data: How much an account has interacted with your company through your website, marketing, and sales activities. ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1078))
+    - Tags: [[blue]] 
+- Relationship data: How an account has interacted with your sales or success team in the past. ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1085))
+    - Tags: [[blue]] 
+- There are three ways to segment dynamically within ABM: one-to-many, one-to-few, and one-to-one. ([Location 1101](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1101))
+    - Tags: [[blue]] 
+- The ultimate high-value accounts get the one to-one treatment. This is where you spend more resources and budget to tailor your content, but the payoff is much higher. The reason is that you’ve segmented to discover who is ripe for your solution, right now. ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1118))
+    - Tags: [[blue]] 
+    - Note: Do this for all mid and large pharmas. Do one to many for academic groups
+- Marketing must activate salespeople by delivering advanced account intelligence and personalization tools to help prioritize and personalize their outreach. You’re creating a playbook from the common language your departments speak, driven by data to guarantee a consistent experience for accounts. ([Location 1270](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1270))
+    - Tags: [[blue]] 
+- There are three areas of focus when measuring the success of your account-based program: • Creating and deepening relationships with target accounts. • Moving accounts through to desired results. • Achieving account-based return on investment. ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1323))
+    - Tags: [[blue]] 
+- In this new approach, you won’t report on cost per lead or rates of lead conversion anymore. Instead, focus on the conversion rate from total accounts to engaged accounts, from total accounts to opportunity accounts, and from total accounts to closed accounts. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1342))
+    - Tags: [[blue]] 
+- At B2B 2.0, accounts are constantly moving up and down in priority based on real-time engagement insights provided by marketing. ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1464))
+    - Tags: [[blue]] 
+- TEAM at 2.0 looks like this: Targeting: dynamic Engagement: experiential Activation: prioritized Measurement: one scorecard ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B07VG62DRT&location=1468))
+    - Tags: [[blue]] 

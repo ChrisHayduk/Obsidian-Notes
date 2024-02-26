@@ -1,0 +1,175 @@
+# Business Plan Template and Example
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/510Oov1MmAL._SL200_.jpg)
+
+## Metadata
+- Author: [[Alex Genadinik]]
+- Full Title: Business Plan Template and Example
+- Category: #books
+
+## Highlights
+- I like to define the business plan as a cohesive strategy for your business that you may plan in your mind or in a written document that covers each major component of your business, how those major components will work well with one another, and your plan for executing those strategies. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=234))
+    - Tags: [[blue]] 
+- There are two instances when you should write a business plan. The first is when some individual or organization that you want to work with specifically asks for it. The second is for yourself to help you organize your ideas. ([Location 249](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=249))
+    - Tags: [[blue]] 
+- The value of business planning is to identify problems and fix them early, while it is still cheap to do so. ([Location 254](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=254))
+    - Tags: [[blue]] 
+- If you are a first-time entrepreneur, it is wise to consult with someone who has experience and a proven track record in your industry. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=269))
+- Planning is necessary. But over-planning can lead to stagnation and procrastination. The goal of planning is confidence, decisiveness, and action, not more planning. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=280))
+- A simple definition of a business model is how every component of your business works on its own and in relation to every other component of your business. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=290))
+- What is important in a business model is that its different components are not just great individually, but work well together. This might sound simple, but it is difficult to make everything fit just right because the details are ever-changing and you have to constantly adapt while ensuring that the overall plan is still tightly put together. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=293))
+    - Tags: [[blue]] 
+- The stronger your business model is during the planning phase, the better your business will be positioned to succeed. ([Location 297](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=297))
+    - Tags: [[blue]] 
+- Here is the 3-sentence business plan template: Product: What is the product and who is the target audience? Marketing: How will you promote the product? Finances: How will you generate revenue? ([Location 332](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=332))
+    - Tags: [[blue]] 
+- We also added sections that describe the target customer and the overall size of the opportunity. You should never start a business without a deep understanding of your target customer and your competitive business landscape. I left out the competition section, but that may also be added. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=425))
+    - Tags: [[blue]] 
+- The executive summary should be one or two paragraphs. It is an introduction to your business plan. It explains the problem your business is solving. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=499))
+    - Tags: [[blue]] 
+- Explain why this product or service should exist, and why it is needed. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=524))
+    - Tags: [[blue]] 
+- Especially in the beginning, try to understand who will be the ideal customers for your product. Once you identify your target consumer, market your business effectively to them and get them to love your product, then you can expand to other types of consumers. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=584))
+    - Tags: [[blue]] 
+- You can identify potential customers in three ways: demographics, psychographics, and geolocation. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=587))
+    - Tags: [[blue]] 
+- By combining the geolocation, demographics, and psychographics, we can understand a lot about the average app user. Once we have a deep understanding of our target customers, we can create a product that pleases them, and we can better understand how to promote our product to reach people who are in our target market. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=614))
+    - Tags: [[blue]] 
+- Understanding your consumer makes it easier and cheaper to reach them in large volume with targeted marketing and advertising. It also makes it easier to create a product that better satisfies their needs, and is used in a manner that is convenient to them (important for product adoption and customer retention). It also helps you better understand your market size, which enables you to make more accurate financial estimates. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=618))
+    - Tags: [[blue]] 
+- Point to realize: Narrowing down your target market to some specific group is not the same thing as limiting the potential of your opportunity. Narrowing down is the process of identifying your ideal customers. ([Location 622](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=622))
+    - Tags: [[blue]] 
+- It is important to emphasize that while you can get demographic data from market research firms and analytics software, to understand the psychographics of your customers you must be “nose deep” in their business. Find as many ways to talk to them as possible to understand their needs. By offering free help to my app users early on (I don’t do that anymore), I got invaluable insight into what my customers needed, and was able to create a product that satisfied them. Finding ways to talk to current and potential clients will give you great insight about what they need, which will help you create a more useful product for them that you can more easily promote. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=668))
+    - Tags: [[blue]] 
+- It is better to double down on the most effective marketing strategies to ensure that you execute them to your best ability than chase ineffective strategies. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=732))
+    - Tags: [[blue]] 
+- The term business model is often incorrectly used to express how your business generates revenue. As we covered earlier, a business model is something greater. A business model takes all the components of your business into account and evaluates how they work with one another. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=741))
+    - Tags: [[blue]] 
+- The revenue model is just a part of the business model, and a revenue model can contain one or more revenue streams. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=743))
+    - Tags: [[blue]] 
+- The difference between the cash flow statement and the income statement is that the income statement has more types of items that are included. Some examples of additional types of items in the income statement are interest you might accrue, loans, stock transactions, donations, and depreciations. ([Location 965](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=965))
+    - Tags: [[blue]] 
+- To simplify things, think of the cash flow statement as an aid to understanding the operational financial health of your business while the income statement gives you a broader picture of your company’s financial health. ([Location 968](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=968))
+    - Tags: [[blue]] 
+- It is much harder to create an accurate forecast for a new business because there is no previous data on which to base projections. But some parts of the process are similar to forecasting for an established business. You also have to set a time period and instead of looking in the past for data, what you can do is anticipate costs and expenses. Those can be relatively easy to predict because you probably have an idea of the number of employees you will have, office space you will need to rent, and inventory you must purchase. ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1077))
+    - Tags: [[blue]] 
+- To make a revenue projection, look at how companies similar to yours started. You can also ask industry experts what might be reasonable to expect and base your revenue projections on your competitor research, guidance of industry experts, and your own industry expertise. ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1081))
+    - Tags: [[blue]] 
+- Your job is to figure out the number of widgets you need to sell in order to 1) break even financially on a month to month basis, 2) turn a profit, 3) finance further business growth or reach other business goals. Also consider whether selling as many widgets as you need in order to meet your financial goals is viable through your available marketing channels and the size of your target market. ([Location 1093](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1093))
+    - Tags: [[blue]] 
+- It is important to understand the competitors in your business environment. Your competitors are to be respected, understood, and serve as examples if they are successful. You must understand why they are successful as well as their shortcomings. Where they fail may present an opportunity for your business to succeed by carving out a niche. Wherever your competition is strong is an opportunity to learn from them. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1132))
+    - Tags: [[blue]] 
+- Unfortunately, ranking in Google search (SEO) is quite challenging for an online service business because there is so much competition. What works better is to make sure your profile is featured at the top of search results in freelancing sites where clients are actively searching for specific service providers. It isn’t as competitive as ranking highly in Google search and while freelancing sites like Fiverr or UpWork are not without their challenges, they can bring many new clients, some of whom may become premium-paying clients. ([Location 1562](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1562))
+    - Tags: [[blue]] 
+- To solve the problem of generating “critical mass,” such sites often begin by focusing on a niche in the market. The niche can be geographical or topical. Once they raise money and get a foothold in a niche market, they tend to be able to generate enough momentum, expand to other niches, and grow to become giant companies. ([Location 1597](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1597))
+    - Tags: [[blue]] 
+    - Note: Niche out
+- Perhaps the biggest mistake anyone can make is to think they are fine the way they are. From years of experience creating products and running businesses, I have developed a mantra for myself: Everything can always be better. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1696))
+    - Tags: [[blue]] 
+    - Note: Continuous self improvement and continuous process improvement is the only way to compound gains into insurmountable leads. Passive practice (vs active or deliberate practice) will not get you to where you want to go.
+- Don’t use planning as an excuse to put off starting the work on your business. Many people deliberately and perpetually remain in the planning and research phase while never starting. At some point you must start doing actual work. ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1707))
+    - Tags: [[blue]] 
+    - Note: Think the Wright brothers. Beat out Harvard researchers developing planes because they wasted less time on pen & paper theory and instead built planes quickly and iterated rapidly on faulty designs.
+- Many people find the finance section of the business plan confusing and put it off. You will need to face this at some point. It is much better to understand the financials of your business before you launch to avoid preventable mistakes. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1715))
+    - Tags: [[blue]] 
+    - Note: Learn accounting and corporate finance so you can understand how your company works at a fundamental level
+- This is the fifth major edition of this book and 19th internal revision. Despite so many rewrites, re-reads, and multiple editors, I still find many sentences and paragraphs that can be improved. The same will be true for your business plan. It can be boring to re-read your own plan, but doing so will make it much better. ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1741))
+    - Tags: [[blue]] 
+    - Note: Make sure to edit and re-edit your business plan (and all your important writing for that matter). Things can always be worded or structured better
+- When asked who their ideal customer is, many first-time entrepreneurs often say that their business will appeal to everyone. This is almost never the case. You must have a very specific kind of customer in mind in order to truly satisfy them with your product and reach them with your marketing. ([Location 1773](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1773))
+    - Tags: [[blue]] 
+    - Note: Really make an effort to understand who the true customer is and tailor product + marketing to their wants/needs
+- When Paul Graham, founder of the Y-Combinator and one of today’s most admired business leaders, mentors the hundreds of start-ups that come through his incubator, one of his common recommendations is to find the first hundred customers who will absolutely love your business rather than trying to please everyone early. ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1779))
+    - Tags: [[blue]] 
+    - Note: Identify people in pharma as who NEED the drug discovery tool. Tap into Annabel’s network for this
+- Focus on what your business is first and foremost. While the latter version of the salon sounds amazing and is fun to dream about, the reality is that extra complexity increases difficulty and chance of failure, and requires more money to open and operate. It is challenging enough to open a regular salon so keep things simple in the beginning and grow into your dream state later. ([Location 1786](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1786))
+    - Tags: [[blue]] 
+    - Note: Focus on a niche and dominate it. Then use funds to expand
+- Devote 5-10% of your work week to self-assessment and improvement of your skills and the quality of your business. For example, if your product design isn’t ideal, work with a freelance designer. If you procrastinate, give some attention to forming healthier work habits. Be mindful of what’s hurting you or your business and devote time to improve those weaknesses. You won’t become great at everything, but fixing problem areas can often help you take a big step forward. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1795))
+    - Tags: [[blue]] 
+    - Note: Perform consistent purposeful practice and deliberate practice (when possible) to improve in key areas. Passive/naive practice will not get the job done and relying on it will cause you to stagnate
+- “If everybody is doing it one way, there’s a good chance you can find your niche by going exactly in the opposite direction.” ([Location 1834](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1834))
+    - Tags: [[blue]] 
+- it can be more powerful to first take a deep look inside yourself and examine your strengths and passions when searching for a good niche. Work from an understanding of who you are and what drives you and identify a business area that you want to get into because it will fulfill you as a human being. ([Location 1857](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1857))
+    - Tags: [[blue]] 
+    - Note: Use the “random walk” of following your interests. This will lead to a unique set of skills and perspectives that will allow you to create new niches and markets
+- if you don’t have experience or industry knowledge, your first three to nine months of starting your business will be a huge learning curve and that might put you at a disadvantage. ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1878))
+    - Tags: [[blue]] 
+    - Note: Learn drug discovery, molecular biology, and product management as fast as humanely possible. Must be close to expert level on all 3 by the end of 2023
+- As your business grows, you will hire and outsource many parts of your business. But in the beginning, you or someone on your founding team should be able to do many of the necessary tasks. You simply won’t have the resources to hire and outsource everything, nor should you at first. ([Location 1885](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1885))
+    - Tags: [[blue]] 
+    - Note: Use your coding and solution architecture skills to speed up development early on
+- To summarize the article, Mark talks about three kinds of markets you can take on. We can think of these as niches. He refers to these markets as an elephant, a deer, and a rabbit. A gigantic and competitive market is like an elephant. It is huge with potential for a big reward, but difficult to overcome. A market that is too tiny is like a rabbit. Even if you successfully hunt it, there isn’t much meat on it. So a deer-sized niche is a perfect size. It is not too big to kill, and the reward is a good size. ([Location 1906](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1906))
+    - Tags: [[blue]] 
+    - Note: Look for niches with decent potential returns that don’t have massive competition. Keep in mind the scale of returns you need to determine what niches to attack (eg for personal one-man app development, a niche of a couple million dollars in revenue would be life changing. For my product development job, a couple million is basically nothing. Needs to be a market on the order of $50-$100 million)
+- Another mistake I made was not choosing a niche that was narrow enough. Going from all fashion to just shoes might seem like I narrowed things down, but shoes are still a multi-billion dollar industry that is far too vast with many multi-billion dollar competitors. Even if I narrowed all shoes to all sneakers, that would have still been too large of a niche. Sometimes you have to “niche down” much further than the original starting point. Even if I chose Jordan sneakers, since that is one of the most iconic sneaker brands, I might have found too much competition. Perhaps sneakers of players who played for a particular team would have been a good niche because that would have also created a natural marketing strategy, which would be to target fans of that specific team. ([Location 1942](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=1942))
+    - Tags: [[blue]] 
+    - Note: Niche down until you eliminate competitors with way deeper pockets than you
+- The last group from whom to gather feedback about your business idea are potential customers. Identifying and reaching out to your potential customers depends on your industry and niche. Try to identify them and begin conversations with them early. You don’t have to start selling to them, but get their thoughts on your ideas and whether they would be interested in buying the kind of product or service you are considering. ([Location 2024](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2024))
+    - Tags: [[blue]] 
+    - Note: Use Annabel/Deloitte’s network extensively to interface with real customers and shape the direction of the drug discovery product
+- long-term clients don’t just suddenly appear. They must be cultivated. In a savvy business, that cultivation begins at the planning stages. ([Location 2035](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2035))
+    - Tags: [[blue]] 
+- the key to long-term customer retention is the value you give to your customers. When people have an amazing experience, they rush back for more. If they get just an okay experience, they typically don’t. ([Location 2038](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2038))
+    - Tags: [[blue]] 
+    - Note: Make protein design tool as slick, easy to use, and performant as possible. The great experience will trigger customers to buy more product
+- As small business owners, we tend to obsess about getting new clients. But the ironic thing is that if our current clients love our product or service, it will be much easier to sell to existing clients than to find new ones. You must foster those relationships. ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2040))
+    - Tags: [[blue]] 
+- You might wonder which social network is most effective in getting people to re-engage with your business. The answer is that multiple points of contact is better, but if you had to pick one, it is email. Most online marketers place a great deal of importance on email. If you create, grow, and maintain a highly engaged email list, it can be a powerful tool for you to generate many sales from your customers for months and years to come. ([Location 2083](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2083))
+    - Tags: [[blue]] 
+    - Note: Create drug discovery specific email list and promote to it/send newsletter and insight style content
+- There is also point relevant to the subject of this book, which is to make sure you plan well yet not to spend too much time planning because over-planning can often result in never starting, which can be worse than trying and failing. If you are a planner by nature, note principle seven, which is decisiveness. Begin practicing it. ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2151))
+    - Tags: [[blue]] 
+    - Note: Planning is useful, but starting is more important. Break your inertia and get moving.
+- Many people think that because they know how to perform the technical aspect of a business, they can run the entire business. But the business needs many additional skills like marketing, management, leadership, and building systems and processes so the business runs smoothly. ([Location 2161](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2161))
+    - Tags: [[blue]] 
+    - Note: Acquire the technical skills, business knowledge/strategy ability, AND the management skills needed. This will ensure success across a long time scale
+- Organization, systems, and procedures are needed to take your business past the technician phase. You must acquire new skills beyond technical ones and understand the big-picture requirements. ([Location 2174](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2174))
+    - Tags: [[blue]] 
+    - Note: Position the drug discovery IP unit as an independent startup within SFL. Create a new set of processes to support rapid and effective software development
+- The Customer Development methodology. The idea behind this principle is that gaining consumer feedback and anecdotal experiences is key to developing a successful business. Before building a product or providing a particular service, you must seek out potential customers and ask them various questions, such as whether they would use/buy the service and if they currently have any of the assumed pain points. This market feedback is invaluable and prevents you from basing your work on false, theoretical assumptions. Customer insights will help you build a product or service they love and will be more likely to buy. Feedback can also give you insight to why potential customers might not buy your product, which would save you a lot of time and money by preventing you from creating it. ([Location 2181](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2181))
+    - Tags: [[blue]] 
+    - Note: CUSTOMER FEEDBACK IS KEY. Use the insights from “Sprint” and tap into Annabel/Deloitte’s network to get rapid customer feedback and attain product-market fit
+- To illustrate how Steve Blank’s and Eric Ries’s methodologies work together, let’s assume you’ve gone through the Customer Development process and you are ready to execute your plan. Do you build your grandiose vision right away? According to Eric Ries, the answer is no. Instead, you build an MVP - the minimum viable version of your product. Once you build your MVP, you must immediately let customers use it so you can gather feedback about the live product. In the beginning this can be your beta launch stage, but it is good to continue doing this far beyond the beta stage, releasing your product to more people each time you make improvements. ([Location 2199](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2199))
+    - Tags: [[blue]] 
+    - Note: Give product free to partner pharma + various academic labs for promotion and real-world feedback
+- Seth Godin’s idea is that a business must stand out among its competitors by being different; it must be a purple cow among a field of regular cows. When you are creative, bold, or unique, you stand out and get noticed. ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2217))
+    - Tags: [[blue]] 
+    - Note: Beautiful, simple to use interfaces are non existent in pharma. Combine that with latest AI models running under the hood and we have a differentiated product. Really hammer home on those two differentiators
+- A good rule of thumb about outsourcing is that paying hourly low wages does not mean cheap. A low-cost and low-skill worker may take much longer to do a task than a higher skilled worker. Not only would that negate all the supposed savings, but a highly-skilled worker with more experience can also make more independent decisions, think on their feet, and deliver better results while requiring less of your time managing them. It is often better to pay more for quality work than cheaper wages that get you shoddy results and work you might have to re-do. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2275))
+    - Tags: [[blue]] 
+    - Note: Hire a high end full stack engineer, even if you need to pay up. It will pay dividends down the line
+- Stress management ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2470))
+    - Tags: [[blue]] 
+    - Note: You need to get way better at this
+- Building confidence and self-esteem, starting with affirmations (sometimes using overconfidence as a tool) ([Location 2471](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2471))
+    - Tags: [[blue]] 
+    - Note: Also focus on this
+- There is a pattern in almost every industry. A disproportionate amount of revenue goes to the top companies and almost all other companies struggle. For example, in the taxi app space, the major winner is Uber. The second company is Lyft. The third company is behind by such a wide margin that most people would struggle to name it or recognize its name if it was stated. ([Location 2482](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2482))
+    - Tags: [[blue]] 
+    - Note: Focus on niche and aim to be #1 in that niche
+- The path to success may not be linear, but typically follows these three steps: Step 1: Identify your true passion and choose goals on which you will focus intensely Step 2: Plan how you will get there Step 3: Execute consistently and relentlessly without stopping until you achieve your goals ([Location 2499](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2499))
+    - Tags: [[blue]] 
+- To ensure that you choose and stay on the right life path for you, it is recommended that entrepreneurs practice self-awareness, introspection, and mindfulness while surrounding themselves with people who can be sounding boards and brainstorming partners. ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2512))
+    - Tags: [[blue]] 
+    - Note: 1. Introspection
+      2. Journaling
+      3. Blogging
+      4. Bouncing ideas off Gaby, Giulio, dad, other mentors.
+- Don't trust yourself when you are excited. Test yourself in action. That test is you beginning to do the work to make your business happen. ([Location 2560](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2560))
+    - Tags: [[blue]] 
+    - Note: Don’t trust yourself, test yourself
+- Starting will get you ahead of more than 50% of the people out there who talk about their dreams but never start. Consistently working will get you ahead of 60%, 70%, then 80%, and perhaps even 90% of your competition as you become better at what you do. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2567))
+    - Tags: [[blue]] 
+    - Note: Consistent hard work towards your goal will see you out compete everyone
+- To be truly successful, you need to be the best and get to the top 1% or 2%. To get there, you’ll have to outcompete some of the most competent people and businesses. ([Location 2570](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2570))
+    - Tags: [[blue]] 
+    - Note: Deliberate practice across a wide variety of skills (technical, business, management, interpersonal) as well as random walk of personal interests
+- Whenever top CEOs are surveyed about how they approach productivity, they often answer that they do less work. They identify less fruitful tasks and simply remove those from their schedule. For example, out of ten things you have on your to-do list now, probably two or three will pay the highest dividends and the others will be much less effective at getting you closer to your goals. The trick is to identify the tasks on your to-do list with the most and least potential and remove the low-potential tasks. ([Location 2621](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2621))
+    - Tags: [[blue]] 
+    - Note: Identify the highest leverage actions you can take and do them. Cut out the fat ruthlessly
+- Stay humble. What you are doing might be great, but there is always more to learn and ways to improve. This is a much healthier mindset. If you let your ego become too large, you will convince yourself that you are great the way you are, don’t need to improve anymore, and that will be the beginning of the end. Instead, keep the attitude that you are always just at the relative beginning and you need to learn more and improve yourself in many ways. ([Location 2666](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2666))
+    - Tags: [[blue]] 
+- As soon as you step out of your comfort zone, you will begin to fail. See it as a good sign instead of a bad one. Every failure or criticism is either a sign that you are learning or a clue to what you can improve. You can use those clues to unearth blind spots in your business and fix them. ([Location 2689](https://readwise.io/to_kindle?action=open&asin=B0193L53IU&location=2689))
+    - Tags: [[blue]] 
+    - Note: Always learn from failures. Fail fast and iterate

@@ -1,0 +1,472 @@
+# Leonardo Da Vinci
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51gFt86kFAL._SL200_.jpg)
+
+## Metadata
+- Author: [[Walter Isaacson ]]
+- Full Title: Leonardo Da Vinci
+- Category: #books
+
+## Highlights
+- He would go on to create the two most famous paintings in history, The Last Supper and the Mona Lisa. But in his own mind, he was just as much a man of science and engineering. With a passion that was both playful and obsessive, he pursued innovative studies of anatomy, fossils, birds, the heart, flying machines, optics, botany, geology, water flows, and weaponry. Thus he became the archetype of the Renaissance Man, an inspiration to all who believe that the “infinite works of nature,” as he put it, are woven together in a unity filled with marvelous patterns. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=138))
+    - Tags: [[blue]] 
+    - Note: Study widely, cultivate a diverse range of interests, and dive deeply into several areas
+- His scientific explorations informed his art. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=145))
+    - Tags: [[blue]] 
+- Largely due to his work, dimensionality became the supreme innovation of Renaissance art. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=151))
+    - Tags: [[blue]] 
+- As he aged, he pursued his scientific inquiries not just to serve his art but out of a joyful instinct to fathom the profound beauties of creation. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=152))
+    - Tags: [[blue]] 
+- But even when he was engaged in blue-sky thinking, his science was not a separate endeavor from his art. Together they served his driving passion, which was nothing less than knowing everything there was to know about the world, including how we fit into it. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=154))
+    - Tags: [[blue]] 
+    - Note: Understand everything about the world you possibly can
+- how the ability to make connections across disciplines—arts and sciences, humanities and technology—is a key to innovation, imagination, and genius. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=162))
+    - Tags: [[blue]] 
+- “He saw beauty in both art and engineering,” Jobs said, “and his ability to combine them was what made him a genius.”4 ([Location 170](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=170))
+    - Tags: [[blue]] 
+- Leonardo had almost no schooling and could barely read Latin or do long division. His genius was of the type we can understand, even take lessons from. It was based on skills we can aspire to improve in ourselves, such as curiosity and intense observation. He had an imagination so excitable that it flirted with the edges of fantasy, which is also something we can try to preserve in ourselves and indulge in our children. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=178))
+    - Tags: [[blue]] 
+- Vision without execution is hallucination. But I also came to believe that his ability to blur the line between reality and fantasy, just like his sfumato techniques for blurring the lines of a painting, was a key to his creativity. Skill without imagination is barren. Leonardo knew how to marry observation and imagination, which made him history’s consummate innovator. ([Location 186](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=186))
+    - Tags: [[blue]] 
+    - Note: Combine creativity, fantasy, imagination (right brain) with logic, rationality, productivity (left brain). Become unstoppable
+- “the most relentlessly curious man in history.”6 ([Location 197](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=197))
+    - Tags: [[blue]] 
+    - Note: Feed your curiosity. Make it grow and expand. It is what sets you apart, what brings you closer to the ubermensch of Nietzsche - a profound love for and affirmation of life
+- My favorite gems in his notebooks are his to-do lists, which sparkle with his curiosity. One of them, dating from the 1490s in Milan, is that day’s list of things he wants to learn. “The measurement of Milan and its suburbs,” is the first entry. This has a practical purpose, as revealed by an item later in the list: “Draw Milan.” Others show him relentlessly seeking out people whose brains he could pick: “Get the master of arithmetic to show you how to square a triangle. . . . Ask Giannino the Bombardier about how the tower of Ferrara is walled. . . . Ask Benedetto Protinari by what means they walk on ice in Flanders. . . . Get a master of hydraulics to tell you how to repair a lock, canal and mill in the Lombard manner. . . . Get the measurement of the sun promised me by Maestro Giovanni Francese, the Frenchman.”7 He is insatiable. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=198))
+    - Tags: [[blue]] 
+    - Note: Find ALL the sources. For all your curiosities. Devour them. Books, conversations, interviews, etc
+- But I did learn from Leonardo how a desire to marvel about the world that we encounter each day can make each moment of our lives richer. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=235))
+    - Tags: [[blue]] 
+- Many of these early accounts mention Leonardo’s looks and personality. He is described as a man of eye-catching beauty and grace. He had flowing golden curls, a muscular build, remarkable physical strength, and an elegance of bearing when he was walking through town in his colorful garb or riding on a horse. “Beautiful in person and aspect, Leonardo was well-proportioned and graceful,” according to the Anonimo. In addition, he was a charming conversationalist and a lover of nature, renowned for being sweet and gentle to both people and animals. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=253))
+    - Tags: [[blue]] 
+    - Note: The ubermensch is physically fit and powerful, kind due to an assuredness and happiness with oneself, inquisitive about nature
+- His ability to combine art, science, technology, the humanities, and imagination remains an enduring recipe for creativity. So, too, was his ease at being a bit of a misfit: illegitimate, gay, vegetarian, left-handed, easily distracted, and at times heretical. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=274))
+    - Tags: [[blue]] 
+- Above all, Leonardo’s relentless curiosity and experimentation should remind us of the importance of instilling, in both ourselves and our children, not just received knowledge but a willingness to question it—to be imaginative and, like talented misfits and rebels in any era, to think different. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=276))
+    - Tags: [[blue]] 
+- He would have made a poor notary: he got bored and distracted too easily, especially when a project became routine rather than creative.14 ([Location 377](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=377))
+    - Tags: [[blue]] 
+    - Note: Allow your curiosity to run your wild. Your desire to jump between topics can be a strength rather than a weakness
+- as he dubbed himself with some irony. But he also took pride that his lack of formal schooling led him to be a disciple of experience and experiment. “Leonardo da Vinci, disscepolo della sperientia,”16 he once signed himself. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=382))
+    - Tags: [[blue]] 
+    - Note: Learning from practice and experience rather than reading
+- His lack of reverence for authority and his willingness to challenge received wisdom would lead him to craft an empirical approach for understanding nature that foreshadowed the scientific method developed more than a century later by Bacon and Galileo. His method was rooted in experiment, curiosity, and the ability to marvel at phenomena that the rest of us rarely pause to ponder after we’ve outgrown our wonder years. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=392))
+    - Tags: [[blue]] 
+- “First I shall do some experiments before I proceed further,” he announced, “because my intention is to consult experience first and then with reasoning show why such experience is bound to operate in such a way.” ([Location 398](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=398))
+    - Tags: [[blue]] 
+- And it does not take a Freud to understand that sexual drives can be sublimated into ambition and other passions. Leonardo said so himself. “Intellectual passion drives out sensuality,” he wrote in one of his notebooks.24 ([Location 431](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=431))
+    - Tags: [[blue]] 
+    - Note: Allow your intellectual passions to subsume everything else. They are the pinnacle
+- Suddenly there arose in me two contrary emotions, fear and desire—fear of the threatening dark cave, desire to see whether there were any marvelous thing within.”25 ([Location 437](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=437))
+    - Tags: [[blue]] 
+    - Note: Fear of the unknown accompanied by a burning desire to know it. This is how you should be as well
+- The culture rewarded, above all, those who mastered and mixed different disciplines. ([Location 560](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=560))
+    - Tags: [[blue]] 
+- Alberti was a major influence nonetheless. Leonardo studied his treatises and consciously tried to emulate both his writing and his demeanor. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=595))
+    - Tags: [[blue]] 
+    - Note: Emulate great men from the past
+- Vasari also noted that Leonardo was interested in so many things that he got easily distracted. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=610))
+    - Tags: [[blue]] 
+- The project, which he would still refer to decades later in his notebook, ingrained in him a sense of the interplay between artistry and engineering; ([Location 709](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=709))
+    - Tags: [[blue]] 
+    - Note: Art and engineering (even software engineering) are two sides of the same coin
+- The glory of being an artist, he realized, was that reality should inform but not constrain. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=860))
+    - Tags: [[blue]] 
+- Other artists had drawn landscapes as backdrops, but Leonardo was doing something different: depicting nature for its own sake. ([Location 864](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=864))
+    - Tags: [[blue]] 
+    - Note: Love of and appreciation for nature
+- Alberti in his treatise on painting had advised that lines should be drawn to delineate edges, and Verrocchio did just that. Leonardo took care to observe the real world, and he noticed the opposite: when we look at three-dimensional objects, we don’t see sharp lines. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=941))
+    - Tags: [[blue]] 
+    - Note: Using real, unbiased observation of the natural, REAL world to overturn dogma
+- He was twenty-four, and most former apprentices would have flown their master’s nest by then. But Leonardo was not only still living with his teacher but was producing Madonnas so lacking in distinctiveness that it is hard to tell whether they were painted by him or someone else in the workshop. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1217))
+    - Tags: [[blue]] 
+    - Note: Two takeaways: 1. Develop a very close relationship with a mentor and spend lots of time learning with them 2. Creativity can take time to develop
+- His father was clearly worried, like the parents of many twentysomethings over the ages, about his talented child’s work habits. The monks were as well. The elaborate contract was designed to force Leonardo, already known for leaving paintings unfinished, to buckle down and produce a completed work. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1237))
+    - Tags: [[blue]] 
+- Despite his disdain, Leonardo closely studied Botticelli’s versions of the Adoration of the Magi and adopted some of his ideas.23 But then he set out to make one that, unlike Botticelli’s, was filled with energy, emotion, agitation, and messiness. ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1265))
+    - Tags: [[blue]] 
+    - Note: Learn from peers and improve on their work. Don’t just accept it uncritically - analyze its weaknesses and do better
+- It is a remarkable combination of optical science and imaginative art, and it shows how he constructed his art on a scaffold of science. ([Location 1281](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1281))
+    - Tags: [[blue]] 
+    - Note: Combine imagination with logic
+- As Leonardo later wrote in his notebook, “Do not repeat the same movements in the same figure, be it limbs, hands or fingers, nor should the same pose be repeated in one narrative painting.” ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1320))
+    - Tags: [[blue]] 
+    - Note: Extreme attention to detail, down to the finger. No copy and pasting to make things go faster. Each small detail gets extreme care to bring it to life
+- One possible reason is that the task he undertook became overwhelming for a perfectionist. As Vasari explained about Leonardo’s unfinished works, he was stymied because his conceptions were “so subtle and so marvelous” that they were impossible to execute faultlessly. ([Location 1329](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1329))
+    - Tags: [[blue]] 
+- He was intent on making sure each one reacted emotionally to the others so that the painting would feel like a coherent narrative and not a random assortment of isolated characters. ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1337))
+    - Tags: [[blue]] 
+    - Note: Everything gets extreme attention to detail. Everything must fit together into a larger cohesive narrative as well. Make sure each individual piece is perfect and that each piece fits together to form the larger vision as well
+- There was another reason, one even more fundamental, that Leonardo did not complete the painting: he preferred the conception to the execution. As his father and others knew when they drew up the strict contract for his commission, Leonardo at twenty-nine was more easily distracted by the future than he was focused on the present. He was a genius undisciplined by diligence. ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1348))
+    - Tags: [[blue]] 
+- Leonardo was pioneering a new style that treated narrative paintings and even portraits as psychological expositions. ([Location 1414](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1414))
+    - Tags: [[blue]] 
+- He sought to portray not only moti corporali, the motions of the body, but also how they related to what he called “atti e moti mentali,” the attitudes and motions of the mind.41 More important, he was a master at connecting the two. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1418))
+    - Tags: [[blue]] 
+    - Note: Connection of body and mind. Combining the spiritual and the natural
+- “The good painter has to paint two principal things, man and the intention of his mind,” he wrote. “The first is easy and the second is difficult, because the latter has to be represented through gestures and movements of the limbs.”44 He expanded on this concept in a long passage in his notes for his planned treatise on painting: “The movement which is depicted must be appropriate to the mental state of the figure. The motions and postures of figures should display the true mental state of the originator of these motions, in such a way they can mean nothing else. Movements should announce the motions of the mind.” ([Location 1427](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1427))
+    - Tags: [[blue]] 
+- “We do not lack devices for measuring these miserable days of ours, in which it should be our pleasure that they be not frittered away without leaving behind any memory of ourselves in the mind of men.”46 ([Location 1442](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1442))
+    - Tags: [[blue]] 
+    - Note: Even Leonardo had days where he felt unproductive
+- “There is no perfect gift without great suffering. Our glories and our triumphs pass away.” ([Location 1450](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1450))
+    - Tags: [[blue]] 
+- On the same sheet is a transcription from Dante’s Inferno: “Put off this sloth,” the master said, “for shame! Sitting on feather-pillows, lying reclined Beneath the blanket is no way to fame— Fame, without which man’s life wastes out of mind, Leaving on earth no more memorial Than foam in water or smoke upon the wind.” 51 ([Location 1451](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1451))
+    - Tags: [[pink]] 
+- As he approached his thirtieth birthday, Leonardo had established his genius but had remarkably little to show for it publicly. ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1464))
+    - Tags: [[blue]] 
+    - Note: 30 years old and yet not at the pinnacle. Keep grinding, success will come in due time
+- Unlike Florence, Milan was not well-stocked with master artists. That made it more fertile territory for Leonardo. Because he was an aspiring polymath, he also enjoyed that Milan was filled with scholars and intellectuals in a wide variety of fields, partly due to the esteemed university in nearby Pavia, which was officially founded in 1361 but had roots stretching back to 825. It boasted some of Europe’s best lawyers, philosophers, medical researchers, and mathematicians. ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1523))
+    - Tags: [[blue]] 
+    - Note: NYC? Less developer completion than SF, plenty of VC funding, diverse industries and talents, elite schools (Columbia and NYU). Maybe applies to Boston/Cambridge too
+- Leonardo mentioned none of his paintings. Nor did he refer to the talent that ostensibly caused him to be sent to Milan: an ability to design and play musical instruments. What he mainly pitched was a pretense of military engineering expertise. Partly this was to appeal to Ludovico, whose Sforza dynasty had taken power by force and was faced with the constant threat of a local revolt or French invasion. In addition, Leonardo cast himself as an engineer because he was going through one of his regular bouts of being bored or blocked by the prospect of picking up a brush. As his mood swung between melancholy and exultation, he fantasized and boasted about being an accomplished weapons designer. ([Location 1563](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1563))
+    - Tags: [[blue]] 
+    - Note: Combination of practicality and wanting to learn/try new things. Similar to you?
+- The spread of printing presses helped Leonardo pursue additional military ideas after he arrived in Milan. He borrowed some of his concepts from a book by the thirteenth-century scientist Roger Bacon that had a list of ingenious weapons, including “carts and wagons that could move without animal power; devices used to walk on water and to move underneath the water, and contrivances capable of putting man in flight, having a person placed in the center of a mechanical device with artificial wings.”10 Leonardo embellished on all of these ideas. ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1584))
+    - Tags: [[blue]] 
+    - Note: Read widely and iterate on good ideas. What seems like novel creativity many times is just knowing and combining more ideas than anyone else
+- He did not focus on marginal improvements in engineering and design. Instead, on multiple pages composed in 1487, he proposed a radical concept, one that combined his artistic sensibilities with his visions as an urban engineer: the creation of entirely new “ideal cities” planned for health and beauty. ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1665))
+    - Tags: [[blue]] 
+    - Note: Looking for revolutionary ideas rather than incremental improvements
+- As the offspring of a long line of notaries, Leonardo da Vinci had an instinct for keeping records. Jotting down observations, lists, ideas, and sketches came naturally. In the early 1480s, shortly after his arrival in Milan, he began his lifelong practice of keeping notebooks on a regular basis. Some of them began as loose sheets the size of a tabloid newspaper. Others were little volumes bound in leather or vellum, the size of a paperback or even smaller, which he carried around to make field notes. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1696))
+    - Tags: [[blue]] 
+    - Note: USE YOUR NOTEBOOKS AGAIN. Write down ideas and observations and act on them
+- “As you go about town,” he wrote in one of them, “constantly observe, note, and consider the circumstances and behavior of men as they talk and quarrel, or laugh, or come to blows.” ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1701))
+    - Tags: [[blue]] 
+    - Note: Observe the world in an unbiased manner. Use it to learn the way REALITY is
+- When Leonardo wished to paint a figure, he first considered what social standing and emotion it was to represent; whether noble or plebeian, joyful or severe, troubled or serene, old or young, irate or quiet, good or evil; and when he had made up his mind, he went to places where he knew that people of that kind assembled and observed their faces, their manners, dresses, and gestures; and when he found what fitted his purpose, he noted it in a little book which he was always carrying in his belt.2 ([Location 1704](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1704))
+    - Tags: [[blue]] 
+    - Note: The big picture and the minute details are always in contact, always informing one another
+- These are not Saint Augustine’s Confessions but rather the outward-looking enthrallments of a relentlessly curious explorer. ([Location 1714](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1714))
+    - Tags: [[blue]] 
+- His notebooks have been rightly called “the most astonishing testament to the powers of human observation and imagination ever set down on paper.”3 ([Location 1717](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1717))
+    - Tags: [[blue]] 
+    - Note: Combine real world observation with imagination and vision
+- Early on, Leonardo primarily recorded ideas that he considered useful to his art and engineering. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1734))
+    - Tags: [[blue]] 
+- Later notebooks show Leonardo pursuing curiosity for its own sake, and that in turn evolved into glimmerings of profound scientific inquiry. He became interested not only in how things work but why.6 ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1736))
+    - Tags: [[blue]] 
+- the joy of these juxtapositions is that they allow us to marvel at the beauty of a universal mind as it wanders exuberantly in free-range fashion over the arts and sciences and, by doing so, senses the connections in our cosmos. We can extract from his pages, as he did from nature’s, the patterns that underlie things that at first appear disconnected. ([Location 1743](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1743))
+    - Tags: [[blue]] 
+- Just below the old man are the trunk and branches of a leafless tree, which blend into his toga and suggest the aorta and arteries of his blood system. Leonardo believed that analogy was a way to appreciate the unity of nature, and among the analogous forms he explored was the branching pattern that could be found in trees, in the arteries of the human body, and in rivers and their tributaries. ([Location 1758](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1758))
+    - Tags: [[blue]] 
+    - Note: Learn through metaphor and analogy to connect disparate ideas
+- The conical drawing attached to the man’s back resembles a hill, and Leonardo has it flow into a sketch of a mountainous landscape. The result is a seamless connection of geometry to nature and a glimpse into Leonardo’s art of spatial thinking. ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1767))
+    - Tags: [[blue]] 
+- What Leonardo probably began as four distinct elements ended up woven together in a way that illustrates a fundamental theme in his art and science: the interconnectedness of nature, the unity of its patterns, and the analogy between the workings of the human body and those of the earth. ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1770))
+    - Tags: [[blue]] 
+- this was a subject that he would still be drawing at the end of his life. And scattered about on the sheet are doodles of other subjects that he would return to often: ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1782))
+    - Tags: [[blue]] 
+    - Note: Come back to topics often to refine your understanding and update your mental models
+- From our vantage centuries later, the time and creativity Leonardo applied to such ephemeral affairs seem wasted. There is nothing to show for the dazzling displays except snippets of reports that recount the fleeting moments of splendor. The time he spent could have been more usefully applied, it might seem, to finishing the Adoration of the Magi or Saint Jerome. But just as today we love halftime shows and Broadway extravaganzas, fireworks displays and choreographed performances, the events staged by the Sforza court were considered vital, and their producers, including Leonardo, were highly valued. ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1793))
+    - Tags: [[blue]] 
+    - Note: Let your creativity run wild, even if the application isn’t totally clear at first
+- Some of the devices that he made, most notably mechanical birds and wings for actors suspended above the stage, spurred him on to more serious scientific studies, including observing birds and envisioning real flying machines. ([Location 1853](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1853))
+    - Tags: [[blue]] 
+- There are no musical compositions in his notebooks. Rather than reading music or composing lyrics, he improvised when performing at the Sforza court. “Since by nature he possessed a lofty and graceful spirit,” Vasari explained, “he sang divinely, improvising his own accompaniment on the lyre.” ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1866))
+    - Tags: [[blue]] 
+- After sketching a few conventional instruments on a page, he concocted one that drew together elements from a variety of different animals to make a dragon-like creature. ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1874))
+    - Tags: [[blue]] 
+    - Note: Using imagination from one area to produce creativity in another
+- “Leonardo’s instruments are not merely diverting devices for performing magic tricks,” according to Emanuel Winternitz, a curator of musical instruments at the Metropolitan Museum in New York. “Instead, they are systematic efforts by Leonardo to realize some basic aims.”14 These include new ways to use keyboards, play faster, and increase the range of available tones and sounds. ([Location 1901](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1901))
+    - Tags: [[blue]] 
+- In notes for his treatise on painting, Leonardo recommended to young artists this practice of walking around town, finding people to use as models, and recording the most interesting ones in a portable notebook: “Take a note of them with slight strokes in a little book which you should always carry with you,” he wrote. “The positions of the people are so infinite that the memory is incapable of retaining them, which is why you should keep these sketches as your guides.” ([Location 1948](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1948))
+    - Tags: [[blue]] 
+- At least since the time of Aristotle, who declared, “It is possible to infer character from features,”24 people had tried to find ways to assess people’s innate personality from their head shapes and facial characteristics, a study known as physiognomy. ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1957))
+    - Tags: [[blue]] 
+- even though he did not consider physiognomy a science, he did believe that facial expressions indicate underlying causes. “Characteristics of the face partly reveal the character of men, their vices and temperaments,” he wrote. “If the features which separate the cheeks from the lips, or the nostrils from the cavities of the eyes, are strongly pronounced, they belong to cheerful and good-humored men.” Those without such distinctive lines are more contemplative, he added, and those “whose facial features stand out in great relief are brutal, bad-tempered, and men of little reason.” He went on to associate heavy lines between the eyebrows with bad temper, strong lines on the forehead with regrets, and concluded, “It is possible to discuss many features this way.”25 ([Location 1962](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1962))
+    - Tags: [[blue]] 
+- He was a clever conversationalist and storyteller, according to Vasari, and that served him well with these slight entertainments that might seem, in retrospect, trivial endeavors. ([Location 1995](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=1995))
+    - Tags: [[blue]] 
+- All of this made him a man with many close friends. In the letters and writings of dozens of other prominent intellectuals in Milan and Florence, ranging from the mathematician Luca Pacioli to the architect Donato Bramante and the poet Piattino Piatti, there are references to Leonardo as a valued and beloved companion. ([Location 2073](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2073))
+    - Tags: [[blue]] 
+    - Note: Genius + eloquence brings untold success
+- he spent more time pursuing wisdom than working on jobs that would make him money beyond what he needed to support his growing household retinue. “He possessed nothing and worked little, but he always kept servants and horses,” Vasari wrote. ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2081))
+    - Tags: [[blue]] 
+- “In narrative paintings you should closely intermingle direct opposites, because they offer a great contrast to each other, especially when they are adjacent. Thus, have the ugly one next to the beautiful, the large next to the small, the old next to the young.”11 ([Location 2142](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2142))
+    - Tags: [[blue]] 
+    - Note: Juxtaposition in marketing to highlight the qualities you want to emphasize
+- These are, in fact, the two hieroglyphs of Leonardo’s unconscious mind, the two images his hand created when his attention was wandering. . . . Virile and effeminate, they symbolize the two sides of Leonardo’s nature.12 ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2150))
+    - Tags: [[blue]] 
+- “Pleasure and Pain are represented as twins,” Leonardo wrote on the drawing, “because there never is one without the other.” ([Location 2191](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2191))
+    - Tags: [[blue]] 
+- His notion of “vain dreams” appears to include sexual fantasies, and he went on to lament that they can distract a person from getting on with his work. “It is here that much precious time is wasted and many vain pleasures are enjoyed,” he wrote of a bed, “both by the mind in imagining impossible things and by the body in partaking of those pleasures that are often the cause of the failing of life.” ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2198))
+    - Tags: [[blue]] 
+    - Note: Avoid insidious pleasures that sap your vigor for life. Devote your energy and vitality to growth and production and creativity
+- The Italian Renaissance was producing artist-engineer-architects who straddled disciplines, ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2215))
+    - Tags: [[blue]] 
+- What made Vitruvius’s work appealing to Leonardo and Francesco was that it gave concrete expression to an analogy that went back to Plato and the ancients, one that had become a defining metaphor of Renaissance humanism: the relationship between the microcosm of man and the macrocosm of the earth. ([Location 2330](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2330))
+    - Tags: [[blue]] 
+- “All the arts and all the world’s rules are derived from a well-composed and proportioned human body,” he wrote in the foreword to his fifth chapter. “Man, called a little world, contains in himself all the general perfections of the whole world.” ([Location 2332](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2332))
+    - Tags: [[pink]] 
+- Vitruvius’s belief that the proportions of man are analogous to those of a well-conceived temple—and to the macrocosm of the world—became central to Leonardo’s worldview. ([Location 2346](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2346))
+    - Tags: [[pink]] 
+- The stare of Vitruvian Man is as intense as someone looking in a mirror, perhaps literally. According to Toby Lester, who wrote a book about the drawing, “It’s an idealized self-portrait in which Leonardo, stripped down to his essence, takes his own measure, and in doing so embodies a timeless human hope: that we just might have the power of mind to figure out how we fit into the grand scheme of things. Think of the picture as an act of speculation, a kind of metaphysical self-portrait in which Leonardo—as an artist, a natural philosopher, and a stand-in for all of humanity—peers at himself with furrowed brow and tries to grasp the secrets of his own nature.”25 ([Location 2434](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2434))
+    - Tags: [[pink]] 
+- Vitruvian Man embodies a moment when art and science combined to allow mortal minds to probe timeless questions about who we are and how we fit into the grand order of the universe. It also symbolizes an ideal of humanism that celebrates the dignity, value, and rational agency of humans as individuals. Inside the square and the circle we can see the essence of Leonardo da Vinci, and the essence of ourselves, standing naked at the intersection of the earthly and the cosmic. ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2439))
+    - Tags: [[pink]] 
+- Ideas are often generated in physical gathering places where people with diverse interests encounter one another serendipitously. That is why Steve Jobs liked his buildings to have a central atrium and why the young Benjamin Franklin founded a club where the most interesting people of Philadelphia would gather every Friday. At the court of Ludovico Sforza, Leonardo found friends who could spark new ideas by rubbing together their diverse passions. ([Location 2460](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2460))
+    - Tags: [[blue]] 
+    - Note: Befriend and speak with super talented individuals from a diverse range of areas
+- As usual, Leonardo was easily distracted by related topics. While studying horses, he began plotting methods to make cleaner stables; over the years he would devise multiple systems for mangers with mechanisms to replenish feed bins through conduits from an attic and to remove manure using water sluices and inclined floors.5 ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2505))
+    - Tags: [[pink]] 
+- Leonardo, however, was dedicated to achieving feats of engineering that would match in beauty and audacity the obsessive perfection he had pursued as an artist. So he decided to cast his huge horse all in one mold. ([Location 2555](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2555))
+    - Tags: [[pink]] 
+- “Though I have no power to quote from authors as they have,” he proclaimed almost proudly, “I shall rely on a far more worthy thing—on experience.”1 ([Location 2600](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2600))
+    - Tags: [[pink]] 
+- By 1492 Leonardo had close to forty volumes. A testament to his universal interests, they included books on military machinery, agriculture, music, surgery, health, Aristotelian science, Arabian physics, palmistry, and the lives of famous philosophers, as well as the poetry of Ovid and Petrarch, the fables of Aesop, some collections of bawdy doggerels and burlesques, and a fourteenth-century operetta from which he drew part of his bestiary. By 1504 he would be able to list seventy more books, including forty works of science, close to fifty of poetry and literature, ten on art and architecture, eight on religion, and three on math.4 ([Location 2624](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2624))
+    - Tags: [[pink]] 
+    - Note: Read widely across the arts and sciences. Use the broad base to your advantage
+- His appetite for soaking up information from books was voracious and wide-ranging. ([Location 2635](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2635))
+    - Tags: [[pink]] 
+- Thus Leonardo became a disciple of both experience and received wisdom. More important, he came to see that the progress of science came from a dialogue between the two. That in turn helped him realize that knowledge also came from a related dialogue: that between experiment and theory. ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2641))
+    - Tags: [[pink]] 
+    - Note: Learn from books and from doing. When you combine the two, your learning accelerates 100 fold
+- He preferred to induce from experiments rather than deduce from theoretical principles. “My intention is to consult experience first, and then with reasoning show why such experience is bound to operate in such a way,” he wrote. In other words, he would try to look at facts and from them figure out the patterns and natural forces that caused those things to happen. “Although nature begins with the cause and ends with the experience, we must follow the opposite course, namely begin with the experience, and by means of it investigate the cause.” ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2645))
+    - Tags: [[pink]] 
+    - Note: Basically statistics. Use the data to derive the underlying distribution
+- Visualization and drawing became an important component of this process. Not comfortable wrestling with theory, he preferred dealing with knowledge that he could observe and draw. ([Location 2661](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2661))
+    - Tags: [[pink]] 
+    - Note: Connecting creativity to science
+- he was advocating our modern method of combining theory, experiment, and handed-down knowledge—and constantly testing them against each other.9 ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2672))
+    - Tags: [[pink]] 
+- “Those who are in love with practice without theoretical knowledge are like the sailor who goes onto a ship without rudder or compass and who never can be certain whither he is going,” he wrote in 1510. “Practice must always be founded on sound theory.”11 ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2678))
+    - Tags: [[pink]] 
+- Aristotle had laid the foundations, in ancient Greece, for the method of partnering inductions and deductions: using observations to formulate general principles, then using these principles to predict outcomes. ([Location 2682](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2682))
+    - Tags: [[pink]] 
+- The empirical method used by Bacon emphasized a cycle: observations should lead to a hypothesis, which should then be tested by precise experiments, which would then be used to refine the original hypothesis. Bacon also recorded and reported his experiments in precise detail so that others could independently replicate and verify them. ([Location 2689](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2689))
+    - Tags: [[pink]] 
+- In lieu of possessing abstract mathematical tools to extract theoretical laws from nature, the way Copernicus and Galileo and Newton later did, Leonardo relied on a more rudimentary method: he was able to see patterns in nature, and he theorized by making analogies. With his keen observational skills across multiple disciplines, he discerned recurring themes. As the philosopher Michel Foucault noted, the “protoscience” of Leonardo’s era was based on similarities and analogies. ([Location 2699](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2699))
+    - Tags: [[pink]] 
+- Because of his intuitive feel for the unity of nature, his mind and eye and pen darted across disciplines, sensing connections. “This constant search for basic, rhyming, organic form meant that when he looked at a heart blossoming into its network of veins he saw, and sketched alongside it, a seed germinating into shoots,” Adam Gopnik wrote. “Studying the curls on a beautiful woman’s head he thought in terms of the swirling motion of a turbulent flow of water.”14 His drawing of a fetus in a womb hints at the similarity to a seed in a shell. ([Location 2704](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2704))
+    - Tags: [[blue]] 
+- The connections that Leonardo made across disciplines served as guides for his inquiries. The analogy between water eddies and air turbulence, for example, provided a framework for studying the flight of birds. “To arrive at knowledge of the motions of birds in the air,” he wrote, “it is first necessary to acquire knowledge of the winds, which we will prove by the motions of water.”18 But the patterns he discerned were more than just useful study guides. He regarded them as revelations of essential truths, manifestations of the beautiful unity of nature. ([Location 2724](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2724))
+    - Tags: [[pink]] 
+- In addition to his instinct for discerning patterns across disciplines, Leonardo honed two other traits that aided his scientific pursuits: an omnivorous curiosity, which bordered on the fanatical, and an acute power of observation, which was eerily intense. ([Location 2729](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2729))
+    - Tags: [[pink]] 
+    - Note: Combine vast knowledge with intense observation
+- The acuteness of his observational skill was not some superpower he possessed. Instead, it was a product of his own effort. That’s important, because it means that we can, if we wish, not just marvel at him but try to learn from him by pushing ourselves to look at things more curiously and intensely. In his notebook, he described his method—almost like a trick—for closely observing a scene or object: look carefully and separately at each detail. He compared it to looking at the page of a book, which is meaningless when taken in as a whole and instead needs to be looked at word by word. Deep observation must be done in steps: “If you wish to have a sound knowledge of the forms of objects, begin with the details of them, and do not go on to the second step until you have the first well fixed in memory.”23 ([Location 2746](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2746))
+    - Tags: [[pink]] 
+    - Note: Look at things in excruciating detail. You’ll uncover a massive amount of understanding
+- The endeavor wove together his curiosity about nature, his observational skills, and his engineering instincts. ([Location 2780](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2780))
+    - Tags: [[blue]] 
+- Leonardo’s first studies of flight were for such theatrical extravaganzas. ([Location 2796](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2796))
+    - Tags: [[blue]] 
+    - Note: Sometimes ideas applied to one area can be applied much more broadly
+- even for his theater designs, he was carefully observing nature. ([Location 2800](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2800))
+    - Tags: [[blue]] 
+    - Note: Be extremely observant and studious
+- Leonardo had a strategy he used to refine his observational skills. He would write down marching orders to himself, determining how he would sequence his observations in a methodical step-by-step way. “First define the motion of the wind and then describe how the birds steer through it with only the simple balancing of the wings and tail,” he wrote in one example. “Do this after the description of their anatomy.” ([Location 2811](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2811))
+    - Tags: [[blue]] 
+    - Note: Observation can and should be planned. If you go into a situation knowing WHAT you want to know and HOW you intend to find it out, you’re much more likely to learn what you’re looking for. Just taking a shotgun approach to learning will have much lower efficiency
+- But for all the beauty of his art and all the ingenuity of his designs, he was never able to create a human-powered flying machine that could take off on its own. ([Location 2902](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2902))
+    - Tags: [[blue]] 
+    - Note: Make sure you develop the engineering prowess to support your creativity
+- Leonardo’s interest in machinery was linked to his fascination with motion. He saw both machines and humans as apparatuses designed to move, with analogous components such as cords and sinews. As he did with his anatomy drawings of dissected bodies, he drew machines disassembled—using exploded and layered views—to show how motion is transferred from gears and levers to wheels and pulleys, and his cross-disciplinary interests allowed him to connect concepts from anatomy to engineering. ([Location 2909](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2909))
+    - Tags: [[blue]] 
+- Other Renaissance technologists drew machines, but they did so by presenting them in completed form, without discussing the role and efficiency of each component. Leonardo, on the other hand, was interested in a part-by-part analysis of the transfer of motion. ([Location 2912](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2912))
+    - Tags: [[blue]] 
+    - Note: Perfect example of right brain holistic thinking aided by left brain analytical thinking
+- He used drawing as a tool for thinking. He experimented on paper and evaluated concepts by visualizing them. ([Location 2915](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2915))
+    - Tags: [[blue]] 
+- His drawings served as visual thought experiments. By rendering the mechanisms in his notebooks rather than actually constructing them, he could envision how they would work and assess whether they would achieve perpetual motion. ([Location 2979](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2979))
+    - Tags: [[blue]] 
+- He was among the first to figure out that the amount of friction is not dependent on the size of the area of contact between the object and the surface. “The friction made by the same weight will be of equal resistance at the beginning of its movement although the contact may be of different breadths and lengths,” ([Location 2990](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=2990))
+    - Tags: [[blue]] 
+- Leonardo increasingly came to realize that mathematics was the key to turning observations into theories. It was the language that nature used to write her laws. ([Location 3027](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3027))
+    - Tags: [[blue]] 
+- He could envision the shapes in his head as real objects, then convey them on the page. But he probably also used actual wooden models that he hung on a string, like the dangling polyhedron in the portrait of Pacioli. Using both observation and mathematical reasoning, and combining his study of geometric shapes with his inquiries into the flight of birds, Leonardo became the first person to discover the center of gravity of a triangular pyramid ([Location 3087](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3087))
+    - Tags: [[blue]] 
+- Leonardo’s interest in harmonic ratios was reflected in his intense studies of the ways that ratios and proportions are manifest in anatomy, science, and art. It led him to search for analogies between the proportions of the body, the notes of musical harmonies, and other ratios that underpin the beauty manifest in the works of nature. ([Location 3107](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3107))
+    - Tags: [[blue]] 
+    - Note: He combined math and art, beauty and logic
+- he began pursuing anatomy as a scientific as well as an artistic endeavor. But he did not regard these as separate. In anatomy, as in so many of his studies, he saw the art and science as interwoven. Art required a deep understanding of anatomy, which in turn was aided by a profound appreciation for the beauty of nature. ([Location 3210](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3210))
+    - Tags: [[blue]] 
+    - Note: Combine art and nature in everything that you do
+- I am tempted to quote him at even greater length because the enormity of his feat, and what it says about his compulsive mind, is evident not in each measurement but in the staggering accumulation of them. He goes on and on, relentlessly. ([Location 3314](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3314))
+    - Tags: [[blue]] 
+    - Note: You can have a flowing and creative mind like Leonardo but combine it with relentless commitment to what you’re currently focusing on
+- The drawing is fascinating because it is one of the best displays of Leonardo’s genius as a draftsman. With a few simple lines and brilliant strokes, concise and precise, he is able to create a sketch of unsurpassed beauty. ([Location 3494](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3494))
+    - Tags: [[blue]] 
+    - Note: Learn how to capture the essence of an idea in as few steps as possible
+- As Vasari wrote of Leonardo, “He even went so far as to waste his time in drawing knots of cords.” ([Location 3742](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3742))
+    - Tags: [[blue]] 
+    - Note: Perfecting even the smallest details
+- By exalting the interplay between art and science, Leonardo wove an argument that was integral to understanding his genius: that true creativity involves the ability to combine observation with imagination, thereby blurring the border between reality and fantasy. A great painter depicts both, he said. ([Location 3888](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=3888))
+    - Tags: [[blue]] 
+- He realized that nature itself, independent of how our eyes perceive it, does not have precise lines. ([Location 4005](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4005))
+    - Tags: [[blue]] 
+- When Leonardo was summoned by the duke, they ended up having a discussion of how creativity occurs. Sometimes it requires going slowly, pausing, even procrastinating. That allows ideas to marinate, Leonardo explained. Intuition needs nurturing. “Men of lofty genius sometimes accomplish the most when they work least,” he told the duke, “for their minds are occupied with their ideas and the perfection of their conceptions, to which they afterwards give form.” ([Location 4154](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4154))
+    - Tags: [[blue]] 
+    - Note: Put ideas down and come back to them, but always be thinking
+- Look longer at the picture. It vibrates with Leonardo’s understanding that no moment is discrete, self-contained, frozen, delineated, just as no boundary in nature is sharply delineated. ([Location 4180](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4180))
+    - Tags: [[blue]] 
+- His use of such artifices is another example of why his work on plays and pageants was not time squandered. ([Location 4302](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4302))
+    - Tags: [[blue]] 
+    - Note: Thinking broadly and bringing many fields of expertise to bear on a problem is very valuable
+- All told, The Last Supper is a mix of scientific perspective and theatrical license, of intellect and fantasy, worthy of Leonardo. His study of perspective science had not made him rigid or academic as a painter. Instead, it was complemented by the cleverness and ingenuity he had picked up as a stage impresario. Once he knew the rules, he became a master at fudging and distorting them, as if creating perspectival sfumato. ([Location 4314](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4314))
+    - Tags: [[blue]] 
+- As usual, Leonardo was distracted by other pursuits. As the friar said at the end of his letter, “He devotes much of his time to geometry, and has no fondness at all for the paintbrush.” ([Location 4566](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4566))
+    - Tags: [[blue]] 
+    - Note: Dive deeply into a variety of hobbies and disciplines
+- Needless to say, Leonardo did not. He was pursuing more ambitious paintings as well as his endeavors in anatomy, engineering, math, and science. Painting a conventional portrait for a pushy patron did not interest him. ([Location 4600](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4600))
+    - Tags: [[blue]] 
+    - Note: Pursue what is interesting and will expand your skills. Ignore that which does not
+- As with so many examples in history where creativity was turned into products, Leonardo’s Florence studio involved individual genius combined with teamwork. Both vision and execution were required. ([Location 4667](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=4667))
+    - Tags: [[blue]] 
+- In a larger sense, Leonardo’s maps are another example of one of his greatest, though underappreciated, innovations: devising new methods for the visual display of information. ([Location 5063](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5063))
+    - Tags: [[blue]] 
+    - Note: Data visualization extremely important
+- In his job application to Ludovico Sforza, Leonardo had boasted of his talent for “guiding water from one place to another.” That was, at best, an exaggeration. When he first arrived in Milan, in 1482, he had done no hydraulic engineering. But like many of his fantasy aspirations, he willed this one into reality. ([Location 5102](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5102))
+    - Tags: [[blue]] 
+    - Note: Call your shot (even if you haven’t done it before) and then go destroy it
+- This inability to ground his fantasies in reality has generally been regarded as one of Leonardo’s major failings. Yet in order to be a true visionary, one has to be willing to overreach and to fail some of the time. Innovation requires a reality distortion field. ([Location 5204](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5204))
+    - Tags: [[blue]] 
+    - Note: True innovation requires pushing creativity and fantasy too far at times
+- He freely admitted that he preferred the chisel to the brush. “I am not in the right place, and I am not a painter,” he confessed in a poem when he embarked on the ceiling of the Sistine Chapel a few years later. ([Location 5484](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5484))
+    - Tags: [[pink]] 
+    - Note: Even Michelangelo had imposter syndrome
+- As he had done in his famous letter to Milan’s previous ruler when he first went there in 1482, Leonardo made a point of noting that he was not merely a painter. “I hope when I come to make machines and other things which will give great pleasure to our Most Christian King.” ([Location 5711](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5711))
+    - Tags: [[blue]] 
+    - Note: Leonardo always kept his passions and interest wide. He became a arguably the greatest painter in history (extremely deep in one field), but also became a leading expert in several more (sculpture, stage design, engineering, architecture, anatomy, etc). 
+      Model yourself this way. Become the foremost expert for a particular field (ML engineering & deep learning), and also be extremely knowledgeable about your other interests (software engineering, math, graphic design, languages & linguistics, psychology & neuroscience, philosophy, business strategy & entrepreneurship). The combination of best-in-the-world expertise in ML/DL with leading expertise in these other areas will make you unstoppable.
+- But there was more to Leonardo’s move than merely a preference for life in Milan. The first time he went there, he did so to recast himself as an engineer, scientist, and inventor. Now, more than twenty-five years later, he was fleeing not only Florence but also life as a public artist, a man defined mainly by his painting. As Isabella d’Este’s agent had reported, “He cannot bear the sight of a paintbrush.” ([Location 5722](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5722))
+    - Tags: [[blue]] 
+    - Note: Leonardo chose a situation that allowed him to express all aspects of his creativity
+- We should pause to imagine the dandy-dressing Leonardo, now in his mid-fifties and at the height of his fame as a painter, spending his night hours at an old hospital in his neighborhood talking to patients and dissecting bodies. It is another example of his relentless curiosity that would astonish us if we had not become so used to it. ([Location 5769](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5769))
+    - Tags: [[blue]] 
+    - Note: Never stop being curious about the world. It’s your superpower
+- “You who say it is better to watch an anatomist at work than to see these drawings would be right, if it were possible to see all those things which are shown in these drawings.” The reason it was possible to see more in the drawings, he said, was because they had been based on multiple dissections and also showed views from multiple angles. ([Location 5809](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5809))
+    - Tags: [[blue]] 
+    - Note: An expert synthesizes their perspective into a single representation. The representation generalizes from multiple examples by capturing the ESSENCE of what is there and what is true. In that sense, it is MORE true than any particular example. It transcends the physical
+- You will perhaps be deterred by your stomach; and if this does not deter you, you may be deterred by the fear of living through the night hours in the company of quartered and flayed corpses, fearful to behold. And if this does not deter you, perhaps you will lack the good draftsmanship that such a depiction requires; and even if you have skill in drawing, it may not be accompanied by a knowledge of perspective; and if it were so accompanied, you may lack the methods of geometrical demonstration and of calculating the forces and strengths of the muscles; or perhaps you will lack patience so that you will not be diligent. ([Location 5837](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5837))
+    - Tags: [[blue]] 
+    - Note: Reminder yourself of all the skills and traits you have that someone would need to match to equal you
+- One of the things that could have most benefited Leonardo in his career was a partner who would help him follow through and publish his brilliant work. Together he and Marcantonio could have produced a groundbreaking illustrated treatise on anatomy that would have transformed a field still dominated by scholars who mainly regurgitated the notions of the second-century Greek physician Galen. Instead, Leonardo’s anatomy studies became another example of how he was disadvantaged by having few rigorous and disciplined collaborators along the lines of Luca Pacioli, whose text on geometric proportions Leonardo had illustrated. ([Location 5861](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5861))
+    - Tags: [[blue]] 
+    - Note: Leonardo was a well-spring of ideas about disparate areas. He needed assistance to follow through on groundbreaking ideas. Employees in a company and now AI are leverage that allow great thinkers’ ideas to be followed through. Moral: allow yourself to learn freely and think freely, but surround yourself with diligent people who will take your ideas and execute.
+- Along with his discoveries about heart valves, it was Leonardo’s most important anatomical breakthrough, and it happened because he was a sculptor as well as a scientist. ([Location 5905](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=5905))
+    - Tags: [[blue]] 
+    - Note: Cross disciplinary thinking leads to unbelievable insights.
+- Leonardo’s breakthroughs on heart valves were followed, however, by a failure: not discovering that the blood in the body circulates. His understanding of one-way valves should have made him realize the flaw in the Galenic theory, universally accepted during his time, that the blood is pulsed back and forth by the heart, moving to-and-fro. But Leonardo, somewhat unusually, was blinded by book learning. The “unlettered” man who disdained those who relied on received wisdom and vowed to make experiment his mistress failed to do so in this case. ([Location 6079](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6079))
+    - Tags: [[blue]] 
+    - Note: Be aware of where your blind spots are. Correct them ruthlessly
+- The trove of treatises that he left unpublished testifies to the unusual nature of what motivated him. He wanted to accumulate knowledge for its own sake, and for his own personal joy, rather than out of a desire to make a public name for himself as a scholar or to be part of the progress of history. ([Location 6119](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6119))
+    - Tags: [[blue]] 
+    - Note: Continue pursuing knowledge for its own sake. For the love of the game
+- Over the years, and even centuries, his discoveries had to be rediscovered by others. The fact that he didn’t publish served to diminish his impact on the history of science. But it did not diminish his genius. ([Location 6134](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6134))
+    - Tags: [[blue]] 
+    - Note: Follow your curiosities and learn for the sake of learning. But always disseminate what you learn
+- He was skillful at discerning how patterns resonate in nature, and the grandest and most encompassing of these analogies, in both his art and his science, was the comparison between the body of man and the body of the earth. “Man is the image of the world,” he wrote. ([Location 6139](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6139))
+    - Tags: [[blue]] 
+    - Note: The infinite contained in the particular
+- The ancients called man a lesser world, and certainly the use of this name is well bestowed, because his body is an analog for the world. As man has in him bones that support his flesh, the world has its rocks that support the earth. As man has a pool of blood in which the lungs rise and fall in breathing, so the body of the earth has its ocean tide which likewise rises and falls every six hours, as if the world breathed. As the blood veins originate in that pool and spread all over the human body, so likewise the ocean sea fills the body of the earth with infinite springs of water. ([Location 6143](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6143))
+    - Tags: [[blue]] 
+- The analogy helped him look at the earth in a pioneering way. Rather than assuming that it had been static since its creation, Leonardo realized that the earth had a dynamic history in which powerful forces caused it to change and mature over the centuries. “We might say that the earth has a vegetative soul,” he declared.7 By regarding the earth as a living organism, he was inspired to explore the way it aged and evolved: how mountains laced with fossils arose from the sea, how rocks became layers, how rivers cut valleys, and how rugged outcroppings eroded. ([Location 6171](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6171))
+    - Tags: [[blue]] 
+    - Note: Cross disciplinary analogies can help us look at things in totally new ways
+- he came to fathom how nature had two traits that sometimes appeared to be in conflict: there was a unity to nature that resonated in its patterns and analogies, but there was also a wondrously infinite variety. ([Location 6179](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6179))
+    - Tags: [[blue]] 
+- More than any other subject except the human body, hydrodynamics engaged his artistic and scientific and engineering interests, and he addressed it on various levels: detailed observations, practical inventions, grand projects, beautiful paintings, and cosmic analogies. ([Location 6183](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6183))
+    - Tags: [[blue]] 
+    - Note: Address your chosen area from multiple perspectives
+- Leonardo’s studies of water began with practical and artistic purposes in mind, but as with his studies of anatomy and flight, he became enthralled by the beauty of the science. ([Location 6195](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6195))
+    - Tags: [[blue]] 
+    - Note: Same for you with neural nets. Started for practical reasons but became enthralled with the beauty
+- In one part of the Codex Leicester he crammed 730 conclusions about water onto eight pages, causing Martin Kemp to comment, “We may feel that the boundary between dedication and obsession has been overstepped.” ([Location 6208](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6208))
+    - Tags: [[blue]] 
+- He was able to avoid pedantry by regularly bringing his theories down to earth, so to speak, and tying them to practical applications. As he instructed himself in a typical notebook jotting, “When you put together the science of the motions of water, remember to include under each proposition its application, in order that this science may not be useless.” ([Location 6213](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6213))
+    - Tags: [[blue]] 
+    - Note: Move seamlessly between art, theory, and application
+- He also devised studio experiments so that he could test in a controlled environment the concepts he had observed in nature. ([Location 6221](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6221))
+    - Tags: [[blue]] 
+- His studies informed his artistic renderings of water flow as well as his engineering aspirations to alter the course of rivers. But as he became more immersed, he began indulging his curiosity about water flow for its own sake. ([Location 6253](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6253))
+    - Tags: [[blue]] 
+- As usual, he made an analogy, comparing the forces that create water eddies to those that create a hair curl: “The curling motion of the surface of water resembles the behavior of hair, which has two motions, one of which depends on the weight of the strands, the other on the direction of its revolving; thus water makes eddies, one part of which is due to the impetus of the principal current, and the other is due to the incidental motion and return flow.” ([Location 6262](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6262))
+    - Tags: [[blue]] 
+- By the time he wrote the Codex Leicester and other, concurrent notebook pages on the movement of water, Leonardo had a deep feel for how waves propagate in a medium, and he correctly assumed that sound and light travel in waves. With his gift for analogy and ability to notice movement, he even viewed emotions as traveling in waves. At the core of the narrative in The Last Supper are the waves of emotion that emanate from the disturbance caused by the utterance of Jesus. ([Location 6291](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6291))
+    - Tags: [[blue]] 
+- There he engaged in a dialogue between theories and experience, and when they conflicted he was receptive to trying a new theory. That willingness to surrender preconceptions was key to his creativity. ([Location 6297](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6297))
+    - Tags: [[blue]] 
+- Leonardo’s willingness to question and then abandon the enticing analogy between the circulation of water on the earth and the circulation of blood in the human body shows his curiosity and ability to be open-minded. Throughout his life, he was brilliant at discerning patterns and abstracting from them a framework that could be applied across disciplines. His geology studies show an even greater talent: not letting these patterns blind him. ([Location 6343](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6343))
+    - Tags: [[blue]] 
+- Baldassare Castiglione, an author and courtier who knew Leonardo in Rome, described him as one “of the world’s finest painters, who despises the art for which he has so rare a talent and has set himself to learn philosophy [meaning the sciences].” ([Location 6600](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6600))
+    - Tags: [[blue]] 
+    - Note: Pursue the interests that light a fire beneath you.
+- Despite his immersion into science, or perhaps because of it, Leonardo had developed an ever-deepening appreciation for the profound spiritual mystery of our place in the cosmos. And as Kenneth Clark noted, “Mystery to Leonardo was a shadow, a smile and a finger pointing into darkness.” ([Location 6677](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6677))
+    - Tags: [[blue]] 
+- By highlighting the ambiguity between spirit and flesh, Leonardo gave his own charged meaning to “the Word became flesh and dwelt among us.” ([Location 6691](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6691))
+    - Tags: [[blue]] 
+- whatever was the original intent, it became more. It is a profoundly expressive and poetic drawing by a man entering the twilight and still searching for guidance about the eternal mysteries that his science and his art have not, and cannot, explain. ([Location 6797](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6797))
+    - Tags: [[blue]] 
+- What began as a portrait of a silk merchant’s young wife became a quest to portray the complexities of human emotion, made memorable through the mysteries of a hinted smile, and to connect our nature to that of our universe. The landscape of her soul and of nature’s soul are intertwined. ([Location 6807](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6807))
+    - Tags: [[blue]] 
+    - Note: Displaying the mysteries of the infinite through the particular
+- “His insatiable curiosity, his restless leaps from one subject to another, have been harmonized in a single work,” ([Location 6818](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6818))
+    - Tags: [[blue]] 
+- His skill of observation was so acute that even an obscure anomaly in his paintings, such as an uneven dilation of pupils, causes us to wrestle, perhaps too much, with what he might have noticed and thought. If so, it is a good thing. By being around him, viewers are stimulated to observe the little details of nature, like the cause of a dilated pupil, and to regain our sense of wonder about them. Inspired by his desire to notice every detail, we try to do the same. ([Location 6945](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6945))
+    - Tags: [[blue]] 
+- The background and her garments have the same streaked highlights, reinforcing what has progressed from being an analogy into a union. This is the heart of Leonardo’s philosophy: the replication and relationships of the patterns of nature, from the cosmic to the human. ([Location 6998](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=6998))
+    - Tags: [[blue]] 
+- There is a mystery to the smile. As we stare, it flickers. What is she thinking? Our eyes move a bit, and her smile seems to change. The mystery compounds. We look away, and the smile lingers in our minds, as it does in the collective mind of humanity. Never in a painting have motion and emotion, the paired touchstones of Leonardo’s art, been so intertwined. ([Location 7018](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7018))
+    - Tags: [[blue]] 
+- So the world’s most famous smile is inherently and fundamentally elusive, and therein lies Leonardo’s ultimate realization about human nature. His expertise was in depicting the outer manifestation of inner emotions. But here in the Mona Lisa he shows something more important: that we can never fully know true emotion from outer manifestations. There is always a sfumato quality to other people’s emotions, always a veil. ([Location 7051](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7051))
+    - Tags: [[blue]] 
+- The Mona Lisa became the most famous painting in the world not just due to hype and happenstance but because viewers were able to feel an emotional engagement with her. She provokes a complex series of psychological reactions, which she herself seems to exhibit as well. Most miraculously, she seems aware—conscious—both of us and of herself. That is what makes her seem alive, the most alive of any portrait ever painted. It is also what makes her unique, one of humankind’s unsurpassed creations. As Vasari said, “It was painted in a way to make every brave artist tremble and lose heart.” ([Location 7082](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7082))
+    - Tags: [[blue]] 
+- Like Vitruvian Man standing in the square of the earth and the circle of the heavens, Lisa sitting on her balcony against the backdrop of geological eons is Leonardo’s profound meditation on what it means to be human. ([Location 7089](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7089))
+    - Tags: [[blue]] 
+- As Leonardo once wrote in his notebooks, referring to Alexander the Great and his tutor, “Alexander and Aristotle were teachers of one another.” ([Location 7145](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7145))
+    - Tags: [[blue]] 
+- Cellini later quoted Francis declaring that he “could never believe there was another man born in this world who knew as much as Leonardo, and not only of sculpture, painting and architecture, and that he was truly a great philosopher.” ([Location 7149](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7149))
+    - Tags: [[blue]] 
+- “As a well-spent day brings a happy sleep,” Leonardo had written thirty years earlier, “so a well-employed life brings a happy death.”27 His came on May 2, 1519, less than three weeks after he turned sixty-seven. ([Location 7355](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7355))
+    - Tags: [[blue]] 
+- As always with Leonardo, in his art and in his life, in his birthplace and now even in his death, there is a veil of mystery. We cannot portray him with crisp sharp lines, nor should we want to, just as he would not have wanted to portray Mona Lisa that way. There is something nice about leaving a little to our imagination. As he knew, the outlines of reality are inherently blurry, leaving a hint of uncertainty that we should embrace. The best way to approach his life is the way he approached the world: filled with a sense of curiosity and an appreciation for its infinite wonders. ([Location 7385](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7385))
+    - Tags: [[blue]] 
+- One reason that he was reluctant to relinquish some of his works and declare them completed was that he relished a world in flux. He had an uncanny ability to convey movements—of the body and the mind, of machines and horses, and of rivers and everything else that flows. No instant, he wrote, is self-contained, just as no action in a theatrical pageant nor any drop in a flowing river is self-contained. Each moment incorporates what came right before and what is coming right after. Similarly, he looked upon his art and engineering and his treatises as a part of a dynamic process, always receptive to a refinement by the application of a new insight. ([Location 7403](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7403))
+    - Tags: [[blue]] 
+- What made Leonardo a genius, what set him apart from people who are merely extraordinarily smart, was creativity, the ability to apply imagination to intellect. His facility for combining observation with fantasy allowed him, like other creative geniuses, to make unexpected leaps that related things seen to things unseen. “Talent hits a target that no one else can hit,” wrote the German philosopher Arthur Schopenhauer. “Genius hits a target no one else can see.” ([Location 7411](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7411))
+    - Tags: [[blue]] 
+- What also distinguished Leonardo’s genius was its universal nature. The world has produced other thinkers who were more profound or logical, and many who were more practical, but none who was as creative in so many different fields. Some people are geniuses in a particular arena, such as Mozart in music and Euler in math. But Leonardo’s brilliance spanned multiple disciplines, which gave him a profound feel for nature’s patterns and crosscurrents. His curiosity impelled him to become among the handful of people in history who tried to know all there was to know about everything that could be known. ([Location 7418](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7418))
+    - Tags: [[blue]] 
+- The fact that Leonardo was not only a genius but also very human—quirky and obsessive and playful and easily distracted—makes him more accessible. He was not graced with the type of brilliance that is completely unfathomable to us. Instead, he was self-taught and willed his way to his genius. So even though we may never be able to match his talents, we can learn from him and try to be more like him. His life offers a wealth of lessons. ([Location 7428](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7428))
+    - Tags: [[blue]] 
+- Be curious, relentlessly curious. “I have no special talents,” Einstein once wrote to a friend. “I am just passionately curious.”4 Leonardo actually did have special talents, as did Einstein, but his distinguishing and most inspiring trait was his intense curiosity. ([Location 7431](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7431))
+    - Tags: [[blue]] 
+- Being relentlessly and randomly curious about everything around us is something that each of us can push ourselves to do, every waking hour, just as he did. ([Location 7437](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7437))
+    - Tags: [[blue]] 
+- Seek knowledge for its own sake. Not all knowledge needs to be useful. Sometimes it should be pursued for pure pleasure. ([Location 7438](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7438))
+    - Tags: [[blue]] 
+- Retain a childlike sense of wonder. At a certain point in life, most of us quit puzzling over everyday phenomena. We might savor the beauty of a blue sky, but we no longer bother to wonder why it is that color. Leonardo did. So did Einstein, who wrote to another friend, “You and I never cease to stand like curious children before the great mystery into which we were born.”5 We should be careful to never outgrow our wonder years, or to let our children do so. ([Location 7441](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7441))
+    - Tags: [[blue]] 
+- Observe. Leonardo’s greatest skill was his acute ability to observe things. It was the talent that empowered his curiosity, and vice versa. ([Location 7445](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7445))
+    - Tags: [[blue]] 
+- Start with the details. In his notebook, Leonardo shared a trick for observing something carefully: Do it in steps, starting with each detail. A page of a book, he noted, cannot be absorbed in one stare; you need to go word by word. “If you wish to have a sound knowledge of the forms of objects, begin with the details of them, and do not go on to the second step until you have the first well fixed in memory.” ([Location 7451](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7451))
+    - Tags: [[blue]] 
+- Go down rabbit holes. ([Location 7457](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7457))
+    - Tags: [[blue]] 
+- Get distracted. The greatest rap on Leonardo was that these passionate pursuits caused him to wander off on tangents, literally in the case of his math inquiries. It “has left posterity the poorer,” Kenneth Clark lamented. But in fact, Leonardo’s willingness to pursue whatever shiny subject caught his eye made his mind richer and filled with more connections. ([Location 7460](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7460))
+    - Tags: [[blue]] 
+- Respect facts. Leonardo was a forerunner of the age of observational experiments and critical thinking. When he came up with an idea, he devised an experiment to test it. And when his experience showed that a theory was flawed—such as his belief that the springs within the earth are replenished the same way as blood vessels in humans—he abandoned his theory and sought a new one. This practice became common a century later, during the age of Galileo and Bacon. It has, however, become a bit less prevalent these days. If we want to be more like Leonardo, we have to be fearless about changing our minds based on new information. ([Location 7463](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7463))
+    - Tags: [[blue]] 
+- Procrastinate. While painting The Last Supper, Leonardo would sometimes stare at the work for an hour, finally make one small stroke, and then leave. He told Duke Ludovico that creativity requires time for ideas to marinate and intuitions to gel. “Men of lofty genius sometimes accomplish the most when they work least,” he explained, “for their minds are occupied with their ideas and the perfection of their conceptions, to which they afterwards give form.” Most of us don’t need advice to procrastinate; we do it naturally. But procrastinating like Leonardo requires work: it involves gathering all the possible facts and ideas, and only after that allowing the collection to simmer. ([Location 7467](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7467))
+    - Tags: [[blue]] 
+- Think visually. Leonardo was not blessed with the ability to formulate math equations or abstractions. So he had to visualize them, which he did with his studies of proportions, his rules of perspective, his method for calculating reflections from concave mirrors, and his ways of changing one shape into another of the same size. Too often, when we learn a formula or a rule—even one so simple as the method for multiplying numbers or mixing a paint color—we no longer visualize how it works. As a result, we lose our appreciation for the underlying beauty of nature’s laws. ([Location 7480](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7480))
+    - Tags: [[blue]] 
+- Avoid silos. At the end of many of his product presentations, Jobs displayed a slide of a sign that showed the intersection of “Liberal Arts” and “Technology” streets. He knew that at such crossroads lay creativity. Leonardo had a free-range mind that merrily wandered across all the disciplines of the arts, sciences, engineering, and humanities. His knowledge of how light strikes the retina helped inform the perspective in The Last Supper, and on a page of anatomical drawings depicting the dissection of lips he drew the smile that would reappear in the Mona Lisa. He knew that art was a science and that science was an art. Whether he was drawing a fetus in the womb or the swirls of a deluge, he blurred the distinction between the two. ([Location 7484](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7484))
+    - Tags: [[blue]] 
+- Let your reach exceed your grasp. Imagine, as he did, how you would build a human-powered flying machine or divert a river. Even try to devise a perpetual-motion machine or square a circle using only a ruler and a compass… ([Location 7490](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7490))
+    - Tags: [[blue]] 
+- Indulge fantasy. His giant crossbow? The turtle-like tanks? His plan for an ideal city? The man-powered mechanisms to flap a flying machine? Just as Leonardo blurred the lines between science and art, he did so between reality and fantasy. It may not have… ([Location 7492](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7492))
+    - Tags: [[blue]] 
+- Create for yourself, not just for patrons. No matter how hard the rich and powerful marchesa Isabella d’Este begged, Leonardo would not paint her portrait. But he did begin one of a silk-merchant’s wife named Lisa. He did it because he wanted to, and he kept working on… ([Location 7494](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7494))
+    - Tags: [[blue]] 
+- Collaborate. Genius is often considered the purview of loners who retreat to their garrets and are struck by creative lightning. Like many myths, that of the lone genius has some truth to it. But there’s usually more to the story. The Madonnas and drapery studies produced in Verrocchio’s studio, and the versions of Virgin of the Rocks and Madonna of the Yarnwinder and other paintings from Leonardo’s… ([Location 7497](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7497))
+    - Tags: [[blue]] 
+- Genius starts with individual brilliance. It requires singular vision. But executing it often entails working with others. Innovation is a team sport.… ([Location 7503](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7503))
+    - Tags: [[blue]] 
+- Make lists. And be sure to put odd things on them. Leonardo’s to-do lists may have been the greatest testaments to pure… ([Location 7504](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7504))
+    - Tags: [[blue]] 
+- Take notes, on paper. Five hundred years later, Leonardo’s notebooks are around to astonish and inspire us. Fifty years from now, our own notebooks, if we work up the initiative to start writing them, will be around to astonish and… ([Location 7505](https://readwise.io/to_kindle?action=open&asin=B071Y385Q1&location=7505))
+    - Tags: [[blue]] 

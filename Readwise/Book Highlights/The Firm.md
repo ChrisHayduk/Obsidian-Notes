@@ -1,0 +1,373 @@
+# The Firm
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51df7d9-QEL._SL200_.jpg)
+
+## Metadata
+- Author: [[Duff McDonald]]
+- Full Title: The Firm
+- Category: #books
+
+## Highlights
+- After almost a century in business, McKinsey can lay claim to the following incomplete list of accomplishments: Once before, well before Romney was running for the presidency, it remapped the power structure within the White House; it guided postwar Europe through a massive corporate reorganization; it helped invent the bar code; it revolutionized business schools; it even created the idea of budgeting as a management tool. ([Location 35](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=35))
+    - Tags: [[blue]] 
+- The abstract, white-collar nature of modern business—the fact that the greatest value in our economy is now created by people sitting in air-conditioned skyscrapers and corporate parks who manipulate information—is a reality that McKinsey was instrumental in establishing, championing, and profiting from. ([Location 41](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=41))
+    - Tags: [[blue]] 
+- At the same time, however, the company can also be saddled with a list of striking failures, missteps that would have doomed lesser firms. McKinsey consultants were on the scene when General Motors drove itself into the ground. They were Kmart’s advisers when the retailer tumbled into disarray. They pushed Swissair in a direction that led to its collapse. They played a critical role in building the bomb known as Enron and collected massive fees right up until the moment of its spectacular explosion. ([Location 44](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=44))
+    - Tags: [[blue]] 
+- What do they actually do? They are managerial experts, cost cutters, scapegoats, and catalysts for corporate change. They are the businessman’s businessmen. They are the corporate Mandarin elite, a private corps, far from prying eyes, doing behind-the-scenes work for the most powerful people in the world. ([Location 53](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=53))
+    - Tags: [[blue]] 
+- Plenty of other firms had the same idea at the same time, some even earlier, but none could match Bower’s discipline and focus. He distinguished McKinsey not just for what it did but for how it went about it, starting with the physical appearance of its employees and moving right on through hiring, training, and the culling of their ranks through a merciless system known as “up-or-out.” ([Location 68](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=68))
+    - Tags: [[blue]] 
+- McKinsey can nevertheless claim a remarkable number of firsts: It was the first consulting firm to realistically apply scientific approaches to management, solving business problems with a method of hypothesis, data, and proof. It was the first to gamble on youth over experience, and the first to take on the challenge of becoming truly global. ([Location 73](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=73))
+    - Tags: [[blue]] 
+- McKinsey offers a kind of industrial espionage couched in the language of “best practices.” Want to know what the competition is up to? Hire McKinsey. ([Location 83](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=83))
+    - Tags: [[blue]] 
+- There is little doubt that McKinsey has made the corporate world more efficient, more rational, more objective, and more fact based. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=123))
+    - Tags: [[blue]] 
+- In a word, McKinsey sells its own enlightenment, the firm’s ability to see things more clearly than its clients. Doing that once is no great accomplishment—a fresh perspective is the way out of many problems, in business or otherwise. Doing it for nearly a century is a tall order indeed, but it is one that McKinsey has apparently met. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=144))
+    - Tags: [[blue]] 
+- the man knew accounting could be more than mere bookkeeping—that numbers could reveal not just profit and loss, assets and liabilities, but the whole story of a business and what it could accomplish. To that point, accounting had been viewed as a record of the past. McKinsey spun it around and aimed it at the future, turning it into a tool of effective management. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=198))
+    - Tags: [[blue]] 
+- McKinsey saw that a company’s secrets could be found in its accounting. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=213))
+    - Tags: [[blue]] 
+- McKinsey pursued success by combining an ability to focus relentlessly with a knack for breaking rules. And he decided early on that he would gain power by speaking truth to it. ([Location 219](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=219))
+    - Tags: [[blue]] 
+- By 1920, when only a third of homes in the country had electricity and only one in five had a flush toilet,11 the country’s business establishment was embarking on a course of radical, unprecedented expansion. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=234))
+    - Tags: [[blue]] 
+- The key business problem identified during this transition—and one that underwrote McKinsey’s success for several decades—was that a single, central office could no longer adequately administer such far-flung empires. Power had to be ceded to the extremities. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=246))
+    - Tags: [[blue]] 
+- The innovators moved from the centralized system to a multidivisional structure with product and geographic breakdowns. The concept left operating division chiefs with total control over everything except funding resources. Top managers took a more universal view of the business, monitoring the divisions and allocating capital accordingly. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=258))
+    - Tags: [[blue]] 
+- The intended effect of these measures was to prevent corporations from colluding with one another to fix prices and otherwise manipulate the markets. The unintended effect, according to historian Christopher McKenna, was to accelerate the creation of an informal—but legal—way of sharing information among oligopolists. Who could do that? Consultants.17 ([Location 267](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=267))
+    - Tags: [[blue]] 
+- Alfred P. Sloan, the legendary president of General Motors, was the first nonowner to become truly famous for his managing skills. His decentralized, multidivisional management structure gave GM the agility to outmaneuver the more plodding Ford Motor Company and snatch the industry lead. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=278))
+    - Tags: [[blue]] 
+- This was the beginning of a decades-long separation of ownership from control in corporate America, and the consultant was an able ally to the professional manager in this tug-of-war—an ally who wasn’t gunning for the manager’s job. Thus began the era of managerial capitalism. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=286))
+    - Tags: [[blue]] 
+- “Budgetary control involves the following,” McKinsey wrote. “1. The statement of the plans of all the departments of the business for a certain period of time in the form of estimates. 2. The coordination of these estimates into a well-balanced program for the business as a whole. 3. The preparation of reports showing a comparison between the actual and the estimated performance, and the revision of the original plans when these reports show that such a revision is necessary.”20 ([Location 304](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=304))
+    - Tags: [[blue]] 
+- Two subsequent books fleshed out McKinsey’s ideas: 1924’s Managerial Accounting and Business Administration. The former taught students how accounting data could be used to solve business problems. Using the data of traditional recordkeeping, he suggested the possibility for much greater control over a company’s destiny, including the establishment of standard procedures (how things should be done and to whom information should be reported), financial standards (ways to judge operating efficiency), and operating standards (including nonfinancial measures, such as quality). ([Location 315](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=315))
+    - Tags: [[blue]] 
+- The emphasis in the GSO was more on why managers did things, as opposed to how they did them. Using the GSO, consultants started every engagement by thinking of the outlook for the industry of their client, the place of the client in the industry, the effectiveness of management, the state of its finances, and favorable or unfavorable factors that might affect the future of the firm. ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=325))
+    - Tags: [[blue]] 
+- It is worth noting that the word “consultant” was not in the name of his firm. Rather, the term “management engineers” reflected the prevailing ethos of the time: that science held the answers to most serious questions, and even human commerce could profit from the rigors of this kind of data-driven analysis. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=345))
+    - Tags: [[blue]] 
+    - Note: Data science consulting is the modern form of this. It IS management consulting
+- Taylor’s famous time-and-motion studies used stopwatch analyses of manual labor with the goal of shaving seconds off rote, repeated activities, thereby enhancing productivity. There was, Taylor argued, just “one best way” to produce anything, and a manager armed with Taylor’s tools could identify it. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=372))
+    - Tags: [[blue]] 
+- Henry Ford’s line production system was a pure distillation of Taylor’s thinking. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=379))
+    - Tags: [[blue]] 
+- The fact that just about anyone could call himself a consultant meant that shysters and scam artists abounded, tarnishing the entire field’s reputation. E. N. B. Mitton, a mining engineer who joined the British office of Bedaux in the 1930s, joked at the time that he would rather tell his mother that he was working “as a pianist in the local brothel” than admit that he had joined a consulting firm.31 ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=387))
+    - Tags: [[blue]] 
+- And just as McKinsey flipped accounting on its head, he and his contemporaries likewise turned Taylorism on its head. Instead of focusing on line workers at the bottom of the organizational chart, they zeroed in on the growing white-collar bureaucracy and top managers.32 ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=392))
+    - Tags: [[blue]] 
+- “Their specialty, at the end of the day, [was] not the management of business, but the business of management,” wrote Stewart. “[And] as in any business, what separates the winners from the also-rans isn’t independently verifiable expertise; it is the ability to move product.” ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=405))
+    - Tags: [[blue]] 
+    - Note: Forget expertise - how do we move data science product at SFL?
+- the firm’s bread and butter was finding more effective—and profitable—organizational structures, and a lot of the demand for that came from bankers. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=412))
+    - Tags: [[blue]] 
+- James McKinsey’s career as a consultant came to an end in 1935, when McKinsey was retained by Marshall Field & Company, the largest department store in the Midwest. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=422))
+    - Tags: [[blue]] 
+- McKinsey’s conclusion was that Marshall Field should specialize: unload its wholesale business, sell its 18 textile mills, focus entirely on retail, and cut, cut, cut. The board members of Marshall Field not only loved this idea but also asked McKinsey if he would carry it out. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=425))
+    - Tags: [[blue]] 
+- Over the years, numerous consultants have left the field because they preferred to “do, not tell.” As McKinsey himself found out, it’s harder than it sounds. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=428))
+    - Tags: [[blue]] 
+- The process revealed a flaw that critics continue to see in a preponderance of consultants: While long on ability to intellectualize their way out of a business situation, they often come up short on the human factor. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=434))
+    - Tags: [[blue]] 
+- “Never in my whole life before did I know how much more difficult it is to make business decisions myself than merely advising others what to do,” ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=439))
+    - Tags: [[blue]] 
+- This kind of advice-on-retainer became an increasingly valuable part of the firm’s business in the years ahead.) ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=454))
+    - Tags: [[blue]] 
+- Bower translated the lesson into one taught to every McKinsey consultant to this day: Deliver the bad news if you must, but deliver it properly. ([Location 505](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=505))
+    - Tags: [[blue]] 
+- Bower molded McKinsey into just the firm he had envisioned as a young lawyer: an organization that enjoyed the same prestige and influence as prominent law firms but didn’t spend time on the boring stuff. In other words, a law firm that didn’t practice law. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=509))
+    - Tags: [[blue]] 
+- Association with a failing firm was toxic for a consultancy’s business. From this point forth, McKinsey & Company strove to stay well behind the scenes. It henceforth refused to reveal its client list and at the same time insisted that clients show similar discretion. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=519))
+    - Tags: [[blue]] 
+- while few people did more to unshackle accounting professionals than James O. McKinsey, few people worked harder than Bower in the coming years to put the shackles back on. Or at least, keep the accountants out of the boardroom.” ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=564))
+    - Tags: [[blue]] 
+- Under Bower’s direction, McKinsey & Company employees used accounting tools, but they were no mere accountants. They were consultants. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=566))
+    - Tags: [[blue]] 
+- By the time Bower was done at McKinsey, it was just the opposite: While the firm did not bear his name, everything else about it screamed Marvin. First and foremost: Everything was sacrificed at the altar of the client. The client, the client, the client. Bower saw himself as little more than a servant to client interests. ([Location 568](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=568))
+    - Tags: [[blue]] 
+- “Being a great leader is often less a matter of eloquence and more a matter of repetition and consistency.” ([Location 582](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=582))
+    - Tags: [[blue]] 
+- “You are encouraged to believe that you belong to a special club of elite people.”2 ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=587))
+    - Tags: [[blue]] 
+- Instead, Bower sold his shares back to the firm at book value. In doing so, he demonstrated precisely the kind of allegiance to the cause he expected of anyone wishing to be successful at McKinsey: He forsook considerable riches for the good of the institution, in the process giving young consultants the ability to buy their way into the partnership without mortgaging their houses to do so. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=596))
+    - Tags: [[blue]] 
+- The consultant would comport himself as a lawyer, with discretion and integrity; he would bring scientific, fact-based rigor and precision to the task, like an engineer or accountant. Like a doctor, he would dispense advice to unhealthy companies on how to get better and to healthy companies on how to stay that way. And, like a priest, he would serve his clients. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=605))
+    - Tags: [[blue]] 
+- Because Bower had a background in law, his desire to be just like a law firm was perhaps the most explicit of all. ([Location 607](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=607))
+    - Tags: [[blue]] 
+- Another way of looking at it: It’s hard to get any business done in the United States without hiring a lawyer. If Bower could achieve a similar result for McKinsey, the firm could entrench itself in the economy. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=610))
+    - Tags: [[blue]] 
+- First, the consultant must put his client’s interests ahead of the firm’s interests. If a McKinsey consultant thinks a study is not in the interests of a client—a waste of money, or a misguided investigation—he must tell the client so. Second, he must adhere to the highest standards of truthfulness, integrity, and trustworthiness. Third, he must keep to himself the client’s private and proprietary information. Fourth, he must maintain an independent position and tell the client the truth as he sees it. And fifth, he must provide only services that have real value. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=616))
+    - Tags: [[blue]] 
+- To him, the purpose of the enterprise was to serve clients; profits were a byproduct. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=624))
+    - Tags: [[blue]] 
+- “the successful consultant has a personality that causes most people to like him.” ([Location 655](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=655))
+    - Tags: [[blue]] 
+- Second, the McKinsey consultant had to inspire confidence with his appearance. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=662))
+    - Tags: [[blue]] 
+- “If you have revolutionary ideas, they are much more likely to be listened to if you do not have revolutionary dress. . . . If you were an airline passenger, and the pilot came aboard the plane and he wore shorts and a flaming scarf, would you have the same confidence as you did when he came on with his four stripes on the shoulder? Basically, the dress code all has to do with what you want to do, when you want to build confidence and an identity.” ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=687))
+    - Tags: [[blue]] 
+- Most McKinsey reports begin with a page titled “Today’s Discussion.” It’s a brief of what the consultants hope to get across to the client, presented in outline form, and it shows not just how McKinsey presents but how its consultants are taught to think: in logical, well-structured, and easy-to-follow steps. A McKinsey consultant, according to the Bower way, was never supposed to put his personal stamp on anything. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=699))
+    - Tags: [[blue]] 
+- That same year, McKinsey, Wellington inaugurated its reading program for associates, complete with required book reports. Every McKinsey consultant was forced to read what can only have been a page-turner, the two-volume Air Conditioning, as well as more compelling titles such as The Human Problems of an Industrial Civilization, Modern Economic Society, and Automotive Giants of America. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=708))
+    - Tags: [[blue]] 
+    - Note: SFL required reading
+- The firm demanded that every consultant read at least fifteen books in the coming year, and submit book reports to partner Harrison Roddick in New York. If that seemed like a lot of reading for already busy consultants, the guide suggested that each man employ what could only be described as a sort of rudimentary speed-reading technique. ([Location 711](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=711))
+    - Tags: [[blue]] 
+- James McKinsey’s animating idea was that the firm would operate like an exclusive private club admitting only the most prestigious clients. ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=759))
+    - Tags: [[blue]] 
+- In organization theory, they call this “mimetic isomorphism”—the tendency to imitate another organization in the belief that, if others are doing something, it must be worthwhile. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=772))
+    - Tags: [[blue]] 
+- By the mid-1940s, General Motors and a few others had embraced the M-form, to their tremendous benefit. But much of corporate America remained in the dark, and this was a great opportunity for the consulting industry—to spread the new corporate gospel, the secrets of the best companies. ([Location 779](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=779))
+    - Tags: [[blue]] 
+- The new corporate structure liberated the people at headquarters from day-to-day problems and allowed them to focus on the big picture. It also created a whole new class of top-tier executives—highly compensated free thinkers with no actual line responsibility. They got to spend their time doing “strategic thinking.” ([Location 784](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=784))
+    - Tags: [[blue]] 
+- “Management is not just passive, adaptive behavior,” wrote Peter Drucker in his 1955 book, The Practice of Management. “It means taking action to make the desired results come to pass.” ([Location 792](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=792))
+    - Tags: [[blue]] 
+- McKinsey insisted that it would work only for the chief executives of firms and not be shunted off to their underlings. Anything that wasn’t important enough to involve the CEO wasn’t important enough for the consultants. This had the added advantage of freeing McKinsey from having to offer specialized, technical advice. CEOs didn’t have time for such intricate details, so McKinsey didn’t bother with them either. This became a major piece of the firm’s identity: Narrow expertise is for chumps; we do vision. ([Location 812](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=812))
+    - Tags: [[blue]] 
+- That’s what McKinsey does: It sells the credit to its clients. And it’s a good idea. What manager would want to hire someone looking to take credit? In exchange, though, McKinsey does not take responsibility for what a firm does with the advice it receives. ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=824))
+    - Tags: [[blue]] 
+- Among the problems that McKinsey promised to solve for CEOs was the information bottleneck. Top executives are routinely criticized for not understanding what’s going on at the front line of their companies. McKinsey created a system for interviewing scores of employees and organizing the information for quick consumption by the chief executive. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=829))
+    - Tags: [[blue]] 
+- But Bower didn’t want caviar or power. He wanted influence. And McKinsey was the means through which he obtained it. ([Location 857](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=857))
+    - Tags: [[blue]] 
+- This was McKinsey’s great opportunity. Its consultants became anthropologists of a modern and evolving social organism called the corporation. They were the first ones to truly understand how this human machine worked. ([Location 878](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=878))
+    - Tags: [[blue]] 
+- “As organizations have grown in size and complexity . . . the CEO we serve now may be the chief executive of a subsidiary or division,” Bower wrote.8 He was unforgiving, though, with regard to his conviction that McKinsey work only on its clients’ most pressing problems. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=882))
+    - Tags: [[blue]] 
+- In the 1950s, the Company Man was ascendant. William Whyte’s 1956 book, The Organization Man, gave him a second name, but both figures marched to the steady beat of corporate conformity. Young men happily traded their individuality in exchange for a steady paycheck, an obsequious secretary, and a degree of career stability not seen since before the Great Depression. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=892))
+    - Tags: [[blue]] 
+- By 1966 the London office was the second largest at McKinsey, with thirty-seven clients to New York’s ninety-six.41 The product, naturally, was decentralization: In short order, the firm decentralized twenty-five of the top 100 British companies. ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1075))
+    - Tags: [[blue]] 
+- It’s been said that McKinsey consultants traveled across Europe with a copy of Alfred Chandler’s Strategy and Structure in their briefcases. Chandler’s multidivisional model was the sine qua non of organizational structures, and McKinsey acted as its chief proselytizer. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1080))
+    - Tags: [[blue]] 
+- French journalist Jean-Jacques Servan-Schreiber’s 1968 book, The American Challenge, argued forcefully that American companies’ ability to manage their operations over vast geographies was crushing European competition, and that the secret to their success was in their organizational structure: in other words, the decentralized form. This was Scale and Scope all over again, except this time on a global playing field. ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1103))
+    - Tags: [[blue]] 
+- But the idea caught on. Between 1950 and 1959, as the proportion of consultants at the firm with MBAs climbed from 20 percent to over 80 percent, the median age of McKinsey consultants dropped by almost ten years.54 Younger and hungrier—and a lot cheaper. Betting on potential has become one of McKinsey’s defining characteristics. The idea was simple: It was easier to mold a young mind than to change an older one. “Harvard . . . doesn’t teach you accounting or finance,” McKinsey alum and convicted fraud Jeff Skilling once said. “They teach you how to be convincing.”55 ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1139))
+    - Tags: [[blue]] 
+    - Note: Hiring cheaper undergrads for DE team
+- When you graduate, you reach that terrifying point in your life when the next thing to do is not obvious, when there are a lot more choices than before. McKinsey makes it very easy for people whose primary goal is to keep their options open. ([Location 1148](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1148))
+    - Tags: [[blue]] 
+- In other words, McKinsey had perfected personnel development: It hired the young and inexperienced for a pittance, then made its clients pay for their further education. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1158))
+    - Tags: [[blue]] 
+- But even for graduates of Harvard, landing a job at McKinsey is hardly a lifetime appointment. Most young consultants spend just a few years at the firm before being tossed back out into the workforce. Only one in six hires stays at the company for five years or more. ([Location 1174](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1174))
+    - Tags: [[blue]] 
+- “It is on account of this pyramid principle, of course, that under normal circumstances the opportunity to become a partner in a respectable firm arises only after eight or so years of youth-destroying labor,” he wrote.61 “[And] in the end, just about everybody who plays the game is a loser.”62 ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1187))
+    - Tags: [[blue]] 
+- At McKinsey (as at other consultancies), one is generally promoted from associate to principal on the basis of one’s ability to analyze and present data. But thereafter, one is promoted almost solely on the basis of one’s ability to sell the firm’s services.63 “It’s the only job I can think of where you start in general management, and then, if you’re successful, you end up in sales,” said an alumnus of the firm. ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1191))
+    - Tags: [[blue]] 
+- The firm is not admired for revolutionary ideas; it is admired for its systematic approach to forcing multiple hypotheses to survive or wilt in the hot glare of factual reality. ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1216))
+    - Tags: [[blue]] 
+- Most important, in 1956 the firm abandoned the partnership structure and incorporated. ([Location 1226](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1226))
+    - Tags: [[blue]] 
+- it allowed them to offer tax-sheltered profit sharing for employees, more cost-effective ways of handling retirement and death claims, and more tax-efficient accumulation of capital for growth. (Under U.S. partnership law, partners are taxed on their share of earnings, regardless of whether or not those earnings are distributed that year, making reinvestment an after-tax—and thus more expensive—proposition. Incorporation eliminated that issue.) ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1229))
+    - Tags: [[blue]] 
+- McKinsey embraced the notion of staffing leverage as much as any other. In 1960, 176 nonconsulting staff members supported the 165 consultants at McKinsey. In other words, the 42 partners had 300 other people working for them, a “leverage ratio” of seven to one.68 Most consultants can bill a maximum of 2,000 hours per year. Utilization between 80 and 100 percent is considered achievable.69 The challenge of this “pyramid” form is stretching top talent across many projects at once, while fresh-faced Harvard graduates carry on the legwork. Partners then take home the lion’s share of the money earned through the work of junior consultants—a departure from earlier, experience-based consulting firms that had no such junior talent to exploit. ([Location 1233](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1233))
+    - Tags: [[blue]] 
+- The great open secret of the McKinsey business model is that a large part of its success has come by reselling the insights of others. The primary product McKinsey sold, for several decades, was a customized version of the decentralized, multidivisional organizational structure pioneered by the likes of DuPont. ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1251))
+    - Tags: [[blue]] 
+- Strategy was the answer to the end of the decentralization era. Most large companies had already reorganized. What top management needed now was justification for their own nonoperational jobs. ([Location 1271](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1271))
+    - Tags: [[blue]] 
+- Marvin Bower had predicted that the surest route to elite status was to act as if you already were elite. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1330))
+    - Tags: [[blue]] 
+- it looked suspiciously as though most conglomerates were worth decidedly less than the combined value of the companies they owned. And so the great dismantling began. ([Location 1393](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1393))
+    - Tags: [[blue]] 
+- It is a challenge the firm has had to confront as it has grown larger: Can McKinsey allow partners the autonomy they seek while still maintaining enough control to keep the thing from spinning apart? ([Location 1426](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1426))
+    - Tags: [[blue]] 
+- It was a perfect distillation of the McKinsey ethos, the firm’s sense of itself as a collection of the smartest, most stimulated group of people on the planet. ([Location 1431](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1431))
+    - Tags: [[blue]] 
+- The era of managerialism was coming to a close, to be replaced by a more aggressive, less genteel era of so-called shareholder capitalism. Along with it came an emphasis on leaner companies—and thus less demand for McKinsey’s bread-and-butter business, organizational consulting. ([Location 1448](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1448))
+    - Tags: [[blue]] 
+- “We realized that we didn’t have nearly as strong a partner group as we should have, that we had elected a lot of partners who should not be partners, that the [firm] was capable of doing bad work, and that we weren’t necessarily on a winning streak forever,” ([Location 1457](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1457))
+    - Tags: [[blue]] 
+- McKinsey had never imagined that its sophisticated clients could be sold “products” such as the growth-share matrix and the experience curve. Under Bower’s lead, the firm had deliberately avoided flavor-of-the-month ideas, thinking that its clientele wanted smart people, not smartly packaged ideas. It was dead wrong about that. Its clients apparently wanted both. ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1534))
+    - Tags: [[blue]] 
+- The appeal of BCG was in the tangibility of its advice. It was not a process or an intellectual exercise. “While McKinsey was selling its own innate brilliance, BCG was selling products and selling lots of them,” ([Location 1542](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1542))
+    - Tags: [[blue]] 
+- “the million-dollar slide”—a single chart or graph that told a company so much about itself that it was worth a million dollars in fees. ([Location 1576](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1576))
+    - Tags: [[blue]] 
+- The hardest thing in any big organization is to keep execution discipline in the forefront. There is a huge usefulness to that kind of consulting—process improvement—versus the elusive promise of big breakthrough thinking. ([Location 1582](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1582))
+    - Tags: [[blue]] 
+- Consultants sell an analytical approach to strategy, argued McGill professor Henry Mintzberg, but that’s never going to give you the big insight into what product or service will make you profitable again. No amount of reductive analysis of customer needs, market sizing, or competitive positioning can do that. For that you need to innovate, and there’s something about the whole analytical mind-set that effectively drives the ability to innovate out of the building. ([Location 1587](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1587))
+    - Tags: [[blue]] 
+    - Note: Left brain vs right brain thinking. Logical analysis vs intuitive gestalt
+- McKinsey had been as guilty of this sleight of hand as anyone—it promised big breakthrough thinking, but what it really delivered was lots of analysis. ([Location 1594](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1594))
+    - Tags: [[blue]] 
+- The great insight of the strategy practitioners was that not all businesses are created equal, and it is the job of the CEO to divvy up capital according to which ones could put it to best use. ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1603))
+    - Tags: [[blue]] 
+- In a belated response to Perspectives, McKinsey later began sending missives of two thousand words or less out to prospective clients. Called “spill a cup of coffee on that,” the briefs had a threefold goal. First, the McKinsey partner asked the prospects what they thought of the work. This appealed to the client’s vanity. Second, it compelled the client to then read McKinsey’s latest thinking. And third, it gave the firm a chance to follow up. One rival suggested the firm has captured more business through these informal communiqués than through big, important papers on the future of hedge funds or capitalism on which the media so eagerly feed. ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1634))
+    - Tags: [[blue]] 
+- The staunch refusal of Bower and his partners to sell is quite likely the key to McKinsey’s enduring lead over its competition. Bower understood that selling shares to the public at a multiple of earnings (as opposed to selling back to his partners at book value) was a surefire way to become very, very rich. But it also created classes of haves and have-nots that most likely would eventually lead to the dissolution of the firm. ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1664))
+    - Tags: [[blue]] 
+- Firm policy had been to set compensation according to two basic criteria: the quality and quantity of one’s actual work during the year, and the squishier concept of one’s “enduring contribution” to the firm. ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1686))
+    - Tags: [[blue]] 
+- The firm capitulated to client demands for more specialized consultants while still maintaining a generalist veneer. In time, McKinsey offered its clients specialists in a range of industries and functions (e.g., supply-chain management, corporate finance) but at the same time managed to hold on to a vaunted image as boardroom consultants. The result: As with many things McKinsey, surface appearance didn’t tell the whole story. But the transition didn’t just take years; it took decades. ([Location 1702](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1702))
+    - Tags: [[blue]] 
+- But over the years, it had been the generalists who had proven the most successful at attracting and retaining clients and therefore wielded the most power. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1713))
+    - Tags: [[blue]] 
+- the two main career roads led either to a generalist relationship director or to an administrative office manager director. There was no specialist lane on either. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1720))
+    - Tags: [[blue]] 
+- Partners would put their studies up on the intranet and associates would choose which they wanted to work on. Boring, marginal studies wouldn’t get staffed, and the projects would be turned down.) ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1726))
+    - Tags: [[blue]] 
+- A parallel development at the time—equally resisted by the old guard—was a shift to more visual client presentations. Up to that point, the firm’s style had sprung directly from Bower’s lawyerly roots, and his insistence on dense, highly structured, wordy presentations was still the model. ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1732))
+    - Tags: [[blue]] 
+- While The Pyramid Principle was a terrific way to organize one’s thoughts on a Power-Point presentation, it was also a very poor structural guide for writing in plain English. ([Location 1742](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1742))
+    - Tags: [[blue]] 
+- Making managers fear for their jobs was the best way to keep them honest and focused. This was the start of the era of investor capitalism. ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1753))
+    - Tags: [[blue]] 
+- “Rarely, if ever, in American history had there been such a wholesale reinterpretation of economic history as that which occurred during the . . . decades of the 1980s and 1990s,” wrote Rakesh Khurana in From Higher Aims to Hired Hands. “As the narrative was revised, managerial capitalism was portrayed no longer as the key to America’s economic success but, rather, as a liability. . . . Corporate takeovers came to be seen as a means of restoring power to the group now believed to be the only one with a legitimate claim to the value created by corporations—shareholders.” ([Location 1760](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1760))
+    - Tags: [[blue]] 
+- There really is no such thing as “shareholders” as a coherent entity. “Shareholders” is code for “Wall Street,” and starting in the late 1970s, that’s where power began to be concentrated. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1765))
+    - Tags: [[blue]] 
+- McKinsey downsized by tightening its promotion criteria and then invoking the “up-or-out” rules: Whenever business turns down, instead of laying off people, the firm simply lowers the percentage that gets promoted at each level and the problem takes care of itself in a year or two. ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1791))
+    - Tags: [[blue]] 
+- McDonald also instituted a number of changes designed to make sure directors still performed in the interests of the firm, including the extension of the up-or-out policy to the director level. Previously, directors effectively had tenure. Henceforth, they had to justify their existence along with everyone else. ([Location 1801](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1801))
+    - Tags: [[blue]] 
+- Ron Daniel yanked the firm out of its generalist torpor and invested systematically in the creation of domain knowledge. ([Location 1858](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1858))
+    - Tags: [[blue]] 
+- How did Daniel keep McKinsey headed up and to the right of the growth chart? One major way was by embracing the idea of the “transformational relationship” and encouraging consultants to push it to their clients. McKinsey no longer pitched itself as a project-to-project firm; from this point forth, it sold itself to clients as an ongoing prodder of change, the kind a smart CEO would keep around indefinitely. ([Location 1900](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1900))
+    - Tags: [[blue]] 
+    - Note: AI transformation relationship
+- One great trick was to issue a progress review at the end of any study—raising the implication that the completed work should necessarily lead to further work. ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1907))
+    - Tags: [[blue]] 
+    - Note: Implied further work rather than final readouts
+- You will never hear this from McKinsey, but with its business concentrated in continuous clients, a huge part of its effort is spent figuring out how to turn a middling client into a $10 million-per-annum cash cow. ([Location 1910](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1910))
+    - Tags: [[blue]] 
+- Critics of the firm conveniently ignore that it wasn’t just luck that turned one-off clients into relationship clients. Even when there was no hope of any billings, either immediately or in the near future, McKinsey partners would make it their business to meet the CEO and his top team on a regular basis. They would inform the C-suite on an issue they knew its members were grappling with or an emerging issue that the industry might be addressing. ([Location 1912](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1912))
+    - Tags: [[blue]] 
+    - Note: Zoom calls with high level execs offering feee macro level advice and trends in the industry
+- Whereas McKinsey had always focused on its image and its relationships, BCG, Bain, and other upstarts had shifted the battle to the realm of ideas, where McKinsey had little to offer. ([Location 1925](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1925))
+    - Tags: [[blue]] 
+    - Note: We need to produce (in articles & videos) novel ideas for AI-first digital transformation
+- Daniel shifted the focus of the firm to “knowledge.” ([Location 1934](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1934))
+    - Tags: [[blue]] 
+- Ohmae became famous for his later repudiation of the idea of formal corporate strategy—arguing a variant of Prussian general Helmuth von Moltke’s dictum that all strategic plans become nullified on first contact with the enemy. By definition, you improvise in battle, and he who improvises best wins. ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1952))
+    - Tags: [[blue]] 
+- To that end, Gluck introduced practice bulletins, one-page summaries of what had been learned on a particular engagement or series of engagements with clients, so as to keep all consultants abreast of current work being done by the firm. Gluck intended to build an internal McKinsey knowledge network one piece of paper at a time. ([Location 1964](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1964))
+    - Tags: [[blue]] 
+- Walter Kiechel, author of The Lords of Strategy, credited McKinsey with bringing the discussion of strategy back around to organizational structure. The answer to a desire to be strategic, Gluck and his colleagues were arguing, was to organize one’s company around that desire. And nobody understood organization better than McKinsey. ([Location 1975](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1975))
+    - Tags: [[blue]] 
+- The revolution in how the firm collected and synthesized just what its consultants knew went far beyond its push into strategy. McKinsey also put two overlays on its geographic setup, establishing fifteen functional groups (e.g., corporate leadership, finance, organizational behavior) as well as increasing the number of industry specialties (e.g., banking, insurance, consumer products) from three to eight. The smart consultant maintained a generalist image while cultivating a niche in one or more functional or industry practices. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1982))
+    - Tags: [[blue]] 
+- What’s more, a real premium began to be placed on being part of this knowledge oeuvre—not just in what McKinsey knew but in who at McKinsey knew these subject areas. An unstated understanding emerged that if you were a logistics expert in, say, the retail sector and you were called by a partner you had never met who mainly did work with pharmaceutical companies, you would nevertheless return the call. That reputation for contributing was your asset in the firm. ([Location 1994](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=1994))
+    - Tags: [[blue]] 
+- In 1988 two consultants, Jim Rosenthal and Juan Ocampo, wrote Securitization of Credit, a road map that helped Citibank and Chase Manhattan survive the South American debt crisis. The book, the first on a subject that soon washed over the financial world like a tsunami, showed the banks, unable to earn their way out of their bad debt situation, that by securitizing the loans on their books—packaging them up and selling them into the secondary debt markets—they could effectively walk away from the loans, albeit while still taking a hit to their balance sheets. ([Location 2026](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2026))
+    - Tags: [[blue]] 
+    - Note: Consultants were writing groundbreaking books WE NEED MORE OF THIS AT SFL - novel, groundbreaking ideas that take significant work to arrive at
+- Peters helped rebrand McKinsey as a group of thinkers while at the same time revealing some less-than-great qualities of McKinsey, such as its utter incapacity to deal with a star in its midst. ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2049))
+    - Tags: [[blue]] 
+- “The Secrets of Excellence” was, in part, offensive to the McKinsey mind. Peters and Waterman were suggesting that the secrets to success were not necessarily quantifiable, that they might be impervious to rigorous analysis. They talked of focusing on the customer and on the employee, not just on org charts and spreadsheets. ([Location 2078](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2078))
+    - Tags: [[blue]] 
+- Peters and Waterman cataloged the qualities of excellent firms: They had a bias for action; closeness to the customer; autonomy and entrepreneurship; productivity through people; a hands-on, value-driven emphasis; stick-to-the-knitting persistence; simple form, lean staff; and simultaneous loose-tight properties—new-age management jargon for simultaneously keeping overall control while still letting your top performers roam. ([Location 2089](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2089))
+    - Tags: [[blue]] 
+- If the strategy revolution was forcing companies to look outward more than they ever had before, what Excellence did was force that gaze right back inside again. And it wasn’t talking only about financial management. It was also talking about how you treated the people who worked for you. It was, in short, the first great manifesto of the idea of corporate culture. ([Location 2101](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2101))
+    - Tags: [[blue]] 
+- The first piece Peters had nationally published on the subject—well before the book came out—was an op-ed in the Wall Street Journal, in which he stressed the importance of execution and dismissed the whole idea of strategy. “Far too many managers have lost sight of the basics—service to customers, low-cost manufacturing, productivity improvement, innovation, and risk-taking,” he wrote. “In many cases, they have been seduced by the availability of MBAs, armed with the ‘latest’ in strategic planning techniques. MBAs who specialize in strategy are bright, but they often cannot implement their ideas, and their companies wind up losing the capacity to act.” ([Location 2110](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2110))
+    - Tags: [[blue]] 
+    - Note: SFL can take about ML modeling vs full AI transformation (ie. fun toys vs structuring your organization and culture in a way that supports and drives AI adoption at the most fundamental level of the business)
+- Henceforth, McKinsey would liquidate itself at the end of every year—paying out all profits to the consultants—a move that encouraged short-termism over true stewardship of the long-term value of the institution. McKinsey may say it encourages its clients to think long-term, but its own people value today over tomorrow. ([Location 2250](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2250))
+    - Tags: [[blue]] 
+- Ohmae was more of a rabble-rouser. He was the firm’s most prominent and oft-quoted consultant in the late 1980s, head of its Tokyo office, and author of several international bestsellers, including The Mind of the Strategist and Triad Power.42 McKinsey had always hired smart people, but Ohmae was truly brilliant. His PhD in nuclear engineering from MIT told only part of the story. He was known in Japan as Keiei no Kamisama—the “God of Management.” ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2270))
+    - Tags: [[blue]] 
+- Three of McKinsey’s biggest stars—Tom Peters, Herb Henzler, and Ken Ohmae—poked their heads above the rest for a time. All three gave McKinsey something invaluable. But after they’d all left, McKinsey went back to a system that quietly rewarded a brigade of high-performing no-names. ([Location 2315](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2315))
+    - Tags: [[blue]] 
+- Everyone wanted to talk to McKinsey, in part because its massive scope certainly did give it perspective on the best practices of one’s competitors, whether they were in New York, London, or Tokyo. ([Location 2327](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2327))
+    - Tags: [[blue]] 
+- The kind of consultant McKinsey produced did change over time, and by the 1990s the firm was favoring a scientifically bent technocrat. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2404))
+    - Tags: [[blue]] 
+- We’re really good at tapping into intellectual smarts, as measured in quantitative and conceptual ways. But in our search for bright guys, we throw out a lot of creative ones. We’ve got to be less cookie-cutter in our hiring.” ([Location 2415](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2415))
+    - Tags: [[blue]] 
+- While it may seem simplistic, the job of a CEO is to keep his own job. Even your most reliable lieutenants have a tendency to stab you in the back. So the smart CEOs hire expensive (albeit structurally disloyal)6 lieutenants in the form of consultants. ([Location 2482](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2482))
+    - Tags: [[blue]] 
+- Did McKinsey do anything to help the great companies of today become what they are? Amazon, Microsoft, Google? In short, no. ([Location 2558](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2558))
+    - Tags: [[blue]] 
+- “At the time, neither McKinsey nor General Motors understood the true nature of Japanese competitiveness,” said Maryann Keller, author of Rude Awakening: The Rise, Fall and Struggle for Recovery of General Motors.16 “Only later did people begin to realize that it wasn’t the fact that the Japanese had a compliant low-paid workforce that got up every day and sang the Toyota hymn. It was that they built cars with fewer parts, fewer defects, continuous improvement processes, and took man-hours out of making cars without compromising productivity. I’m 100 percent sure McKinsey had no clue about these revelations.” ([Location 2577](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2577))
+    - Tags: [[blue]] 
+- “They were flying perpendicular to where they should have been,” said Keller. “It was the thousands of little things Toyota did well that mattered, not the organizational design of General Motors.” ([Location 2584](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2584))
+    - Tags: [[blue]] 
+- “But is it such a surprise?” she asked. “These are not people who have ever run anything. These are people who have spent their lives talking to high-level executives. And what do high-level executives know about making things? Not much, usually. Do you think Roger Smith knew anything about making a car?” ([Location 2587](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2587))
+    - Tags: [[blue]] 
+- Real consulting, writer Kevin Mellyn has argued, isn’t about change or leadership or vision. It’s about helping people manage what one might call Industrial Prussianism—organizing activities through highly rational bureaucratic routines that promote effectiveness, efficiency, and honesty. ([Location 2619](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2619))
+    - Tags: [[blue]] 
+- Industrial Prussianism skips the heroes and focuses on efficiency and frugality, with training and accountability. The only point of strategic planning is to think through all contingencies in advance so as to make fewer tactical execution errors; he who makes the fewest and has the best-organized and best-trained troops wins. The companies that survive, like the best armies, can recover from unexpected blows of fate and competitor breakthroughs. ([Location 2623](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2623))
+    - Tags: [[blue]] 
+- Even today, the best consultants are ex-engineers, not perfectly designed social operators with a Harvard MBA. Engineering teaches you to define your solution space, determine the relevant levers you can pull or push, and then find your solution. Strategize all you want, but if your processes aren’t well oiled, you’re a goner. ([Location 2628](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2628))
+    - Tags: [[blue]] 
+- McKinsey does what all its competitors do, which is act as de facto industrial spies. The firm would surely take umbrage at the suggestion, but the whole notion of competitive benchmarking is just a fancy way of telling one client what other clients are up to, ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2678))
+    - Tags: [[blue]] 
+- McKinsey is all about confidence. The McKinsey sales pitch is a simple one: “Whatever your problem is, we’re the smart guys that can help you fix it.” ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2692))
+    - Tags: [[blue]] 
+- More than seventy past and present CEOs of Fortune 500 companies are McKinsey alumni. A 2008 study by USA Today calculated that the odds of a McKinsey employee becoming a CEO at a public company were the best in the world, at 1 in 690. ([Location 2704](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2704))
+    - Tags: [[blue]] 
+- “To calculate the return on investment of a project that’s still in R&D means you’re projecting sales way out into the future. You can project anything you want, which makes it a totally useless way of selecting projects. The way you should select R&D projects is based on what it does to your competitive position. Or whether it opens up a new market to you.”5 ([Location 2745](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2745))
+    - Tags: [[blue]] 
+- According to historian Matthias Kipping, there are three waves in the history of consulting. The first wave ushered the industry into existence: the Taylorist focus on efficiency enhancement. The second was consulting top management on organization and strategy. And the third was advice on information technology (IT) based networking. By the late 1980s, it was no secret that a company’s IT strategy could be the difference between staying in the game and permanently falling behind. ([Location 2795](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2795))
+    - Tags: [[blue]] 
+- In the late 1990s the firm made another run at the technology-consulting action, but this time it was from the ground up, launching a Business Technology Office. The goal wasn’t to compete head-on with the accounting firms—McKinsey’s relatively low associate-to-partner ratios wouldn’t support such economics—but to advise the chief information officer on information-technology management, providing answers to questions like: How do you run your IT department? How do you prioritize projects? How do you keep IT costs down? “Because we’re not actual vendors of technology like most IT consultants, we’re sitting on the same side of the table as the CIO, not the opposite side,” said Mattern. “That’s an enormously powerful and valuable position to be in.”14 ([Location 2842](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2842))
+    - Tags: [[blue]] 
+    - Note: SFL - use top consultants to advise CIO and CDO on deep organizational transformation for AI
+- A McKinsey consultant didn’t do mere systems integration. He told you why you wanted one system or another. ([Location 2848](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=2848))
+    - Tags: [[blue]] 
+- In 2003 Dirk Kurjuweit wrote Our Efficient Life: The Dictatorship of the Economy and Its Consequences, about the ruthless obsession with corporate profits. He decried the simplistic and fundamentally inhumane notion of a society in which efficiency is the ultimate goal. “In the Middle Ages, the church influenced thought and conduct,” he wrote. “Since the enlightenment, reason was regarded as the standard of all conduct. Today, the economy plays this role and marks our ideas of happiness, love and meaning of life.” ([Location 3005](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3005))
+    - Tags: [[blue]] 
+- Fred Gluck’s tenure at McKinsey was distinguished by his fixation on knowledge—amassing it, organizing it, and making it available to consultants and, ultimately, the firm’s clients. ([Location 3025](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3025))
+    - Tags: [[blue]] 
+- With nearly two thousand consulting engagements a year, McKinsey considered its purview “an invaluable laboratory in which to observe and participate in real-time experiments in management.” ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3041))
+    - Tags: [[blue]] 
+    - Note: SFL is a laboratory of applied AI and MLOps
+- Despite some missteps, Gluck also grasped that the firm had to do a better job publicizing its accomplishments. Under his direction, in 1990 the firm launched the McKinsey Global Institute (MGI), an independent research operation with the goal of developing “substantive points of view on the critical issues” faced by McKinsey clients.41 ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3083))
+    - Tags: [[blue]] 
+- MGI has been successful in giving the firm a quasi-academic glow that’s yet another in the long list of ways it is differentiated from the competition. ([Location 3089](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3089))
+    - Tags: [[blue]] 
+- the establishment of new “fee mechanisms” to enable the consultants to work with small but fast-growing companies. In lieu of its customarily high rates, the firm started taking equity in clients, ([Location 3310](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3310))
+    - Tags: [[blue]] 
+- “The place evolved from a very elite professional services firm to kind of a large factory that produced consulting projects,” ([Location 3362](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3362))
+    - Tags: [[blue]] 
+- the new character of McKinsey suddenly seemed one that was capable of making a number of seriously questionable decisions—about which clients it got close to and what it advised those clients to do. ([Location 3367](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3367))
+    - Tags: [[blue]] 
+- When he presented the idea to Enron’s top twenty-five executives in 1987, he used just a single slide—also very McKinsey-like. ([Location 3395](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3395))
+    - Tags: [[blue]] 
+- As critics of Enron emerged and started to question the firm’s accounting methods, McKinsey issued ever more ringing endorsements. As far as McKinsey was concerned, “[deal-making] skills have become more important than scale or scope, and strategic insight and foresight more important than structural position.”17 It’s a statement that is baffling in its implication—that what matters is not what you actually are, but what you want to be. ([Location 3449](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3449))
+    - Tags: [[blue]] 
+- Nearly all of Enron’s allegedly innovative approaches ended up playing a significant role in the firm’s collapse. Being asset-light left Enron with unsustainable debts. Being loose-tight excused a laissez-faire culture in which executives acted without oversight. Off-balance-sheet financing turned out to be a way to deceive investors and the IRS. ([Location 3454](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3454))
+    - Tags: [[blue]] 
+- Enron’s success was McKinsey’s success. More precisely, Skilling’s success was McKinsey’s success. By the end, Enron was spending upwards of $750 million a year on a combination of consultants and other professional services. ([Location 3480](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3480))
+    - Tags: [[blue]] 
+- Ultimately, it was Skilling’s disavowal of hard assets in favor of trading that doomed the enterprise. “All that trading and marketing is wonderful,” said a former Enron executive, “but if you’re going to be in the energy business, sooner or later you need to be turning on a generator or producing gas or oil.” What Skilling had created was a trading firm. ([Location 3484](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3484))
+    - Tags: [[blue]] 
+- Using so-called special purpose vehicles, the company had pretended to be far less indebted than it actually was. Enron’s balance sheet at the end showed debts of $13 billion. Add in the off-balance-sheet liabilities, though, and the total nearly tripled, to $38 billion. The collapse of the firm was the largest bankruptcy in U.S. history at the time. And McKinsey’s Houston office saw its revenues fall off a cliff. ([Location 3495](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3495))
+    - Tags: [[blue]] 
+- The Enron debacle had a similar perverse result for McKinsey. Among other things, it helped spur the creation of the Sarbanes-Oxley Act, which put executives and boards of directors more squarely in the gun sights of prosecutors. Whom have those boards hired to help shield themselves from liability? Consultants, of course. McKinsey’s failures at Enron contributed, in a roundabout way, to its continuing success. ([Location 3579](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3579))
+    - Tags: [[blue]] 
+- It wasn’t just dot-com startups that were alluring. A whole new class of consulting firm burst onto the scene, with hipper names—Razorfish, Scient, Viant, and Sapient—and sexier projects. The work they were doing seemed far more crucial than redrawing organizational charts. They were helping companies use the Internet to transform everything about the way they did business—from sourcing to distribution to how they treated and served their customers. ([Location 3764](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3764))
+    - Tags: [[blue]] 
+- Because consulting firms pay out all their profits at the end of each year, they are usually funded for about the next three months and nothing more. ([Location 3812](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3812))
+    - Tags: [[blue]] 
+- The experience revealed the downside of McKinsey’s cherished ethos of hiring good people and just letting them do their thing. When you employ ten thousand people around the world, and you let local offices take care of their own hiring without any centralized oversight—or, equally important, without centralized financial planning—the entire institution can be put at real economic risk by a sudden external change. ([Location 3832](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=3832))
+    - Tags: [[blue]] 
+- If the previous ten years had been about growth for growth’s sake, then the post-real-estate-bubble era was about how to fix everything that had been broken. Wall Street types are better suited for the cheerleading era. McKinsey people are fixers. ([Location 4029](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4029))
+    - Tags: [[blue]] 
+- A 2005 paper published in the McKinsey Quarterly said that top companies in any industry faced a 20 to 30 percent chance of losing their leadership positions within a five-year period. This risk had apparently tripled in just a single generation.34 The implied solution: get a consultant to show you the way forward. ([Location 4112](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4112))
+    - Tags: [[blue]] 
+- “I think the fundamental problem at McKinsey is that they have no real product,” she continued. “What do you do when there’s nothing there? You commoditize things that other people consider part of life, like personality and intelligence. You turn them into ‘units.’ They objectify basic human ideas and force them into ‘workflows’ and ‘dichotomies’ and ‘frameworks.’ These are not intellectuals. They are institutional people. They are people who spent a lot of time in the library memorizing things. They may talk of their new ‘framework,’ but it’s not like it’s an electric car or something.” ([Location 4193](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4193))
+    - Tags: [[blue]] 
+- Barton is the polar opposite of Rajat Gupta in terms of academic output. He has written more than eighty articles on Asia alone, and two years after his election he wrote a prescription for the mess that had been made of Western economies, “Capitalism for the Long-Term,” published—where else?—in the Harvard Business Review. ([Location 4245](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4245))
+    - Tags: [[blue]] 
+- Barton espoused a move from what he called “quarterly capitalism” to “long-term capitalism.” ([Location 4252](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4252))
+    - Tags: [[blue]] 
+- Barton cited McKinsey research that has found that 70 to 90 percent of a company’s market value is related to cash flows expected three or more years into the future. “If the vast majority of most firms’ value depends on results more than three years from now, but management is preoccupied with what’s reportable three months from now, then capitalism has a problem,” ([Location 4257](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4257))
+    - Tags: [[blue]] 
+- “BCG asked me how come their alumni aren’t as happy as McKinsey’s,” he said. “I told them it was simple, that when a guy left BCG they shat all over him and considered him a failure. When people leave McKinsey, they are counseled out and are proud of their time there.” ([Location 4295](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4295))
+    - Tags: [[blue]] 
+- “Can I give you some feedback?” he asked Barton. “You couldn’t market yourself out of a paper bag. Why didn’t you take this report around to every single finance minister in Europe and force them to read it?” ([Location 4574](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4574))
+    - Tags: [[blue]] 
+- Fewer clients need McKinsey “walking the halls” on effective retainer anymore, in part because so many would-be clients have their own hordes of MBAs walking their halls already. ([Location 4694](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4694))
+    - Tags: [[blue]] 
+- one thing those clients are very much interested in as the Internet’s informationgathering tentacles continue to spread is Big Data and Analytics. To that end, there is burgeoning interest in the ability to tap McKinsey’s proprietary frameworks, analytics, and databases quickly and at will through subscription- or licensed-based pricing instead of having to go through all the rigmarole of hiring an engagement team again and bringing everybody up to speed. ([Location 4696](https://readwise.io/to_kindle?action=open&asin=B00A287PG2&location=4696))
+    - Tags: [[blue]] 

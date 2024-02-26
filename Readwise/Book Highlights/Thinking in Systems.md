@@ -1,0 +1,829 @@
+# Thinking in Systems
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51q%2BTMvkNFL._SL200_.jpg)
+
+## Metadata
+- Author: [[Donella H. Meadows]]
+- Full Title: Thinking in Systems
+- Category: #books
+
+## Highlights
+- While traveling to meetings and conferences during this time, Dana read the International Herald Tribune and during a single week found many examples of systems in need of better management or complete redesign. She found them in the newspaper because they are all around us every day. ([Location 142](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=142))
+    - Tags: [[blue]] 
+- Once you start to see the events of the day as parts of trends, and those trends as symptoms of underlying system structure, you will be able to consider new ways to manage and new ways to live in a world of complex systems. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=144))
+    - Tags: [[blue]] 
+- Managers are not confronted with problems that are independent of each other, but with dynamic situations that consist of complex systems of changing problems that interact with each other. I call such situations messes.… Managers do not solve problems, they manage messes. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=157))
+    - Tags: [[blue]] 
+- Once we see the relationship between structure and behavior, we can begin to understand how systems work, what makes them produce poor results, and how to shift them into better behavior patterns. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=171))
+    - Tags: [[blue]] 
+- A system is a set of things—people, cells, molecules, or whatever—interconnected in such a way that they produce their own pattern of behavior over time. The system may be buffeted, constricted, triggered, or driven by outside forces. But the system’s response to these forces is characteristic of itself, and that response is seldom simple in the real world. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=175))
+    - Tags: [[blue]] 
+    - Note: Emergent behavior from complex system
+- The system, to a large extent, causes its own behavior! ([Location 179](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=179))
+    - Tags: [[blue]] 
+- Think for a moment about the implications of that idea: Political leaders don’t cause recessions or economic booms. Ups and downs are inherent in the structure of the market economy. Competitors rarely cause a company to lose market share. They may be there to scoop up the advantage, but the losing company creates its losses at least in part through its own business policies. The oil-exporting nations are not solely responsible for oil-price rises. Their actions alone could not trigger global price rises and economic chaos if the oil consumption, pricing, and investment policies of the oil-importing nations had not built economies that are vulnerable to supply interruptions. The flu virus does not attack you; you set up the conditions for it to flourish within you. Drug addiction is not the failing of an individual and no one person, no matter how tough, no matter how loving, can cure a drug addict—not even the addict. It is only through understanding addiction as part of a larger set of influences and societal issues that one can begin to address it. ([Location 181](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=181))
+    - Tags: [[blue]] 
+- Ever since the Industrial Revolution, Western society has benefited from science, logic, and reductionism over intuition and holism. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=211))
+    - Tags: [[blue]] 
+    - Note: Shift from right brain to left brain
+- Hunger, poverty, environmental degradation, economic instability, unemployment, chronic disease, drug addiction, and war, for example, persist in spite of the analytical ability and technical brilliance that have been directed toward eradicating them. No one deliberately creates those problems, no one wants them to persist, but they persist nonetheless. That is because they are intrinsically systems problems—undesirable behaviors characteristic of the system structures that produce them. They will yield only as we reclaim our intuition, stop casting blame, see the system as the source of its own problems, and find the courage and wisdom to restructure it. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=218))
+    - Tags: [[blue]] 
+    - Note: Causation not always lineae cause and effect. Dynamic, opposing forces can create new out of the friction
+- I have made liberal use of diagrams and time graphs in this book because there is a problem in discussing systems only with words. Words and sentences must, by necessity, come only one at a time in linear, logical order. Systems happen all at once. They are connected not just in one direction, but in many directions simultaneously. To discuss them properly, it is necessary somehow to use a language that shares some of the same properties as the phenomena under discussion. ([Location 228](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=228))
+    - Tags: [[blue]] 
+    - Note: Language supports linear, rational thought. Nonlinear and nonrational thought is bettee conveyed through less linear mediums such as images. Poetry or the subtext of literature are the best approximations using language
+- why a system might suddenly, and without warning, jump into a kind of behavior you’ve never seen before. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=242))
+    - Tags: [[blue]] 
+    - Note: Phase change in chaotic system
+- Systems thinkers call these common structures that produce characteristic behaviors “archetypes.” ([Location 249](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=249))
+    - Tags: [[blue]] 
+    - Note: Jungian archetypes categorize emergent behavior from human systems. Complex analysis applied to psychology
+- I don’t think the systems way of seeing is better than the reductionist way of thinking. I think it’s complementary, and therefore revealing. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=260))
+    - Tags: [[blue]] 
+    - Note: Right and left brain modes together
+- The systems-thinking lens allows us to reclaim our intuition about whole systems and hone our abilities to understand parts, see interconnections, ask “what-if” questions about possible future behaviors, and be creative and courageous about system redesign. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=265))
+    - Tags: [[blue]] 
+- The behavior of a system cannot be known just by knowing the elements of which the system is made. ([Location 282](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=282))
+    - Tags: [[blue]] 
+- A system* is an interconnected set of elements that is coherently organized in a way that achieves something. If you look at that definition closely for a minute, you can see that a system must consist of three kinds of things: elements, interconnections, and a function or purpose. ([Location 295](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=295))
+    - Tags: [[blue]] 
+- Systems can be embedded in systems, which are embedded in yet other systems. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=306))
+    - Tags: [[blue]] 
+- Is there anything that is not a system? Yes—a conglomeration without any particular interconnections or function. Sand scattered on a road by happenstance is not, itself, a system. You can add sand or take away sand and you still have just sand on the road. Arbitrarily add or take away football players, or pieces of your digestive system, and you quickly no longer have the same system. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=307))
+    - Tags: [[blue]] 
+- A system is more than the sum of its parts. It may exhibit adaptive, dynamic, goal-seeking, self-preserving, and sometimes evolutionary behavior. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=313))
+    - Tags: [[blue]] 
+    - Note: The interactions in a system create a new kind of thing that is not itself part of a system
+- Systems can change, adapt, respond to events, seek goals, mend injuries, and attend to their own survival in lifelike ways, although they may contain or consist of nonliving things. Systems can be self-organizing, and often are self-repairing over at least some range of disruptions. They are resilient, and many of them are evolutionary. Out of one system other completely new, never-before-imagined systems can arise. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=316))
+    - Tags: [[blue]] 
+- Elements do not have to be physical things. Intangibles are also elements of a system. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=327))
+    - Tags: [[blue]] 
+- Once you start listing the elements of a system, there is almost no end to the process. You can divide elements into sub-elements and then sub-sub-elements. Pretty soon you lose sight of the system. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=329))
+    - Tags: [[blue]] 
+- How to know whether you are looking at a system or just a bunch of stuff: A) Can you identify parts? … and B) Do the parts affect each other? … and C) Do the parts together produce an effect that is different from the effect of each part on its own? … and perhaps D) Does the effect, the behavior over time, persist in a variety of circumstances? ([Location 332](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=332))
+    - Tags: [[blue]] 
+- it’s a good idea to stop dissecting out elements and to start looking for the interconnections, the relationships that hold the elements together. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=339))
+    - Tags: [[blue]] 
+- It’s easier to learn about a system’s elements than about its interconnections. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=348))
+    - Tags: [[blue]] 
+- Many of the interconnections in systems operate through the flow of information. Information holds systems together and plays a great role in determining how they operate. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=352))
+    - Tags: [[blue]] 
+    - Note: Biologically this is accomplished through signaling pathways
+- A system’s function or purpose is not necessarily spoken, written, or expressed explicitly, except through the operation of the system. The best way to deduce the system’s purpose is to watch for a while to see how the system behaves. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=362))
+    - Tags: [[blue]] 
+- Purposes are deduced from behavior, not from rhetoric or stated goals. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=367))
+    - Tags: [[blue]] 
+- An important function of almost every system is to ensure its own perpetuation. ([Location 374](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=374))
+    - Tags: [[blue]] 
+    - Note: How would a system look that doesn't perpetuate its existence? Could a system that doesn't explicitly optimize for continued existence persist?
+- one of the most frustrating aspects of systems is that the purposes of subunits may add up to an overall behavior that no one wants. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=376))
+    - Tags: [[blue]] 
+- Systems can be nested within systems. Therefore, there can be purposes within purposes. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=385))
+    - Tags: [[blue]] 
+- Keeping sub-purposes and overall system purposes in harmony is an essential function of successful systems. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=389))
+    - Tags: [[blue]] 
+- You can understand the relative importance of a system’s elements, interconnections, and purposes by imagining them changed one by one. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=391))
+    - Tags: [[blue]] 
+    - Note: Mental simulation
+- Changing elements usually has the least effect on the system. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=392))
+    - Tags: [[blue]] 
+- A tree changes its cells constantly, its leaves every year or so, but it is still essentially the same tree. Your body replaces most of its cells every few weeks, but it goes on being your body. The university has a constant flow of students and a slower flow of professors and administrators, but it is still a university. In fact it is still the same university, distinct in subtle ways from others, just as General Motors and the U.S. Congress somehow maintain their identities even though all their members change. A system generally goes on being itself, changing only slowly if at all, even with complete substitutions of its elements—as long as its interconnections and purposes remain intact. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=393))
+    - Tags: [[blue]] 
+    - Note: Ship of theseus paradox. The system is the invariant, the elements change
+- The least obvious part of the system, its function or purpose, is often the most crucial determinant of the system’s behavior. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=399))
+    - Tags: [[blue]] 
+- If the interconnections change, the system may be greatly altered. It may even become unrecognizable, ([Location 401](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=401))
+    - Tags: [[blue]] 
+- A change in purpose changes a system profoundly, even if every element and interconnection remains the same. ([Location 410](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=410))
+    - Tags: [[blue]] 
+- the least obvious part of the system, its function or purpose, is often the most crucial determinant of the system’s behavior. Interconnections are also critically important. Changing relationships usually changes system behavior. The elements, the parts of systems we are most likely to notice, are often (not always) least important in defining the unique characteristics of the system—unless changing an element also results in changing relationships or purpose. ([Location 412](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=412))
+    - Tags: [[blue]] 
+- Changing just one leader at the top—from a Brezhnev to a Gorbachev, or from a Carter to a Reagan—may or may not turn an entire nation in a new direction, though its land, factories, and hundreds of millions of people remain exactly the same. A leader can make that land and those factories and people play a different game with new rules, or can direct the play toward a new purpose. ([Location 415](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=415))
+    - Tags: [[blue]] 
+    - Note: Leaders create change in systems by changing the system's function and interrelationships
+- Storing information means increasing the complexity of the mechanism. ([Location 423](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=423))
+    - Tags: [[blue]] 
+- A stock is the foundation of any system. Stocks are the elements of the system that you can see, feel, count, or measure at any given time. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=426))
+    - Tags: [[blue]] 
+- A stock is the memory of the history of changing flows within the system. ([Location 431](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=431))
+    - Tags: [[blue]] 
+- Stocks change over time through the actions of a flow. Flows are filling and draining, births and deaths, purchases and sales, growth and decay, deposits and withdrawals, successes and failures. A stock, then, is the present memory of the history of changing flows within the system. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=432))
+    - Tags: [[blue]] 
+- If you understand the dynamics of stocks and flows—their behavior over time—you understand a good deal about the behavior of complex systems. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=454))
+    - Tags: [[blue]] 
+- Systems thinkers use graphs of system behavior to understand trends over time, rather than focusing attention on individual events. We also use behavior-over-time graphs to learn whether the system is approaching a goal or a limit, and if so, how quickly. The variable on the graph may be a stock or a flow. The pattern—the shape of the variable line—is important, as are the points at which that line changes shape or direction. The precise numbers on the axes are often less important. The horizontal axis of time allows you to ask questions about what came before, and what might happen next. It can help you focus on the time horizon appropriate to the question or problem you are investigating. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=465))
+    - Tags: [[blue]] 
+- a state of dynamic equilibrium—its level does not change, although water is continuously flowing through it. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=475))
+    - Tags: [[blue]] 
+    - Note: A constant state created by dynamic opposing forces. Yin yang
+- you can deduce several important principles that extend to more complicated systems: As long as the sum of all inflows exceeds the sum of all outflows, the level of the stock will rise. As long as the sum of all outflows exceeds the sum of all inflows, the level of the stock will fall. If the sum of all outflows equals the sum of all inflows, the stock level will not change; it will be held in dynamic equilibrium at whatever level it happened to be when the two sets of flows became equal. ([Location 484](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=484))
+    - Tags: [[blue]] 
+- The human mind seems to focus more easily on stocks than on flows. On top of that, when we do focus on flows, we tend to focus on inflows more easily than on outflows. Therefore, we sometimes miss seeing that we can fill a bathtub not only by increasing the inflow rate, but also by decreasing the outflow rate. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=489))
+    - Tags: [[blue]] 
+    - Note: Lowering costs vs increasing revenues
+- A breakthrough in energy efficiency is equivalent, in its effect on the stock of available oil, to the discovery of a new oil field—although different people profit from it. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=493))
+    - Tags: [[blue]] 
+- A stock can be increased by decreasing its outflow rate as well as by increasing its inflow rate. There’s more than one way to fill a bathtub! ([Location 495](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=495))
+    - Tags: [[blue]] 
+- The wealth of a nation can be boosted by investment to build up a larger stock of factories and machines. It also can be boosted, often more cheaply, by decreasing the rate at which factories and machines wear out, break down, or are discarded. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=498))
+    - Tags: [[blue]] 
+- A stock takes time to change, because flows take time to flow. ([Location 503](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=503))
+    - Tags: [[blue]] 
+- Stocks generally change slowly, even when the flows into or out of them change suddenly. Therefore, stocks act as delays or buffers or shock absorbers in systems. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=506))
+    - Tags: [[blue]] 
+- Changes in stocks set the pace of the dynamics of systems. ([Location 514](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=514))
+    - Tags: [[blue]] 
+- The time lags that come from slowly changing stocks can cause problems in systems, but they also can be sources of stability. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=517))
+    - Tags: [[blue]] 
+- If you have a sense of the rates of change of stocks, you don’t expect things to happen faster than they can happen. You don’t give up too soon. You can use the opportunities presented by a system’s momentum to guide it toward a good outcome—much as a judo expert uses the momentum of an opponent to achieve his or her own goals. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=521))
+    - Tags: [[blue]] 
+- The presence of stocks allows inflows and outflows to be independent of each other and temporarily out of balance with each other. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=524))
+    - Tags: [[blue]] 
+- Stocks allow inflows and outflows to be decoupled and to be independent and temporarily out of balance with each other. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=526))
+    - Tags: [[blue]] 
+- Human beings have invented hundreds of stock-maintaining mechanisms to make inflows and outflows independent and stable. Reservoirs enable residents and farmers downriver to live without constantly adjusting their lives and work to a river’s varying flow, especially its droughts and floods. Banks enable you temporarily to earn money at a rate different from how you spend. Inventories of products along a chain from distributors to wholesalers to retailers allow production to proceed smoothly although customer demand varies, and allow customer demand to be filled even though production rates vary. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=531))
+    - Tags: [[blue]] 
+- Most individual and institutional decisions are designed to regulate the levels in stocks. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=535))
+    - Tags: [[blue]] 
+- Systems thinkers see the world as a collection of stocks along with the mechanisms for regulating the levels in the stocks by manipulating flows. That means system thinkers see the world as a collection of “feedback processes.” ([Location 543](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=543))
+    - Tags: [[blue]] 
+- Systems of information-feedback control are fundamental to all life and human endeavor, from the slow pace of biological evolution to the launching of the latest space satellite.… Everything we do as individuals, as an industry, or as a society is done in the context of an information-feedback system. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=547))
+    - Tags: [[blue]] 
+    - Note: Dynamic interacting behaviors in systems produce emergent changes in stocks and flows. A small push in a direction can compound into greater change
+- if you see a behavior that persists over time, there is likely a mechanism creating that consistent behavior. That mechanism operates through a feedback loop. It is the consistent behavior pattern over a long period of time that is the first hint of the existence of a feedback loop. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=552))
+    - Tags: [[blue]] 
+- A feedback loop is formed when changes in a stock affect the flows into or out of that same stock. ([Location 554](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=554))
+    - Tags: [[blue]] 
+    - Note: Personal level: learning leads to more background knowledge which an easier time understanding new material which leads to faster learning
+- Feedback loops can cause stocks to maintain their level within a range or grow or decline. In any case, the flows into or out of the stock are adjusted because of changes in the size of the stock itself. ([Location 565](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=565))
+    - Tags: [[blue]] 
+    - Note: The stock itself is information, and that information flows to inflows and outflows to regulate them. Think testosterone production being down regulated when exogenous testosterone is supplemented
+- A feedback loop is a closed chain of causal connections from a stock, through a set of decisions or rules or physical laws or actions that are dependent on the level of the stock, and back again through a flow to change the stock. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=576))
+    - Tags: [[blue]] 
+- One common kind of feedback loop stabilizes the stock level, as in the checking-account example. The stock level may not remain completely fixed, but it does stay within an acceptable range. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=579))
+    - Tags: [[blue]] 
+- Balancing feedback loops are goal-seeking or stability-seeking. ([Location 603](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=603))
+    - Tags: [[blue]] 
+- A balancing feedback loop opposes whatever direction of change is imposed on the system. If you push a stock too far up, a balancing loop will try to pull it back down. If you shove it too far down, a balancing loop will try to bring it back up. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=604))
+    - Tags: [[blue]] 
+- the feedback loop brings it toward the goal. The change is faster at first, and then slower, as the discrepancy between the stock and the goal decreases. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=618))
+    - Tags: [[blue]] 
+- Balancing feedback loops are equilibrating or goal-seeking structures in systems and are both sources of stability and sources of resistance to change. ([Location 626](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=626))
+    - Tags: [[blue]] 
+- Feedbacks—the interconnections, the information part of the system—can fail for many reasons. Information can arrive too late or at the wrong place. It can be unclear or incomplete or hard to interpret. The action it triggers may be too weak or delayed or resource-constrained or simply ineffective. The goal of the feedback loop may never be reached by the actual stock. ([Location 629](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=629))
+    - Tags: [[blue]] 
+- The second kind of feedback loop is amplifying, reinforcing, self-multiplying, snowballing—a vicious or virtuous circle that can cause healthy growth or runaway destruction. It is called a reinforcing feedback loop, and will be noted with an R in the diagrams. It generates more input to a stock the more that is already there (and less input the less that is already there). A reinforcing feedback loop enhances whatever direction of change is imposed on it. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=641))
+    - Tags: [[blue]] 
+    - Note: Can seem like circular logic when thinking in a linear paradigm but it's not. The trend and the stock are both each other's cause and bear each other's effect
+- Reinforcing loops are found wherever a system element has the ability to reproduce itself or to grow as a constant fraction of itself. Those elements include populations and economies. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=654))
+    - Tags: [[blue]] 
+- Reinforcing feedback loops are self-enhancing, leading to exponential growth or to runaway collapses over time. They are found whenever a stock has the capacity to reinforce or reproduce itself. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=668))
+    - Tags: [[blue]] 
+- the more machines and factories (collectively called “capital”) you have, the more goods and services (“output”) you can produce. The more output you can produce, the more you can invest in new machines and factories. The more you make, the more capacity you have to make even more. This reinforcing feedback loop is the central engine of growth in an economy. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=670))
+    - Tags: [[blue]] 
+    - Note: Access to capital creates self reinforcing growth
+- Because we bump into reinforcing loops so often, it is handy to know this shortcut: The time it takes for an exponentially growing stock to double in size, the “doubling time,” equals approximately 70 divided by the growth rate (expressed as a percentage). Example: If you put $100 in the bank at 7% interest per year, you will double your money in 10 years (70 ÷ 7 = 10). If you get only 5% interest, your money will take 14 years to double. ([Location 683](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=683))
+    - Tags: [[blue]] 
+- If you see feedback loops everywhere, you’re already in danger of becoming a systems thinker! Instead of seeing only how A causes B, you’ll begin to wonder how B may also influence A—and how A might reinforce or reverse itself. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=687))
+    - Tags: [[blue]] 
+- If A causes B, is it possible that B also causes A? ([Location 694](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=694))
+    - Tags: [[blue]] 
+- You’ll be thinking not in terms of a static world, but a dynamic one. You’ll stop looking for who’s to blame; instead you’ll start asking, “What’s the system?” The concept of feedback opens up the idea that a system can cause its own behavior. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=695))
+    - Tags: [[blue]] 
+    - Note: Who do I blame vs how do I change the system
+- in real systems feedback loops rarely come singly. They are linked together, often in fantastically complex patterns. ([Location 697](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=697))
+    - Tags: [[blue]] 
+- The many feedback loops in a system tug against each other, trying to make stocks grow, die off, or come into balance with each other. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=700))
+    - Tags: [[blue]] 
+- There’s an important general principle here, and also one specific to the thermostat structure. First the general one: The information delivered by a feedback loop can only affect future behavior; it can’t deliver the information, and so can’t have an impact fast enough to correct behavior that drove the current feedback. A person in the system who makes a decision based on the feedback can’t change the behavior of the system that drove the current feedback; the decisions he or she makes will affect only future behavior. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=770))
+    - Tags: [[blue]] 
+- The information delivered by a feedback loop—even nonphysical feedback—can only affect future behavior; it can’t deliver a signal fast enough to correct behavior that drove the current feedback. Even nonphysical information takes time to feedback into the system. ([Location 774](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=774))
+    - Tags: [[blue]] 
+- it means there will always be delays in responding. It says that a flow can’t react instantly to a flow. It can react only to a change in a stock, and only after a slight delay to register the incoming information. ([Location 777](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=777))
+    - Tags: [[blue]] 
+    - Note: Lags in responses lead to fluctuations in system stocks
+- Many economic models make a mistake in this matter by assuming that consumption or production can respond immediately, say, to a change in price. That’s one of the reasons why real economies tend not to behave exactly like many economic models. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=780))
+    - Tags: [[blue]] 
+- your mental model of the system needs to include all the important flows, or you will be surprised by the system’s behavior. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=787))
+    - Tags: [[blue]] 
+- A stock-maintaining balancing feedback loop must have its goal set appropriately to compensate for draining or inflowing processes that affect that stock. Otherwise, the feedback process will fall short of or exceed the target for the stock. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=789))
+    - Tags: [[blue]] 
+- Every balancing feedback loop has its breakdown point, where other loops pull the stock away from its goal more strongly than it can pull back. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=797))
+    - Tags: [[blue]] 
+    - Note: Where can you press on a system to break it?
+- What happens when a reinforcing and a balancing loop are both pulling on the same stock? This is one of the most common and important system structures. Among other things, it describes every living population and every economy. A population has a reinforcing loop causing it to grow through its birth rate, and a balancing loop causing it to die off through its death rate. ([Location 818](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=818))
+    - Tags: [[blue]] 
+- Complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing first one loop and then another to dominate behavior. ([Location 856](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=856))
+    - Tags: [[blue]] 
+- A stock governed by linked reinforcing and balancing loops will grow exponentially if the reinforcing loop dominates the balancing one. It will die off if the balancing loop dominates the reinforcing one. It will level off if the two loops are of equal strength (see Figure 25). Or it will do a sequence of these things, one after another, if the relative strengths of the two loops change over time (see Figure 26). ([Location 860](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=860))
+    - Tags: [[blue]] 
+- there are questions you need to ask that will help you decide how good a representation of reality is the underlying model. Are the driving factors likely to unfold this way? (What are birth rate and death rate likely to do?) If they did, would the system react this way? (Do birth and death rates really cause the population stock to behave as we think it will?) What is driving the driving factors? (What affects birth rate? What affects death rate?) ([Location 865](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=865))
+    - Tags: [[blue]] 
+    - Note: Start by questioning the underlying assumptions and then probe what those assumptions imply
+- Dynamic systems studies usually are not designed to predict what will happen. Rather, they’re designed to explore what would happen, if a number of driving factors unfold in a range of different ways. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=877))
+    - Tags: [[blue]] 
+- System dynamics models explore possible futures and ask “what if” questions. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=889))
+    - Tags: [[blue]] 
+- What is driving the driving factors? What is adjusting the inflows and outflows? This is a question about system boundaries. It requires a hard look at those driving factors to see if they are actually independent, or if they are also embedded in the system. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=891))
+    - Tags: [[blue]] 
+- QUESTIONS FOR TESTING THE VALUE OF A MODEL Are the driving factors likely to unfold this way? If they did, would the system react this way? What is driving the driving factors? ([Location 894](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=894))
+    - Tags: [[blue]] 
+- Model utility depends not on whether its driving scenarios are realistic (since no one can know that for sure), but on whether it responds with a realistic pattern of behavior. ([Location 901](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=901))
+    - Tags: [[blue]] 
+- Over recent history world capital, like world population, has been dominated by its reinforcing loop and has been growing exponentially. Whether in the future it grows or stays constant or dies off depends on whether its reinforcing growth loop remains stronger than its balancing depreciation loop. That depends on the investment fraction—how much output the society invests rather than consumes, the efficiency of capital—how much capital it takes to produce a given amount of output, and the average capital lifetime. ([Location 919](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=919))
+    - Tags: [[blue]] 
+- You can make a stock grow by decreasing its outflow rate as well as by increasing its inflow rate! ([Location 930](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=930))
+    - Tags: [[blue]] 
+- just about any long-term model of a real economy should link together the two structures of population and capital to show how they affect each other. The central question of economic development is how to keep the reinforcing loop of capital accumulation from growing more slowly than the reinforcing loop of population growth—so that people are getting richer instead of poorer.4 ([Location 940](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=940))
+    - Tags: [[blue]] 
+- Systems with similar feedback structures produce similar dynamic behaviors. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=949))
+    - Tags: [[blue]] 
+- systems with similar feedback structures produce similar dynamic behaviors, even if the outward appearance of these systems is completely dissimilar. ([Location 951](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=951))
+    - Tags: [[blue]] 
+    - Note: Ignore names. Look at underlying structure to find similarity
+- This situation of information insufficiency and physical delays is very common. Oscillations like these are frequently encountered in inventories and in many other systems. ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1002))
+    - Tags: [[blue]] 
+- A delay in a balancing feedback loop makes a system likely to oscillate. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1005))
+    - Tags: [[blue]] 
+    - Note: The stronger loop dominates during the delay before the other loop can balance it out
+- Delays are pervasive in systems, and they are strong determinants of behavior. Changing the length of a delay may (or may not, depending on the type of delay and the relative lengths of other delays) make a large change in the behavior of a system. ([Location 1039](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1039))
+    - Tags: [[blue]] 
+- Changing the delays in a system can make it much easier or much harder to manage. You can see why system thinkers are somewhat fanatic on the subject of delays. We’re always on the alert to see where delays occur in systems, how long they are, whether they are delays in information streams or in physical processes. We can’t begin to understand the dynamic behavior of systems unless we know where and how long the delays are. And we are aware that some delays can be powerful policy levers. Lengthening or shortening them can produce major changes in the behavior of systems. ([Location 1042](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1042))
+    - Tags: [[blue]] 
+- Economies are extremely complex systems; they are full of balancing feedback loops with delays, and they are inherently oscillatory.5 ([Location 1058](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1058))
+    - Tags: [[blue]] 
+- any real physical entity is always surrounded by and exchanging things with its environment. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1066))
+    - Tags: [[blue]] 
+    - Note: Real systems are not isolated. There are many external interactions
+- Any entity that is using energy and processing materials needs a place to put its wastes, or a process to carry its wastes away. ([Location 1069](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1069))
+    - Tags: [[blue]] 
+- any physical, growing system is going to run into some kind of constraint, sooner or later. That constraint will take the form of a balancing loop that in some way shifts the dominance of the reinforcing loop driving the growth behavior, either by strengthening the outflow or by weakening the inflow. ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1070))
+    - Tags: [[blue]] 
+    - Note: Think of populatiom dynamics. If a population of deer grows too large, they might overgraze and lower the supply of food. Then population growth reverses and the population declines. The environment contains constraints. Human level intelligence allows us to design around those constraints and push them back
+- Whenever we see a growing entity, whether it be a population, a corporation, a bank account, a rumor, an epidemic, or sales of a new product, we look for the reinforcing loops that are driving it and for the balancing loops that ultimately will constrain it. ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1075))
+    - Tags: [[blue]] 
+    - Note: Exponential growth can't continue forever. Look for the constraints in the environment to know when it will stop
+- In physical, exponentially growing systems, there must be at least one reinforcing loop driving the growth and at least one balancing loop constraining the growth, because no physical system can grow forever in a finite environment. ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1080))
+    - Tags: [[blue]] 
+- Like resources that supply the inflows to a stock, a pollution constraint can be renewable or nonrenewable. It’s nonrenewable if the environment has no capacity to absorb the pollutant or make it harmless. It’s renewable if the environment has a finite, usually variable, capacity for removal. Everything said here about resource-constrained systems, therefore, applies with the same dynamics but opposite flow directions to pollution-constrained systems. ([Location 1083](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1083))
+    - Tags: [[blue]] 
+    - Note: Constraints on inflows (resources) or outflows (pollution)
+- The system may find ways to get around them for a short while or a long while, but eventually there must come some kind of accommodation, the system adjusting to the constraint, or the constraint to the system, or both to each other. ([Location 1087](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1087))
+    - Tags: [[blue]] 
+- Here is a new balancing feedback loop that ultimately will control the growth of capital: the more capital, the higher the extraction rate. The higher the extraction rate, the lower the resource stock. The lower the resource stock, the lower the yield of resource per unit of capital, so the lower the profit (with price assumed constant) and the lower the investment rate—therefore, the lower the rate of growth of capital. ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1110))
+    - Tags: [[blue]] 
+- A quantity growing exponentially toward a constraint or limit reaches that limit in a surprisingly short time. ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1130))
+    - Tags: [[blue]] 
+- In the face of exponential growth of extraction or use, a doubling or quadrupling of the nonrenewable resource give little added time to develop alternatives. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1132))
+    - Tags: [[blue]] 
+    - Note: Growth rate of capital quickly leads to compounding extraction
+- If your concern is to extract the resource and make money at the maximum possible rate, then the ultimate size of the resource is the most important number in this system. ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1133))
+    - Tags: [[blue]] 
+- If, say, you’re a worker at the mine or oil field, and your concern is with the lifetime of your job and stability of your community, then there are two important numbers: the size of the resource and the desired growth rate of capital. ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1134))
+    - Tags: [[blue]] 
+- The real choice in the management of a nonrenewable resource is whether to get rich very fast or to get less rich but stay that way longer. ([Location 1137](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1137))
+    - Tags: [[blue]] 
+- according to the dynamics of depletion, the larger the stock of initial resources, the more new discoveries, the longer the growth loops elude the control loops, and the higher the capital stock and its extraction rate grow, and the earlier, faster, and farther will be the economic fall on the back side of the production peak. ([Location 1165](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1165))
+    - Tags: [[blue]] 
+- This simplified model of a fishery economy is affected by three nonlinear relationships: price (scarcer fish are more expensive); regeneration rate (scarcer fish don’t breed much, nor do crowded fish); and yield per unit of capital (efficiency of the fishing technology and practices). ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1190))
+    - Tags: [[blue]] 
+- Nonrenewable resources are stock-limited. The entire stock is available at once, and can be extracted at any rate (limited mainly by extraction capital). But since the stock is not renewed, the faster the extraction rate, the shorter the lifetime of the resource. ([Location 1219](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1219))
+    - Tags: [[blue]] 
+- In many real economies based on real renewable resources—as opposed to this simple model—the very small surviving population retains the potential to build its numbers back up again, once the capital driving the harvest is gone. The whole pattern is repeated, decades later. ([Location 1222](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1222))
+    - Tags: [[blue]] 
+- More and more, increases in technology and harvest efficiency have the ability to drive resource populations to extinction. ([Location 1226](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1226))
+    - Tags: [[blue]] 
+- Renewable resources are flow-limited. They can support extraction or harvest indefinitely, but only at a finite flow rate equal to their regeneration rate. If they are extracted faster than they regenerate, they may eventually be driven below a critical threshold and become, for all practical purposes, nonrenewable. ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1228))
+    - Tags: [[blue]] 
+- three sets of possible behaviors of this renewable resource system here: overshoot and adjustment to a sustainable equilibrium, overshoot beyond that equilibrium followed by oscillation around it, and overshoot followed by collapse of the resource and the industry dependent on the resource. Which outcome actually occurs depends on two things. The first is the critical threshold beyond which the resource population’s ability to regenerate itself is damaged. The second is the rapidity and effectiveness of the balancing feedback loop that slows capital growth as the resource becomes depleted. ([Location 1235](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1235))
+    - Tags: [[blue]] 
+- Neither renewable nor nonrenewable limits to growth allow a physical stock to grow forever, but the constraints they impose are dynamically quite different. The difference comes because of the difference between stocks and flows. ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1245))
+    - Tags: [[blue]] 
+- Why do systems work so well? Consider the properties of highly functional systems—machines or human communities or ecosystems—which are familiar to you. Chances are good that you may have observed one of three characteristics: resilience, self-organization, or hierarchy. ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1267))
+    - Tags: [[blue]] 
+- Placing a system in a straitjacket of constancy can cause fragility to evolve. ([Location 1271](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1271))
+    - Tags: [[blue]] 
+    - Note: Systems (and people, which are a kind of system) need to be exposed to shocks and adversity to maintain resilience
+- Resilience is a measure of a system’s ability to survive and persist within a variable environment. The opposite of resilience is brittleness or rigidity. ([Location 1276](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1276))
+    - Tags: [[blue]] 
+- Resilience arises from a rich structure of many feedback loops that can work in different ways to restore a system even after a large perturbation. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1277))
+    - Tags: [[blue]] 
+- Resilience is provided by several such loops, operating through different mechanisms, at different time scales, and with redundancy—one kicking in if another one fails. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1279))
+    - Tags: [[blue]] 
+- A set of feedback loops that can restore or rebuild feedback loops is resilience at a still higher level—meta-resilience, if you will. ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1280))
+    - Tags: [[blue]] 
+    - Note: If a feedback loop fails (eating healthy, lifting, learning), introspection/journaling/meditation help to repair the feedback loops
+- Even higher meta-meta-resilience comes from feedback loops that can learn, create, design, and evolve ever more complex restorative structures. Systems that can do this are self-organizing, which will be the next surprising system characteristic I come to. ([Location 1281](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1281))
+    - Tags: [[blue]] 
+- There are always limits to resilience. ([Location 1289](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1289))
+    - Tags: [[blue]] 
+- Resilience is not the same thing as being static or constant over time. Resilient systems can be very dynamic. Short-term oscillations, or periodic outbreaks, or long cycles of succession, climax, and collapse may in fact be the normal condition, which resilience acts to restore! ([Location 1294](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1294))
+    - Tags: [[blue]] 
+    - Note: Oscillating systems can be resilient. Think oscillating body temperature that returns to set point
+- conversely, systems that are constant over time can be unresilient. This distinction between static stability and resilience is important. ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1296))
+    - Tags: [[blue]] 
+    - Note: Static systems can often be brittle
+- Because resilience may not be obvious without a whole-system view, people often sacrifice resilience for stability, or for productivity, or for some other more immediately recognizable system property. ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1299))
+    - Tags: [[blue]] 
+    - Note: Resilience only becomes obvious in the case of black swan events
+- Large organizations of all kinds, from corporations to governments, lose their resilience simply because the feedback mechanisms by which they sense and respond to their environment have to travel through too many layers of delay and distortion. ([Location 1314](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1314))
+    - Tags: [[blue]] 
+    - Note: Those closest to the problem are best equipped to fix it (idea from Amazon). Decentralized teams can act fast and shorten feedback loops
+- Systems need to be managed not only for productivity or stability, they also need to be managed for resilience—the ability to recover from perturbation, the ability to restore or repair themselves. ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1322))
+    - Tags: [[blue]] 
+- [Evolution] appears to be not a series of accidents the course of which is determined only by the change of environments during earth history and the resulting struggle for existence, … but is governed by definite laws.… The discovery of these laws constitutes one of the most important tasks of the future. —Ludwig von Bertalanffy,3 biologist ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1330))
+    - Tags: [[blue]] 
+- The most marvelous characteristic of some complex systems is their ability to learn, diversify, complexify, evolve. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1334))
+    - Tags: [[blue]] 
+- This capacity of a system to make its own structure more complex is called self-organization. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1339))
+    - Tags: [[blue]] 
+- Like resilience, self-organization is often sacrificed for purposes of short-term productivity and stability. Productivity and stability are the usual excuses for turning creative human beings into mechanical adjuncts to production processes. ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1345))
+    - Tags: [[blue]] 
+- Self-organization produces heterogeneity and unpredictability. It is likely to come up with whole new structures, whole new ways of doing things. It requires freedom and experimentation, and a certain amount of disorder. ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1348))
+    - Tags: [[blue]] 
+- The differentiation of a single cell into a human being probably proceeds by some similar set of geometric rules, basically simple, but generating utter complexity. (It is because of fractal geometry that the average human lung has enough surface area to cover a tennis court.) ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1366))
+    - Tags: [[blue]] 
+- Systems often have the property of self-organization—the ability to structure themselves, to create new structure, to learn, diversify, and complexify. Even complex forms of self-organization may arise from relatively simple organizing rules—or may not. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1380))
+    - Tags: [[blue]] 
+- In the process of creating new structures and increasing complexity, one thing that a self-organizing system often generates is hierarchy. ([Location 1391](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1391))
+    - Tags: [[blue]] 
+- If subsystems can largely take care of themselves, regulate themselves, maintain themselves, and yet serve the needs of the larger system, while the larger system coordinates and enhances the functioning of the subsystems, a stable, resilient, and efficient structure results. ([Location 1397](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1397))
+    - Tags: [[blue]] 
+- Complex systems can evolve from simple systems only if there are stable intermediate forms. The resulting complex forms will naturally be hierarchic. That may explain why hierarchies are so common in the systems nature presents to us. Among all possible complex forms, hierarchies are the only ones that have had the time to evolve.5 ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1411))
+    - Tags: [[blue]] 
+    - Note: Aggregating small stable systems into a larger system is more likely to work than building a big system all at once, leading to hierarchies
+- Hierarchies are brilliant systems inventions, not only because they give a system stability and resilience, but also because they reduce the amount of information that any part of the system has to keep track of. ([Location 1414](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1414))
+    - Tags: [[blue]] 
+    - Note: Subsystems only have to interact with what's locally important
+- If these differential information links within and between each level of the hierarchy are designed right, feedback delays are minimized. No level is overwhelmed with information. The system works with efficiency and resilience. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1419))
+    - Tags: [[blue]] 
+- systems thinkers would say, the reductionist dissection of regular science teaches us a lot. However, one should not lose sight of the important relationships that bind each subsystem to the others and to the higher levels of the hierarchy, or one will be in for surprises. ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1424))
+    - Tags: [[blue]] 
+    - Note: Hierarchies allow us to analyze subsystems individually which is useful. But we must not forget that the subsystems don't actually act independently (the map is not the territory). They operate in a complex network of interactions
+- If you have a liver disease, for example, a doctor usually can treat it without paying much attention to your heart or your tonsils (to stay on the same hierarchical level) or your personality (to move up a level or two) or the DNA in the nuclei of the liver cells (to move down several levels). There are just enough exceptions to that rule, however, to reinforce the necessity of stepping back to consider the whole hierarchy. Maybe your job exposes you to a chemical that is damaging your liver. Maybe the disease originates in a malfunction of the DNA. ([Location 1426](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1426))
+    - Tags: [[blue]] 
+- Hierarchies evolve from the lowest level up—from the pieces to the whole, from cell to organ to organism, from individual to team, from actual production to management of production. ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1436))
+    - Tags: [[blue]] 
+- The original purpose of a hierarchy is always to help its originating subsystems do their jobs better. This is something, unfortunately, that both the higher and the lower levels of a greatly articulated hierarchy easily can forget. Therefore, many systems are not meeting our goals because of malfunctioning hierarchies. ([Location 1439](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1439))
+    - Tags: [[blue]] 
+    - Note: Hierarchies start because they're in the best interests of the subunits comprising them. The systems can then evolve to the point where that isn't the case
+- When a subsystem’s goals dominate at the expense of the total system’s goals, the resulting behavior is called suboptimization. Just as damaging as suboptimization, of course, is the problem of too much central control. ([Location 1445](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1445))
+    - Tags: [[blue]] 
+    - Note: Balance between chaos and order
+- To be a highly functional system, hierarchy must balance the welfare, freedoms, and responsibilities of the subsystems and total system—there must be enough central control to achieve coordination toward the large-system goal, and enough autonomy to keep all subsystems flourishing, functioning, and self-organizing. ([Location 1451](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1451))
+    - Tags: [[blue]] 
+- Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hierarchy is to serve the purposes of the lower layers. ([Location 1454](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1454))
+    - Tags: [[blue]] 
+- Resilience, self-organization, and hierarchy are three of the reasons dynamic systems can work so well. Promoting or managing for these properties of a system can improve its ability to function well over the long term—to be sustainable. ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1456))
+    - Tags: [[blue]] 
+- three truths: Everything we think we know about the world is a model. Every word and every language is a model. All maps and statistics, books and databases, equations and computer programs are models. So are the ways I picture the world in my head—my mental models. None of these is or ever will be the real world. Our models usually have a strong congruence with the world. That is why we are such a successful species in the biosphere. Especially complex and sophisticated are the mental models we develop from direct, intimate experience of nature, people, and organizations immediately around us. However, and conversely, our models fall far short of representing the world fully. That is why we make mistakes and why we are regularly surprised. In our heads, we can keep track of only a few variables at one time. We often draw illogical conclusions from accurate assumptions, or logical conclusions from inaccurate assumptions. Most of us, for instance, are surprised by the amount of growth an exponential process can generate. Few of us can intuit how to damp oscillations in a complex system. ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1470))
+    - Tags: [[blue]] 
+- Everything we think we know about the world is a model. Our models do have a strong congruence with the world. Our models fall far short of representing the real world fully. ([Location 1482](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1482))
+    - Tags: [[blue]] 
+    - Note: Phenomenology. Can't know objective reality (though it IS out there) because we're trapped in our subjective reference frame. However, we can use processes that bring us closer to reality (eg. scientific method) to bring our subjective reference frame closer in line with reality
+- You can’t navigate well in an interconnected, feedback-dominated world unless you take your eyes off short-term events and look for long-term behavior and structure; unless you are aware of false boundaries and bounded rationality; unless you take into account limiting factors, nonlinearities and delays. You are likely to mistreat, misdesign, or misread systems if you don’t respect their properties of resilience, self-organization, and hierarchy. ([Location 1487](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1487))
+    - Tags: [[blue]] 
+- Systems fool us by presenting themselves—or we fool ourselves by seeing the world—as a series of events. ([Location 1505](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1505))
+    - Tags: [[blue]] 
+    - Note: Systems can look like linear cause and effect. Have to be wary
+- Events are the outputs, moment by moment, from the black box of the system. ([Location 1508](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1508))
+    - Tags: [[blue]] 
+- It’s endlessly engrossing to take in the world as a series of events, and constantly surprising, because that way of seeing the world has almost no predictive or explanatory value. Like the tip of an iceberg rising above the water, events are the most visible aspect of a larger complex—but not always the most important. ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1511))
+    - Tags: [[blue]] 
+- We are less likely to be surprised if we can see how events accumulate into dynamic patterns of behavior. ([Location 1514](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1514))
+    - Tags: [[blue]] 
+- The behavior of a system is its performance over time—its growth, stagnation, decline, oscillation, randomness, or evolution. ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1517))
+    - Tags: [[blue]] 
+    - Note: History is an important teacher for behaviors of systems
+- When a systems thinker encounters a problem, the first thing he or she does is look for data, time graphs, the history of the system. That’s because long-term behavior provides clues to the underlying system structure. And structure is the key to understanding not just what is happening, but why. ([Location 1519](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1519))
+    - Tags: [[blue]] 
+- The structure of a system is its interlocking stocks, flows, and feedback loops. The diagrams with boxes and arrows (my students call them “spaghetti-and-meatball diagrams”) are pictures of system structure. Structure determines what behaviors are latent in the system. ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1522))
+    - Tags: [[blue]] 
+- System structure is the source of system behavior. System behavior reveals itself as a series of events over time. ([Location 1527](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1527))
+    - Tags: [[blue]] 
+- Most economic analysis goes one level deeper, to behavior over time. Econometric models strive to find the statistical links among past trends in income, savings, investment, government spending, interest rates, output, or whatever, often in complicated equations. These behavior-based models are more useful than event-based ones, but they still have fundamental problems. First, they typically overemphasize system flows and underemphasize stocks. Economists follow the behavior of flows, because that’s where the interesting variations and most rapid changes in systems show up. Economic news reports on the national production (flow) of goods and services, the GNP, rather than the total physical capital (stock) of the nation’s factories and farms and businesses that produce those goods and services. But without seeing how stocks affect their related flows through feedback processes, one cannot understand the dynamics of economic systems or the reasons for their behavior. Second, and more seriously, in trying to find statistical links that relate flows to each other, econometricians are searching for something that does not exist. There’s no reason to expect any flow to bear a stable relationship to any other flow. Flows go up and down, on and off, in all sorts of combinations, in response to stocks, not to other flows. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1536))
+    - Tags: [[blue]] 
+    - Note: By ignoring stocks, economics ignores the triggers for feedback loops to initiate. Example to explore: housing stock, stock of lendable, and the flows governed by interest rates, income levels, new building rates, house demolition rates, etc all determine house prices. But stock of homes and stock of lendable capital are key
+- behavior-based econometric models are pretty good at predicting the near-term performance of the economy, quite bad at predicting the longer-term performance, and terrible at telling one how to improve the performance of the economy. ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1554))
+    - Tags: [[blue]] 
+- A linear relationship between two elements in a system can be drawn on a graph with a straight line. It’s a relationship with constant proportions. If ([Location 1567](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1567))
+    - Tags: [[blue]] 
+- A nonlinear relationship is one in which the cause does not produce a proportional effect. The relationship between cause and effect can only be drawn with curves or wiggles, not with a straight line. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1570))
+    - Tags: [[blue]] 
+- the world often surprises our linear-thinking minds. If we’ve learned that a small push produces a small response, we think that twice as big a push will produce twice as big a response. But in a nonlinear system, twice the push could produce one-sixth the response, or the response squared, or no response at all. ([Location 1573](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1573))
+    - Tags: [[blue]] 
+- Nonlinearities are important not only because they confound our expectations about the relationship between action and response. They are even more important because they change the relative strengths of feedback loops. They can flip a system from one mode of behavior to another. ([Location 1586](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1586))
+    - Tags: [[blue]] 
+- Many relationships in systems are nonlinear. Their relative strengths shift in disproportionate amounts as the stocks in the system shift. Nonlinearities in feedback systems produce shifting dominance of loops and many complexities in system behavior. ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1625))
+    - Tags: [[blue]] 
+- When industry sprays insecticides, it shifts the whole system to balance uneasily on different points within its nonlinear relationships. It kills off not only the pest, but the natural enemies of the pest, thereby weakening the feedback loop that normally keeps the budworms in check. It keeps the density of fir high, moving the budworms up their nonlinear reproduction curve to the point at which they’re perpetually on the edge of population explosion. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1628))
+    - Tags: [[blue]] 
+    - Note: Interventions in nonlinear complex systems can have completely undesired consequences
+- When we think in terms of systems, we see that a fundamental misconception is embedded in the popular term “side-effects.”… This phrase means roughly “effects which I hadn’t foreseen or don’t want to think about.”… Side-effects no more deserve the adjective “side” than does the “principal” effect. It is hard to think in terms of systems, and we eagerly warp our language to protect ourselves from the necessity of doing so. ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1636))
+    - Tags: [[blue]] 
+    - Note: All effects are emergent from a system
+- systems rarely have real boundaries. Everything, as they say, is connected to everything else, and not neatly. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1645))
+    - Tags: [[blue]] 
+    - Note: Buddhism, Heraclitus. Reality is fundamentally one
+- There are only boundaries of word, thought, perception, and social agreement—artificial, mental-model boundaries. ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1647))
+    - Tags: [[blue]] 
+- The greatest complexities arise exactly at boundaries. ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1648))
+    - Tags: [[blue]] 
+- On planet Earth there are no system “clouds,” no ultimate boundaries. Even real clouds in the sky are part of a hydrological cycle. Everything physical comes from somewhere, everything goes somewhere, everything keeps moving. ([Location 1672](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1672))
+    - Tags: [[blue]] 
+    - Note: Over a long enough time scale, there are no abstractions or boundaries. Everything interacts with everything else
+- If we’re to understand anything, we have to simplify, which means we have to make boundaries. Often that’s a safe thing to do. ([Location 1676](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1676))
+    - Tags: [[blue]] 
+- The lesson of boundaries is hard even for systems thinkers to get. There is no single, legitimate boundary to draw around a system. We have to invent boundaries for clarity and sanity; and boundaries can produce problems when we forget that we’ve artificially created them. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1683))
+    - Tags: [[blue]] 
+    - Note: The boundaries need to suit the problem being addresses
+- There are no separate systems. The world is a continuum. Where to draw a boundary around a system depends on the purpose of the discussion—the questions we want to ask. ([Location 1688](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1688))
+    - Tags: [[blue]] 
+- Systems analysts often fall into the opposite trap: making boundaries too large. They have a habit of producing diagrams that cover several pages with small print and many arrows connecting everything with everything. There is the system! they say. If you have considered anything less, you are academically illegitimate. This “my model is bigger than your model” game results in enormously complicated analyses, which produce piles of information that may only serve to obscure the answers to the questions at hand. ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1697))
+    - Tags: [[blue]] 
+- The right boundary for thinking about a problem rarely coincides with the boundary of an academic discipline, or with a political boundary. ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1703))
+    - Tags: [[blue]] 
+- It’s a great art to remember that boundaries are of our own making, and that they can and should be reconsidered for each new discussion, problem, or purpose ([Location 1716](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1716))
+    - Tags: [[blue]] 
+- Systems surprise us because our minds like to think about single causes neatly producing single effects. ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1721))
+    - Tags: [[blue]] 
+- we live in a world in which many causes routinely come together to produce many effects. Multiple inputs produce multiple outputs, and virtually all of the inputs, and therefore outputs, are limited. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1723))
+    - Tags: [[blue]] 
+- At any given time, the input that is most important to a system is the one that is most limiting. ([Location 1751](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1751))
+    - Tags: [[blue]] 
+- Rich countries transfer capital or technology to poor ones and wonder why the economies of the receiving countries still don’t develop, never thinking that capital or technology may not be the most limiting factors. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1752))
+    - Tags: [[blue]] 
+- There are layers of limits around every growing plant, child, epidemic, new product, technological advance, company, city, economy, and population. Insight comes not only from recognizing which factor is limiting, but from seeing that growth itself depletes or enhances limits and therefore changes what is limiting. The interplay between a growing plant and the soil, a growing company and its market, a growing economy and its resource base, is dynamic. Whenever one factor ceases to be limiting, growth occurs, and the growth itself changes the relative scarcity of factors until another becomes limiting. To shift attention from the abundant factors to the next potential limiting factor is to gain real understanding of, and control over, the growth process. ([Location 1764](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1764))
+    - Tags: [[blue]] 
+- Any physical entity with multiple inputs and outputs is surrounded by layers of limits. ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1772))
+    - Tags: [[blue]] 
+- There always will be limits to growth. They can be self-imposed. If they aren’t, they will be system-imposed. ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1783))
+    - Tags: [[blue]] 
+- Delays are ubiquitous in systems. Every stock is a delay. Most flows have delays—shipping delays, perception delays, processing delays, maturation delays. ([Location 1798](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1798))
+    - Tags: [[blue]] 
+- Just as the appropriate boundaries to draw around one’s picture of a system depend on the purpose of the discussion, so do the important delays. If you’re worrying about oscillations that take weeks, you probably don’t have to think about delays that take minutes, or years. ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1809))
+    - Tags: [[blue]] 
+- Changing the length of a delay may utterly change behavior. Delays are often sensitive leverage points for policy, if they can be made shorter or longer. You can see why that is. If a decision point in a system (or a person working in that part of the system) is responding to delayed information, or responding with a delay, the decisions will be off target. Actions will be too much or too little to achieve the decision maker’s goals. On the other hand, if action is taken too fast, it may nervously amplify short-term variation and create unnecessary instability. Delays determine how fast systems can react, how accurately they hit their targets, and how timely is the information passed around a system. Overshoots, oscillations, and collapses are always caused by delays. ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1815))
+    - Tags: [[blue]] 
+- When there are long delays in feedback loops, some sort of foresight is essential. To act only when a problem becomes obvious is to miss an important opportunity to solve the problem. ([Location 1821](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1821))
+    - Tags: [[blue]] 
+- Bounded rationality means that people make quite reasonable decisions based on the information they have. But they don’t have perfect information, especially about more distant parts of the system. ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1846))
+    - Tags: [[blue]] 
+- We don’t even interpret perfectly the imperfect information that we do have, say behavioral scientists. We misperceive risk, assuming that some things are much more dangerous than they really are and others much less. We live in an exaggerated present—we pay too much attention to recent experience and too little attention to the past, focusing on current events rather than long-term behavior. We discount the future at rates that make no economic or ecological sense. We don’t give all incoming signals their appropriate weights. We don’t let in at all news we don’t like, or information that doesn’t fit our mental models. Which is to say, we don’t even make decisions that optimize our own individual good, much less the good of the system as a whole. ([Location 1858](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1858))
+    - Tags: [[blue]] 
+- Seeing how individual decisions are rational within the bounds of the information available does not provide an excuse for narrow-minded behavior. It provides an understanding of why that behavior arises. Within the bounds of what a person in that part of the system can see and know, the behavior is reasonable. ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1887))
+    - Tags: [[blue]] 
+- It’s amazing how quickly and easily behavior changes can come, with even slight enlargement of bounded rationality, by providing better, more complete, timelier information. ([Location 1893](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1893))
+    - Tags: [[blue]] 
+- Some systems are structured to function well despite bounded rationality. The right feedback gets to the right place at the right time. ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1907))
+    - Tags: [[blue]] 
+- The bounded rationality of each actor in a system may not lead to decisions that further the welfare of the system as a whole. ([Location 1918](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1918))
+    - Tags: [[blue]] 
+- What makes a difference is redesigning the system to improve the information, incentives, disincentives, goals, stresses, and constraints that have an effect on specific actors. ([Location 1922](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1922))
+    - Tags: [[blue]] 
+- Delays, nonlinearities, lack of firm boundaries, and other properties of systems that surprise us are found in just about any system. Generally, they are not properties that can or should be changed. The world is nonlinear. Trying to make it linear for our mathematical or administrative convenience is not usually a good idea even when feasible, and it is rarely feasible. ([Location 1933](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1933))
+    - Tags: [[blue]] 
+    - Note: Nonlinearities are not bad, they're reality. Learn how to deal with them instead of trying to change them into linearities
+- Understanding archetypal problem-generating structures is not enough. Putting up with them is impossible. They need to be changed. The destruction they cause is often blamed on particular actors or events, although it is actually a consequence of system structure. Blaming, disciplining, firing, twisting policy levers harder, hoping for a more favorable sequence of driving events, tinkering at the margins—these standard responses will not fix structural problems. That is why I call these archetypes “traps.” ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1943))
+    - Tags: [[blue]] 
+    - Note: Behaviors produced by deffective systems need system-level change
+- system traps can be escaped—by recognizing them in advance and not getting caught in them, or by altering the structure—by reformulating goals, by weakening, strengthening, or altering feedback loops, by adding new feedback loops. ([Location 1946](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1946))
+    - Tags: [[blue]] 
+    - Note: Best way to change system is altering its goals or functions. Second best is altering flows and feedback loops
+- the primary symptom of a balancing feedback loop structure is that not much changes, despite outside forces pushing the system. Balancing loops stabilize systems; behavior patterns persist. ([Location 1956](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1956))
+    - Tags: [[blue]] 
+    - Note: Despite attempted policy fixes, the system may remain in equilibrium
+- some behavior patterns that persist over long periods of time are undesirable. Despite efforts to invent technological or policy “fixes,” the system seems to be intractably stuck, producing the same behavior every year. This is the systemic trap of “fixes that fail” or “policy resistance.” ([Location 1958](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1958))
+    - Tags: [[blue]] 
+- Such resistance to change arises when goals of subsystems are different from and inconsistent with each other. ([Location 1969](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1969))
+    - Tags: [[blue]] 
+- If any one actor gains an advantage and moves the system stock (drug supply) in one direction (enforcement agencies manage to cut drug imports at the border), the others double their efforts to pull it back (street prices go up, addicts have to commit more crimes to buy their daily fixes, higher prices bring more profits, suppliers use the profits to buy planes and boats to evade the border patrols). Together, the countermoves produce a standoff, the stock is not much different from before, and that is not what anybody wants. ([Location 1973](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1973))
+    - Tags: [[blue]] 
+- In a policy-resistant system with actors pulling in different directions, everyone has to put great effort into keeping the system where no one wants it to be. If any single actor lets up, the others will drag the system closer to their goals, and farther from the goal of the one who let go. ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1977))
+    - Tags: [[blue]] 
+    - Note: Tug of war with equal strength. Pulling hard to go nowhere, but can't let go or you'll lose
+- One way to deal with policy resistance is to try to overpower it. If you wield enough power and can keep wielding it, the power approach can work, at the cost of monumental resentment and the possibility of explosive consequences if the power is ever let up. ([Location 1988](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1988))
+    - Tags: [[blue]] 
+    - Note: If you use force to keep the system from going back to its equilibrium, that force can never let up or the reaction will be enormous. Better to redesign the system so it naturally reaches your new desired equilibrium
+- The alternative to overpowering policy resistance is so counterintuitive that it’s usually unthinkable. Let go. Give up ineffective policies. Let the resources and energy spent on both enforcing and resisting be used for more constructive purposes. ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=1993))
+    - Tags: [[blue]] 
+- The most effective way of dealing with policy resistance is to find a way of aligning the various goals of the subsystems, usually by providing an overarching goal that allows all actors to break out of their bounded rationality. If everyone can work harmoniously toward the same outcome (if all feedback loops are serving the same goal), the results can be amazing. The most familiar examples of this harmonization of goals are mobilizations of economies during wartime, or recovery after war or natural disaster. ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2006))
+    - Tags: [[blue]] 
+    - Note: Design a goal or function that aligns everything. In companies this is a mission statement and a north star metric
+- Harmonization of goals in a system is not always possible, but it’s an option worth looking for. It can be found only by letting go of more narrow goals and considering the long-term welfare of the entire system. ([Location 2019](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2019))
+    - Tags: [[blue]] 
+- THE TRAP: POLICY RESISTANCE When various actors try to pull a system stock toward various goals, the result can be policy resistance. Any new policy, especially if it’s effective, just pulls the stock farther from the goals of other actors and produces additional resistance, with a result that no one likes, but that everyone expends considerable effort in maintaining. THE WAY OUT Let go. Bring in all the actors and use the energy formerly expended on resistance to seek out mutually satisfactory ways for all goals to be realized—or redefinitions of larger and more important goals that everyone can pull toward together. ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2022))
+    - Tags: [[blue]] 
+- Therein is the tragedy. Each … is locked into a system that compels him to increase his herd without limit—in a world that is limited. Ruin is the destination toward which all … rush, each pursuing his own best interest.6 ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2044))
+    - Tags: [[blue]] 
+- In any commons system there is, first of all, a resource that is commonly shared (the pasture). For the system to be subject to tragedy, the resource must be not only limited, but erodable when overused. That is, beyond some threshold, the less resource there is, the less it is able to regenerate itself, or the more likely it is to be destroyed. ([Location 2047](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2047))
+    - Tags: [[blue]] 
+- A commons system also needs users of the resource (the cows and their owners), which have good reason to increase, and which increase at a rate that is not influenced by the condition of the commons. ([Location 2052](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2052))
+    - Tags: [[blue]] 
+- The tragedy of the commons arises from missing (or too long delayed) feedback from the resource to the growth of the users of that resource. ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2057))
+    - Tags: [[blue]] 
+    - Note: Negative externalities never reach producer or do on such a long timescale that they can be safely ignored, eg. pollution and climate affecting activities
+- Tragedy can lurk not only in the use of common resources, but also in the use of common sinks, shared places where pollution can be dumped. A family, company, or nation can reduce its costs, increase its profits, or grow faster if it can get the entire community to absorb or handle its wastes. It reaps a large gain, while itself having to live with only a fraction of its own pollution (or none, if it can dump downstream or downwind). There is no rational reason why a polluter should desist. ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2072))
+    - Tags: [[blue]] 
+- There are three ways to avoid the tragedy of the commons. Educate and exhort. Help people to see the consequences of unrestrained use of the commons. Appeal to their morality. Persuade them to be temperate. Threaten transgressors with social disapproval or eternal hellfire. Privatize the commons. Divide it up, so that each person reaps the consequences of his or her own actions. If some people lack the self-control to stay below the carrying capacity of their own private resource, those people will harm only themselves and not others. Regulate the commons. Garrett Hardin calls this option, bluntly, “mutual coercion, mutually agreed upon.” Regulation can take many forms, from outright bans on certain behaviors to quotas, permits, taxes, incentives. To be effective, regulation must be enforced by policing and penalties. ([Location 2080](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2080))
+    - Tags: [[blue]] 
+- The first of these solutions, exhortation, tries to keep use of the commons low enough through moral pressure that the resource is not threatened. The second, privatization, makes a direct feedback link from the condition of the resource to those who use it, by making sure that gains and losses fall on the same decision maker. The owner still may abuse the resource, but now it takes ignorance or irrationality to do so. The third solution, regulation, makes an indirect feedback link from the condition of the resource through regulators to users. For this feedback to work, the regulators must have the expertise to monitor and interpret correctly the condition of the commons, they must have effective means of deterrence, and they must have the good of the whole community at heart. ([Location 2088](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2088))
+    - Tags: [[blue]] 
+- all regulatory systems must use police power and penalties for the occasional noncooperator. ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2117))
+    - Tags: [[blue]] 
+- THE TRAP: TRAGEDY OF THE COMMONS When there is a commonly shared resource, every user benefits directly from its use, but shares the costs of its abuse with everyone else. Therefore, there is very weak feedback from the condition of the resource to the decisions of the resource users. The consequence is overuse of the resource, eroding it until it becomes unavailable to anyone. THE WAY OUT Educate and exhort the users, so they understand the consequences of abusing the resource. And also restore or strengthen the missing feedback link, either by privatizing the resource so each user feels the direct consequences of its abuse or (since many resources cannot be privatized) by regulating the access of all users to the resource. ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2119))
+    - Tags: [[blue]] 
+- Some systems not only resist policy and stay in a normal bad state, they keep getting worse. One name for this archetype is “drift to low performance.” ([Location 2137](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2137))
+    - Tags: [[blue]] 
+- The actor in this feedback loop (British government, business, hospital, fat person, school administrator, jogger) has, as usual, a performance goal or desired system state that is compared to the actual state. If there is a discrepancy, action is taken. So far, that is an ordinary balancing feedback loop that should keep performance at the desired level. But in this system, there is a distinction between the actual system state and the perceived state. The actor tends to believe bad news more than good news. As actual performance varies, the best results are dismissed as aberrations, the worst results stay in the memory. The actor thinks things are worse than they really are. And to complete this tragic archetype, the desired state of the system is influenced by the perceived state. Standards aren’t absolute. When perceived performance slips, the goal is allowed to slip. “Well, that’s about all you can expect.” “Well, we’re not doing much worse than we were last year.” “Well, look around, everybody else is having trouble too.” The balancing feedback loop that should keep the system state at an acceptable level is overwhelmed by a reinforcing feedback loop heading downhill. The lower the perceived system state, the lower the desired state. The lower the desired state, the less discrepancy, and the less corrective action is taken. The less corrective action, the lower the system state. If this loop is allowed to run unchecked, it can lead to a continuous degradation in the system’s performance. ([Location 2141](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2141))
+    - Tags: [[blue]] 
+    - Note: PAY ATTENTION TO WINS AND GOOD FEEDBACK. DO NOT ALLOW YOURSELF TO ERODE GOALS. Once you start prioritizing bad feedback and allowing your goals to erode, the whole system will collapse
+- Drift to low performance is a gradual process. If the system state plunged quickly, there would be an agitated corrective process. But if it drifts down slowly enough to erase the memory of (or belief in) how much better things used to be, everyone is lulled into lower and lower expectations, lower effort, lower performance. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2156))
+    - Tags: [[blue]] 
+- There are two antidotes to eroding goals. One is to keep standards absolute, regardless of performance. Another is to make goals sensitive to the best performances of the past, instead of the worst. If perceived performance has an upbeat bias instead of a downbeat one, if one takes the best results as a standard, and the worst results only as a temporary setback, then the same system structure can pull the system up to better and better performance. The reinforcing loop going downward, which said “the worse things get, the worse I’m going to let them get,” becomes a reinforcing loop going upward: “The better things get, the harder I’m going to work to make them even better.” ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2159))
+    - Tags: [[blue]] 
+    - Note: Make goals invariant in the face of bad performance. Also, imagine performance as a time series with peaks and valleys. Imagine a line connecting the peaks and a line connecting the valleys (think bitcoin boom and bust chart). ALWAYS focus on the peaks line. NEVER focus on the valleys line. Valleys are isolated events to learn from. Peaks are the trend to give you optimism and motivation
+- THE TRAP: DRIFT TO LOW PERFORMANCE Allowing performance standards to be influenced by past performance, especially if there is a negative bias in perceiving past performance, sets up a reinforcing feedback loop of eroding goals that sets a system drifting toward low performance. THE WAY OUT Keep performance standards absolute. Even better, let standards be enhanced by the best actual performances instead of being discouraged by the worst. Use the same structure to set up a drift toward high performance! ([Location 2165](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2165))
+    - Tags: [[blue]] 
+- “I’ll raise you one” is the decision rule that leads to escalation. Escalation comes from a reinforcing loop set up by competing actors trying to get ahead of each other. ([Location 2181](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2181))
+    - Tags: [[blue]] 
+    - Note: Works well in systems with positive goals, but disastrous when goals are negative
+- Like many of the other system traps, escalation is not necessarily a bad thing. If the competition is about some desirable goal, like a more efficient computer or a cure for AIDS, it can hasten the whole system toward the goal. But when it is escalating hostility, weaponry, noise, or irritation, this is an insidious trap indeed. The most common and awful examples are arms races and those places on earth where implacable enemies live constantly on the edge of self-reinforcing violence. ([Location 2184](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2184))
+    - Tags: [[blue]] 
+- even escalating in a good direction can be a problem, because it isn’t easy to stop. Each hospital trying to outdo the others in up-to-date, powerful, expensive diagnostic machines can lead to out-of-sight health care costs. Escalation in morality can lead to holier-than-thou sanctimoniousness. Escalation in art can lead from baroque to rococo to kitsch. Escalation in environmentally responsible lifestyles can lead to rigid and unnecessary puritanism. ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2204))
+    - Tags: [[blue]] 
+- Escalation, being a reinforcing feedback loop, builds exponentially. Therefore, it can carry a competition to extremes faster than anyone would believe possible. ([Location 2207](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2207))
+    - Tags: [[blue]] 
+    - Note: Areas of escalation today that might compound faster than people realize: Russian mobilization in Ukraine
+- One way out of the escalation trap is unilateral disarmament—deliberately reducing your own system state to induce reductions in your competitor’s state. Within the logic of the system, this option is almost unthinkable. But it actually can work, if one does it with determination, and if one can survive the short-term advantage of the competitor. ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2209))
+    - Tags: [[blue]] 
+- Disarmament agreements in escalation systems are not usually easy to get, and are never very pleasing to the parties involved, but they are much better than staying in the race. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2215))
+    - Tags: [[blue]] 
+- THE TRAP: ESCALATION When the state of one stock is determined by trying to surpass the state of another stock—and vice versa—then there is a reinforcing feedback loop carrying the system into an arms race, a wealth race, a smear campaign, escalating loudness, escalating violence. The escalation is exponential and can lead to extremes surprisingly quickly. If nothing is done, the spiral will be stopped by someone’s collapse—because exponential growth cannot go on forever. THE WAY OUT The best way out of this trap is to avoid getting in it. If caught in an escalating system, one can refuse to compete (unilaterally disarm), thereby interrupting the reinforcing loop. Or one can negotiate a new system with balancing loops to control the escalation. ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2217))
+    - Tags: [[blue]] 
+- Using accumulated wealth, privilege, special access, or inside information to create more wealth, privilege, access or information are examples of the archetype called “success to the successful.” This system trap is found whenever the winners of a competition receive, as part of the reward, the means to compete even more effectively in the future. That’s a reinforcing feedback loop, which rapidly divides a system into winners who go on winning, and losers who go on losing. ([Location 2232](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2232))
+    - Tags: [[blue]] 
+    - Note: True for learning (more knowledge gives you the backgrounded needed to gain even more knowledge), wealth (more money grows faster via compounding interest), influence (more followers leads to more reach which leads to more followers)
+- The more the winner wins, the more he, she, or it can win in the future. If the winning takes place in a limited environment, such that everything the winner wins is extracted from the losers, the losers are gradually bankrupted, or forced out, or starved. ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2242))
+    - Tags: [[blue]] 
+- Success to the successful is a well-known concept in the field of ecology, where it is called “the competitive exclusion principle.” This principle says that two different species cannot live in exactly the same ecological niche, competing for exactly the same resources. Because the two species are different, one will necessarily reproduce faster, or be able to use the resource more efficiently than the other. It will win a larger share of the resource, which will give it the ability to multiply more and keep winning. It will not only dominate the niche, it will drive the losing competitor to extinction. That will happen not by direct confrontation usually, but by appropriating all the resource, leaving none for the weaker competitor. ([Location 2244](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2244))
+    - Tags: [[blue]] 
+- Its reinforcing feedback loop of capital accumulation will be able to turn faster than that of the other firm, enabling it to produce still more and earn still more. If there is a finite market and no antitrust law to stop it, one firm will take over everything as long as it chooses to reinvest in and expand its production facilities. ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2252))
+    - Tags: [[blue]] 
+- this particular analysis of his—that market competition systematically eliminates market competition—is demonstrated wherever there is, or used to be, a competitive market. ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2256))
+    - Tags: [[blue]] 
+    - Note: Another example of circular reasoning. The effects of competition are its own causes of death
+- Species and companies sometimes escape competitive exclusion by diversifying. A species can learn or evolve to exploit new resources. A company can create a new product or service that does not directly compete with existing ones. Markets tend toward monopoly and ecological niches toward monotony, but they also create offshoots of diversity, new markets, new species, which in the course of time may attract competitors, which then begin to move the system toward competitive exclusion again. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2275))
+    - Tags: [[blue]] 
+    - Note: Blue ocean strategy. Look for untapped niches
+- Diversification doesn’t work as a strategy for the poor. ([Location 2280](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2280))
+    - Tags: [[blue]] 
+- The success-to-the-successful loop can be kept under control by putting into place feedback loops that keep any competitor from taking over entirely. That’s what antitrust laws do in theory and sometimes in practice. (One of the resources very big companies can win by winning, however, is the power to weaken the administration of antitrust laws.) ([Location 2280](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2280))
+    - Tags: [[blue]] 
+- The most obvious way out of the success-to-the-successful archetype is by periodically “leveling the playing field.” ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2283))
+    - Tags: [[blue]] 
+- There are many devices to break the loop of the rich getting richer and the poor getting poorer: tax laws written (unbeatably) to tax the rich at higher rates than the poor; charity; public welfare; labor unions; universal and equal health care and education; taxation on inheritance (a way of starting the game over with each new generation). ([Location 2288](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2288))
+    - Tags: [[blue]] 
+- losers, if they are unable to get out of the game of success to the successful, and if they have no hope of winning, could get frustrated enough to destroy the playing field. ([Location 2293](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2293))
+    - Tags: [[blue]] 
+- THE TRAP: SUCCESS TO THE SUCCESSFUL If the winners of a competition are systematically rewarded with the means to win again, a reinforcing feedback loop is created by which, if it is allowed to proceed uninhibited, the winners eventually take all, while the losers are eliminated. THE WAY OUT Diversification, which allows those who are losing the competition to get out of that game and start another one; strict limitation on the fraction of the pie any one winner may win (antitrust laws); policies that level the playing field, removing some of the advantage of the strongest players or increasing the advantage of the weakest; policies that devise rewards for success that do not bias the next round of competition. ([Location 2295](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2295))
+    - Tags: [[blue]] 
+- addiction can appear in larger systems and in other guises—such as the dependence of industry on government subsidy, the reliance of farmers on fertilizers, the addiction of Western economies to cheap oil or weapons manufacturers to government contracts. ([Location 2319](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2319))
+    - Tags: [[blue]] 
+- This trap is known by many names: addiction, dependence, shifting the burden to the intervenor. The structure includes a stock with in-flows and out-flows. The stock can be physical (a crop of corn) or meta-physical (a sense of well-being or self-worth). The stock is maintained by an actor adjusting a balancing feedback loop—either altering the in-flows or out-flows. The actor has a goal and compares it with a perception of the actual state of the stock to determine what action to take. ([Location 2321](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2321))
+    - Tags: [[blue]] 
+    - Note: The key here is the phrase "perception of the actual state". Many addictions alter perception rather than reality to reach a goal
+- drugs quickly alter your perception of your ([Location 2328](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2328))
+    - Tags: [[blue]] 
+- states created by interventions don’t last. The intoxication wears off. The subsidy is spent. The fertilizer is consumed or washed away. ([Location 2332](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2332))
+    - Tags: [[blue]] 
+    - Note: This requires ever-increasinf interventions to maintain the state
+- Shifting a burden to an intervenor can be a good thing. It often is done purposefully, and the result can be an increased ability to keep the system in a desirable state. Surely the 100 percent protection from smallpox vaccines, if it lasts, is preferable to only partial protection from natural smallpox immunity. ([Location 2342](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2342))
+    - Tags: [[blue]] 
+- Then the original problem reappears, since nothing has been done to solve it at its root cause. So the intervenor applies more of the “solution,” disguising the real state of the system again, and thereby failing to act on the problem. That makes it necessary to use still more “solution.” ([Location 2349](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2349))
+    - Tags: [[blue]] 
+- The trap is formed if the intervention, whether by active destruction or simple neglect, undermines the original capacity of the system to maintain itself. If that capability atrophies, then more of the intervention is needed to achieve the desired effect. That weakens the capability of the original system still more. The intervenor picks up the slack. And so forth. ([Location 2351](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2351))
+    - Tags: [[blue]] 
+- The more you are sucked into an addictive action, the more you are sucked into it again. ([Location 2358](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2358))
+    - Tags: [[blue]] 
+- Addiction is finding a quick and dirty solution to the symptom of the problem, which prevents or distracts one from the harder and longer-term task of solving the real problem. ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2360))
+    - Tags: [[blue]] 
+- Withdrawal means finally confronting the real (and usually much deteriorated) state of the system and taking the actions that the addiction allowed one to put off. Sometimes the withdrawal can be done gradually. Sometimes a nonaddictive policy can be put in place first to restore the degraded system with a minimum of turbulence (group support to restore the self-image of the addict, home insulation and high-mileage cars to reduce oil expense, polyculture and crop rotation to reduce crop vulnerability to pests). Sometimes there’s no way out but to go cold turkey and just bear the pain. ([Location 2372](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2372))
+    - Tags: [[blue]] 
+- The problem can be avoided up front by intervening in such a way as to strengthen the ability of the system to shoulder its own burdens. ([Location 2377](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2377))
+    - Tags: [[blue]] 
+    - Note: Systems need to carry their own load. If they can't, they become brittle and exhibit fragility
+- The secret is to begin not with a heroic takeover, but with a series of questions. Why are the natural correction mechanisms failing? How can obstacles to their success be removed? How can mechanisms for their success be made more effective? ([Location 2380](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2380))
+    - Tags: [[blue]] 
+- If you are the intervenor, work in such a way as to restore or enhance the system’s own ability to solve its problems, then remove yourself. If you are the one with an unsupportable dependency, build your system’s own capabilities back up before removing the intervention. ([Location 2384](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2384))
+    - Tags: [[blue]] 
+- THE TRAP: SHIFTING THE BURDEN TO THE INTERVENOR Shifting the burden, dependence, and addiction arise when a solution to a systemic problem reduces (or disguises) the symptoms, but does nothing to solve the underlying problem. Whether it is a substance that dulls one’s perception or a policy that hides the underlying trouble, the drug of choice interferes with the actions that could solve the real problem. If the intervention designed to correct the problem causes the self-maintaining capacity of the original system to atrophy or erode, then a destructive reinforcing feedback loop is set in motion. The system deteriorates; more and more of the solution is then required. The system will become more and more dependent on the intervention and less and less able to maintain its own desired state. THE WAY OUT Again, the best way out of this trap is to avoid getting in. Beware of symptom-relieving or signal-denying policies or practices that don’t really address the problem. Take the focus off short-term relief and put it on long-term restructuring. ([Location 2387](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2387))
+    - Tags: [[blue]] 
+- Wherever there are rules, there is likely to be rule beating. Rule beating means evasive action to get around the intent of a system’s rules—abiding by the letter, but not the spirit, of the law. ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2407))
+    - Tags: [[blue]] 
+- rule beating produces the appearance of rules being followed. ([Location 2423](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2423))
+    - Tags: [[blue]] 
+- Rule beating is usually a response of the lower levels in a hierarchy to overrigid, deleterious, unworkable, or ill-defined rules from above. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2426))
+    - Tags: [[blue]] 
+- The way out of the trap, the opportunity, is to understand rule beating as useful feedback, and to revise, improve, rescind, or better explain the rules. Designing rules better means foreseeing as far as possible the effects of the rules on the subsystems, including any rule beating they might engage in, and structuring the rules to turn the self-organizing capabilities of the system in a positive direction. ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2429))
+    - Tags: [[blue]] 
+- THE TRAP: RULE BEATING Rules to govern a system can lead to rule beating—perverse behavior that gives the appearance of obeying the rules or achieving the goals, but that actually distorts the system. THE WAY OUT Design, or redesign, rules to release creativity not in the direction of beating the rules, but in the direction of achieving the purpose of the rules. ([Location 2433](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2433))
+    - Tags: [[blue]] 
+- one of the most powerful ways to influence the behavior of a system is through its purpose or goal. That’s because the goal is the direction-setter of the system, the definer of discrepancies that require action, the indicator of compliance, failure, or success toward which balancing feedback loops work. If the goal is defined badly, if it doesn’t measure what it’s supposed to measure, if it doesn’t reflect the real welfare of the system, then the system can’t possibly produce a desirable result. ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2448))
+    - Tags: [[blue]] 
+    - Note: Take time to design intelligent goals that direct systems to desired outcomes
+- If the desired system state is good education, measuring that goal by the amount of money spent per student will ensure money spent per student. If the quality of education is measured by performance on standardized tests, the system will produce performance on standardized tests. Whether either of these measures is correlated with good education is at least worth thinking about. ([Location 2456](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2456))
+    - Tags: [[blue]] 
+    - Note: Quantitative goals can easily become decoupled from the underlying qualitative goal
+- The GNP lumps together goods and bads. (If there are more car accidents and medical bills and repair bills, the GNP goes up.) It counts only marketed goods and services. (If all parents hired people to bring up their children, the GNP would go up.) It does not reflect distributional equity. (An expensive second home for a rich family makes the GNP go up more than an inexpensive basic home for a poor family.) It measures effort rather than achievement, gross production and consumption rather than efficiency. New light bulbs that give the same light with one-eighth the electricity and that last ten times as long make the GNP go down. GNP is a measure of throughput—flows of stuff made and purchased in a year—rather than capital stocks, the houses and cars and computers and stereos that are the source of real wealth and real pleasure. It could be argued that the best society would be one in which capital stocks can be maintained and used with the lowest possible throughput, rather than the highest. ([Location 2471](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2471))
+    - Tags: [[blue]] 
+    - Note: GNP measures flows through an economy, but what about stocks? If we can minimize outflows, we can grow stock with small inflows
+- If you define the goal of a society as GNP, that society will do its best to produce GNP. It will not produce welfare, equity, justice, or efficiency unless you define a goal and regularly measure and report the state of welfare, equity, justice, or efficiency. ([Location 2482](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2482))
+    - Tags: [[blue]] 
+    - Note: You become what you measure
+- THE TRAP: SEEKING THE WRONG GOAL System behavior is particularly sensitive to the goals of feedback loops. If the goals—the indicators of satisfaction of the rules—are defined inaccurately or incompletely, the system may obediently work to produce a result that is not really intended or wanted. THE WAY OUT Specify indicators and goals that reflect the real welfare of the system. Be especially careful not to confuse effort with result or you will end up with a system that is producing effort, not result. ([Location 2487](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2487))
+    - Tags: [[blue]] 
+- The boats are so optimized around the present rules that they have lost all resilience. Any change in the rules would render them useless. ([Location 2511](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2511))
+    - Tags: [[blue]] 
+    - Note: Overoptimization for a ruleset makes a system fragile
+- MIT’s Jay Forrester likes to say that the average manager can define the current problem very cogently, identify the system structure that leads to the problem, and guess with great accuracy where to look for leverage points—places in the system where a small change could lead to a large shift in behavior. ([Location 2526](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2526))
+    - Tags: [[blue]] 
+- although people deeply involved in a system often know intuitively where to find leverage points, more often than not they push the change in the wrong direction. ([Location 2532](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2532))
+    - Tags: [[blue]] 
+- Not only population growth, but economic growth. Growth has costs as well as benefits, and we typically don’t count the costs—among which are poverty and hunger, environmental destruction, and so on—the whole list of problems we are trying to solve with growth! What is needed is much slower growth, very different kinds of growth, and in some cases no growth or negative growth. The world’s leaders are correctly fixated on economic growth as the answer to virtually all problems, but they’re pushing with all their might in the wrong direction. ([Location 2538](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2538))
+    - Tags: [[blue]] 
+- subsidized low-income housing is a leverage point.3 The less of it there is, the better off the city is—even the low-income folks in the city. This model came out at a time when national policy dictated massive low-income housing projects, and Forrester was derided. Since then, many of those projects have been torn down in city after city. ([Location 2543](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2543))
+    - Tags: [[blue]] 
+- Counterintuitive—that’s Forrester’s word to describe complex systems. Leverage points frequently are not intuitive. Or if they are, we too often use them backward, systematically worsening whatever problems we are trying to solve. ([Location 2546](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2546))
+    - Tags: [[blue]] 
+- simple stocks and flows, plumbed together, create systems way too complicated and dynamically complex to figure out easily. That’s why leverage points are often not intuitive. ([Location 2560](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2560))
+    - Tags: [[blue]] 
+- The amount of land we set aside for conservation each year. The minimum wage. How much we spend on AIDS research or Stealth bombers. The service charge the bank extracts from your account. All of these are parameters, adjustments to faucets. So, by the way, is firing people and getting new ones, including politicians. Putting different hands on the faucets may change the rate at which the faucets turn, but if they’re the same old faucets, plumbed into the same old system, turned according to the same old information and goals and rules, the system behavior isn’t going to change much. ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2575))
+    - Tags: [[blue]] 
+- Numbers, the sizes of flows, are dead last on my list of powerful interventions. Diddling with the details, arranging the deck chairs on the Titanic. Probably 90—no 95, no 99 percent—of our attention goes to parameters, but there’s not a lot of leverage in them. ([Location 2582](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2582))
+    - Tags: [[blue]] 
+    - Note: Changing the strengths of flows doesn't change the structure and behavior of the system
+- People care deeply about such variables as taxes and the minimum wage, and so fight fierce battles over them. But changing these variables rarely changes the behavior of the national economy system. ([Location 2585](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2585))
+    - Tags: [[blue]] 
+- Parameters become leverage points when they go into ranges that kick off one of the items higher on this list. Interest rates, for example, or birth rates, control the gains around reinforcing feedback loops. System goals are parameters that can make big differences. ([Location 2593](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2593))
+    - Tags: [[blue]] 
+    - Note: Parameters have to be adjusted into critical zones to cause a chain reaction that changes the system
+- stocks that are big, relative to their flows, are more stable than small ones. In chemistry and other fields, a big, stabilizing stock is known as a buffer. ([Location 2609](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2609))
+    - Tags: [[blue]] 
+- You can often stabilize a system by increasing the capacity of a buffer.5 But if a buffer is too big, the system gets inflexible. ([Location 2614](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2614))
+    - Tags: [[blue]] 
+- big buffers of some sorts, such as water reservoirs or inventories, cost a lot to build or maintain. ([Location 2616](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2616))
+    - Tags: [[blue]] 
+- The only way to fix a system that is laid out poorly is to rebuild it, if you can. ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2626))
+    - Tags: [[blue]] 
+- physical rebuilding is the slowest and most expensive kind of change to make in a system. Some stock-and-flow structures are just plain unchangeable. ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2629))
+    - Tags: [[blue]] 
+- Physical structure is crucial in a system, but is rarely a leverage point, because changing it is rarely quick or simple. The leverage point is in proper design in the first place. After the structure is built, the leverage is in understanding its limitations and bottlenecks, using it with maximum efficiency, and refraining from fluctuations or expansions that strain its capacity. ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2634))
+    - Tags: [[blue]] 
+- Delays in feedback loops are critical determinants of system behavior. They are common causes of oscillations. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2639))
+    - Tags: [[blue]] 
+- If you’re trying to adjust a stock (your store inventory) to meet your goal, but you receive only delayed information about what the state of the stock is, you will overshoot and undershoot your goal. The same is true if your information is timely, but your response isn’t. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2639))
+    - Tags: [[blue]] 
+- A system just can’t respond to short-term changes when it has long-term delays. That’s why a massive central-planning system, such as the Soviet Union or General Motors, necessarily functions poorly. ([Location 2644](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2644))
+    - Tags: [[blue]] 
+- A delay in a feedback process is critical relative to rates of change in the stocks that the feedback loop is trying to control. Delays that are too short cause overreaction, “chasing your tail,” oscillations amplified by the jumpiness of the response. Delays that are too long cause damped, sustained, or exploding oscillations, depending on how much too long. Overlong delays in a system with a threshold, a danger point, a range past which irreversible damage can occur, cause overshoot and collapse. ([Location 2649](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2649))
+    - Tags: [[blue]] 
+- I would list delay length as a high leverage point, except for the fact that delays are not often easily changeable. ([Location 2653](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2653))
+    - Tags: [[blue]] 
+- that’s why slowing economic growth is a greater leverage point in Forrester’s World model than faster technological development or freer market prices. Those are attempts to speed up the rate of adjustment. But the world’s physical capital stock, its factories and boilers, the concrete manifestations of its working technologies, can change only so fast, even in the face of new prices or new ideas—and prices and ideas don’t change instantly either, not through a whole global culture. There’s more leverage in slowing the system down so technologies and prices can keep up with it, than there is in wishing the delays would go away. ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2657))
+    - Tags: [[blue]] 
+- if there is a delay in your system that can be changed, changing it can have big effects. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2662))
+    - Tags: [[blue]] 
+- A complex system usually has numerous balancing feedback loops it can bring into play, so it can self-correct under different conditions and impacts. Some of those loops may be inactive much of the time—like the emergency cooling system in a nuclear power plant, or your ability to sweat or shiver to maintain your body temperature—but their presence is critical to the long-term welfare of the system. ([Location 2671](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2671))
+    - Tags: [[blue]] 
+- One of the big mistakes we make is to strip away these “emergency” response mechanisms because they aren’t often used and they appear to be costly. ([Location 2674](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2674))
+    - Tags: [[blue]] 
+- The strength of a balancing feedback loop is important relative to the impact it is designed to correct. If the impact increases in strength, the feedbacks have to be strengthened too. ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2695))
+    - Tags: [[blue]] 
+- Examples of strengthening balancing feedback controls to improve a system’s self-correcting abilities include: preventive medicine, exercise, and good nutrition to bolster the body’s ability to fight disease, integrated pest management to encourage natural predators of crop pests, the Freedom of Information Act to reduce government secrecy, monitoring systems to report on environmental damage, protection for whistleblowers, and impact fees, pollution taxes, and performance bonds to recapture the externalized public costs of private benefits. ([Location 2701](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2701))
+    - Tags: [[blue]] 
+- Reinforcing feedback loops are sources of growth, explosion, erosion, and collapse in systems. A system with an unchecked reinforcing loop ultimately will destroy itself. That’s why there are so few of them. ([Location 2715](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2715))
+    - Tags: [[blue]] 
+- Reducing the gain around a reinforcing loop—slowing the growth—is usually a more powerful leverage point in systems than strengthening balancing loops, and far more preferable than letting the reinforcing loop run. ([Location 2721](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2721))
+    - Tags: [[blue]] 
+- high leverage point in the information structure of the system. It’s not a parameter adjustment, not a strengthening or weakening of an existing feedback loop. It’s a new loop, delivering feedback to a place where it wasn’t going before. ([Location 2739](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2739))
+    - Tags: [[blue]] 
+- Missing information flows is one of the most common causes of system malfunction. Adding or restoring information can be a powerful intervention, usually much easier and cheaper than rebuilding physical infrastructure. ([Location 2742](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2742))
+    - Tags: [[blue]] 
+- There is a systematic tendency on the part of human beings to avoid accountability for their own decisions. That’s why there are so many missing feedback loops—and why this kind of leverage point is so often popular with the masses, unpopular with the powers that be, and effective, if you can get the powers that be to permit it to happen (or go around them and make it happen anyway). ([Location 2755](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2755))
+    - Tags: [[blue]] 
+- The rules of the system define its scope, its boundaries, its degrees of freedom. ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2759))
+    - Tags: [[blue]] 
+- Mikhail Gorbachev came to power in the Soviet Union and opened information flows (glasnost) and changed the economic rules (perestroika), and the Soviet Union saw tremendous change. ([Location 2762](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2762))
+    - Tags: [[blue]] 
+- we come to understand the power of rules. They are high leverage points. Power over the rules is real power. ([Location 2770](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2770))
+    - Tags: [[blue]] 
+- If you want to understand the deepest malfunctions of systems, pay attention to the rules and to who has power over them. ([Location 2772](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2772))
+    - Tags: [[blue]] 
+- Self-organization means changing any aspect of a system lower on this list—adding completely new physical structures, such as brains or wings or computers—adding new balancing or reinforcing loops, or new rules. The ability to self-organize is the strongest form of system resilience. A system that can evolve can survive almost any change, by changing itself. ([Location 2783](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2783))
+    - Tags: [[blue]] 
+- Self-organization is basically a matter of an evolutionary raw material—a highly variable stock of information from which to select possible patterns—and a means for experimentation, for selecting and testing new patterns. ([Location 2796](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2796))
+    - Tags: [[blue]] 
+- When you understand the power of system self-organization, you begin to understand why biologists worship biodiversity even more than economists worship technology. The wildly varied stock of DNA, evolved and accumulated over billions of years, is the source of evolutionary potential, just as science libraries and labs and universities where scientists are trained are the source of technological potential. Allowing species to go extinct is a systems crime, just as randomly eliminating all copies of particular science journals or particular kinds of scientists would be. ([Location 2802](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2802))
+    - Tags: [[blue]] 
+    - Note: Variety in the system makes it resilient
+- The intervention point here is obvious, but unpopular. Encouraging variability and experimentation and diversity means “losing control.” ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2813))
+    - Tags: [[blue]] 
+- the goal of a system is a leverage point superior to the self-organizing ability of a system. If the goal is to bring more and more of the world under the control of one particular central planning system (the empire of Genghis Khan, the Church, the People’s Republic of China, Wal-Mart, Disney), then everything further down the list, physical stocks and flows, feedback loops, information flows, even self-organizing behavior, will be twisted to conform to that goal. ([Location 2818](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2818))
+    - Tags: [[blue]] 
+- Even people within systems don’t often recognize what whole-system goal they are serving. “To make profits,” most corporations would say, but that’s just a rule, a necessary condition to stay in the game. What is the point of the game? To grow, to increase market share, to bring the world (customers, suppliers, regulators) more and more under the control of the corporation, so that its operations becomes ever more shielded from uncertainty. ([Location 2828](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2828))
+    - Tags: [[blue]] 
+- The goal of keeping the market competitive has to trump the goal of each individual corporation to eliminate its competitors, just as in ecosystems, the goal of keeping populations in balance and evolving has to trump the goal of each population to reproduce without limit. ([Location 2835](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2835))
+    - Tags: [[blue]] 
+- the thoroughness with which the public discourse in the United States and even the world has been changed since Reagan is testimony to the high leverage of articulating, meaning, repeating, standing up for, insisting upon, new system goals. ([Location 2844](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2844))
+    - Tags: [[blue]] 
+    - Note: This is why writing and speaking are two of the most important goals
+- The shared idea in the minds of society, the great big unstated assumptions, constitute that society’s paradigm, or deepest set of beliefs about how the world works. These beliefs are unstated because it is unnecessary to state them—everyone already knows them. ([Location 2852](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2852))
+    - Tags: [[blue]] 
+- Paradigms are the sources of systems. From them, from shared social agreements about the nature of reality, come system goals and information flows, feedbacks, stocks, flows, and everything else about systems. ([Location 2857](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2857))
+    - Tags: [[blue]] 
+    - Note: Changing goals just changes what a system aims at. Changing paradigms fundamentally changes what the system is. Again, this is why persuasive writing and speaking is so important
+- Every nation and every man instantly surround themselves with a material apparatus which exactly corresponds to … their state of thought. Observe how every truth and every error, each a thought of some man’s mind, clothes itself with societies, houses, cities, language, ceremonies, newspapers. Observe the ideas of the present day … see how timber, brick, lime, and stone have flown into convenient shape, obedient to the master idea reigning in the minds of many persons.… It follows, of course, that the least enlargement of ideas … would cause the most striking changes of external things.7 ([Location 2859](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2859))
+    - Tags: [[blue]] 
+- people who have managed to intervene in systems at the level of paradigm have hit a leverage point that totally transforms systems. ([Location 2868](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2868))
+    - Tags: [[blue]] 
+- how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great paradigm shifts of science, has a lot to say about that.8 You keep pointing at the anomalies and failures in the old paradigm. You keep speaking and acting, loudly and with assurance, from the new one. You insert people with the new paradigm in places of public visibility and power. You don’t waste time with reactionaries; rather, you work with active change agents and with the vast middle ground of people who are open-minded. ([Location 2873](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2873))
+    - Tags: [[blue]] 
+- There is yet one leverage point that is even higher than changing a paradigm. That is to keep oneself unattached in the arena of paradigms, to stay flexible, to realize that no paradigm is “true,” that every one, including the one that sweetly shapes your own worldview, is a tremendously limited understanding of an immense and amazing universe that is far beyond human comprehension. It is to “get” at a gut level the paradigm that there are paradigms, and to see that that itself is a paradigm, and to regard that whole realization as devastatingly funny. It is to let go into not-knowing, into what the Buddhists call enlightenment. ([Location 2880](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2880))
+    - Tags: [[blue]] 
+- If no paradigm is right, you can choose whatever one will help to achieve your purpose. If you have no idea where to get a purpose, you can listen to the universe. ([Location 2889](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2889))
+    - Tags: [[blue]] 
+- People who are raised in the industrial world and who get enthused about systems thinking are likely to make a terrible mistake. They are likely to assume that here, in systems analysis, in interconnection and complication, in the power of the computer, here at last, is the key to prediction and control. This mistake is likely because the mind-set of the industrial world assumes that there is a key to prediction and control. ([Location 2908](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2908))
+    - Tags: [[blue]] 
+- it’s one thing to understand how to fix a system and quite another to wade in and fix it. ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2917))
+    - Tags: [[blue]] 
+- Systems thinking makes clear even to the most committed technocrat that getting along in this world of complex systems requires more than technocracy. ([Location 2934](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2934))
+    - Tags: [[blue]] 
+- Self-organizing, nonlinear, feedback systems are inherently unpredictable. They are not controllable. They are understandable only in the most general way. The goal of foreseeing the future exactly and preparing for it perfectly is unrealizable. The idea of making a complex system do just what you want it to do can be achieved only temporarily, at best. We can never fully understand our world, not in the way our reductionist science has led us to expect. ([Location 2935](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2935))
+    - Tags: [[blue]] 
+- For those who stake their identity on the role of omniscient conqueror, the uncertainty exposed by systems thinking is hard to take. If you can’t understand, predict, and control, what is there to do? ([Location 2963](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2963))
+    - Tags: [[blue]] 
+- Systems can’t be controlled, but they can be designed and redesigned. ([Location 2967](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2967))
+    - Tags: [[blue]] 
+- Living successfully in a world of systems requires more of us than our ability to calculate. It requires our full humanity—our rationality, our ability to sort out truth from falsehood, our intuition, our compassion, our vision, and our morality.2 ([Location 2975](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2975))
+    - Tags: [[blue]] 
+- Before you disturb the system in any way, watch how it behaves. ([Location 2986](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2986))
+    - Tags: [[blue]] 
+- Starting with the behavior of the system forces you to focus on facts, not theories. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=2991))
+    - Tags: [[blue]] 
+- Starting with the behavior of the system directs one’s thoughts to dynamic, not static, analysis—not only to “What’s wrong?” but also to “How did we get there?” “What other behavior modes are possible?” “If we don’t change direction, where are we going to end up?” ([Location 3000](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3000))
+    - Tags: [[blue]] 
+- When we draw structural diagrams and then write equations, we are forced to make our assumptions visible and to express them with rigor. We have to put every one of our assumptions about the system out where others (and we ourselves) can see them. Our models have to be complete, and they have to add up, and they have to be consistent. Our assumptions can no longer slide around (mental models are very slippery), assuming one thing for purposes of one discussion and something else contradictory for purposes of the next discussion. ([Location 3011](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3011))
+    - Tags: [[blue]] 
+- Mental flexibility—the willingness to redraw boundaries, to notice that a system has shifted into a new mode, to see how to redesign structure—is a necessity when you live in a world of flexible systems. ([Location 3017](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3017))
+    - Tags: [[blue]] 
+- everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own. ([Location 3019](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3019))
+    - Tags: [[blue]] 
+- If I could, I would add an eleventh commandment to the first ten: Thou shalt not distort, delay, or withhold information. You can drive a system crazy by muddying its information streams. You can make a system work better with surprising ease if you can give it more timely, more accurate, more complete information. ([Location 3031](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3031))
+    - Tags: [[blue]] 
+- Our information streams are composed primarily of language. Our mental models are mostly verbal. Honoring information means above all avoiding language pollution—making the cleanest possible use we can of language. Second, it means expanding our language so we can talk about complexity. ([Location 3046](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3046))
+    - Tags: [[blue]] 
+- we don’t talk about what we see; we see only what we can talk about. Our perspectives on the world depend on the interaction of our nervous system and our language—both act as filters through which we perceive our world. ([Location 3049](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3049))
+    - Tags: [[blue]] 
+- My impression is that we have seen, for perhaps a hundred and fifty years, a gradual increase in language that is either meaningless or destructive of meaning. And I believe that this increasing unreliability of language parallels the increasing disintegration, over the same period, of persons and communities.… ([Location 3062](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3062))
+    - Tags: [[blue]] 
+- The first step in respecting language is keeping it as concrete, meaningful, and truthful as possible—part of the job of keeping information streams clear. The second step is to enlarge language to make it consistent with our enlarged understanding of systems. ([Location 3070](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3070))
+    - Tags: [[blue]] 
+- Our culture, obsessed with numbers, has given us the idea that what we can measure is more important than what we can’t measure. Think about that for a minute. It means that we make quantity more important than quality. ([Location 3080](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3080))
+    - Tags: [[blue]] 
+- Pretending that something doesn’t exist if it’s hard to quantify leads to faulty models. ([Location 3096](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3096))
+    - Tags: [[blue]] 
+- a dynamic, self-adjusting feedback system cannot be governed by a static, unbending policy. It’s easier, more effective, and usually much cheaper to design policies that change depending on the state of the system. Especially where there are great uncertainties, the best policies not only contain feedback loops, but meta-feedback loops—loops that alter, correct, and expand loops. These are policies that design learning into the management process. ([Location 3114](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3114))
+    - Tags: [[blue]] 
+- all. Aim to enhance total systems properties, such as growth, stability, diversity, resilience, and sustainability—whether they are easily measured or not. ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3127))
+    - Tags: [[blue]] 
+- Aid and encourage the forces and structures that help the system run itself. Notice how many of those forces and structures are at the bottom of the hierarchy. ([Location 3130](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3130))
+    - Tags: [[blue]] 
+- pay attention to the triggering events, the outside influences that bring forth one kind of behavior from the system rather than another. ([Location 3142](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3142))
+    - Tags: [[blue]] 
+- “Intrinsic responsibility” means that the system is designed to send feedback about the consequences of decision making directly and quickly and compellingly to the decision makers. ([Location 3145](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3145))
+    - Tags: [[blue]] 
+- Systems thinking has taught me to trust my intuition more and my figuring-out rationality less, to lean on both as much as I can, but still to be prepared for surprises. ([Location 3167](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3167))
+    - Tags: [[blue]] 
+- The thing to do, when you don’t know, is not to bluff and not to freeze, but to learn. The way you learn is by experiment—or, as Buckminster Fuller put it, by trial and error, error, error. ([Location 3170](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3170))
+    - Tags: [[blue]] 
+- Error-embracing is the condition for learning. It means seeking and using—and sharing—information about what went wrong with what you expected or hoped would go right. Both error embracing and living with high levels of uncertainty emphasize our personal as well as societal vulnerability. Typically we hide our vulnerabilities from ourselves as well as from others. But … to be the kind of person who truly accepts his responsibility … requires knowledge of and access to self far beyond that possessed by most people in this society.9 ([Location 3182](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3182))
+    - Tags: [[blue]] 
+- Only a part of us, a part that has emerged recently, designs buildings as boxes with uncompromising straight lines and flat surfaces. Another part of us recognizes instinctively that nature designs in fractals, with intriguing detail on every scale from the microscopic to the macroscopic. That part of us makes Gothic cathedrals and Persian carpets, symphonies and novels, Mardi Gras costumes and artificial intelligence programs, all with embellishments almost as complex as the ones we find in the world around us. ([Location 3194](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3194))
+    - Tags: [[blue]] 
+    - Note: Right brain vs left brain construction
+- One of the worst ideas humanity ever had was the interest rate, which led to the further ideas of payback periods and discount rates, all of which provide a rational, quantitative excuse for ignoring the long term. ([Location 3202](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3202))
+    - Tags: [[blue]] 
+- There is a great deal of historical evidence to suggest that a society which loses its identity with posterity and which loses its positive image of the future loses also its capacity to deal with present problems, and soon falls apart.… ([Location 3208](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3208))
+    - Tags: [[blue]] 
+- You need to be watching both the short and the long term—the whole system. ([Location 3220](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3220))
+    - Tags: [[blue]] 
+- follow a system wherever it leads. It will be sure to lead across traditional disciplinary lines. To understand that system, you will have to be able to learn from—while not being limited by—economists and chemists and psychologists and theologians. You ([Location 3222](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3222))
+    - Tags: [[blue]] 
+- Living successfully in a world of complex systems means expanding not only time horizons and thought horizons; above all, it means expanding the horizons of caring. There are moral reasons for doing that, of course. And if moral arguments are not sufficient, then systems thinking provides the practical reasons to back up the moral ones. The real system is interconnected. No part of the human race is separate either from other human beings or from the global ecosystem. It will not be possible in this integrated world for your heart to succeed if your lungs fail, or for your company to succeed if your workers fail, or for the rich in Los Angeles to succeed if the poor in Los Angeles fail, or for Europe to succeed if Africa fails, or for the global economy to succeed if the global environment fails. ([Location 3232](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3232))
+    - Tags: [[blue]] 
+- The most damaging example of the systems archetype called “drift to low performance” is the process by which modern industrial culture has eroded the goal of morality. ([Location 3241](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3241))
+    - Tags: [[blue]] 
+- Thus though man has never before been so complacent about what he has, or so confident of his ability to do whatever he sets his mind upon, it is at the same time true that he never before accepted so low an estimate of what he is. That same scientific method which enabled him to create his wealth and to unleash the power he wields has, he believes, enabled biology and psychology to explain him away—or at least to explain away whatever used to seem unique or even in any way mysterious.… Truly he is, for all his wealth and power, poor in spirit.12 ([Location 3250](https://readwise.io/to_kindle?action=open&asin=B005VSRFEA&location=3250))
+    - Tags: [[blue]] 
+    - Note: The scientific lens removes extra rational thought amd leaves humans as sacks of meat with a brain. No room for spirtuality or metaphor

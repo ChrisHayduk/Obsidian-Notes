@@ -1,0 +1,541 @@
+# Build
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71IK3OvDjiL._SY160.jpg)
+
+## Metadata
+- Author: [[Tony Fadell]]
+- Full Title: Build
+- Category: #books
+
+## Highlights
+- The world is full of mediocre, middle-of-the-road companies creating mediocre, middle-of-the-road crap, but I’ve spent my entire life chasing after the products and people that strive for excellence. I’ve been incredibly lucky to learn from the best—from bold, passionate people who made a dent in the world. ([Location 63](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=63))
+    - Tags: [[blue]] 
+- Adulthood is your opportunity to screw up continually until you learn how to screw up a little bit less. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=222))
+    - Tags: [[blue]] 
+- The best way to find a job you’ll love and a career that will eventually make you successful is to follow what you’re naturally interested in, then take risks when choosing where to work. Follow your curiosity rather than a business school playbook about how to make money. Assume that for much of your twenties your choices will not work out and the companies you join or start will likely fail. Early adulthood is about watching your dreams go up in flames and learning as much as you can from the ashes. Do, fail, learn. The rest will follow. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=230))
+    - Tags: [[blue]] 
+- it felt more like treading water. And treading water felt like drowning. Either you’re growing or you’re done. There is no stasis. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=241))
+    - Tags: [[blue]] 
+    - Note: Always put yourself into situations where you’re learning and growing
+- “The only failure in your twenties is inaction. The rest is trial and error.” —ANONYMOUS I needed to learn. And the best way to do that was to surround myself with people who knew exactly how hard it was to make something great—who had the scars to prove it. And if it turned out to be the wrong move, well, making a mistake is the best way to not make that mistake again. Do, fail, learn. The critical thing is to have a goal. To strive for something big and hard and important to you. Then every step you take toward that goal, even if it’s a stumble, moves you forward. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=256))
+    - Tags: [[blue]] 
+- It’s thinking about a problem or a customer need in a way you’ve never heard before, but which makes perfect sense once you hear it. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=357))
+    - Tags: [[blue]] 
+- If you do choose to go that route and find yourself at one of the Big Four or the other top six firms, then that is of course your choice. Just know before you go what you want to learn and the experiences you need for your next chapter. Don’t get stuck. Management consulting should never be your endpoint—it should be a way station, a brief pause on your journey to actually doing something. Making something. ([Location 403](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=403))
+    - Tags: [[blue]] 
+    - Note: What you’re getting out of SFL/Deloitte: sales, pitching, networking, slide design, management (also get more hands-on in drug discovery work for coding)
+- If you’re passionate about something—something that could be solving a huge problem one day—then stick with it. Look around and find the community of people who are passionate about it, too. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=421))
+    - Tags: [[blue]] 
+- I had gained a huge amount of practical, useful information through sheer brute force. I spent most of my time building—chips and software and devices and companies—and the rest of my time reading everything I could get my hands on about the industry. And that’s what set me apart. That’s what can set anyone apart. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=450))
+    - Tags: [[blue]] 
+    - Note: Build and read and build and read and build read. 
+      The learn-do feedback loop will accelerate you past everyone else
+- “I can’t make you the smartest or the brightest, but it’s doable to be the most knowledgeable. It’s possible to gather more information than somebody else.” ([Location 453](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=453))
+    - Tags: [[blue]] 
+- The key is persistence and being helpful. Not just asking for something, but offering something. You always have something to offer if you’re curious and engaged. You can always trade and barter good ideas; you can always be kind and find a way to help. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=469))
+    - Tags: [[blue]] 
+- It’s easy to mistake navigating processes, red tape, job leveling, and politics for real personal growth. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=488))
+    - Tags: [[blue]] 
+    - Note: Stop looking at levels.fyi and job postings. 
+      Learn and build. Simple as that
+- That’s the great thing about heroes. You can use their inspiration to drive you. If you do it right, and listen carefully, they’ll share decades of learning. And then, one day, you might return the favor. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=511))
+    - Tags: [[blue]] 
+- Your job isn’t just doing your job. It’s also to think like your manager or CEO. You need to understand the ultimate goal, even if it’s so far away that you’re not really sure what it’ll look like when you get there. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=551))
+    - Tags: [[blue]] 
+    - Note: You were very good at this at SFL but not so much at Deloitte. Make a conscious effort to look at the big pictures of everything you’re working on (especially drug discovery). Plot out the path
+- Some people will see things you can’t, and you’ll see things that are invisible to everyone else. So don’t think doing the work just means locking yourself in a room—a huge part of it is walking with your team. The work is reaching your destination together. Or finding a new destination and bringing your team with you. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=597))
+    - Tags: [[blue]] 
+    - Note: Trust your perspective and judgement more. Act on your ideas and share them (eg cost saving ideas to keep sales growth going strong)
+- It was so glaringly, wonderfully obvious. Make a product for people who already saw the need and felt the pain daily. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=614))
+    - Tags: [[blue]] 
+    - Note: Orient product first at early adopters, then go for general public
+- we had put together all the right pieces except one: a real sales and retail partnership. Another lesson learned via gut punch. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=663))
+    - Tags: [[blue]] 
+    - Note: There needs to be a tight coupling between development, marketing, and sales
+- Being exacting and expecting great work is not micromanagement. Your job is to make sure the team produces high-quality work. It only turns into micromanagement when you dictate the step-by-step process by which they create that work rather than focusing on the output. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=710))
+    - Tags: [[blue]] 
+    - Note: Keep this in mind. Expect high quality work from yourself and others
+- Honesty is more important than style. Everyone has a style—loud, quiet, emotional, analytical, excited, reserved. You can be successful with any style as long as you never shy away from respectfully telling the team the uncomfortable, hard truth that needs to be said. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=713))
+    - Tags: [[blue]] 
+    - Note: Speak your mind always
+- I constantly have to remind people: If you’re doing what you loved in your old job, then you’re probably doing the wrong thing. You now lead a team of people doing what you used to be good at. So at least 85 percent of your time should be spent managing. If it’s not, then you aren’t doing it right. Managing is the job. And managing is hard. ([Location 733](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=733))
+    - Tags: [[blue]] 
+- You can’t let it slide into mediocrity because you’re worried about seeming overbearing. Even if your hands aren’t on the product, they should still be on the wheel. Examining the product in great detail and caring deeply about the quality of what your team is producing is not micromanagement. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=787))
+    - Tags: [[blue]] 
+    - Note: Don’t be afraid to have exceedingly high standards
+- Write down a list of what you’re worried about for each project and person so you can immediately see when the list is getting too long and you need to either dive deeper or back off. ([Location 803](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=803))
+    - Tags: [[blue]] 
+    - Note: Starting writing down lists of topics to address in weekly sprint meetings
+- It’s all too easy to turn 1:1s into friendly chats that go nowhere, so just as you need to have a process for your team meetings, your weekly meetings with individuals should have an agenda, a clear purpose, and should be beneficial to both sides. You should get the info you need about product development and your team members should get insight into how they’re doing. Try to see the situation from their point of view—talk about their fears and your own concerns out loud, reframe your thoughts so they can hear the feedback, understand the goals, clear up ambiguities or concerns. ([Location 805](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=805))
+    - Tags: [[blue]] 
+    - Note: Set up a 1-1 framework with Ben. Also start 1-1s with Michael and set up a framework for him
+- You have to tell the team why. Why am I this passionate? Why is this mission meaningful? Why is this small detail so important that I’m flipping out right now when nobody else seems to think it matters? Nobody wants to follow someone who throws themselves at windmills for no reason. To get people to join you, to truly become a team, to fill them with the same energy and drive that’s bubbling within you, you need to tell them the why. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=852))
+    - Tags: [[blue]] 
+    - Note: Push the grand vision in meetings, remind the team what we’re doing
+- “Most managers are afraid that the people who work for them are going to be better than them. But you need to think of being a manager more like being a mentor or a parent. What loving parent wants their child NOT to succeed? You want your kids to be more successful than you, right?” ([Location 866](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=866))
+    - Tags: [[blue]] 
+- Many people don’t have either a good gut instinct to follow or the faith in themselves to follow it. It takes time to develop that trust. ([Location 901](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=901))
+    - Tags: [[blue]] 
+- If you don’t have enough data to make a decision, you’ll need insights to inform your opinion. Insights can be key learnings about your customers or your market or your product space—something substantial that gives you an intuitive feeling for what you should do. You can also get outside input: talk to the experts and confer with your team. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=904))
+    - Tags: [[blue]] 
+    - Note: Triangulate expert opinions and customer opinions
+- We did user testing as we finished up engineering, but I’m pretty sure we did little to no user research before that. We had no idea what Joe Sixpack might want, so we built features that we liked and just assumed the rest of the world would fall in line. ([Location 910](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=910))
+    - Tags: [[blue]] 
+- customer panels can’t design for shit. People just can’t articulate what they want clearly enough to definitely point in one direction or another, especially if they’re considering something completely new that they’ve never used before. Customers will always be more comfortable with what exists already, even if it’s terrible. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=925))
+    - Tags: [[blue]] 
+    - Note: Something totally new and novel can’t rely totally on data because customers don’t yet know they want it. Instead clarify the PAIN point rather than the solution. Use that highly specific pain point to create a product idea
+- Despite the fact that many companies now rabidly test every single element of their product and unquestioningly follow the clicks, A/B and user testing is not product design. It’s a tool. A test. At best, a diagnosis. It can tell you something’s not working, but it won’t tell you how to fix it. Or it can show you an option that solves one hyperlocal issue but breaks something else downstream. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=938))
+    - Tags: [[blue]] 
+- So you have to design the options and the tests to really know what you’re testing. You have to think through what A and B are rather than let them be randomly assigned by an algorithm or thoughtlessly thrown against a wall to see what sticks. And that takes insight and knowledge of the entire customer journey. You need a hypothesis, and that hypothesis should be part of a bigger product vision. So you can A/B test where the “Buy” button should go on a Web page, whether it should be blue or orange, but you shouldn’t be testing whether or not a customer should buy online. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=941))
+    - Tags: [[pink]] 
+- If a product is really new, there’s nothing to compare it to, nothing to optimize, nothing to test. ([Location 948](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=948))
+    - Tags: [[orange]] 
+- So what do you do when you’re stuck with a manager who’s hell-bent on driving off a cliff, ideally while throwing all their money out the window at some consultants? Or what if you have data but it’s inconclusive—nobody can say for sure where it leads? Or what if you need to convince your team to follow you even though you can’t prove you’re heading in the right direction? You tell a story. ([Location 987](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=987))
+    - Tags: [[blue]] 
+    - Note: Storytelling is THE skill. To go from zero to one, you can’t rely fully on market research and data. At some point you’ll have to make something new and innovative. And in that case, you’ll need to tell a compelling story to convince people that what you’ve built is worth using
+- “It’s not data or intuition; it’s data and intuition.” You need both. You use both. And sometimes the data can only take you so far. In those moments, all you can do is take a leap. Just don’t look down. ([Location 1007](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1007))
+    - Tags: [[blue]] 
+- pushing for greatness doesn’t make you an asshole. Not tolerating mediocrity doesn’t make you an asshole. Challenging assumptions doesn’t make you an asshole. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1066))
+    - Tags: [[blue]] 
+    - Note: Be more willing to do these things yourself. Don’t be afraid to push for greatness and to demand it from others
+- I just mean make new relationships, beyond business—talk to people outside your bubble. Get to know what else is out there. Meet some new human beings. Networking is something you should be doing constantly—even when you’re happily employed. ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1216))
+    - Tags: [[blue]] 
+    - Note: You need to be much better about networking outside of Deloitte. Go to meetups. Make connections in tech and VC
+- You want your projects to be successful, so you don’t just talk to your immediate teammates at lunch—you grab lunch with your partners, your customers, their customers, their partners. You talk to everyone: get their ideas and their perspectives. In doing so you may be able to help someone or make a friend or strike up an interesting conversation. ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1228))
+    - Tags: [[blue]] 
+- I spent nine years at Apple. It’s the place where I finally grew up. I wasn’t just managing a team anymore. I was leading hundreds, thousands of people. It was a profound shift in my career and in who I was. After a decade of failure, I finally made something—actually two things—that people actually wanted. I finally got it right. ([Location 1405](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1405))
+    - Tags: [[blue]] 
+    - Note: Failure after failure leading to ultimate success. But the key is he spent the whole time BUILDING. He tried and was daring and honed his skills, both in engineering and management
+- So don’t just make a prototype of your product and think you’re done. Prototype as much of the full customer experience as possible. Make the intangible tangible so you can’t overlook the less showy but incredibly important parts of the journey. You should be able to map out and visualize exactly how a customer discovers, considers, installs, uses, fixes, and even returns your product. It all matters. ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1421))
+    - Tags: [[blue]] 
+    - Note: Think about and improve the WHOLE customer experience. From before they touch your product to after they give it up
+- The only time hardware is worth the headache of manufacturing and packaging and shipping is if it’s critically necessary and transformative. If hardware doesn’t absolutely need to exist to enable the overall experience, then it should not exist. ([Location 1438](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1438))
+    - Tags: [[blue]] 
+- “Don’t tell me what’s so special about this object. Tell me what’s different about the customer journey.” ([Location 1440](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1440))
+    - Tags: [[blue]] 
+- Your product isn’t only your product. It’s the whole user experience—a chain that begins when someone learns about your brand for the first time and ends when your product disappears from their life, returned or thrown away, sold to a friend or deleted in a burst of electrons. ([Location 1441](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1441))
+    - Tags: [[pink]] 
+- Your customer doesn’t differentiate between your advertising and your app and your customer support agents—all of it is your company. Your brand. All of it is one thing. But we forget. Too often makers only think of the user experience as that moment when the customer touches an object or taps a screen. The moment they actually use the thing—whether it’s made of atoms or bits or both. The thing is always central. ([Location 1449](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1449))
+    - Tags: [[blue]] 
+    - Note: Keep the whole customer journey in your mind, not just the product. Optimize the entire experience
+- If we didn’t execute well on any one of these parts of the customer experience, Nest would have failed. Each phase of the journey has to be great in order to move customers naturally into the next, to overcome the moments of friction between them. ([Location 1472](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1472))
+    - Tags: [[blue]] 
+- you have to prototype the whole experience—give every part the weight and reality of a physical object. Regardless of whether your product is made of atoms or bits or both, the process is the same. Draw pictures. Make models. Pin mood boards. Sketch out the bones of the process in rough wireframes. Write imaginary press releases. Create detailed mock-ups that show how a customer would travel from an ad to the website to the app and what information they would see at each touchpoint. Write up the reactions you’d want to get from early adopters, the headlines you’d want to see from reviewers, the feelings you want to evoke in everyone. Make it visible. Physical. Get it out of your head and onto something you can touch. And don’t wait until your product is done to get started—map out the whole journey as you map out what your product will do. ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1480))
+    - Tags: [[blue]] 
+- Start from that very first moment of the customer journey. You should be prototyping your marketing long before you have anything to market. ([Location 1487](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1487))
+    - Tags: [[blue]] 
+- That’s how prototyping works. It’s how you make abstract concepts into physical representations. You turn your messaging architecture into words and pictures on a box. [See also: Figure 5.4.1, in Chapter 5.4.] You turn “someone in a store” into Beth from Pennsylvania. ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1513))
+    - Tags: [[blue]] 
+    - Note: Make your abstract ideas about every part of the customer journey concrete. Get everything down in images and text and videos
+- if we hadn’t thought about the full customer life cycle—from discovery to support to loyalty—we would have just made the kind of tiny, one-use screwdriver that comes with IKEA furniture. Instead we included four heads—more than anyone needed to install the thermostat—so that people could use it for practically anything. So that Nest stayed in their brains as long as the screwdriver stayed in their drawer. Longer. ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1560))
+    - Tags: [[blue]] 
+- Every product should have a story, a narrative that explains why it needs to exist and how it will solve your customer’s problems. A good product story has three elements: »  It appeals to people’s rational and emotional sides. »  It takes complicated concepts and makes them simple. » It reminds people of the problem that’s being solved—it focuses on the “why.” ([Location 1569](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1569))
+    - Tags: [[blue]] 
+- anyone encountering your product for the first time won’t have the context you have. You can’t just hit customers on the head with the “what” before you tell them the “why.” ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1575))
+    - Tags: [[blue]] 
+- He used a technique I later came to call the virus of doubt. It’s a way to get into people’s heads, remind them about a daily frustration, get them annoyed about it all over again. If you can infect them with the virus of doubt—“Maybe my experience isn’t as good as I thought, maybe it could be better”—then you prime them for your solution. You get them angry about how it works now so they can get excited about a new way of doing things. ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1599))
+    - Tags: [[blue]] 
+- And the reason is simple: Steve didn’t just read a script for the presentation. He’d been telling a version of that same story every single day for months and months during development—to us, to his friends, his family. He was constantly working on it, refining it. Every time he’d get a puzzled look or a request for clarification from his unwitting early audience, he’d sand it down, tweak it slightly, until it was perfectly polished. ([Location 1608](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1608))
+    - Tags: [[blue]] 
+- And it all starts with “why.” Why does this thing need to exist? Why does it matter? Why will people need it? Why will they love it? To find that “why,” you need to understand the core of the problem you’re trying to solve, the real issue your customers face on a regular basis. ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1621))
+    - Tags: [[blue]] 
+- you have to hold on to that “why” even as you build the “what”—the ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1625))
+    - Tags: [[blue]] 
+- There’s a competition for market share and a competition for mind share. If your competitors are telling better stories than you, if they’re playing the game and you’re not, then it doesn’t matter if their product is worse. ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1633))
+    - Tags: [[blue]] 
+- you have to find an opportunity to craft stories that stick with customers and keep them talking about you. Even if your customer knows you and your product, or they’re highly technical, there are frictions that you can eliminate for them. ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1636))
+    - Tags: [[blue]] 
+- A good story is an act of empathy. It recognizes the needs of its audience. And it blends facts and feelings so the customer gets enough of both. First you need enough insights and concrete information that your argument doesn’t feel too floaty and insubstantial. It doesn’t have to be definitive data, but there has to be enough to feel meaty, to convince people that you’re anchored in real facts. But you can overdo it—if your story is only informational, then it’s entirely possible that people will agree with you but decide it’s not compelling enough to act on just yet. Maybe next month. Maybe next year. So you have to appeal to their emotions—connect with something they care about. Their worries, their fears. Or show them a compelling vision of the future: give a human example. Walk through how a real person will experience this product—their day, their family, their work, the change they’ll experience. Just don’t lean so far into the emotional connection that what you’re arguing for feels novel, but not necessary. ([Location 1641](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1641))
+    - Tags: [[blue]] 
+    - Note: Facts + emotions. Play on both so that people agree rationally and emotionally with you, so that they feel logically justified and emotionally compelled to use your product. 
+      Think Steve Jobs’ iPhone announcement. He speaks informationally about what the iPhone does better than its peers, but he also plays on emotions by describing the frustrating FEELINGS of using the then current crop of smartphones. The key is he doesn’t just provide information on their limitations, he elicits feelings related to those limitations
+- analogies can be such a useful tool in storytelling. They create a shorthand for complicated concepts—a bridge directly to a common experience. ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1655))
+    - Tags: [[blue]] 
+- Quick stories are easy to remember. And, more importantly, easy to repeat. Someone else telling your story will always reach more people and do more to convince them to buy your product than any amount of talking you do about yourself on your own platforms. ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1679))
+    - Tags: [[blue]] 
+    - Note: Quick stories and metaphors are key. Make the analogy self contained and easy to explain
+- If you’re disrupting big, entrenched industries, your competition will almost certainly dismiss you in the beginning. They’ll say that what you’re making is a plaything, not a threat. They’ll flat out laugh in your face. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1711))
+    - Tags: [[blue]] 
+- If your company is disruptive, you have to be prepared for strong reactions and stronger emotions. Some people will absolutely love what you’ve made. Some people will violently, relentlessly hate it. That’s the danger with disruption. It is not welcome by everyone. Disruption makes enemies. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1726))
+    - Tags: [[blue]] 
+- But that’s the tricky thing with disruptions—they’re an extremely delicate balancing act. When they fall apart it’s usually for one of three reasons: You focus on making one amazing thing but forget that it has to be part of a single, fluid experience. [See also: Figure 3.1.1, in Chapter 3.1.] So you ignore the million little details that aren’t as exciting to build—especially for V1—and end up with a neat little demo that doesn’t actually fit into anyone’s life. Conversely, you start with a disruptive vision but set it aside because the technology is too difficult or too costly or doesn’t work well enough. So you execute beautifully on everything else but the one thing that would have differentiated your product withers away. Or you change too many things too fast and regular people can’t recognize or understand what you’ve made. That’s one of the (many) issues that befell Google Glass. The look, the technology—it was all so new that people had no idea what to do with it. There was no intuitive understanding of what the thing was for. It’s as if Tesla decided out the gate to build electric cars with five wheels and two steering wheels. You can change the motor, change the dash—but it still has to look like a car. You can’t push people too far outside their mental model. Not at first. ([Location 1742](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1742))
+    - Tags: [[blue]] 
+- To maintain the core of your product there are usually one or two things that have to stay still while everything else spins and changes around them. And that’s a useful constraint. You need some constraints to force you to dig deep and get creative, to push envelopes you hadn’t thought to open before. ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1766))
+    - Tags: [[blue]] 
+- When you can see the competition nipping at your heels, you have to do something new. You have to fundamentally change who you are as a business. You have to keep moving. You cannot be afraid to disrupt the thing that made you successful in the first place. ([Location 1797](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1797))
+    - Tags: [[blue]] 
+- If you do it right, one disruption will fuel the next. One revolution will domino into another. People will laugh at you and tell you it’s ludicrous, but that just means they’re starting to pay attention. ([Location 1839](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1839))
+    - Tags: [[blue]] 
+- In the very beginning, before there are customers, vision is more important than pretty much anything else. ([Location 1958](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1958))
+    - Tags: [[blue]] 
+- When do you tear yourself away from what you’re making and just . . . stop? Ship it. Set it free. See what happens. Here’s the trick: write a press release. But don’t write it when you’re done. Write it when you start. ([Location 1981](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=1981))
+    - Tags: [[blue]] 
+- You need constraints to make good decisions and the best constraint in the world is time. When you’re handcuffed to a hard deadline, you can’t keep trying this and that, changing your mind, putting the finishing touches on something that will never be finished. When you handcuff yourself to a deadline—ideally an external, immovable date like Christmas or a big conference—you have to execute and get creative to finish on time. The external heartbeat, the constraint, drives the creativity, which fuels the innovation. ([Location 2001](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2001))
+    - Tags: [[blue]] 
+    - Note: A time constraint forced action. Give yourself binding time constraints to force more out of yourself
+- We couldn’t spin endlessly anymore, trying to reach perfection. General Magic was flailing and needed a pair of handcuffs. It needed to set a date for launch and hold to it. ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2022))
+    - Tags: [[blue]] 
+- We forced as many constraints on ourselves as possible: not too much time, not too much money, and not too many people on the team. ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2044))
+    - Tags: [[blue]] 
+- With most projects in the concepting stage, you can get a huge amount done with around ten people or even fewer. You don’t want to staff up and then be forced to design by committee or put a ton of people on the sidelines, sitting on their hands, waiting for you to figure it out. ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2050))
+    - Tags: [[blue]] 
+    - Note: Keep teams lean and hungry at first
+- Generally any brand-new product should never take longer than 18 months to ship—24 at the limit. The sweet spot is somewhere between 9 and 18 months. That applies to hardware and software, atoms and bits. ([Location 2058](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2058))
+    - Tags: [[blue]] 
+- We needed internal milestones within the project—regular check-ins where we would make sure everybody understood how the product had evolved and could evolve their side of the business along with it. And to make sure the product still made sense. To see if marketing still liked it. To see if sales still liked it. To see if support could still explain it. To make sure everyone knew what they were making and the plan to launch it. ([Location 2089](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2089))
+    - Tags: [[blue]] 
+    - Note: Find the heartbeat and cadence that not only works for engineering but also for the organization as a whole. You need to align EVERYONE
+- After you’ve launched your V1, then two to four times in that year, you should be announcing something to the world. New products, new features, new redesigns or updates. Something meaty that’s worth people’s attention. It doesn’t matter if you’re a big or tiny company; if you’re building hardware or apps, B2B or B2C, this is the right rhythm for customers. For humans. Any more announcements or big changes and you’ll start confusing people, any fewer and they’ll start forgetting about you. So have at least one really big launch and another one to three smaller launches every year. ([Location 2112](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2112))
+    - Tags: [[blue]] 
+- Unfortunately, you don’t always control your heartbeat. Sometimes it’s based around someone else’s conference. Sometimes it orbits someone else’s products. ([Location 2132](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2132))
+    - Tags: [[blue]] 
+- The joke is that it takes twenty years to make an overnight success. In business, it’s more like six to ten. It always takes longer than you think to find product/market fit, to get your customers’ attention, to build a complete solution, and then to make money. You typically need to create at least three generations of any new, disruptive product before you get it right and turn a profit. This is true for B2B and B2C, for companies that build with atoms or electrons or both, for brand-new startups and brand-new products. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2156))
+    - Tags: [[blue]] 
+    - Note: Persistence and consistency at a single goal are the keys to success. Direct all your will at an objective until every obstacle in your way falls due to the sheer, unrelenting force of your efforts. Don’t be an lightning bolt, have the consistent weight and force of the ocean
+- Companies that build with electrons are focused on CAC—customer acquisition costs. Aside from direct labor, their money gets spent selling and supporting their product. ([Location 2232](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2232))
+    - Tags: [[blue]] 
+- Early adopters know nobody gets everything right with V1. Nobody even gets everything they were originally planning for V1 into V1. The product and customer base evolve and grow with each iteration, and every stage brings on different risks and challenges and investments. Nobody can tackle them all at once. Not at a startup, not at a big company. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2275))
+    - Tags: [[blue]] 
+- Far too many people expect profitability, for the product and the business, right out of the gate. ([Location 2279](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2279))
+    - Tags: [[blue]] 
+- That’s why so many Kickstarter projects have failed. They thought, “If I build it for $50 and sell it for $200, then I’ll make money. My company will be a success.” But that’s not how companies work. That $150 profit gets sucked away with every new office chair and dependent on your employees’ insurance, with every customer support call and Instagram ad. Until you optimize the business, not just the product, you can never build something lasting. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2286))
+    - Tags: [[blue]] 
+- You make the product. You fix the product. You build the business. You make the product. You fix the product. You build the business. You make the product. You fix the product. You build the business. Every product. Every company. Every time. ([Location 2316](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2316))
+    - Tags: [[blue]] 
+- There are three elements to every great idea: 1. It solves for “why.” Long before you figure out what a product will do, you need to understand why people will want it. The “why” drives the “what.” [See also: Chapter 3.2: Why Storytelling.] 2. It solves a problem that a lot of people have in their daily lives. 3. It follows you around. Even after you research and learn about it and try it out and realize how hard it’ll be to get it right, you can’t stop thinking about it. ([Location 2410](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2410))
+    - Tags: [[blue]] 
+- The more amazing an idea seems—the more it tugs at your gut, blinds you to everything else—the longer you should wait, prototype it, and gather as much information about it as possible before committing. If this idea is going to eat up years of your life, you should at least take a few months to research it, build out detailed (enough) business and product development plans, and see if you’re still excited about it. See if it will chase you. ([Location 2419](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2419))
+    - Tags: [[blue]] 
+- The best ideas are painkillers, not vitamins. Vitamin pills are good for you, but they’re not essential. You can skip your morning vitamin for a day, a month, a lifetime and never notice the difference. But you’ll notice real quick if you forget a painkiller. ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2426))
+    - Tags: [[blue]] 
+- Throwing darts at a wall is not how you pick a great idea. Anything worth doing takes time. Time to understand. Time to prepare. Time to get it right. You can fast-track a lot of things and skimp on others, but you cannot cheat time. ([Location 2465](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2465))
+    - Tags: [[blue]] 
+- It took around nine to twelve months of making prototypes and interactive models, building bits of software, talking to users and experts, and testing it with friends before Matt and I decided to take the plunge and actually pitch investors. ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2505))
+    - Tags: [[blue]] 
+- The interesting thing is that delayed intuition generally doesn’t make it less scary. If anything, the more you understand it, the more butterflies in your stomach it’ll give you. Because you’ll uncover all the ways it can go wrong; you’ll know the million things that might kill this idea and your business and your time. But knowing what can kill you makes you stronger. And knowing that you’ve already deflected some major bullets makes you stronger still. ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2512))
+    - Tags: [[blue]] 
+- Of course, all this is not to say that you should wait and research endlessly to make every little decision in your life. If you’re not starting from scratch—if you’re iterating—then everything speeds up. ([Location 2525](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2525))
+    - Tags: [[blue]] 
+- If you’re optimizing, you have data, constraints, and experience to lead you. You’ll already know what it takes to get to V1, so reaching V2 won’t be as much of a stretch. Or a mystery. V2 is never as scary as V1. V1 is always completely, utterly terrifying. Always. Big, great, new ideas scare the living crap out of everyone who has them. That’s one of the signs that they’re great. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2531))
+    - Tags: [[blue]] 
+- Until you realize that no matter what you do, you can’t stop thinking about that one idea. That’s when you stop running from it and start chipping away at the risks, one by one, until you’re confident enough that they’re worth taking. ([Location 2538](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2538))
+    - Tags: [[blue]] 
+- The answer is that you’ll never know until you take the leap and try. But here’s how to get as ready as you’ll ever be: 1. Work at a startup. 2. Work at a big company. 3. Get a mentor to help you navigate it all. 4. Find a cofounder to balance you out and share the load. 5. Convince people to join you. Your founding team should be anchored by seed crystals—great people who bring in more great people. ([Location 2546](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2546))
+    - Tags: [[blue]] 
+- There’s a reason why investors prefer to back second-time entrepreneurs even if they failed the first time around. It’s because these founders spent their twenties screwing up and learning. ([Location 2557](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2557))
+    - Tags: [[blue]] 
+- it takes years to get there. And everyone wants a shortcut. But there’s nothing that prepares you for starting a startup except working at a startup. So go get a job. Find a startup or small, nimble company with founders who know (more or less) what they’re doing. ([Location 2566](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2566))
+    - Tags: [[blue]] 
+- get a feel for the basic building blocks: What does an org chart look like? What is sales? How should marketing work? What about HR, finance, legal? You need a working knowledge of each discipline—not to be an expert in each, but to understand who you should hire, what their qualifications should be, where to find them, and when you’ll need them. ([Location 2569](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2569))
+    - Tags: [[blue]] 
+- Spend your time at your startup job understanding the business you’re helping to build. And then go get another job—this time at a big company. That’s the only way to get a handle on the problems and challenges that bigger companies face, especially those beyond the product—the organization, the processes, the governance, the politics. ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2575))
+    - Tags: [[blue]] 
+- Starting a company is unfathomably stressful and a truly ungodly amount of work and sacrifice. You need a partner who can balance you out, who you can call at 2 a.m. because you know they’ll be awake, working on your startup, too. And who can call you when they’re down and need support. ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2588))
+    - Tags: [[blue]] 
+- When you close your eyes, you should already know exactly who your first employees will be. You should be able to write down a list of five names without a second thought. If you don’t have that list of names ready before you start, you probably shouldn’t be starting. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2598))
+    - Tags: [[blue]] 
+- your first hires are crucial—they’ll help you architect what your business and culture will become. Every member of your founding team should be proven and great at what they do (consider any failed startups in their past a bonus—that means they know what to avoid this time around), but they also need to have the right mindset. Getting from 0 to 1 is a huge lift that asks a lot of everyone, especially considering it may not pay off. So you need individual contributors who will enthusiastically take the leap with you, either because they’re as excited by the idea as you are, or because they’re simply young or ambitious, or because they’ve already had some financial success and aren’t worried about paying rent for a while. ([Location 2608](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2608))
+    - Tags: [[blue]] 
+- In those very, very early days you want people who are there for the mission above all. You’re looking for passion, enthusiasm, and mindset. And you’re looking for seed crystals. ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2618))
+    - Tags: [[blue]] 
+- That’s what you need when you’re going to start a company or start a huge new project—a coach. A mentor. A source of wisdom and aid. Someone who can recognize a brewing problem and warn you about it before it happens. And someone who will quietly inform you that it’s dark right now because your head is jammed up your own ass, and who will give you a few tips to quickly remove it. ([Location 2632](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2632))
+    - Tags: [[blue]] 
+- You can make do without a cofounder. You can survive for a while without a team. But you can’t make it without a mentor. ([Location 2635](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2635))
+    - Tags: [[pink]] 
+- Find at least one person who you deeply trust and who believes in you. Not a life coach or an executive leadership consultant, not an agency, not someone who’s read a lot of case studies and is ready to charge you by the hour. And not your parents—they love you too much to be impartial. Find an operational, smart, useful mentor who has done it before, who likes you and wants to help. ([Location 2636](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2636))
+- You have to remember that you’ll be the proverbial gnat on the elephant’s ass, in competition with other vastly larger revenue streams, trying to earn a place at the table. Even if you’re at a billion-dollar company with nearly infinite resources, you can’t expect those resources to be funneled your way without a fight. And you can’t expect people at the company to take a risk on your project—to join your team and leave another, more established and respected area of the business—without some real reward. ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2645))
+    - Tags: [[blue]] 
+    - Note: This is why drug discovery is so difficult - Deloitte doesn’t offer anything unique except for relationships and you’re competing with other projects for resources
+- So if you don’t have a CEO who will go to bat for you, if you don’t have compensation packages that will attract a great team, if you don’t have the resources of a giant company but all of the overhead, then don’t try to start your project inside someone else’s business. Your best option is probably to go it alone. Either let your idea die or start a real startup. ([Location 2659](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2659))
+    - Tags: [[blue]] 
+- If you want to start a company, if you want to start anything, to create something new, then you need to be ready to push for greatness. And greatness doesn’t come from nothing. You have to prepare. You have to know where you’re headed and remember where you came from. You have to make hard decisions and be the mission-driven “asshole.” ([Location 2673](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2673))
+    - Tags: [[blue]] 
+    - Note: Be prepared to put in long hours and lots of work. It’s worth it
+- Even if you take money from an enormous venture capital (VC) firm, everything ultimately comes down to the relationship you form with a single partner at that firm and whether your expectations are aligned. ([Location 2682](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2682))
+    - Tags: [[blue]] 
+    - Note: Look for a particular VC where your values are aligned
+- So before you start this process, you first have to know yourself and be sure of what you’re asking for. Because you won’t get a second chance at your first round. You have to be serious. You have to prepare. And you have to know what you’re getting into. ([Location 2712](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2712))
+    - Tags: [[blue]] 
+- If you do think you’re ready to take money, then what exactly do you plan to use that money for? Do you need to build a prototype? Recruit a team? Research an idea? Get a patent? Petition local government? Fuel a partnership? Create a marketing campaign? What’s the minimum amount necessary to meet your needs now, and how much will you require later as those needs change? ([Location 2717](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2717))
+    - Tags: [[blue]] 
+- So when you reach out to pitch an investor, make sure you’re reaching out to the right person. Talk to founders who have worked with the VC in the past—who’ve gone through tough times together—and find out which partner is operational and helpful and smart and which only cares about the money. ([Location 2774](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2774))
+    - Tags: [[blue]] 
+- The best way to do that is with a compelling story. And knowing your audience. Even in Silicon Valley, most VCs won’t be technical. So don’t focus on the technology, focus on the “why.” ([Location 2781](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2781))
+    - Tags: [[blue]] 
+- Just don’t forget the other factor that can sneak up and kick your ass: time. It will take longer than you think to get funding. Expect it to be a 3–5 month process. ([Location 2794](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2794))
+    - Tags: [[blue]] 
+- Always start the pitching process when you don’t actually need money. You want to be in a position of strength, not buckling under the pressure and making bad choices. ([Location 2797](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2797))
+    - Tags: [[blue]] 
+- The bulk of your focus and the whole of your branding should be for consumers or business—not both. ([Location 2852](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2852))
+    - Tags: [[blue]] 
+- Steve Jobs was clear about the lesson he’d learned and made sure we all learned it, too: any company that tries to do both B2B and B2C will fail. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2865))
+    - Tags: [[blue]] 
+    - Note: Have one focus and one goal
+- You cannot make a single product for two completely opposite customers—for two different customer journeys. ([Location 2870](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2870))
+    - Tags: [[blue]] 
+- But even these companies have a fully B2C brand. That’s the other rule: if you cater to both, your marketing still has to be B2C. You can never convince a regular person to use a B2B product that’s obviously not meant for them, but you can convince a company to use your product if you appeal to the human beings inside that company. ([Location 2876](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2876))
+    - Tags: [[blue]] 
+    - Note: If you try both, marketing had to be fully B2C anyway.
+- It was Apple’s success at creating something for consumers that led to their success in the enterprise. People fell in love with their phones and then wondered why the rest of their life wasn’t that easy. Nobody wanted to deal with garbage corporate tools that required days or weeks of training to use. ([Location 2881](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2881))
+    - Tags: [[blue]] 
+- By keeping itself pure as a B2C company, Apple was able to tack on B2B without significantly altering its priorities or its marketing, or knocking its core business out of whack. ([Location 2887](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2887))
+    - Tags: [[blue]] 
+- That’s the thing to remember about B2B2C—it doesn’t matter how many businesses are involved: ultimately it’s the end consumer who carries the business model on their back. ([Location 2903](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2903))
+    - Tags: [[blue]] 
+    - Note: If the customer is the ultimate buyer, they’re always the focus
+- do not lose your focus. Do not think you can serve two masters. No matter what you’re building, you can never forget who you’re building it for. You can only have one customer. Choose wisely. ([Location 2911](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2911))
+    - Tags: [[blue]] 
+- To withstand a complete lack of true work/life balance requires a clear organizational strategy. You need to prioritize. It’s important to have everything you need to think about written down and have a plan for when and how you’ll bring it up with your team. Otherwise it will swirl around in your brain endlessly, killing any meager chance you have of relaxing your shoulders for a minute. ([Location 2924](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2924))
+    - Tags: [[blue]] 
+    - Note: Write things down more. You use Asana, but revive your notebook trend as well. Also jotting down thoughts in docs or quick slide decks. Organize your folders well to find them
+- there’s a world of difference between racking your brain, ruminating all night about a work crisis, versus letting yourself think about work in an unstructured, creative way. The latter gives your brain the freedom to stop hammering away at the same problems with the same worn-down tools. Instead, you let your mind rummage around to find new ones. ([Location 2938](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2938))
+    - Tags: [[blue]] 
+- Instead of trying to find true balance or allowing anyone else to find it, Steve ran full tilt. He let Apple become all-consuming in a way that pushed everything else in his life, except his family, to the periphery. ([Location 2942](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2942))
+    - Tags: [[blue]] 
+- I had just come off four years at Philips, where more than 90 percent of projects got cancelled and killed. If you didn’t make your mark fast enough or your project ran into issues or dragged on, Philips corporate would descend upon you, ready to “save the business” from your mistake or steal it out from under you. [See also: Chapter 2.3: Assholes.] I didn’t know if it would be the same at Apple or not, but I couldn’t take the risk. ([Location 2960](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2960))
+    - Tags: [[blue]] 
+    - Note: Move fast and make your mark quickly
+- I needed to calm down. I needed to find space. I needed to prioritize. Everyone thought I was crazy—and many still do—but here’s what I did: I took several sheets of paper with me everywhere. They had all the top milestones in front of us for each of the disciplines—engineering, HR, finance, legal, marketing, facilities, etc.—and everything we needed to do to reach those milestones. Every top-level question that I had was on those papers. So when I was in a meeting or talking to someone, I could quickly scan it. What are my top issues? What issues do our customers have? What’s the current roadblock for this person’s team? What are the next major milestones? What date commitments did our teams make? And then there was the best part—the ideas. Whenever someone had a great idea that we had to table for the moment—an improvement to the product or the organization—I’d write it down. So right next to the list of that week’s to-dos and tasks, there was a working library of all the things we couldn’t wait to begin. I’d regularly read them to myself and see if they still applied. It kept me inspired and excited and focused on the future. And it was great for the team. They saw that I paid attention to their ideas and made sure we kept thinking about them. ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2973))
+    - Tags: [[blue]] 
+    - Note: Take physical notes all the time. Keep a list of steps to hit, goals, feature ideas, and questions. It’s the only way to keep the short term technical steps and long term feature roadmap in mind at the same time alongside the obstacles to overcome and questions to answer
+- Writing by hand was important for me. I wasn’t staring at a screen, getting distracted by my email. A computer or a smartphone between you and the team is a huge barrier to focus and sends a clear message to everyone in the meeting: whatever I’m looking at on my screen is more important than you. ([Location 2985](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2985))
+    - Tags: [[blue]] 
+    - Note: Write everything by hand in a notebook. Type up summary later
+- Every Sunday evening, I would go through my notes, reassess and reprioritize all my tasks, rifle through the good ideas, then update those papers on a computer and print out a new version for the week. Continually reprioritizing allowed me to zoom out and see what could be combined or eliminated. It let me spot moments when we were trying to do too much. ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2991))
+    - Tags: [[blue]] 
+    - Note: Prioritize tasks for drug discovery every Sunday. Re-evaluate ideas and check if your old questions have been answered
+- Sunday night I’d email the whole list out to my management team. Each item had a name attached to it. Everyone could look at the top of the list to see what I’d be focused on that week, what they were accountable for, and what the next major milestones were. ([Location 2997](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=2997))
+    - Tags: [[blue]] 
+    - Note: Hold people accountable clearly by assigning and tracking tasks well
+- I slept well, really well, before 1992. Before international email was a thing, let alone the internet and Twitter. Since then there has literally always been someone in some time zone somewhere wanting to talk to me at 4 a.m. There will be no break unless you force yourself to take one. So do all the stuff they tell you to do before bed: no caffeine, no sugar, keep it cold, keep it dark, and for the love of all that’s holy, keep your phone away from your bed. You’re an addict. We all are. So don’t make it too easy for yourself—charge your phone in another room. ([Location 3028](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3028))
+    - Tags: [[blue]] 
+- There’s a reason Steve Jobs famously always walked between meetings, during meetings. It helped him think, stay creative, to rummage, but it also forced him to take some time to just . . . walk. To take a break from sitting in meetings, even if it was just for a few minutes. ([Location 3037](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3037))
+    - Tags: [[blue]] 
+    - Note: Go for walks again
+- None of this is revolutionary. You probably learned it in elementary school: write down a list of what you need to do, take a deep breath and some quiet time if you’re upset, eat your vegetables, exercise, sleep. But you’ll forget. We all forget. So grab your calendar and make a plan. You’ll be working all the time for a while. That’s okay. It’s not forever. But you’ve probably been beating at your problems with the same hammer for too long—it’s time for your brain to rummage around and find a crowbar. Or a bulldozer. Give your mind some time to breathe. Then put away your phone before bed. And maybe do some yoga. ([Location 3084](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3084))
+    - Tags: [[blue]] 
+- You will encounter a crisis eventually. Everyone does. If you don’t, you’re not doing anything important or pushing any boundaries. ([Location 3092](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3092))
+    - Tags: [[blue]] 
+- 2. As a leader, you’ll have to get into the weeds. Don’t be worried about micromanagement—as the crisis unfolds your job is to tell people what to do and how to do it. However, very quickly after everyone has calmed down and gotten to work, let them do their jobs without you breathing down their necks. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3098))
+    - Tags: [[blue]] 
+- 4. Your job once people get over the initial shock will be constant communication. You need to talktalktalk (with your team, the rest of the company, the board, investors, and potentially press and customers) and listenlistenlisten (hear what your team is worried about and the issues that are bubbling up, calm down panicked employees and stressed-out PR people). Don’t worry about overcommunicating. ([Location 3103](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3103))
+    - Tags: [[blue]] 
+- This wasn’t a moment to stand back and let the team figure out what to do on their own. I needed to make sure people knew exactly what they were working on and had the tools to find solutions as fast as possible. I had to command and control. ([Location 3122](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3122))
+    - Tags: [[blue]] 
+- Agree on the micro-steps that need to be taken, but allow them to take those steps without you. Schedule check-ins in the morning and at the end of the day and instead of getting the usual weekly or biweekly reports from your team, start going to their daily meetings. ([Location 3136](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3136))
+    - Tags: [[blue]] 
+- That’s what I said over and over at Nest. It became like a mantra: We’ll get through this. We’ve done it before. Here’s the plan. We’ll get through this. We’ve done it before. Here’s the plan. ([Location 3156](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3156))
+    - Tags: [[blue]] 
+- If something is your fault, tell them what you did. Tell them what you’ve learned from it. And tell them how you’ll prevent it from ever happening again. ([Location 3165](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3165))
+    - Tags: [[blue]] 
+- Sometimes the terrible, unsolvable, unpredictable crisis you’re facing is actually something that most growing companies face and for which there’s an obvious solution that you just can’t see. You might simply be growing really fast and need to codify your culture and add a management layer and start sending out meeting notes differently. [See also: Chapter 5.2: Breakpoints.] So whenever you see the water rising, talk to your mentor. Or your board. Or your investors. ([Location 3170](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3170))
+    - Tags: [[blue]] 
+- The most valuable thing you’ll take out of any crisis is the tale of how you were almost swept away, but the team pulled together and saved the day. That story needs to enter into the DNA of your company so you can always return to it. ([Location 3182](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3182))
+    - Tags: [[blue]] 
+- The source of all Nestiness—the key to our success—was the human beings we hired, the culture they created, the way they thought and organized and worked together. The team was everything. Forming that team and shepherding it through its many transitions is always the hardest and most rewarding part of building anything. ([Location 3196](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3196))
+    - Tags: [[blue]] 
+- But none of that mattered to us. Matt and I were serious, focused, and we were hiring people who had that same sense of purpose, who wouldn’t be dazzled by glitz or glamour or in-office pool tables. [See also: Chapter 6.4: Fuck Massages.] We were having plenty of fun, but none of us were screwing around. ([Location 3206](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3206))
+    - Tags: [[blue]] 
+    - Note: Build a culture of serious builders. The laid back, anything goes culture of big tech companies will get you nowhere
+- Furniture and snacks and decor all take money and, more critically, time. Someone has to sit and think about whether we should get a brown couch or a blue one, which fruit, which cheese, which beer. And we were not going to waste a cent or a minute on anything that wasn’t critical to the business. We were going to show our investors that this was a world-class team who could perform miracles on a shoestring. ([Location 3212](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3212))
+    - Tags: [[blue]] 
+- So if you’re trying to build a team, figuring out how and who to hire, then here’s what I’ve learned about some of the key teams and competencies of most startups: Design Marketing Product management Sales Legal ([Location 3222](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3222))
+    - Tags: [[blue]] 
+- It didn’t matter that she didn’t know how to build thermostats—none of us knew how to build thermostats. That was the point. We needed to learn. So Isabel dove in. She learned so much so fast that she became the product manager for the thermostat and successfully launched three versions over the course of five years. ([Location 3244](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3244))
+    - Tags: [[blue]] 
+- Isabel made herself successful because she’s smart and curious and capable. But some of her success also came from the fact that she was young. She may not have realized how difficult the task was before her—she just did it. And she did it with joy. ([Location 3247](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3247))
+    - Tags: [[pink]] 
+    - Note: Sometimes being naive about the difficulty of a task can be a good thing
+- Nobody works in a vacuum. Everybody has internal customers—people they need to deliver to. App designers, for example, create designs for engineers to implement. In this instance, engineers are their customers. So if you’re hiring an app designer, you’d better make sure they interview with an engineer. ([Location 3287](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3287))
+    - Tags: [[blue]] 
+- That was the system we had at Nest. We called it the Three Crowns. Here’s how it worked: Crown 1 was the hiring manager. They got the role approved and found the candidates. Crowns 2 and 3 were managers of the candidate’s internal customers. They picked one or two people from their team to interview the candidate. Feedback was collected, shared, and discussed, then the Three Crowns met to decide who to hire. Matt or I would watch over it all and make the final call in the rare instance when the Crowns couldn’t agree. Typically the answer if we had to get involved was no, thank you: PASS. ([Location 3289](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3289))
+    - Tags: [[pink]] 
+- We expected candidates to be mission-driven and good on their feet, the right fit for the culture, and passionate about the customer. We also had a “no assholes” policy. Pretty self-explanatory, but very helpful. If someone walked in with a ton of experience and was exactly what we were looking for on paper, but came off as unbearably arrogant or dismissive or controlling or political, then that résumé would be tossed out. ([Location 3313](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3313))
+    - Tags: [[blue]] 
+- In an interview I’m always most interested in three basic things: who they are, what they’ve done, and why they did it. I usually start with the most important questions: “What are you curious about? What do you want to learn?” ([Location 3320](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3320))
+    - Tags: [[blue]] 
+- Another good interview technique is to simulate work—instead of asking them how they work, just work with them. Pick a problem and try to solve it together. Choose a subject that both of you are familiar with but neither is an expert in—if you pick a problem in their domain they’ll always sound smart; pick a problem in yours and you’ll always know better. But the subject doesn’t matter nearly as much as the process of watching them think. Get on the whiteboard, draw it out. What kinds of questions do they ask? What approaches do they suggest? Do they ask about the customer? Do they seem empathetic or oblivious? ([Location 3328](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3328))
+    - Tags: [[blue]] 
+- At many companies I’ve seen HR topics left to the end of team meetings, or lumped into a separate HR or recruiting meeting. But your priority is your team, its health and growth. The best way to show that is to make it the first agenda item each and every week. Every Monday morning at Nest, that’s how my management meetings started: Who are the great people we want to hire? Are we making our hiring goals or retention metrics? If not, what’s the problem? What are the roadblocks? And how is the team doing? What issues do people have? How are performance reviews going? Who needs a bonus? How are we going to celebrate these accomplishments so the team feels valued? And, most importantly, are people leaving? Why? How are we going to make this job more meaningful and fulfilling and exciting than anything else out there? How are we going to help our people grow? Only after we got through this important subject could we move on to anything else—like what the hell we were building. ([Location 3400](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3400))
+    - Tags: [[blue]] 
+    - Note: The team is hugely important. Make sure to make it a priority
+- Growth will break your company. As more people join, your organizational design and communication style need to keep up or you risk alienating the team and cratering your culture. ([Location 3414](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3414))
+    - Tags: [[blue]] 
+    - Note: Creative destruction. In order to grow into the company it needs to be, your company will have to die and be reborn many times over
+- when most people are self-managing, the absolute maximum number of people one human being can effectively manage directly is 8–15 full-time employees. As the company grows, that number shrinks to around 7–8. ([Location 3416](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3416))
+    - Tags: [[blue]] 
+- Growth can catch you off-guard like that. Because everything always falls apart just when it feels like nothing can stop you. Breakpoints typically come at moments when things are going great—business is booming or at least product development is humming along. It seems like you’ve finally figured it out and are on your way. ([Location 3429](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3429))
+    - Tags: [[blue]] 
+- It’s either grow or die. Stasis is stagnation. Change is the only option. ([Location 3436](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3436))
+    - Tags: [[blue]] 
+    - Note: Straight from Heraclitus, Nietzsche, etc. Change is fundamental to life. When you freeze something in place, you kill it
+- When the watercooler disappears and spontaneous, unstructured communication disappears along with it, you have to be even more thoughtful, disciplined, and intentional about your communication strategies. You have to give people a road map to connect with each other. ([Location 3486](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3486))
+    - Tags: [[blue]] 
+- You have to start forming a strategy for how you’ll grow past a breakpoint long before you reach it—at a minimum two to three months before the break and then months of follow-up after. ([Location 3489](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3489))
+    - Tags: [[blue]] 
+- Every organism starts as a single cell. That cell divides into two, four, sixteen. In the beginning each cell is the same, but quickly they break out and individualize. This one is going to be a nerve, this one a muscle. The more the organism grows, the more differentiated each cell has to be, the more complicated the system becomes. But it also becomes more resilient, able to survive for years, decades. The same happens in business. ([Location 3502](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3502))
+    - Tags: [[blue]] 
+    - Note: Specialization is necessary as teams grow
+- You’ll need to break your org into product specific groups so that each product gets the attention it deserves. This team works on the thermostat, this team works on the smoke alarm. And then you might have to subdivide again. ([Location 3522](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3522))
+    - Tags: [[blue]] 
+- Breaking things up this way flattens the org, eliminates a ton of overhead, and creates more opportunity for growth, more chances to dig in and find something you can excel at and be recognized for. ([Location 3532](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3532))
+    - Tags: [[blue]] 
+    - Note: Break up along product lines to create a flatter, more dynamic organization
+- At around 120 people, you need directors: managers who manage other managers. Directors need to think more like a CEO than an individual contributor. ([Location 3561](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3561))
+    - Tags: [[blue]] 
+- remember there’s a difference between coaches and mentors: Coaches are there to help with the business. It’s all about the work: this company, this job, this moment in time. Mentors are more personal. They don’t just help with people’s jobs, they help with their lives, their families. ([Location 3607](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3607))
+    - Tags: [[blue]] 
+- Culture arises organically but then needs to be codified to be maintained. ([Location 3625](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3625))
+    - Tags: [[blue]] 
+- If you don’t explicitly know your values, you can’t pass them on, maintain them, evolve them, or hire for them. ([Location 3627](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3627))
+    - Tags: [[blue]] 
+- “if it ain’t broke, don’t fix it” doesn’t work here. When you don’t prepare for breakpoints—don’t warn the team, don’t thoughtfully restructure the org around roles first and individuals second, don’t add new managers, don’t reassess your meetings and communication tools, don’t give people access to training or coaches, don’t actively work to preserve your culture—then the consequences are clear: In their quest to keep people happy, I’ve seen leaders build their org around existing employees instead of first figuring out what the optimal structure should be and fitting their team into those roles. Then roles and responsibilities overlap, there’s a ton of redundancy in the upper levels, they have to invent weird new titles for people, and nobody knows what they should be working on. Work slows to a crawl. Employees complain that the culture is dead. People start to quit. Panic sets in and it can feel like a full-blown crisis. ([Location 3637](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3637))
+    - Tags: [[blue]] 
+- change is growth and growth is opportunity. Your company is an organism; its cells need to divide to multiply, they need to differentiate to become something new. Don’t worry about what you’re going to lose—think about what you’re going to become. ([Location 3661](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3661))
+    - Tags: [[blue]] 
+- Everything that needs to be created needs to be designed—not just products and marketing, but processes, experiences, organizations, forms, materials. ([Location 3667](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3667))
+    - Tags: [[blue]] 
+    - Note: Design your team’s processes more thoughtfully. Research kanban and implement it as part of 2023 plan
+- Deploy design thinking: This is a well-known strategy originated by IDEO’s David Kelley that encourages you to identify your customer and their pain points, deeply understand the problem you’re trying to solve, and systematically uncover ways to solve it. ([Location 3672](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3672))
+    - Tags: [[blue]] 
+    - Note: Don’t jump straight from problem to solution. First understand the problem and customer deeply in order to find a new way of looking at the problem and finding a solution
+- Avoid habituation: Everyone gets used to things. Life is full of tiny and enormous inconveniences that you no longer notice because your brain has simply accepted them as unchangeable reality and filtered them out. ([Location 3682](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3682))
+    - Tags: [[blue]] 
+    - Note: Look for the unconscious/unnoticed inefficiencies that, if unlocked, would increase productivity and satisfaction
+- But when you think like a designer, you stay awake to the many things in your work and life that can be better. You find opportunities to improve experiences that people long ago assumed would just always be terrible.* ([Location 3686](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3686))
+    - Tags: [[blue]] 
+- you shouldn’t outsource a problem before you try to solve it yourself, especially if solving that problem is core to the future of your business. If it’s a critical function, your team needs to build the muscle to understand the process and do it themselves. ([Location 3715](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3715))
+    - Tags: [[blue]] 
+    - Note: Don’t outsource any software engineering work for drug discovery
+- none of that could have happened if he hadn’t tried it himself first. He just needed a push. Usually that’s all anyone who’s smart and capable really needs to shine. ([Location 3726](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3726))
+    - Tags: [[blue]] 
+    - Note: Do everything yourself at first, build the muscle memory and then you can better delegate and manage
+- rather than calling in a naming or branding agency to pick a name for you, sit down and approach the problem like a designer: Who is your customer and where will they encounter this name? What are you trying to get your customer to think or feel about your product? What brand attributes or product features are most important to highlight with this name? Is this product part of a family of products or is it stand-alone? What will the next version be called? Should the name be evocative of a feeling or idea or a straightforward description? Once you come up with a list, begin to use the names in context. How does it work in a sentence? How do you use it in print? How do you use it graphically? ([Location 3729](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3729))
+    - Tags: [[blue]] 
+- Then they’ll design the process from scratch, the way it should be designed: Ask why at every step—why is it like this now? How can it be better? Think like a user who has never tried this product before; dig into their mindset, their pain and challenges, their hopes and desires. Break it down into steps and set all the constraints up front. [See also: Chapter 3.5: Heartbeats and Handcuffs.] Understand and tell the story of the product. [See also: Chapter 3.2: Why Storytelling.] Create prototypes all along the way. [See also: Chapter 3.1: Make the Intangible Tangible.] ([Location 3747](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3747))
+    - Tags: [[blue]] 
+- Not everyone can be a great designer, but everyone can think like one. Designing isn’t something in your DNA that you’re simply born with—it’s something you learn. You can bring in coaches and teachers, classes and books to help get everyone into the right mindset. You can do it together. ([Location 3753](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3753))
+    - Tags: [[pink]] 
+- To be a great designer you can’t lock yourself in a room—you have to connect with your team, with your customer and their environment, and other teams who may have innovative ideas to bring to the table. You have to understand your customer’s needs and all the different ways you can address them. You have to look at a problem from all angles. You have to get a little creative. And you have to notice the problem in the first place. ([Location 3759](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3759))
+    - Tags: [[orange]] 
+- it’s huge. It’s the difference between a startup employee and its founder. Most people are so habituated to the problems in their home lives or work that they no longer realize they’re problems. ([Location 3763](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3763))
+- The people who notice the problems around them—and then dream up solutions—are mostly inventors, startup founders, and kids. Young people look at the world and question it. They’re not worn down by doing the same stupid thing a thousand times—they don’t assume everything has to be the way it is. They ask “why?” Keeping your brain young is key. Seeing problems that are glossed over by others is useful. Coming up with solutions to those problems, using the vocabulary and thought process of a designer, is invaluable. ([Location 3773](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3773))
+    - Tags: [[blue]] 
+    - Note: Don’t assume the world is this way because it “needs” to be this way. Everything can be questioned and changed. Be ruthless about identifying inefficient ways of doing things and fixing them
+- Marketing cannot just be figured out at the very end. When building a product, product management and the marketing team should be working together from the very beginning. As you build, you should continue to use marketing to evolve the story and ensure they have a voice in what the product becomes. ([Location 3797](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3797))
+    - Tags: [[blue]] 
+- Use marketing to prototype your product narrative. The creative team can help you make the product narrative tangible. This should happen in parallel with product development—one should feed the other. ([Location 3800](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3800))
+    - Tags: [[blue]] 
+- you tell a story: you connect with people’s emotions so they’re drawn to your narrative, but you also appeal to their rational side so they can convince themselves it’s the smart move to buy what you’re selling. You balance what they want to hear with what they need to know. ([Location 3818](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3818))
+    - Tags: [[blue]] 
+    - Note: Attack both conscious and unconscious thought
+- Your message needs to fit the customer’s context. You can’t say everything everywhere. ([Location 3846](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3846))
+    - Tags: [[blue]] 
+    - Note: Think about the particular message you want to send to a particular customer
+- marketing prototyped the product narrative in parallel with product development. ([Location 3894](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3894))
+    - Tags: [[blue]] 
+- Marketing was always there, ensuring that we still had a strong answer to “Why We Made It” even as engineering and product management tweaked what we were making. That allowed marketing to have a valuable voice in product development. Because any big change to the product would force a change to the story. It was marketing’s job to figure out if that change would break the packaging, the website—all our prototypes of the product narrative. ([Location 3904](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3904))
+    - Tags: [[blue]] 
+- Each part of the website highlighted a different part of the product story. That forced us to know the story in our bones, to live and breathe it so we could pass it to others in the clearest, most honest way possible. ([Location 3913](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3913))
+    - Tags: [[blue]] 
+- Engineers like to build products using the coolest new technology. Sales wants to build products that will make them a lot of money. But the product manager’s sole focus and responsibility is to build the right products for their customers. That’s the job. ([Location 3980](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3980))
+    - Tags: [[blue]] 
+- Sometimes product managers need to be extremely technical—usually in B2B settings where the user of the product is extremely technical, too. ([Location 3996](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=3996))
+    - Tags: [[blue]] 
+- Most tech companies break out product management and product marketing into two separate roles: Product management defines the product and gets it built. Product marketing writes the messaging—the facts you want to communicate to customers—and gets the product sold. But from my experience that’s a grievous mistake. Those are, and should always be, one job. There should be no separation between what the product will be and how it will be explained—the story has to be utterly cohesive from the beginning. ([Location 4001](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4001))
+    - Tags: [[blue]] 
+    - Note: The messaging and the product are one and the same. Need to define both together and have the visions aligned - best for one person to do that
+- He can shake off his deep, geeky knowledge of the product and use it like a beginner, like a regular person. You’d be surprised how many product managers skip that hugely necessary step—listening to their customers, gaining insights, empathizing with their needs, then actually using the product in the real world. ([Location 4010](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4010))
+    - Tags: [[blue]] 
+- product management has to own the messaging. The spec shows the features, the details of how a product will work, but the messaging predicts people’s concerns and finds ways to mitigate them. It answers the question, “Why will customers care?” And that question has to be answered long before anyone gets to work. ([Location 4026](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4026))
+    - Tags: [[blue]] 
+- My dad was on commission but he would often sacrifice a sale in order to build a personal connection. The best salespeople are the ones who maintain relationships even if it means not making money that day. ([Location 4123](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4123))
+    - Tags: [[blue]] 
+- A great lawyer will help you identify roadblocks, then move around them and find solutions. ([Location 4209](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4209))
+    - Tags: [[blue]] 
+- You don’t want a lawyer who thinks their only job is to point out the sinkhole you could fall into, to block your way. Hire someone who will help you find a new path. Hire someone who will build a bridge. Hire a lawyer who doesn’t just think like a lawyer. ([Location 4319](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4319))
+    - Tags: [[blue]] 
+- People have this vision of what it’s like to be an executive or CEO or leader of a huge business unit. They assume everyone at that level has enough experience and savvy to at least appear to know what they’re doing. They assume there’s thoughtfulness and strategy and long-term thinking and reasonable deals sealed with firm handshakes. But some days, it’s high school. Some days, it’s kindergarten. ([Location 4491](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4491))
+    - Tags: [[blue]] 
+- As CEO, you spend almost all your time on people problems and communication. You’re trying to navigate a tangled web of professional relationships and intrigues, listen to but also ignore your board, maintain your company culture, buy companies or sell your own, keep people’s respect while continually pushing yourself and the team to build something great even though you barely have time to think about what you’re building anymore. ([Location 4497](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4497))
+    - Tags: [[blue]] 
+- If you want to build a great company, you should expect excellence from every part of it. The output of every team can make or break the customer experience, so they should all be a priority. ([Location 4532](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4532))
+    - Tags: [[blue]] 
+- When you truly give a shit, you care, you don’t let up until you’re satisfied, you pick things apart until they’re great. ([Location 4548](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4548))
+    - Tags: [[blue]] 
+- You’re the top of the pyramid. Your focus, your passion, trickles down. If you don’t give a shit about marketing, you’ll get shitty marketing. If you don’t care about design, you’ll get designers who don’t care, either. ([Location 4562](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4562))
+    - Tags: [[blue]] 
+- You can prioritize, but nothing ever comes off the list. Avoiding or ignoring any part of your company only comes back to haunt you sooner or later. ([Location 4566](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4566))
+    - Tags: [[blue]] 
+- You don’t have to be an expert in everything. You just have to care about it. ([Location 4579](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4579))
+    - Tags: [[blue]] 
+- Great leaders can recognize good ideas even if those ideas didn’t come out of their own mouths. They know that good ideas are everywhere. They’re in everyone. ([Location 4592](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4592))
+    - Tags: [[blue]] 
+- Steve took a lot of risks, made bad decisions, launched products that didn’t work—the original Apple III, the Motorola ROKR iTunes phone, the Power Mac G4 Cube, the list goes on. But if you aren’t failing, you aren’t trying hard enough. He learned from the screwups, was constantly improving, and his good ideas, his successes, totally wiped away his failures. He was constantly pushing the company to learn and try new things. ([Location 4632](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4632))
+    - Tags: [[blue]] 
+- In this job, respect is always more important than being liked. ([Location 4637](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4637))
+    - Tags: [[blue]] 
+- Delaying hard decisions, hoping problems will resolve themselves, or keeping pleasant but incompetent people on the team might make you feel better. It may give you the illusion of niceness. But it chips away at the company, bit by bit, and erodes the team’s respect for you. ([Location 4640](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4640))
+    - Tags: [[blue]] 
+- When your team knows too much about you as a person, not just you as a CEO, they start dissecting your personal life to try to understand your decisions. Your motivations. Your ways of thinking. That’s not only a distracting waste of time, it’s counterproductive. When you explain why you’re doing something, it should be all about the customers, not about you. ([Location 4650](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4650))
+    - Tags: [[blue]] 
+- That freedom is thrilling and empowering and utterly terrifying. There is nothing scarier than finally getting what you want and having to take responsibility for it, good or bad. And the tables begin to turn—as CEO you can’t say “yes” to everything. You have to become the one who says “no.” Freedom is a double-edged sword. ([Location 4671](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4671))
+    - Tags: [[blue]] 
+- CEOs need to prove to the board that they’re doing a good job, or risk being fired. That’s why board meetings are so important, and why truly understanding your subject matter and doing a great deal of prep work beforehand is vital. The best CEOs always know the outcome of a board meeting before they walk through the door. ([Location 4684](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4684))
+    - Tags: [[blue]] 
+- Bad CEOs come to board meetings and expect the board to help them make decisions. Good CEOs walk in with a presentation of where the company was, where it is now, and where it’s headed this quarter and in the years to come. They tell the board what’s working but they’re also transparent about what isn’t and how they’re addressing it. They present a fully formed plan that the board can question, object to, or try to modify. ([Location 4688](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4688))
+    - Tags: [[blue]] 
+- Being able to help the board grasp exactly what’s going on is good for the CEO, too. The better you can explain something, the more you understand it. Teaching is the best test of your own knowledge. If you’re struggling to explain what you’re building and why, if you’re presenting a report without really understanding it, if the board is asking you questions that you can’t answer—then you have not internalized what’s actually going on at your company. ([Location 4724](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4724))
+    - Tags: [[blue]] 
+- Typically companies with inexperienced boards are always running out of money. They never meet their quarterly goals and always blame “market problems” rather than the CEO or themselves. They don’t know how to bring in new talent and new expertise and just smile and nod their way to collapse. ([Location 4750](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4750))
+    - Tags: [[blue]] 
+- Even big projects within a company should have a mini-board—a collection of helpful execs who can work to guide a project lead and step in if things go sideways. ([Location 4762](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4762))
+    - Tags: [[blue]] 
+- Even the best CEO cannot stand alone, untouchable, unchallengeable, accountable to no one. Everyone needs to report to someone, even if it’s a two-person board that you meet with for an hour every few months. ([Location 4769](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4769))
+    - Tags: [[blue]] 
+- Boards always change based on the CEO—the board under Steve Jobs was different from the board under Tim Cook. Boards complement a CEO’s strengths and no two CEOs are alike. ([Location 4772](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4772))
+    - Tags: [[blue]] 
+- A chairperson is the CEO’s closest relationship on the board, a mentor and a partner. They help the CEO through issues they have with other board members, or they step in when the business gets hairy and the team gets scared. ([Location 4783](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4783))
+    - Tags: [[blue]] 
+- Sometimes CEOs don’t take the top-dollar investment deal, to ensure that they get a better board member. ([Location 4793](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4793))
+    - Tags: [[blue]] 
+- The best board members are mentors first. They’re able to offer sound, helpful advice at critical moments in your product’s life or in yours. And they give as well as take—they enjoy the process of being on your board because they’re learning something, too. ([Location 4802](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4802))
+    - Tags: [[blue]] 
+- That’s why Jeff Bezos once told me never to join anyone else’s board. “It’s a waste of time,” he said. “I’m only going to be on the board of my company and my philanthropy. That’s it!” ([Location 4821](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4821))
+    - Tags: [[blue]] 
+- You want board members who are truly, deeply excited by what you’re making. Who can’t wait to hear what you’ve been up to. Who aren’t just there for the meetings but are with you day in and day out, helping you, finding opportunities for you to succeed. You want a board that loves your company. And that your company loves back. ([Location 4840](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4840))
+    - Tags: [[blue]] 
+- Fifty to 85 percent of all mergers fail due to cultural mismatches. ([Location 4847](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4847))
+    - Tags: [[blue]] 
+- Your job, whether you’re buying or selling, is to figure out if your two companies’ goals are aligned, if your missions nestle into each other, if your cultures make sense together. You have to consider the size of your companies. Can one be easily absorbed by the other? Is this a small team just starting out or a fully formed company with sales and marketing and HR and an ingrained way of working? If it’s the latter, you have to understand what will happen to overlapping teams, what will change for employees, what will happen to your projects and your processes. That takes time. ([Location 4932](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4932))
+    - Tags: [[blue]] 
+- That’s why Apple doesn’t really buy companies with large teams. They only acquire specific teams or technologies, usually very early in their life cycle when they’re pre-revenue. That way they can easily be absorbed and Apple never has to worry about culture. ([Location 4961](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=4961))
+    - Tags: [[blue]] 
+- Beware of too many perks. Taking care of employees is 100 percent your responsibility. Distracting and coddling them is not. ([Location 5003](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5003))
+    - Tags: [[blue]] 
+- when perks are always free, appear constantly, and are treated like benefits, your business will suffer. ([Location 5015](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5015))
+    - Tags: [[blue]] 
+- If you want to give employees a perk, keep in mind two things: When people pay for something, they value it. If something is free, it is literally worthless. So if employees get a perk all the time, then it should be subsidized, not free. If something happens only rarely, it’s special. If it happens all the time, the specialness evaporates. So if a perk is only received occasionally, it can be free. But you should make it very clear that this is not going to be a regular occurrence and change up the perk so it’s always a surprise. There’s a huge difference between giving people free food all the time, free food occasionally, and subsidizing food. ([Location 5027](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5027))
+    - Tags: [[blue]] 
+- Free will screw you every time. Getting a really great deal on something creates a completely different mindset than expecting to get it for nothing. ([Location 5038](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5038))
+    - Tags: [[blue]] 
+- once you set the precedent and shift people’s expectations, it’s almost impossible to claw your way back. ([Location 5051](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5051))
+    - Tags: [[blue]] 
+- Perks are frosting. High-fructose corn syrup. And nobody will begrudge you a little sugar—everyone likes sweets from time to time. But stuffing your face full of them from morning to night isn’t exactly a recipe for happiness. Just as dessert shouldn’t come before dinner, perks shouldn’t come before the mission you’re there to achieve. The mission should fill and fuel your company. The perks should be a sprinkle of sugar on top. ([Location 5118](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5118))
+    - Tags: [[blue]] 
+- But a startup with five smart friends is a completely different beast than a company of 100, never mind 1,000. The job and responsibilities of an early founder and later-stage CEO are polar opposites. Not every founder is cut out to be a CEO at every stage of a company. ([Location 5154](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5154))
+    - Tags: [[blue]] 
+- It’s your job as a CEO to constantly push your company forward—to come up with new ideas and projects to keep it fresh and alive. Then it’s your job to work hard on those new projects, to be as passionate about them as you were about the original problem you came there to solve. In the meantime, other people on your team focus on your core business, optimizing the pieces that are already set up. ([Location 5171](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5171))
+    - Tags: [[blue]] 
+- if you’re a CEO or high-level executive and you can see the water level rising before everyone else, then it’s your responsibility to signal clear and present danger to your team. And there’s no clearer sign that something ain’t right than you walking out the door. ([Location 5183](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5183))
+    - Tags: [[blue]] 
+- In the end, there are two things that matter: products and people. What you build and who you build it with. ([Location 5256](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5256))
+    - Tags: [[blue]] 
+- Even if your product doesn’t change the whole world, even if it has a modest scope and a smaller audience, it can still change an industry. Do something different. Shift customer expectations. Set the standard higher. It can make a market, a whole ecosystem, better. ([Location 5264](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5264))
+    - Tags: [[blue]] 
+- The thing holding most people back is themselves. They think they know what they can do and who they’re supposed to be, and they don’t explore beyond those boundaries. That is, until someone comes along and pushes them—willingly or unwillingly, happily or unhappily—into doing something more. Into discovering a well of creativity or willpower or brilliance that they never realized they had. ([Location 5293](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5293))
+    - Tags: [[blue]] 
+- Humans are the same way. But so many of us get stuck at V1. Once we settle into ourselves, we lose sight of what we can become. But just as products are never finished, neither are humans. We’re constantly changing. Constantly evolving. ([Location 5300](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5300))
+    - Tags: [[blue]] 
+- It’s worth it to do things well. It’s worth it to try for greatness. It’s worth it to help your team, to help people. ([Location 5303](https://readwise.io/to_kindle?action=open&asin=B09BNJ6GBV&location=5303))
+    - Tags: [[blue]] 

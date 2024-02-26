@@ -1,0 +1,300 @@
+# The Pleasure of Finding Things Out
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51jA16dI8TL._SL200_.jpg)
+
+## Metadata
+- Author: [[Richard P. Feynman]]
+- Full Title: The Pleasure of Finding Things Out
+- Category: #books
+
+## Highlights
+- The things that mattered were honesty, independence, willingness to admit ignorance. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=122))
+    - Tags: [[blue]] 
+- “When he hath set himself to writing, he would join night to day; press upon himself without release, not minding it till he fainted: and when he left off, remove himself into all sports and looseness again; that it was almost a despair to draw him to his book: but once got to it, he grew stronger and more earnest by the ease.” That was Shakespeare, and that was also the Feynman I knew and loved, this side idolatry. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=128))
+    - Tags: [[blue]] 
+- For the first time in my life I felt a smidgen of what Richard Feynman called “the kick in the discovery,” the sudden feeling (probably akin to an epiphany, albeit in this case a vicarious one) that I had grasped a wonderful new idea, that there was something new in the world; that I was present at a momentous scientific event, no less dramatic or exciting than Newton’s feeling when he realized that the mysterious force that caused that apocryphal apple to land on his head was the same force that caused the moon to orbit the earth; or Feynman’s when he achieved that first grudging step toward understanding the nature of the interaction between light and matter, which led eventually to his Nobel Prize. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=144))
+    - Tags: [[blue]] 
+- “You see? That’s why scientists persist in their investigations, why we struggle so desperately for every bit of knowledge, stay up nights seeking the answer to a problem, climb the steepest obstacles to the next fragment of understanding, to finally reach that joyous moment of the kick in the discovery, which is part of the pleasure of finding things out.”* ([Location 150](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=150))
+    - Tags: [[blue]] 
+- he did physics not for the glory or for awards and prizes but for the fun of it, for the sheer pleasure of finding out how the world works, what makes it tick. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=153))
+    - Tags: [[blue]] 
+- a science knowledge only adds to the excitement and mystery and the awe of a flower. It only adds; I don’t understand how it subtracts. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=202))
+    - Tags: [[blue]] 
+- Everything we’d read would be translated as best we could into some reality and so I learned to do that–everything that I read I try to figure out what it really means, ([Location 215](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=215))
+    - Tags: [[blue]] 
+- “Do you know what that bird is? It’s a brown throated thrush; but in Portuguese it’s a . . . in Italian a . . . ,” he says “in Chinese it’s a . . . , in Japanese a . . . ,” etcetera. “Now,” he says, “you know in all the languages you want to know what the name of that bird is and when you’ve finished with all that,” he says, “you’ll know absolutely nothing whatever about the bird. You only know about humans in different places and what they call the bird. Now,” he says, “let’s look at the bird.” ([Location 230](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=230))
+    - Tags: [[blue]] 
+    - Note: A name doesn’t tell you about the thing. Language doesn’t capture the true depth of experience
+- he knew the difference between knowing the name of something and knowing something, ([Location 241](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=241))
+    - Tags: [[blue]] 
+- I would have to stop the research in what I was doing, which is my life’s desire, to take time off to do this, which I felt I should do in order to protect civilization. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=298))
+    - Tags: [[blue]] 
+- The prize is the pleasure of finding the thing out, the kick in the discovery, the observation that other people use it [my work]–those are the real things, the honors are unreal to me. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=348))
+    - Tags: [[blue]] 
+- in physics, when you discover new things, it looks more simple. It appears on the whole to be more complicated because we learn about a greater experience–that is, we learn about more particles and new things–and so the laws look complicated again. But if you realize all the time what’s kind of wonderful–that is, if we expand our experience into wilder and wilder regions of experience–every once in a while we have these integrations when everything’s pulled together into a unification, in which it turns out to be simpler than it looked before. ([Location 379](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=379))
+    - Tags: [[blue]] 
+- If you are interested in the ultimate character of the physical world, or the complete world, and at the present time our only way to understand that is through a mathematical type of reasoning, then I don’t think a person can fully appreciate, or in fact can appreciate much of, these particular aspects of the world, the great depth of character of the universality of the laws, the relationships of things, without an understanding of mathematics. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=383))
+    - Tags: [[blue]] 
+- I spent a few years trying to invent mathematical things that would permit me to solve the equations, but I didn’t get anywhere, and then I decided that in order to do that I must first understand more or less how the answer probably looks. It’s hard to explain this very well, but I had to get a qualitative idea of how the phenomenon works before I could get a good quantitative idea. In other words, people didn’t even understand roughly how it worked, and so I have been working most recently in the last year or two on understanding roughly how it works, not quantitatively yet, with the hope that in the future that rough understanding can be refined into a precise mathematical tool, way, or algorithm to get from the theory to the particles. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=430))
+    - Tags: [[blue]] 
+    - Note: Intuition comes first, computation second. Understand the broad contours and context to dive into the details
+- To do high, real good physics work you do need absolutely solid lengths of time, so that when you’re putting ideas together which are vague and hard to remember, it’s very much like building a house of cards and each of the cards is shaky, and if you forget one of them the whole thing collapses again. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=442))
+    - Tags: [[blue]] 
+    - Note: Need to take extensive notes and Anki important ideas to make sure you keep the scaffolding for complex topics in mind
+- Because of the success of science, there is, I think, a kind of pseudoscience. Social science is an example of a science which is not a science; they don’t do [things] scientifically, they follow the forms–or you gather data, you do so-and-so and so forth but they don’t get any laws, they haven’t found out anything. ([Location 477](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=477))
+    - Tags: [[blue]] 
+- You see, I have the advantage of having found out how hard it is to get to really know something, how careful you have to be about checking the experiments, how easy it is to make mistakes and fool yourself. ([Location 486](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=486))
+    - Tags: [[blue]] 
+- whatever way it comes out its nature is there and she’s going to come out the way she is, and therefore when we go to investigate it we shouldn’t predecide what it is we’re trying to do except to try to find out more about it. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=499))
+    - Tags: [[blue]] 
+- You see, one thing is, I can live with doubt and uncertainty and not knowing. I think it’s much more interesting to live not knowing than to have answers which might be wrong. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=517))
+    - Tags: [[blue]] 
+- I don’t feel frightened by not knowing things, by being lost in a mysterious universe without having any purpose, which is the way it really is so far as I can tell. It doesn’t frighten me. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=521))
+    - Tags: [[blue]] 
+- Some steps in that direction have been taken in the larger conventional machines called “vector processors.” When sometimes you want to do exactly the same step on many different items, you can perhaps do that at the same time. ([Location 571](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=571))
+    - Tags: [[blue]] 
+    - Note: Pandas vectorization
+- Another plan is to take what is effectively a large number of relatively simple (but not very simple) computers, and connect them all together in some pattern. Then they can all work on a part of the problem. Each one is really an independent computer, and they will transfer information to each other as one or another needs it. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=575))
+    - Tags: [[blue]] 
+    - Note: MapReduce
+- It has turned out that a very large number of problems of all kinds can be dealt with in parallel. As long as the problem is big enough so that a lot of calculating has to be done, it turns out that a parallel computation can speed up time to solution enormously, and this principle applies not just to scientific problems. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=585))
+    - Tags: [[blue]] 
+    - Note: GPU computation
+- it is a part of the adventure of science to try to find a limitation in all directions and to stretch the human imagination as far as possible everywhere. Although at every stage it has looked as if such an activity was absurd and useless, it often turns out at least not to be useless. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=828))
+    - Tags: [[blue]] 
+- You must have been in a situation like this–you didn’t ask them right away, right away it would have been OK. But they’ve been talking a little bit too long. You hesitated too long. If you ask them now they’ll say, what are you wasting my time all this time for? ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1204))
+    - Tags: [[blue]] 
+- They put them in barracks and they would tell them nothing. Then they came to work and what they had to do was work on IBM machines, punching holes, numbers that they didn’t understand, nobody told them what it was. The thing was going very slowly. I said that the first thing there has to be is that the technical guys know what we’re doing. Oppenheimer went and talked to the security people and got special permission. So I had a nice lecture in which I told them what we were doing, and they were all excited. We’re fighting a war. We see what it is. They knew what the numbers meant. If the pressure came out higher, that meant there was more energy released and so on and so on. They knew what they were doing. Complete transformation! They began to invent ways of doing it better. They improved the scheme. They worked at night. They didn’t need supervising in the night. They didn’t need anything. They understood everything. They invented several of the programs that we used and so forth. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1272))
+    - Tags: [[blue]] 
+    - Note: Give people a mission or sense of purpose
+- So we figured a way, by taking a different colored set of cards, to put them through a cycle too, but out of phase. We’d do two or three problems at a time. You see this was another problem. While this one was adding, it was multiplying on the other problem. And such managerial schemes, we got many more problems. ([Location 1283](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1283))
+    - Tags: [[blue]] 
+    - Note: Operational optimization. Want 100% utilization
+- was always dumb about one thing, I never knew who I was talking to. I was always worried about the physics; if the idea looked lousy, I said it looked lousy. If it looked good, I said it looked good. Simple proposition, I’ve always lived that way. ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1346))
+    - Tags: [[blue]] 
+    - Note: Radical honesty
+- I believe that one of the greatest dangers to modern society is the possible resurgence and expansion of the ideas of thought control; such ideas as Hitler had, or Stalin in his time, or the Catholic religion in the Middle Ages, or the Chinese today. I think that one of the greatest dangers is that this shall increase until it encompasses all of the world. ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1506))
+    - Tags: [[blue]] 
+    - Note: Expansion of totalitarianism in 21st century
+- science creates a power through its knowledge, a power to do things: You are able to do things after you know something scientifically. But the science does not give instructions with this power as to how to do good against how to do evil. Let us put it a very simple way: There are no instructions along with the power, and the question of applying the science or not is essentially the problem of organizing the applications in a way that doesn’t do too much harm and does as much good as possible. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1515))
+    - Tags: [[blue]] 
+- I believe most assuredly that the next science to find itself in moral difficulties with its applications is biology, and if the problems of physics relative to science seem difficult, the problems of the development of biological knowledge will be fantastic. These possibilities were hinted at, for example, in the book by Huxley, Brave New World, but you can think of a number of things. ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1523))
+    - Tags: [[blue]] 
+- the most remarkable aspect of our scientific worldview is its universality in this sense that although we talk about our being specialists, we are really not. One of the most promising hypotheses in all of biology is that everything the animals do or that living creatures do can be understood in terms of what atoms can do, that is, in terms of physical laws, ultimately, and the perpetual attention to this possibility–so far no exception has been demonstrated–has again and again made suggestions as to how the mechanisms actually occur. ([Location 1544](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1544))
+    - Tags: [[blue]] 
+- I say, and I think you must all know from experience, that people–I mean the average person, the great majority of people, the enormous majority of people–are woefully, pitifully, absolutely ignorant of the science of the world that they live in, ([Location 1559](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1559))
+    - Tags: [[blue]] 
+- I think we should teach them wonders and that the purpose of knowledge is to appreciate wonders even more. And that the knowledge is just to put into correct framework the wonder that nature is. ([Location 1566](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1566))
+    - Tags: [[blue]] 
+    - Note: Knowledge gives life more depth
+- The question of doubt and uncertainty is what is necessary to begin; for if you already know the answer there is no need to gather any evidence about it. ([Location 1583](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1583))
+    - Tags: [[blue]] 
+- another way and a very important one that should not be neglected and that is very vital is to put together ideas to try to enforce a logical consistency among the various things that you know. It is a very valuable thing to try to connect this, what you know, with that, that you know, and try to find out if they are consistent. And the more activity in the direction of trying to put together the ideas of different directions, the better it is. ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1584))
+    - Tags: [[blue]] 
+    - Note: Network of ideas produces emergent properties
+- we should disregard authority whenever the observations disagree with it. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1591))
+    - Tags: [[blue]] 
+- If we look away from the science and look at the world around us, we find out something rather pitiful: that the environment that we live in is so actively, intensely unscientific. Galileo could say: “I noticed that Jupiter was a ball with moons and not a god in the sky. Tell me, what happened to the astrologers?” Well, they print their results in the newspapers, in the United States at least, in every daily paper every day. ([Location 1615](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1615))
+    - Tags: [[blue]] 
+- A scientist is never certain. We all know that. We know that all our statements are approximate statements with different degrees of certainty; that when a statement is made, the question is not whether it is true or false but rather how likely it is to be true or false. ([Location 1690](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1690))
+    - Tags: [[blue]] 
+- We absolutely must leave room for doubt or there is no progress and there is no learning. There is no learning without having to pose a question. And a question requires doubt. People search for certainty. But there is no certainty. People are terrified–how can you live and not know? It is not odd at all. You only think you know, as a matter of fact. And most of your actions are based on incomplete knowledge and you really don’t know what it is all about, or what the purpose of the world is, or know a great deal of other things. It is possible to live and not know. ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1696))
+    - Tags: [[blue]] 
+- I will not now discuss how we are going to do it, but only what is possible in principle–in other words, what is possible according to the laws of physics. ([Location 1827](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1827))
+    - Tags: [[blue]] 
+    - Note: First principles thinking to determine what is POSSIBLE. If something is possible, go after it and make it actuality
+- it turns out that all of the information that man has carefully accumulated in all the books in the world can be written in this form in a cube of material one two-hundredths of an inch wide–which is the barest piece of dust that can be made out by the human eye. ([Location 1841](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1841))
+    - Tags: [[blue]] 
+- all this information is contained in a very tiny fraction of the cell in the form of long-chain DNA molecules in which approximately 50 atoms are used for one bit of information about the cell. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1847))
+    - Tags: [[blue]] 
+- But in every theorem there are assumptions. Why must the field be symmetrical? ([Location 1879](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1879))
+    - Tags: [[blue]] 
+    - Note: Question assumptions, see if you can arrive at new conclusions and possibilities
+- Everybody who has analyzed the logical theory of computers has come to the conclusion that the possibilities of computers are very interesting–if they could be made to be more complicated by several orders of magnitude. If they had millions of times as many elements, they could make judgments. They would have time to calculate what is the best way to make the calculation that they are about to make. They could select the method of analysis which, from their experience, is better than the one that we would give to them. And in many other ways, they would have new qualitative features. ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1894))
+    - Tags: [[blue]] 
+    - Note: Think about rates of progress and what might be possible after projecting out into the future. Orders of magnitude improvements can unlock entirely new possibilities
+- But there is plenty of room to make them smaller. There is nothing that I can see in the physical laws that says the computer elements cannot be made enormously smaller than they are now. ([Location 1912](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1912))
+    - Tags: [[blue]] 
+- The electrical equipment won’t simply be scaled down; it has to be redesigned. But I can see no reason why it can’t be redesigned to work again. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1940))
+    - Tags: [[blue]] 
+    - Note: Think in the limit and identify roadblocks to get there
+- So I manufacture a quarter-size lathe; I manufacture quarter-size tools; and I make, at the one-quarter scale, still another set of hands again relatively one-quarter size! This is one-sixteenth size, from my point of view. ([Location 1969](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1969))
+    - Tags: [[blue]] 
+    - Note: Compounding gains/changes
+- At each stage, it is necessary to improve the precision of the apparatus. ([Location 1981](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=1981))
+    - Tags: [[blue]] 
+- Feynman’s paper is often credited with starting the field of nanotechnology and there are now regular ‘Feynman Nanotechnology Prize’ competitions. ([Location 2073](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2073))
+    - Tags: [[blue]] 
+    - Note: Projecting trends way into the future to predict new fields and advances. Think long term
+- “To every man is given the key to the gates of heaven; the same key opens the gates of hell.” ([Location 2087](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2087))
+    - Tags: [[blue]] 
+- social problems are very much harder than scientific ones, and that we usually don’t get anywhere when we do think about them. ([Location 2095](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2095))
+    - Tags: [[blue]] 
+- Since the question of the value of science is not a scientific subject, this discussion is dedicated to proving my point–by example. ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2098))
+    - Tags: [[blue]] 
+    - Note: The value of a logical system cannot be proven within the logical system
+- Of course if we make good things, it is not only to the credit of science; it is also to the credit of the moral choice which led us to good work. Scientific knowledge is an enabling power to do either good or bad–but it does not carry instructions on how to use it. ([Location 2100](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2100))
+    - Tags: [[blue]] 
+    - Note: Extra-logical thought directs logical thought. The right hemisphere should control direction of left hemisphere
+- It is true that if we lack clear instructions that determine which is the gate to heaven and which the gate to hell, the key may be a dangerous object to use, but it obviously has value. How can we enter heaven without it? ([Location 2108](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2108))
+    - Tags: [[blue]] 
+- the imagination of nature is far, far greater than the imagination of man. ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2119))
+    - Tags: [[blue]] 
+- With more knowledge comes deeper, more wonderful mystery, luring one on to penetrate deeper still. ([Location 2136](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2136))
+    - Tags: [[blue]] 
+- So what is this mind, what are these atoms with consciousness? Last week’s potatoes! That is what now can remember what was going on in my mind a year ago–a mind which has long ago been replaced. That is what it means when one discovers how long it takes for the atoms of the brain to be replaced by other atoms, to note that the thing which I call my individuality is only a pattern or dance. The atoms come into my brain, dance a dance, then go out; always new atoms but always doing the same dance, remembering what the dance was yesterday. ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2147))
+    - Tags: [[blue]] 
+    - Note: Constant change (Heraclitus, Buddha) is the core of reality. Everything is the ship of theseus
+- It’s too late for them to get the spirit when they are in our universities, so we must attempt to explain these ideas to children. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2156))
+    - Tags: [[blue]] 
+- The scientist has a lot of experience with ignorance and doubt and uncertainty, and this experience is of very great importance, I think. When a scientist doesn’t know the answer to a problem, he is ignorant. When he has a hunch as to what the result is, he is uncertain. And when he is pretty darn sure of what the result is going to be, he is in some doubt. We have found it of paramount importance that in order to progress we must recognize the ignorance and leave room for doubt. Scientific knowledge is a body of statements of varying degrees of certainty–some most unsure, some nearly sure, none absolutely certain. ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2159))
+    - Tags: [[blue]] 
+- Again and again people have thought that we could do much better. They of the past saw in the nightmare of their times a dream for the future. We, of their future, see that their dreams, in certain ways surpassed, have in many ways remained dreams. The hopes for the future today are, in good share, those of yesterday. ([Location 2169](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2169))
+    - Tags: [[blue]] 
+- Bad can be taught at least as efficiently as good. Education is a strong force, but for either good or evil. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2173))
+    - Tags: [[blue]] 
+- What is communicated can be truth or lie. Communication is a strong force also, but for either good or bad. ([Location 2175](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2175))
+    - Tags: [[blue]] 
+- it was clear to socially minded people that the openness of the possibilities was an opportunity, and that doubt and discussion were essential to progress into the unknown. If we want to solve a problem that we have never solved before, we must leave the door to the unknown ajar. ([Location 2202](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2202))
+    - Tags: [[blue]] 
+- In the impetuous youth of humanity, we can make grave errors that can stunt our growth for a long time. This we will do if we say we have the answers now, so young and ignorant; if we suppress all discussion, all criticism, saying, “This is it, boys, man is saved!” and thus doom man for a long time to the chains of authority, confined to the limits of our present imagination. ([Location 2207](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2207))
+    - Tags: [[blue]] 
+    - Note: Must always be evolving and growing on a personal level. Stagnation is death
+- It is our responsibility as scientists, knowing the great progress and great value of a satisfactory philosophy of ignorance, the great progress that is the fruit of freedom of thought, to proclaim the value of this freedom, to teach how doubt is not to be feared but welcomed and discussed, and to demand this freedom as our duty to all coming generations. ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2211))
+    - Tags: [[blue]] 
+- Feynman was gutsier than most men, not afraid to jet all over the country to talk to the men on the ground, the engineers who had recognized the fact that propaganda was taking the lead over care and safety in the shuttle program. ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2221))
+    - Tags: [[blue]] 
+- We have also found that certification criteria used in Flight Readiness Reviews often develop a gradually decreasing strictness. The argument that the same risk was flown before without failure is often accepted as an argument for the safety of accepting it again. Because of this, obvious weaknesses are accepted again and again, sometimes without a sufficiently serious attempt to remedy them, or to delay a flight because of their continued presence. ([Location 2232](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2232))
+    - Tags: [[blue]] 
+- It is true that if the probability of failure was as low as 1 in 100,000 it would take an inordinate number of tests to determine it (for you would get nothing but a string of perfect flights from which no precise figure, other than that the probability is likely less than the number of such flights in the string so far). But, if the real probability is not so small, flights would show troubles, near failures, and possibly actual failure with a reasonable estimate. In fact, previous NASA experience had shown, on occasion, just such difficulties, near accidents, and accidents, all giving warning that the probability of flight failure was not so very small. ([Location 2259](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2259))
+    - Tags: [[blue]] 
+- When playing Russian roulette the fact that the first shot got off safely is little comfort for the next. ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2274))
+    - Tags: [[blue]] 
+- Instead of being very concerned that variations of poorly understood conditions might reasonably create a deeper erosion this time, it was asserted, there was “a safety factor of three.” ([Location 2280](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2280))
+    - Tags: [[blue]] 
+    - Note: Complex systems are hard to predict. Black swan outcomes are possible
+- The O-rings of the Solid Rocket Boosters were not designed to erode. Erosion was a clue that something was wrong. Erosion was not something from which safety can be inferred. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2286))
+    - Tags: [[blue]] 
+- A mathematical model was made to calculate erosion. This was a model based not on physical understanding but on empirical curve fitting. ([Location 2290](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2290))
+    - Tags: [[blue]] 
+- Only two days ago we had a conference in which we decided that we don’t have to teach a course in elementary quantum mechanics in the graduate school anymore. When I was a student, they didn’t even have a course in quantum mechanics in the graduate school it was considered too difficult a subject. ([Location 2496](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2496))
+    - Tags: [[blue]] 
+    - Note: Evolution of human knowledge/understanding. Today’s research topics are tomorrow’s undergraduate classes.
+- He spoke of making observations, but omitted the vital factor of judgment about what to observe and what to pay attention to. ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2505))
+    - Tags: [[blue]] 
+    - Note: Judgment = intuition. Need a value framework and intuitive sense of the landscape to know what is worthwhile
+- I’m going to tell you what science is like by how I learned what science is like. ([Location 2520](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2520))
+    - Tags: [[blue]] 
+    - Note: Teaching by story. Humans remember & understand better using analogies. We’re better at pattern matching than remembering rules
+- I were giving a talk on “what is mathematics?” I would have already answered you. Mathematics is looking for patterns. ([Location 2532](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2532))
+    - Tags: [[blue]] 
+- it is necessary to learn the words. It is not science. That doesn’t mean just because it is not science that we don’t have to teach the words. ([Location 2573](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2573))
+    - Tags: [[blue]] 
+    - Note: Anki memorization of terms is vital
+- I finally figured out a way to test whether you have taught an idea or you have only taught a definition. Test it this way: You say, “Without using the new word which you have just learned, try to rephrase what you have just learned in your own language.” ([Location 2602](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2602))
+    - Tags: [[blue]] 
+    - Note: Reformulation is a potent learning technique
+- “What makes a dog move?” A child should be given a child’s answer. “Open it up; let’s look at it.” ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2626))
+    - Tags: [[blue]] 
+    - Note: Science should be learned by doing, by building up intuitive experience. Definitions and rigorous categorization come later
+- I think it is very important–at least it was to me–that if you are going to teach people to make observations, you should show that something wonderful can come from them. ([Location 2649](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2649))
+    - Tags: [[blue]] 
+- I learned then what science was about. It was patience. ([Location 2651](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2651))
+    - Tags: [[blue]] 
+- I saw the forest as a process of the constant turning of materials. ([Location 2666](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2666))
+    - Tags: [[blue]] 
+- The question is, is it possible to learn more rapidly what somebody learned from some accident than the rate at which the thing is being forgotten, either because of bad memory or because of the death of the learner or inventors? ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2679))
+    - Tags: [[blue]] 
+- So there came a time, perhaps, when for some species the rate at which learning was increased reached such a pitch that suddenly a completely new thing happened; things could be learned by one animal, passed on to another, and another, fast enough that it was not lost to the race. Thus became possible an accumulation of knowledge of the race. ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2681))
+    - Tags: [[blue]] 
+- This phenomenon of having a memory for the race, of having an accumulated knowledge passable from one generation to another, was new in the world. But it had a disease in it. It was possible to pass on mistaken ideas. It was possible to pass on ideas which were not profitable for the race. The race has ideas, but they are not necessarily profitable. ([Location 2686](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2686))
+    - Tags: [[blue]] 
+- Then a way of avoiding the disease was discovered. This is to doubt that what is being passed from the past is in fact true, and to try to find out ab initiio, again from experience, what the situation is, rather than trusting the experience of the past in the form in which it is passed down. And that is what science is: the result of the discovery that it is worthwhile rechecking by new direct experience, and not necessarily trusting the race experience from the past. ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2690))
+    - Tags: [[blue]] 
+- great religions are dissipated by following form without remembering the direct content of the teaching of the great leaders. In the same way it is possible to follow form and call it science but it is pseudoscience. In this way we all suffer from the kind of tyranny we have today in the many institutions that have come under the influence of pseudoscientific advisers. ([Location 2710](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2710))
+    - Tags: [[blue]] 
+- Learn from science that you must doubt the experts. As a matter of fact, I can also define science another way: Science is the belief in the ignorance of experts. ([Location 2718](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2718))
+    - Tags: [[blue]] 
+- In a field which is so complicated that true science is not yet able to get anywhere, we have to rely on a kind of old- fashioned wisdom, a king of definite straightforwardness. ([Location 2724](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2724))
+    - Tags: [[blue]] 
+- I think we live in an unscientific age in which almost all the buffeting of communications and television words, books, and so on are unscientific. That doesn’t mean they are bad, but they are unscientific. As a result, there is a considerable amount of intellectual tyranny in the name of science. ([Location 2728](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2728))
+    - Tags: [[blue]] 
+- It is necessary to teach both to accept and to reject the past with a kind of balance that takes considerable skill. Science alone of all the subjects contains within itself the lesson of the danger of belief in the infallibility of the greatest teachers of the preceding generation. ([Location 2734](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2734))
+    - Tags: [[blue]] 
+- To someone looking at high-energy physics from the outside, its goal seems to be to find the ultimate constituents of matter. It seems a quest we can trace back to the Greeks’ atom, the “indivisible” particle. ([Location 2778](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2778))
+    - Tags: [[blue]] 
+- As long as it looks like the way things are built is wheels within wheels, then you’re looking for the innermost wheel–but it might not be that way, in which case you’re looking for whatever the hell it is that you find! ([Location 2788](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2788))
+    - Tags: [[blue]] 
+    - Note: Expectations based on past observations are reasonable, but they MUST be updated to reflect new discoveries. That is the core of the doubt in the scientific process
+- If it turns out surprising, the scientist is even more delighted. You think he’s going to say, “Oh, it’s not like I expected, there’s no ultimate particle, I don’t want to explore it”? No, he’s going to say, “What the hell is it, then?” ([Location 2795](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2795))
+    - Tags: [[blue]] 
+    - Note: Surprise leads to curiosity and excitement, a hallmark of the scientist
+- Rather doesn’t make any difference: I get what I get. ([Location 2799](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2799))
+    - Tags: [[blue]] 
+    - Note: Acceptance of outcomes. Stoicism
+- Sure, people were awed because he had the courage to take on these great questions, but it doesn’t do any good to have the courage if you can’t get anywhere with the question. ([Location 2826](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2826))
+    - Tags: [[blue]] 
+    - Note: Need to take on interesting questions that you can actually make progress on. Intersection of what is interesting/valuable and what is feasible
+- “You haven’t thought deeply enough, first let me define the world for you.” Well, I’m going to investigate it without defining it! ([Location 2832](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2832))
+    - Tags: [[blue]] 
+    - Note: Investigation without prejudice or assumption. True open mindedness
+- So I went to Bethe with my way of doing it. The funny thing was, I didn’t know how to do the simplest practical problems in this area–I should have learned long before, but I’d been busy playing with my own theory–so I didn’t know how to find out if my ideas worked. We did it together on the blackboard, and it was wrong. Even worse than before. I went home and thought and thought, and decided I had to learn to solve examples. So I did, and I went back to Bethe and we tried it and it worked! ([Location 2857](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2857))
+    - Tags: [[blue]] 
+    - Note: Use concrete examples/anecdotes to sanity check the theory
+- our physical theories do well at uniting various classes of phenomena, and then X-rays or mesons or the like show up; “There are always many threads hanging out in all directions.” ([Location 2876](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2876))
+    - Tags: [[blue]] 
+- Omni: Do you have any guesses on that? Feynman: No. Omni: None at all? No leaning either way? Feynman: No, really. That’s the way I am about almost everything. ([Location 2887](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2887))
+    - Tags: [[blue]] 
+- in order to work hard on something, you have to get yourself believing that the answer’s over there, so you’ll dig hard there, right? So you temporarily prejudice or predispose yourself–but all the time, in the back of your mind, you’re laughing. Forget what you hear about science without prejudice. Here, in an interview, talking about the Big Bang, I have no prejudices–but when I’m working, I have a lot of them. ([Location 2891](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2891))
+    - Tags: [[blue]] 
+- The mathematicians are exploring in all directions, and it’s quicker for a physicist to catch up on what he needs than to try to keep up with everything that might conceivably be useful. ([Location 2914](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2914))
+    - Tags: [[blue]] 
+    - Note: Stay focused on what is relevant to YOU and your career. Learn adjacent areas on the fly when needed
+- Omni: Do physicists vary greatly in their ability to see the qualitative consequences of an equation? Feynman: Oh, yes–but nobody is very good at it. Dirac said that to understand a physical problem means to be able to see the answer without solving equations. Maybe he exaggerated; maybe solving equations is experience you need to gain understanding–but until you do understand, you’re just solving equations. ([Location 2935](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2935))
+    - Tags: [[blue]] 
+    - Note: Intuition for a problem is much more important than technical problem solving
+- everything is interesting to at least one other person. ([Location 2961](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=2961))
+    - Tags: [[blue]] 
+- So I found things that even more people believe, such as that we have some knowledge of how to educate. There are big schools of reading methods and mathematics methods, and so forth, but if you notice, you’ll see the reading scores keep going down–or hardly going up–in spite of the fact that we continually use these same people to improve the methods. There’s a witch doctor remedy that doesn’t work. It ought to be looked into; how do they know that their method should work? ([Location 3012](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3012))
+    - Tags: [[blue]] 
+- I call these things Cargo Cult Science, because they follow all the apparent precepts and forms of scientific investigation, but they’re missing something essential, because the planes don’t land. ([Location 3035](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3035))
+    - Tags: [[blue]] 
+- In summary, the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another. ([Location 3051](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3051))
+    - Tags: [[blue]] 
+- The first principle is that you must not fool yourself–and you are the easiest person to fool. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that. ([Location 3077](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3077))
+    - Tags: [[blue]] 
+- I’m talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you’re maybe wrong, that you ought to do when acting as a scientist. And this is our responsibility as scientists, certainly to other scientists, and I think to laymen. ([Location 3083](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3083))
+    - Tags: [[blue]] 
+- We talked about it awhile, and we discovered something. It turned out that Tukey was counting in a different way: He was visualizing a tape with numbers on it going by. He would say, “Mary had a little lamb,” and he would watch it! Well, now it was clear: He’s “looking” at his tape going by, so he can’t read, and I’m “talking” to myself when I’m counting, so I can’t speak! ([Location 3231](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3231))
+    - Tags: [[blue]] 
+- Is the motion of the wind like the motion of the waves and so forth? Gradually we find that many, many things are similar. It’s not as big a variety as we think. We get all the phenomena and we get the principles underneath, and one of the most useful principles seemed to be the idea that things are made of other things. ([Location 3406](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3406))
+    - Tags: [[blue]] 
+    - Note: Compositionality is fundamental to the universe
+- It’s the pursuit of understanding of some subject or some thing based on the principle that what happens in nature is true and is the judge of the validity of any theory about it. ([Location 3473](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3473))
+    - Tags: [[blue]] 
+- That principle, the separation of the true from the false by experiment or experience, that principle and the resultant body of knowledge which is consistent with that principle, that is science. ([Location 3476](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3476))
+    - Tags: [[blue]] 
+- The old problems, such as the relation of science and religion, are still with us, and I believe present as difficult dilemmas as ever, but they are not often publicly discussed because of the limitations of specialization. ([Location 3536](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3536))
+    - Tags: [[blue]] 
+    - Note: Generalization allows you to attack large problems
+- it is absolutely necessary, for progress in science, to have uncertainty as a fundamental part of your inner nature. To make progress in understanding, we must remain modest and allow that we do not know. Nothing is certain or proved beyond all doubt. You investigate for curiosity, because it is unknown, not because you know the answer. And as you develop more information in the sciences, it is not that you are finding out the truth, but that you are finding out that this or that is more or less likely. ([Location 3566](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3566))
+    - Tags: [[blue]] 
+- the statements of science are not of what is true and what is not true, but statements of what is known to different degrees of certainty: ([Location 3571](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3571))
+    - Tags: [[blue]] 
+- Every one of the concepts of science is on a scale graduated somewhere between, but at neither end of, absolute falsity or absolute truth. ([Location 3573](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3573))
+    - Tags: [[blue]] 
+- it is of great value to acknowledge ignorance. It is a fact that when we make decisions in our life, we don’t necessarily know that we are making them correctly; we only think that we are doing the best we can–and that is what we should do. ([Location 3575](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3575))
+    - Tags: [[blue]] 
+- There seems to be a kind of independence in these ideas. In the end, it is possible to doubt the divinity of Christ, and yet to believe firmly that it is a good thing to do unto your neighbor as you would have him do unto you. It is possible to have both these views at the same time; and I would say that I hope you will find that my atheistic scientific colleagues often carry themselves well in society. ([Location 3617](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3617))
+    - Tags: [[blue]] 
+- The scientific viewpoint is the exact opposite of this; that is, all questions must be doubted and discussed; we must argue everything out–observe things, check them, and so change them. ([Location 3624](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3624))
+    - Tags: [[blue]] 
+- even with moral values granted, human beings are very weak; they must be reminded of the moral values in order that they may be able to follow their consciences. It is not simply a matter of having a right conscience; it is also a question of maintaining strength to do what you know is right. And it is necessary that religion give strength and comfort and the inspiration to follow these moral views. This is the inspirational aspect of religion. It gives inspiration not only for moral conduct–it gives inspiration for the arts and for all kinds of great thoughts and actions as well. ([Location 3634](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3634))
+    - Tags: [[blue]] 
+- The difficulty is this: that science occasionally conflicts with the first of the three categories–the metaphysical aspect of religion. ([Location 3644](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3644))
+    - Tags: [[blue]] 
+- moral questions are outside of the scientific realm. ([Location 3664](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3664))
+    - Tags: [[blue]] 
+- Western civilization, it seems to me, stands by two great heritages. One is the scientific spirit of adventure–the adventure into the unknown, an unknown which must be recognized as being unknown in order to be explored; the demand that the unanswerable mysteries of the universe remain unanswered; the attitude that all is uncertain; to summarize it–the humility of the intellect. The other great heritage is Christian ethics–the basis of action on love, the brotherhood of all men, the value of the individual–the humility of the spirit. ([Location 3694](https://readwise.io/to_kindle?action=open&asin=B005QBLHB4&location=3694))
+    - Tags: [[blue]] 
+    - Note: How to integrate logical/rational/scientific thought with superrational/intuitive/“religious” thought?

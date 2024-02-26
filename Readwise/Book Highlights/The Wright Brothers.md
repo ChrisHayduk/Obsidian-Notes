@@ -1,0 +1,353 @@
+# The Wright Brothers
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51XPr-vJaLL._SL200_.jpg)
+
+## Metadata
+- Author: [[David McCullough]]
+- Full Title: The Wright Brothers
+- Category: #books
+
+## Highlights
+- the brothers had tremendous energy, and working hard every day but Sunday was a way of life, and if not on the job then at home on “improvements.” ([Location 65](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=65))
+    - Tags: [[blue]] 
+- They could be highly demanding and critical of each other, disagree to the point of shouting “something terrible.” ([Location 70](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=70))
+    - Tags: [[blue]] 
+    - Note: Friction to produce innovation. Trial ideas by fire
+- Wilbur was more serious by nature, more studious and reflective. His memory of what he had seen and heard, and so much that he read, was astonishing. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=76))
+    - Tags: [[blue]] 
+- Wilbur also, it was agreed, had “unusual presence,” and remained imperturbable under almost any circumstance, “never rattled,” his father was proud to say. He was an exceptional public speaker and lucid writer, which seemed out of context for someone so often silent, and though reluctant to speak in public, when he did his remarks were invariably articulate, to the point, and quite often memorable. In his professional correspondence, the innumerable proposals and reports he wrote, and in private correspondence no less, his vocabulary and use of language were of the highest order, due in large measure to standards long insisted upon by his father. It had proven an ability of utmost importance to his and his brother’s unprecedented accomplishments. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=80))
+    - Tags: [[blue]] 
+    - Note: Public speaking and strong writing skills are vital
+- That Wilbur, in the early stages of their enterprise, wrote nearly all letters concerning their interests in the first person, as if he were operating entirely on his own, seems not to have bothered Orville in the least. ([Location 88](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=88))
+    - Tags: [[blue]] 
+    - Note: The voice of the operation gets an outsized share of the credit
+- What the two had in common above all was unity of purpose and unyielding determination. They had set themselves on a “mission.” ([Location 101](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=101))
+    - Tags: [[blue]] 
+    - Note: Use mission and purpose to motivate your work
+- He was an unyielding abstainer, which was rare on the frontier, a man of rectitude and purpose—all of which could have served as a description of Milton himself and Wilbur and Orville as well. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=134))
+    - Tags: [[blue]] 
+    - Note: Discipline is the root of success
+- From wide reading and observations of life, he had acquired what seemed an inexhaustible supply of advice on behavior, habits good and bad, things to beware of in life, goals to strive for. ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=180))
+    - Tags: [[blue]] 
+- All the money anyone needs is just enough to prevent one from being a burden on others. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=185))
+    - Tags: [[blue]] 
+- Wilbur remained a recluse, more or less homebound, for fully three years—three years when he began reading as never before. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=214))
+    - Tags: [[blue]] 
+    - Note: Reading is THE meta skill
+- The Wright family book collection, however, was neither modest nor commonplace. Bishop Wright, a lifelong lover of books, heartily championed the limitless value of reading. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=234))
+    - Tags: [[blue]] 
+- Between formal education at school and informal education at home, it would seem he put more value on the latter. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=236))
+    - Tags: [[blue]] 
+    - Note: Self-directed learning more important than classroom learning
+- Wilbur—and particularly during his homebound lacuna—read just about everything, but had a particular love of history. ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=245))
+    - Tags: [[blue]] 
+    - Note: Wide reading interests leads to varied talent
+- Years later, a friend told Orville that he and his brother would always stand as an example of how far Americans with no special advantages could advance in the world. “But it isn’t true,” Orville responded emphatically, “to say we had no special advantages . . . the greatest thing in our favor was growing up in a family where there was always much encouragement to intellectual curiosity.” ([Location 257](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=257))
+    - Tags: [[blue]] 
+    - Note: Fostering intellectual curiosity changes everything
+- Do not wait for the boy to grow up before you begin to treat him as an equal. A proper amount of confidence, and words of encouragement and advice . . . give him to understand that you trust him in many ways, helps to make a man of him long before he is a man in either stature or years. . . . ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=277))
+    - Tags: [[blue]] 
+- In 1895, their third year in business, they moved to a corner building at 22 South Williams Street, with a showroom on the street level and space for a machine shop upstairs. There, on the second floor, the brothers began making their own model bicycles, available to order. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=362))
+    - Tags: [[blue]] 
+    - Note: Move from selling repackaged solutions to creating something from the ground up. Also vertical integration of manufacturing and selling
+- “What we are seeking is the means of free motion in the air, in any direction.” And only by flying oneself could one achieve “proper insight” into all that was involved. To do this, one had to be on “intimate” terms with the wind. ([Location 401](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=401))
+    - Tags: [[blue]] 
+    - Note: Intimate, first hand knowledge is unbeatable. Subconscious and intuitive experience beats rational knowledge
+- News of Lilienthal’s death, Wilbur later wrote, aroused in him as nothing had an interest that had remained passive from childhood. His reading on the flight of birds became intense. ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=419))
+    - Tags: [[blue]] 
+    - Note: Interest leads to reading leads to innovation
+- Marey’s serious, largely technical study led Wilbur to read more of the kind, including such treatises as J. Bell Pettigrew’s Animal Locomotion; or Walking, Swimming, and Flying, with a Dissertation on Aeronautics. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=428))
+    - Tags: [[blue]] 
+    - Note: Diving deep into the literature of a specific area puts you in the top 0.01% of understanding. It only takes a few books in a narrow area to have way more knowledge than almost anyone
+- Wilbur was to draw upon and quote Pettigrew for years. Like the inspiring lectures of a great professor, the book had opened his eyes and started him thinking in ways he never had. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=437))
+    - Tags: [[blue]] 
+    - Note: Creativity is built on the back of previous knowledge. You can only do something truly new and innovative if you know what came before
+- Orville proceeded with the same reading list. They “read up on aeronautics as a physician would read his books,” Bishop Wright would attest proudly. ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=439))
+    - Tags: [[blue]] 
+    - Note: Disciplined reading is the root of their success
+- I am about to begin a systematic study of the subject in preparation for practical work to which I expect to devote what time I can spare from my regular business. I wish to obtain such papers as the Smithsonian Institution has published on this subject, and if possible a list of other works in print in the English language. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=468))
+    - Tags: [[blue]] 
+    - Note: When books have been exhausted, dive deep into research papers. This will bring you to the edge of human knowledge
+- In no way did any of this discourage or deter Wilbur and Orville Wright, any more than the fact that they had had no college education, no formal technical training, no experience working with anyone other than themselves, no friends in high places, no financial backers, no government subsidies, and little money of their own. Or the entirely real possibility that at some point, like Otto Lilienthal, they could be killed. ([Location 509](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=509))
+    - Tags: [[blue]] 
+- according to the U.S. Patent Office, Dayton ranked first in the country relative to population in the creation of new patents. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=520))
+    - Tags: [[blue]] 
+    - Note: Live in an innovation center so that you’re exposed to innovation
+- Among the material the Smithsonian provided him was an English translation of a book titled L’Empire de l’Air, published in Paris in 1881. It had been written by a French farmer, poet, and student of flight, Louis Pierre Mouillard. Nothing Wilbur had yet read so affected him. He would long consider it “one of the most remarkable pieces of aeronautical literature” ever published. ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=527))
+    - Tags: [[blue]] 
+    - Note: It only takes one book to change everything
+- They would design and build their own experimental glider-kite, drawing on much they had read, much they had observed about birds in flight, and, importantly, from considerable time thinking. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=551))
+    - Tags: [[blue]] 
+    - Note: Reading, observation, thinking, and experimentation. Steps to success
+- The chief need was skill rather than machinery. It was impossible to fly without both knowledge and skill—of this Wilbur was already certain—and skill came only from experience—experience in the air. He calculated that in the five years Lilienthal had devoted to gliders and gliding, he spent a total of only five hours in actual flight. It was hardly enough and not how he and Orville would proceed. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=564))
+    - Tags: [[blue]] 
+    - Note: Combine book knowledge with real world experience. You need both, but experience trumps all
+- With “wing warping,” or “wing twisting,” as it was sometimes referred to, Wilbur had already made an immensely important and altogether original advance toward their goal. ([Location 572](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=572))
+    - Tags: [[blue]] 
+- In another letter to the Bishop, he tried to describe what the glider amounted to, stressing that it was to have no motor but depend on the wind only, that the central objective was to solve the problem of balance, and that he knew exactly what he was about, both in building the glider and what he expected to achieve with the tests to come. All this was remarkably clear and concise, and, as time would show, a stunning example of extraordinary prescience. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=692))
+    - Tags: [[blue]] 
+    - Note: Vision and reading led by that vision brings foresight
+- When once a machine is under proper control under all conditions, the motor problem will be quickly solved. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=698))
+    - Tags: [[blue]] 
+    - Note: Identify the key obstacles and solve them. Everything else will fall into place
+- “The man who wishes to keep at the problem long enough to really learn anything positively must not take dangerous risks. Carelessness and overconfidence are usually more dangerous than deliberately accepted risks.” ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=702))
+    - Tags: [[blue]] 
+- New to such experimental work as they were, the brothers had yet to realize the need for keeping records of all they did. ([Location 721](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=721))
+    - Tags: [[blue]] 
+    - Note: Must record observations in order to adequately learn from them. Applies to business too
+- Their self-reliance was put to the test. They lived mainly on local eggs, tomatoes, and hot biscuits, though these had to be made without milk, so “pitiable” were the local cows. The only things that thrived on the Outer Banks, Orville decided, were bedbugs, mosquitoes, and wood ticks. Wilbur longed especially for butter and coffee, corn bread and bacon. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=749))
+    - Tags: [[blue]] 
+    - Note: Frugality as a tenant of entrepreneurship
+- Far from home, on their own in a way they had never been, the brothers seemed to sense as they never had the adventure of life. Orville would later say that even with all the adversities they had to face, it was the happiest time they had ever known. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=756))
+    - Tags: [[blue]] 
+    - Note: Solvable adversity and progress towards solving a compelling problem are the roots of fulfillment
+- “Learning the secret of flight from a bird,” Orville would say, “was a good deal like learning the secret of magic from a magician.” ([Location 786](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=786))
+    - Tags: [[blue]] 
+- Others as well had come to see them as more than mere eccentrics. Life on the Outer Banks was harsh. Making ends meet was a constant struggle. Hard workers were greatly admired and in the words of John T. Daniels, the Wrights were “two of the workingest boys” ever seen, “and when they worked, they worked. . . . They had their whole heart and soul in what they were doing.” ([Location 807](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=807))
+    - Tags: [[blue]] 
+    - Note: Determination and resilience are key for entrepreneurs
+- It was October 19, and after nearly four years of concentrated study and effort by the brothers, it proved a day of days. ([Location 819](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=819))
+    - Tags: [[blue]] 
+    - Note: FOUR YEARS from starting research/reading to creating flight. Focus intently and passionately on a specific problem, and nothing is impossible. Does drug discovery seem so hard if two brothers can solve the problem of flight without any formal education, only learning from esoteric books?
+- Such was the torture of the night that followed, Orville vowed that come morning they would head for home. By morning, however, their characteristic resolve returned. The demon mosquitoes had diminished appreciably and in the days to come grew fewer still. But the torment they had been through would never be forgotten. ([Location 889](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=889))
+    - Tags: [[blue]] 
+    - Note: Determination through any and all adversity
+- As tiresome as anything for the sons of Bishop Wright was to hear Huffaker go on about “character building,” rather than hard work, being the great aim in life. The more they learned about the glider he had designed and planned to test but never did, the more they considered it a joke. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=904))
+    - Tags: [[blue]] 
+    - Note: You need to actually build. Just talking is pitiful
+- To all present but Wilbur and Orville this flight seemed a huge success. To the brothers it was disappointing. The machine had not performed as expected, not, in fact, as well as the one of the year before. Wilbur had had to use the full power of the rudder (today referred to as the elevator) to keep from plowing into the ground or rising so high as to lose headway. Something was “radically wrong.” ([Location 913](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=913))
+    - Tags: [[blue]] 
+    - Note: Success is not linear. There will be setbacks. The important thing is to learn and move closer towards the goal
+- For all the time and study he had devoted to the science of gliding, he himself had never physically ventured into the air. ([Location 936](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=936))
+    - Tags: [[blue]] 
+    - Note: The doers outcompete the theorizers
+- it is clear from a few of their later comments that they were as down in spirit about their work as they had ever been, and especially Wilbur. It was not just that their machine had performed so poorly, or that so much still remained to be solved, but that so many of the long-established, supposedly reliable calculations and tables prepared by the likes of Lilienthal, Langley, and Chanute—data the brothers had taken as gospel—had proven to be wrong and could no longer be trusted. Clearly those esteemed authorities had been guessing, “groping in the dark.” The accepted tables were, in a word, “worthless.” ([Location 947](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=947))
+    - Tags: [[blue]] 
+    - Note: Accepted wisdom might turn out to be false when facing the real world through experiment. Lots of things can look good in theory
+- Wilbur’s gloom on the train was only momentary. As Orville said, “He was at work the following day and it seemed to me was more hopeful and determined than ever.” ([Location 959](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=959))
+    - Tags: [[blue]] 
+    - Note: Use disappointment to further your resolve
+- The “boys” were working every night on their “scientific” investigations, Katharine reported to their father. “We don’t hear anything but flying machine . . . from morning till night.” ([Location 962](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=962))
+    - Tags: [[blue]] 
+- If one were looking for perfect safety, he said, one would do well to sit on the fence and watch the birds. “But if you really wish to learn, you must mount a machine and become acquainted with its tricks by actual trial.” ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1001))
+    - Tags: [[blue]] 
+    - Note: Experience trumps everything
+- Noting that Lilienthal, over a period of five years, had spent no more than five hours in actual gliding, he said the wonder was not that he had done so little, but that he had accomplished so much. What if a bicycle rider tried to ride through a crowded city after only five hours’ practice, spread out in bits of ten seconds over a period of five years? ([Location 1004](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1004))
+    - Tags: [[blue]] 
+    - Note: Hours of deliberate practice (actual applied practice to a specific piece of the goal) is what matters
+- Meanwhile, an article in the September issue of the popular McClure’s Magazine written by Simon Newcomb, a distinguished astronomer and professor at Johns Hopkins University, dismissed the dream of flight as no more than a myth. And were such a machine devised, he asked, what useful purpose could it possibly serve? “The first successful flyer will be the handiwork of a watchmaker, and will carry nothing heavier than an insect.” ([Location 1018](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1018))
+    - Tags: [[blue]] 
+    - Note: Experts sometimes can’t see the innovation happening around them. Entrenched views and interests can be hard to upend
+- With their former trust in the calculations of Lilienthal and Chanute shattered, the brothers set out that autumn of 1901 to crack the code of aeronautics themselves. It was a brave decision and a crucial turning point. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1022))
+    - Tags: [[blue]] 
+    - Note: Overturn old wisdom, trust your inventiveness
+- For nearly two months the brothers tested some thirty-eight wing surfaces, setting the “balances” or “airfoils”—the ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1033))
+    - Tags: [[blue]] 
+    - Note: The wind tunnel enables rapid testing
+- Octave Chanute was astonished by what Wilbur had to report. “It is perfectly marvelous to me how quickly you get results with your testing machine,” he wrote. “You are evidently better equipped to test the endless variety of curved surfaces than anybody has ever been.” ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1036))
+    - Tags: [[blue]] 
+    - Note: The wind tunnel allowed for super rapid production-like testing. Look for ways to test ideas faster than others
+- they had to keep the business going to pay for the experiments. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1048))
+    - Tags: [[blue]] 
+    - Note: Bankroll startup ideas with job money
+- Wilbur tactfully declined. Besides, he added, it seemed likely Carnegie was “too hardheaded a Scotchman to become interested in such a visionary pursuit as flying.” ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1053))
+    - Tags: [[blue]] 
+    - Note: Only allow investors in that see the vision
+- “Some say the boys just go camping and they make their own tents,” said one neighbor. “Others say they are trying to fly. I don’t believe they’re that foolish.” ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1109))
+    - Tags: [[blue]] 
+    - Note: People will doubt revolutionary goals and ideas
+- Wilbur, as George Spratt once told Octave Chanute, was “always ready to oppose an idea expressed by anybody,” ready to “jump into an argument with both sleeves rolled up.” And as Wilbur himself would explain to Spratt, he believed in “a good scrap.” It brought out “new ways of looking at things,” helped “round off the corners.” ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1183))
+    - Tags: [[blue]] 
+- Altogether in two months on the Outer Banks they had made nearly a thousand glides and resolved the last major control problem. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1214))
+    - Tags: [[blue]] 
+    - Note: Massive testing and iteration
+- They knew exactly the importance of what they had accomplished. They knew they had solved the problem of flight and more. They had acquired the knowledge and the skill to fly. They could soar, they could float, they could dive and rise, circle and glide and land, all with assurance. Now they had only to build a motor. ([Location 1219](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1219))
+    - Tags: [[blue]] 
+- To Americans throughout most of the country, the future was full of promise. A New Year’s Day editorial in the Chicago Tribune said one would have to be of “dull comprehension” not to realize things were better than they had ever been and would be “better still when new science and new methods, and new educations have done their perfect work.” ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1231))
+    - Tags: [[blue]] 
+    - Note: Scientific and economic progress leads to optimism and hope for the future
+- the Wright brothers sent out letters to manufacturers of automobile engines in seven states asking if they could supply an off-the-shelf engine light enough in weight but with sufficient power for their purposes. There was only one response, and in that case the motor was much too heavy. So again they had some original work to do and they had had no experience building engines. ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1242))
+    - Tags: [[blue]] 
+    - Note: Ingenuity in the face of every obstacle. Invent what doesn’t exist
+- “A thousand glides is equivalent to about four hours of steady practice,” he told the audience, and this was “far too little to give anyone a complete mastery of the art of flying. ([Location 1329](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1329))
+    - Tags: [[blue]] 
+- Nowhere in the talk had he said a word about the gasoline engine sitting in the back room of the bicycle shop at Dayton; or of his and Orville’s intense, often maddening work on propellers; or of what they would be up to at Kitty Hawk in only a matter of months. When the subject of motors came into discussion, he simply kept to the past tense. “As none of our experiments has been with power machines, my judgment . . . may be of little value.” ([Location 1344](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1344))
+    - Tags: [[blue]] 
+    - Note: Keeping works secret while they’re in development
+- Have machine now within half day of completion. But when the next day they started up the motor, the magneto—a small generator utilizing magnets—failed to deliver a spark to ignite the gas and the vibrations of the misfiring engine tore loose and badly twisted the propeller shafts. With little chance of more flight tests anytime soon, George Spratt chose to go home, taking with him the damaged shafts as far as Norfolk to be shipped back to Charlie Taylor in Dayton. ([Location 1431](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1431))
+    - Tags: [[blue]] 
+    - Note: On the cusp of victory, disaster strikes. Don’t let it stop you though
+- By all evidence the brothers had suffered in spirit not in the least. “After a loaf of 15 days, we are down to work again,” ([Location 1447](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1447))
+    - Tags: [[blue]] 
+- New propeller shafts made of larger, heavier steel tubing arrived from Charlie, only to crack during an indoor test. With no delay, Orville, the better mechanic of the two, packed his bag and on November 30 left for Dayton to see what could be done, with Wilbur remaining behind “to keep house alone,” in his words. ([Location 1450](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1450))
+    - Tags: [[blue]] 
+    - Note: Again disaster, but they keep chugging along
+- Neither brother was ever to make critical or belittling comments about Langley. Rather, they expressed respect and gratitude for the part he had played in their efforts. Just knowing that the head of the Smithsonian, the most prominent scientific institution in America, believed in the possibility of human flight was one of the influences that led them to proceed with their work, Wilbur told Octave Chanute in a letter written some years later. ([Location 1482](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1482))
+    - Tags: [[blue]] 
+- He possessed mental and moral qualities of the kind that influence history. When scientists in general considered it discreditable to work in the field of aeronautics he possessed both the discernment to discover possibilities there and the moral courage to subject himself to the ridicule of the public and the apologies of his friends. He deserves more credit for this than he has yet received. ([Location 1487](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1487))
+    - Tags: [[blue]] 
+- The brothers were elated. Motor, launching device, everything had proven reliable. Damage was minor. Wilbur’s error in judgment, from lack of experience with this kind of apparatus, had been the only cause of trouble, ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1507))
+    - Tags: [[blue]] 
+    - Note: Identify root cause of failure. Even if the test fails, it can be a success if what you were working on had been fixed
+- It had taken four years. They had endured violent storms, accidents, one disappointment after another, public indifference or ridicule, and clouds of demon mosquitoes. To get to and from their remote sand dune testing ground they had made five round-trips from Dayton (counting Orville’s return home to see about stronger propeller shafts), a total of seven thousand miles by train, all to fly little more than half a mile. No matter. They had done it. ([Location 1557](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1557))
+    - Tags: [[blue]] 
+    - Note: Four years of iteration, three years of reading and background work. Seven years from nothing TO SOLVING FLIGHT
+- Their flights that morning were the first ever in which a piloted machine took off under its own power into the air in full flight, sailed forward with no loss of speed, and landed at a point as high as that from which it started. ([Location 1585](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1585))
+    - Tags: [[blue]] 
+- the Langley project had cost nearly $70,000, the greater part of it public money, whereas the brothers’ total expenses for everything from 1900 to 1903, including materials and travel to and from Kitty Hawk, came to a little less than $1,000, a sum paid entirely from the modest profits of their bicycle business. ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1589))
+    - Tags: [[blue]] 
+    - Note: Operate lean to succeed. Constraints breed innovation
+- It wasn’t luck that made them fly; it was hard work and common sense; they put their whole heart and soul and all their energy into an idea and they had the faith. ([Location 1595](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1595))
+    - Tags: [[blue]] 
+- the brothers were “absolutely sure” in their own minds that they had mastered the problem of mechanical flying. But they also understood as no one else could have how much they had still to do, how many improvements were needed, how much more they themselves needed to learn about flying so different a machine, and that this would come only with a great deal more experience. ([Location 1597](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1597))
+    - Tags: [[blue]] 
+    - Note: Solving the problem is just the beginning. Need to continue iterating until a it’s perfect
+- Tunison read the telegram and showed no interest. “Fifty-seven seconds, hey?” he said. “If it had been fifty-seven minutes, then it might have been a news item.” ([Location 1609](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1609))
+    - Tags: [[blue]] 
+    - Note: People don’t realize trends and revolutions in the early stages. It takes time to become obvious for the majority
+- As for the reaction in Dayton, probably not one person in a hundred believed the brothers had actually flown in their machine, or if they had, it could only have been a fluke. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1630))
+    - Tags: [[blue]] 
+    - Note: The public doesn’t believe mega trends at first
+- They were always thinking of the next thing to do; they didn’t waste much time worrying about the past. ([Location 1635](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1635))
+    - Tags: [[blue]] 
+    - Note: Failures and successes are temporary. Don’t get caught up in the singular events, stay focused on the journey. That’s where meaning is made
+- To help cut expenses for continuing work on their flying machine, it was decided that further expeditions to Kitty Hawk, with all the attendant costs of travel and shipment of tools and material, could be dispensed with by finding a suitable stretch of open land close to home to serve as a practice field. ([Location 1644](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1644))
+    - Tags: [[blue]] 
+    - Note: Ability to test more rapidly and cheaply always helps odds of success
+- Here they would have to learn to do far more than what they had at Kitty Hawk. They must master the art of launching themselves safely into the air, of banking and turning a motor-propelled machine, and landing safely. Therefore, Wilbur stressed, they would have to learn to accommodate themselves to circumstances. ([Location 1656](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1656))
+    - Tags: [[blue]] 
+    - Note: The key is learning through experience. Especially how to handle black swan events
+- “History was being made in their bicycle shop and in their home, but the making was so obscured by the commonplace that I did not recognize it until many years later.” ([Location 1667](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1667))
+    - Tags: [[blue]] 
+    - Note: History only becomes obvious in retrospect. In real time, it’s cloaked by the mundane of everyday life. Just because you have everyday concerns and responsibilities doesn’t mean YOU can’t make history
+- The press would be welcome, too, but on the condition that no photographs be taken. Their concern centered on the chance of photographs being used to study those devices and control mechanisms of their own invention, which set their machine apart from others. ([Location 1672](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1672))
+    - Tags: [[blue]] 
+    - Note: Hide secrets that give a competitive advantage for as long as possible
+- With Orville at the controls, Flyer II rose a mere 8 feet and came down at once, within seconds after leaving the starting track. Something had gone wrong with the motor. It was hardly a premiere to stir excitement or silence the doubters. ([Location 1678](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1678))
+    - Tags: [[blue]] 
+    - Note: Progress isn’t linear. Setbacks happen when trying to innovate
+- Their patient perseverance, their calm faith in ultimate success, their mutual consideration of each other, might have been considered phenomenal in any but men who were well born and well reared. ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1691))
+    - Tags: [[blue]] 
+- Clearly at Huffman Prairie they would have to make up for what had been so plentiful at Kitty Hawk, to devise, in Wilbur’s words, some way to “render us independent of wind.” The solution would have to be both simple and inexpensive, and so once again straightforward improvisation solved the problem. ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1707))
+    - Tags: [[blue]] 
+    - Note: Testing an idea under varying conditions shows where it’s fragile. The system needs to be robust to variations in the environment
+- Little more than a week later, on September 15, he not only flew fully half a mile but for the first time succeeded in turning a half circle, a major achievement. Not one reporter bothered to attend during this time. Nor did public interest increase. ([Location 1718](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1718))
+    - Tags: [[blue]] 
+    - Note: Early failures when innovating might turn the public against it. And then they won’t notice when everything changes
+- before describing what he saw happen, he made a point of stressing that the Wrights were not just the sort who love machinery, but were “interested in the modern developments of science and art.” He had been “astonished” by the extent of their library and to find in conversation that “they were thoroughly versed not only in regard to our present knowledge, but everything that had been done in the past.” ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1770))
+    - Tags: [[blue]] 
+- “If they will not take our word and the word of many witnesses,” wrote Wilbur, “. . . we do not think they will be convinced until they see a flight with their own eyes.” ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1813))
+    - Tags: [[blue]] 
+    - Note: For massive innovations or changes, people need to see to believe
+- Talk of ideas continued without cease among themselves and with Charlie Taylor while at work in the shop, or standing beside the Flyer between tests at Huffman Prairie, or at work inside the shed, or while riding the trolley. ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1846))
+    - Tags: [[blue]] 
+- “The best dividends on the labor invested,” they said, “have invariably come from seeking more knowledge rather than more power.” ([Location 1864](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1864))
+    - Tags: [[blue]] 
+- It was at Huffman Prairie that summer and fall of 1905 that the brothers, by experiment and change, truly learned to fly. ([Location 1873](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1873))
+    - Tags: [[blue]] 
+    - Note: 9 years from inception of idea to true revolution
+- this one flight was by far the longest yet, longer than all the 160 flights of the three previous years combined. ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1898))
+    - Tags: [[blue]] 
+    - Note: Compounding gains lead to rapidly improving results
+- Wilbur had just turned forty that April and was to be on his own far from home, separated from his family, for longer than he had ever been or ever imagined, and tested in ways he had never been. ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=1993))
+    - Tags: [[blue]] 
+    - Note: Wilbur starts the journey at 31 and begins selling the invention at 40. At 25, you have YEARS to build up experience and build something valuable
+- Such keen interest as he had in art was not only remarkable in someone so committed to technical innovation, but a measure of a truly exceptional capacity of mind. ([Location 2090](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2090))
+    - Tags: [[blue]] 
+    - Note: Broad knowledge and interests is a mark of genius
+- Alert, patient, closely attentive, Wilbur “never rattled,” as his father would say, never lost his confidence. He could be firm without being dictatorial, disagree without causing offense. Nor was there ever a doubt that when he spoke he knew what he was talking about. ([Location 2119](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2119))
+    - Tags: [[blue]] 
+- They took up the matter of patents, Wilbur making it clear from the start that Flint & Company was in no way entering into a partnership with them. “We are, and intend to be, the sole owners of the patents,” he said, according to his own notes on the conversation. They talked of expenses, and of stock in the enterprise. “The point is this,” Wilbur told Berg. “We do not intend you to own twenty percent of any stock. We intend to own the stock. You are the selling agents.” And so it went back and forth, Berg making his case, Wilbur and Orville holding firm. ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2204))
+    - Tags: [[blue]] 
+    - Note: Using patents as moats to defend competitive advantage
+- On the way to Berlin, seeing a sign from the train window of the small town of Jemappes in Belgium, Wilbur began talking about the historic battle fought there in 1792, and, to Berg’s amazement, went on at length about the importance of the victory won by the army of the infant French Republic over the regular Austrian army. It was for Berg yet another example of the extraordinary reach of Wilbur’s mind. ([Location 2224](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2224))
+    - Tags: [[blue]] 
+    - Note: “The extraordinary reach of Wilbur’s mind”. Read widely and read everything. You need to develop all of your knowledge and skills
+- “Here on this lonely beach was being performed the greatest act of the ages, but there were no spectators and no applause save the booming of the surf and the startled cries of the sea birds.” ([Location 2348](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2348))
+    - Tags: [[blue]] 
+    - Note: Early revolutions aren’t noticed. The populace doesn’t know until it’s obvious
+- “[We were] all seasoned campaigners in the field of unexpected events,” wrote the Paris Herald correspondent, Byron Newton, “but for all that, this spectacle of men flying was so startling, so bewildering to the senses in that year 1908, that we all stood like so many marble men.” ([Location 2357](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2357))
+    - Tags: [[blue]] 
+- it was Wilbur himself, about whom Peyrey had had his doubts, who became the subject of greatest fascination. ([Location 2408](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2408))
+    - Tags: [[blue]] 
+- Eager to get started on the reassembly of the Flyer, he began opening the crates at the Bollée factory first thing the following day and could hardly believe what he saw. At Kitty Hawk two months before, he had found the old camp a shambles. Now he was looking at the Flyer in shambles and could barely control his fury. ([Location 2415](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2415))
+    - Tags: [[blue]] 
+    - Note: Another massive roadblock to overcome
+- early in the day he starts to work, whistling the while. ([Location 2508](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2508))
+    - Tags: [[blue]] 
+    - Note: Enjoying the work to a great extent
+- Wilbur, who had been up early as usual, showed no sign of nervous tension or excitement. Such “quiet self-confidence” was reassuring, ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2529))
+    - Tags: [[blue]] 
+    - Note: Everything starts with belief in yourself
+- The crowd was ecstatic, cheering, shouting, hardly able to believe what they had seen. As said in the Paris Herald, it was “not the extent but the nature of the flight which was so startling.” There were shouts of “C’est l’homme qui a conquis l’air!” ([Location 2557](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2557))
+    - Tags: [[blue]] 
+- Delagrange openly declared in the article he wrote for L’Illustration, “Wilbur Wright is the best example of strength of character that I have ever seen. ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2626))
+    - Tags: [[blue]] 
+- He went his way always in his own way, never showing off, never ever playing to the crowd. “The impatience of a hundred thousand persons would not accelerate the rhythm of his stride.” ([Location 2632](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2632))
+    - Tags: [[blue]] 
+- Peyrey, unlike others, had discovered how exceptionally cultured Wilbur was, how, “in rare moments of relaxation,” he talked with authority of literature, art, history, music, science, architecture, or painting. To Peyrey, the devotion of this preacher’s son to his calling was very like that of a gifted man dedicating his life to a religious mission. ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2634))
+    - Tags: [[blue]] 
+- All were extremely proud of the brothers, declared the paper, and not because that was the fashion of the moment, but because of “their grit, because of their persistence, because of their loyalty to conviction, because of their indefatigable industry, because of their hopefulness and above all, because of their sterling American quality of compelling success.” ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2652))
+    - Tags: [[blue]] 
+- “Good for you, my boy!,” then asked him how it felt to be making history. “Pretty good,” Orville said, “but I’m more interested in making speed.” ([Location 2773](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2773))
+    - Tags: [[blue]] 
+    - Note: Obsession over the goal vs fame or money
+- The Bishop liked to preach the futility of craving fame. “Enjoy fame ere its decadence, for I have realized the emptiness of its trumpet blasts,” he had written to Wilbur, and quoted favorite lines from the Irish poet Thomas Moore: And false the light on glory’s plume As fading lines of even. ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2803))
+    - Tags: [[blue]] 
+- Then, in the way of a fatherly sermon, he added, “We learn much by tribulation, and by adversity our hearts are made better.” ([Location 2886](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2886))
+    - Tags: [[blue]] 
+    - Note: The obstacles teach us about ourselves and the world more than the successes
+- Wilbur looked up, his eyes full of tears, and said if anything could make him abandon further work in solving the problem of flight, it would be an accident like this. Then, springing to his feet, he declared, “No, we have solved this problem. With us flying is not an experiment; it is a demonstration.” ([Location 2894](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2894))
+    - Tags: [[blue]] 
+- “I do not mean that Orville was incompetent to do the work itself, but I realized that he would be surrounded by thousands of people who with the most friendly intentions in the world would consume his time, exhaust his strength, and keep him from having proper rest. ([Location 2906](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2906))
+    - Tags: [[blue]] 
+    - Note: Focus on people and fame distracts from the goal
+- On Monday, September 21, at Camp d’Auvours, Wilbur was back in action taking “the bull by the horns,” as he liked to say, before ten thousand spectators. He flew one hour, 31 minutes, and 25 seconds, over a distance of 40 miles establishing another sensational world record. ([Location 2916](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2916))
+    - Tags: [[blue]] 
+    - Note: Using adversity to fuel additional accomplishments
+- “Orville thinks that the propeller caught in one of the wires connecting the tail to the main part,” Katharine wrote. “That also gave a pull on the wings and upset the machine.” As would eventually be determined, Orville was correct. ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=2947))
+    - Tags: [[blue]] 
+    - Note: Intuition derived from experience leads to rapid insight
+- lauding Wilbur and Orville for achieving “through straightforwardness, intelligence, and tenacity . . . one of the most beautiful inventions of the human genius. ([Location 3086](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3086))
+    - Tags: [[blue]] 
+    - Note: Hard work and relentless learning can overcome nearly anything
+- I confess that, in 1901, I said to my brother Orville that men would not fly for fifty years. Two years later, we ourselves were making flights. ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3098))
+    - Tags: [[blue]] 
+- “But I could not afford to lose the Michelin Prize, as the loss of prestige would have been much more serious than the direct loss. If I had gone away, the other fellows would have fairly busted themselves any record I left. The fact that they knew I was ready to beat anything they should do kept them discouraged.” ([Location 3139](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3139))
+    - Tags: [[blue]] 
+    - Note: Crushing the competition is important. Make sure they feel they can’t win
+- Such was the way of the man, observed a writer who was present. “He never sought to escape by the easy way round.” ([Location 3244](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3244))
+    - Tags: [[blue]] 
+    - Note: The obstacle is the way
+- In the nearly ten years that the Wright brothers had been working to achieve success with their invention, this was to be the first formal recognition by their hometown of their efforts and success and there was to be no mistaking the whole town’s enthusiasm. ([Location 3438](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3438))
+    - Tags: [[blue]] 
+    - Note: “Overnight success” really has years of lead up work. No one sees the countless days of effort leading there
+- It is a wonderful lesson—this celebration. It comes at an auspicious time. The old world was getting tired, it seemed, and needed help to whip it into action. There was beginning a great deal of talk about man’s no longer having the opportunities he once had of achieving greatness. Too many people were beginning to believe that all of the world’s problems had been solved. . . . Money was beginning to tell in the affairs of men, and some were wondering whether a poor boy might work for himself a place in commerce or industry or science. ([Location 3445](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3445))
+    - Tags: [[blue]] 
+    - Note: The ideas of waning progress or all the low-hanging fruit being picked are not new. We may feel this way now, but we also might be on the cusp of truly world-changing discoveries
+- Amazingly, all through both days and as very few were aware, Wilbur and Orville managed to slip deftly in and out of the picture, back and forth to their West Third Street shop, one of the few buildings in town that remained undecorated and where work went on. ([Location 3465](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3465))
+    - Tags: [[blue]] 
+    - Note: Not even this huge celebration stopped their work. They were on a MISSION
+- It had not been a good day. (Wilbur would later apologize to the photographer who, it turned out, was an official with the War Department.) But the brothers had had more than a little experience with adversity and, as so often before, refused to give up. ([Location 3528](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3528))
+    - Tags: [[blue]] 
+- “Orv finished the Fort Myer business in a blaze of glory,” wrote Katharine, who ten months earlier, sitting by his bedside there at the post hospital, had wondered if he might ever have strength enough to walk again. ([Location 3563](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3563))
+    - Tags: [[blue]] 
+    - Note: Perseverance conquers all
+- “A man who works for the immediate present and its immediate rewards is nothing but a fool.” ([Location 3686](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3686))
+    - Tags: [[blue]] 
+    - Note: Long term view is necessary to innvoate
+- So, too, were the Wright brothers. For all they had seen and done, the unprecedented glory bestowed on them, it had by all signs neither changed them nor turned their heads in the least. ([Location 3763](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3763))
+    - Tags: [[blue]] 
+- it was “a highly significant fact that, until the Wrights succeeded, all attempts at flight with heavier-than-air machines were dismal failures, but since they showed that the thing could be done everybody seems able to do it.” ([Location 3773](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3773))
+    - Tags: [[blue]] 
+    - Note: Breaking a once-insurmountable barrier leads to a wave of new innovation
+- it was the interminable patent infringement suits that put the most strain on both brothers. “When we think what we might have accomplished if we had been able to devote this time to experiments,” Wilbur wrote to a friend in France, “we feel very sad, but it is always easier to deal with things than with men, and no one can direct his life entirely as he would choose.” ([Location 3799](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3799))
+    - Tags: [[blue]] 
+    - Note: Legal issues can hold back innovation
+- Wilbur Wright died in his room at home at 7 Hawthorn Street at 3:15 in the morning, Thursday, May 30, 1912. He was forty-five years old. ([Location 3818](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3818))
+    - Tags: [[blue]] 
+- If money had been his and Wilbur’s main objective, Orville insisted, they would have tried something in which the chances were brighter. He thought it fair to say he was well-to-do, rather than wealthy, and loved to quote his father: “All the money anyone needs is just enough to prevent one from being a burden to others.” ([Location 3860](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3860))
+    - Tags: [[blue]] 
+- In 1927 young Charles Lindbergh flew the Atlantic to land in Paris, a feat once thought impossible by the Wrights. ([Location 3882](https://readwise.io/to_kindle?action=open&asin=B00LD1RWP6&location=3882))
+    - Tags: [[blue]] 
+    - Note: 31 years before, the Wright brothers first began reading about flight. And now trans Atlantic flight became possible and warplanes became common, changing the world forever

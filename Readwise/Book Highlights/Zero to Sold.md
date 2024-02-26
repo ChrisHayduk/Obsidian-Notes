@@ -1,0 +1,89 @@
+# Zero to Sold
+
+![rw-book-cover](https://m.media-amazon.com/images/I/71F9MT+lhML._SY160.jpg)
+
+## Metadata
+- Author: [[Arvid Kahl]]
+- Full Title: Zero to Sold
+- Category: #books
+
+## Highlights
+- All of the really successful people I know have a really strong action bias. They just do things. Naval Ravikant ([Location 123](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=123))
+    - Tags: [[blue]] 
+    - Note: Stop reading/thinking/ideating and BUILD instead
+- One day, Danielle and I talked about the painful experience of student feedback, and how her system, even though it helped, was clunky and overwhelming. I looked into it, and it seemed quite possible to build a web-based application that would do this work faster and more reliably. We also saw that this would be a great business opportunity. There was a sizeable market with an apparent, shared, and critical problem. The problem was solvable, but no one had yet built anything to make it noticeably easier. So we decided to build a validation prototype, to see if it had a meaningful impact on Danielle's day-to-day workflow. ([Location 179](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=179))
+    - Tags: [[blue]] 
+    - Note: Examine your personal problems, find a niche that is currently underserved, and build an MVP to validate your idea
+- We had noticed that teachers loved to share, so we added a collaboration system where they could help each other out by sharing their templates. All of a sudden, we had a product that developed a strong network effect overnight. And that feature made the business grow beyond our wildest expectations. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=202))
+    - Tags: [[blue]] 
+    - Note: Look for potential network effect/collaboration tools in your startup ideas. For the Anki clone - sharing decks (even selling decks), collaboration on decks, card layouts, etc
+- Find your niche audience. Find and validate their critical problem. Invent and validate a solution to their problem. Build a product to implement that solution. Build a business that can repeatedly sell that product to your audience. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=275))
+    - Tags: [[blue]] 
+- Successful businesses are built by solving critical problems for an audience that will pay for a solution to their issues. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=291))
+    - Tags: [[blue]] 
+- audience research, problem analysis, and solution validation should happen before you think about a product. While this may seem counter-indicative in a world of polished products that we use every day, it is much more likely to build a great business on a validated market, filling a validated need for people who will be able to pay enough for you to sustain your business and your life. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=305))
+    - Tags: [[blue]] 
+- If you spend enough time investigating the problems of your niche, you will sooner or later surface their critical problems. These are the things that are common roadblocks for everyone in the niche. Solving that problem with a dedicated product will allow you to have a high chance of success with your bootstrapped business. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=360))
+    - Tags: [[blue]] 
+- If your product is shareable, spend time on creating a referral system early in the life of your business. If it’s not shareable, defer this kind of system until you have exhausted better, more effective marketing techniques. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=418))
+    - Tags: [[blue]] 
+- it’s easy to build a unique and differentiated product when the landscape of competitors and competitive alternatives is clear and uncluttered. Fewer competitors means more potential differentiation vectors: you can stand out much more by providing a service that is not yet offered in the niche. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=426))
+    - Tags: [[blue]] 
+- In general, a good niche size will allow you room to grow to your Monthly Recurring Revenue goal and still leave space for a few competitors. ([Location 438](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=438))
+    - Tags: [[blue]] 
+- we needed to figure out if our combination of problem and solution had an addressable market. ([Location 452](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=452))
+    - Tags: [[blue]] 
+    - Note: Find a balance in your niche - it needs to be small enough that there are few competitors, but large enough to sustain a business
+- If there are not enough people, widen the niche by adding adjacent groups to your audience and see if you can adjust the problem (and your solution) to serve those people, too. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=458))
+    - Tags: [[blue]] 
+- The smaller your audience, the more it has built-in network effects. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=466))
+    - Tags: [[blue]] 
+- Serving a currently underserved market comes with the opposite problem. There won’t be much competition, and people are not used to paying for solutions. They often have scraped by using their own tools built on Excel or Google sheets. You will have to spend more time convincing people that your solution will provide substantial value before they grab their credit card. Once previously underserved customers commit to paying, they will be your customers for a long time. You can build a lot of goodwill from serving such a market, and it will create a lot of value for your company. ([Location 471](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=471))
+    - Tags: [[blue]] 
+- If your market has adjacent product opportunities, that will give you a chance to think about future ancillary products you can sell. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=483))
+    - Tags: [[blue]] 
+- Knowing if you need to focus more on sales or on marketing is very important. Some markets require you to reach out to buyers individually. For others, a good and well-targeted marketing strategy could mean you will never have to talk to a single customer before they subscribe or purchase. Being aware of how this will develop over time is essential in order to decide where to focus your attention. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=492))
+    - Tags: [[blue]] 
+    - Note: Basically the distinction between B2B and B2C, though B2C can have a strong sales component if you need to reach out to large influencers to push the product
+- If you see that significant forces are terraforming a market, creating an opportunity where there was none before, that is a good sign. Whenever a new kind of technology or process gets traction in a field that has not seen much change before, it will create little points of friction. Some of them will be critical. These will be the ones that warrant creating a SaaS business. ([Location 495](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=495))
+    - Tags: [[blue]] 
+    - Note: AI & AR/VR fit the bill here
+- Some markets, where a lot of small deciders with their own budgets make decisions, are very lucrative. These people can be convinced without needing to deploy corporate diplomacy. You can show them a product, and they will try it out, as they have no one telling them not to. Small businesses and freelancers are great audiences for a bootstrapped SaaS, as they have budgets. Small budgets, maybe, but if there is a painful problem, there will be money to fix it. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=501))
+    - Tags: [[blue]] 
+    - Note: It can be much easier to target a lot of smaller buyers rather than few large ones. The corporate procurement process for large buyers can take months or even years, during which time you’re working for no pay. This is difficult in a bootstrapped business
+- The good thing is that most of the time, a B2BC market is somewhere in the supply chain of a larger B2B market, so you will still find information about the market as a part of a bigger industry in those B2B reports. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=595))
+    - Tags: [[blue]] 
+- One great thing about B2BC markets is that they are often community-based. Many freelancers hang out at the same watercooler, which often is either a social media site or a forum/community that is specific to their craft. Finding these communities is essential in determining market size. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=600))
+    - Tags: [[blue]] 
+- The great thing about niche markets is that the issues in them are specific and shared by the people in the niche. Solving a common problem will help a lot of people. You already have the right people. Now you just need the right problem. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=634))
+    - Tags: [[blue]] 
+- I believe that many bootstrapped businesses only do half the work. They solve a problem, but they don’t address the most critical problem. If you want to build a profitable business, you have to solve the most important problem your customer is facing, the one that, when solved, will change their life. ([Location 642](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=642))
+    - Tags: [[blue]] 
+- You want to build a “need-to-have” instead of a “nice-to-have.” You want to develop a painkiller instead of a vitamin. You want to be their aspirin. ([Location 655](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=655))
+    - Tags: [[blue]] 
+- The most crucial problem a customer faces is on their minds most often. It’s the most important because it’s coming up frequently and is never easy to solve. It has the most impact on their lives, but it’s not always the obvious choice. If you can help a customer with their most critical problem, they will benefit the most. No other tool will provide as much value as yours. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=659))
+    - Tags: [[blue]] 
+- Find the critical problem where ignoring something causes a lower quality of life. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=675))
+    - Tags: [[blue]] 
+- A critical problem often feels like it is a waste of precious resources while being mandatory. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=680))
+    - Tags: [[blue]] 
+- Find the critical problem at the intersection of something mandatory and something wasteful. ([Location 683](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=683))
+    - Tags: [[blue]] 
+- Find the critical problem where people would love to opt out, but can’t. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=689))
+    - Tags: [[blue]] 
+- Find the critical problem where people need to do the same thing over and over again. ([Location 696](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=696))
+    - Tags: [[blue]] 
+- Find the critical problem where solving a problem takes a long time every time the problem occurs. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=705))
+    - Tags: [[blue]] 
+- Find the critical problem where people are solution-aware and have already created their own simple systems to solve the problem. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=714))
+    - Tags: [[blue]] 
+- They’ll be willing to pay: if the solution saves them time if the solution saves them money if the solution makes them money If it does all three at the same time, it will be a guaranteed hit. The more your solution provides along these dimensions, the more valuable it will be. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=724))
+    - Tags: [[blue]] 
+    - Note: Anki clone saves time/has significantly greater ease of use when compared to Anki
+- So, how can you learn about which is the most critical problem your customers have? It’s quite straightforward: talk to them. Ask them what annoys them most. Find out where they want to be. Ask them what keeps them from being the best at what they are doing. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=741))
+    - Tags: [[blue]] 
+- When you’re looking at a niche market, you will find many people have a large number of problems. However, people will only pay money for a tiny subset of those: the excruciating problems. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=760))
+    - Tags: [[blue]] 
+    - Note: Find THE problem for your niche and solve it
+- Most productivity-related issues cause temporal pain: people feel like they’re wasting time. These pains are caused by suboptimal processes and friction between tasks. If tedious work takes a lot of time, it keeps you from doing important and useful things instead. ([Location 771](https://readwise.io/to_kindle?action=open&asin=B08BWZS8VN&location=771))
+    - Tags: [[blue]] 
