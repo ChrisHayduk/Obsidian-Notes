@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlphaFold/SE(3) Transformer.md",
+                "file": "Learning Notes/AlphaFold/SE(3) Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlphaFold/MSA.md",
+                "file": "Learning Notes/AlphaFold/MSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlphaFold/MSA.md",
+                "file": "Learning Notes/AlphaFold/MSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlphaFold/Templates.md",
+                "file": "Books/How to Read a Book by Mortimer J. Adler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "383ce59a89cdc81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AlphaFold/Templates.md",
+                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AlphaFold/Templates.md",
+                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AlphaFold/Templates.md"
+                "file": "Books/Code - The Hidden Language of Computer Hardware and Software.md"
               }
             }
           }
@@ -195,17 +207,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80f6f9d9b21bcc37",
+  "active": "383ce59a89cdc81b",
   "lastOpenFiles": [
-    "Untitled",
-    "AlphaFold/MSA.md",
-    "AlphaFold/Templates.md",
-    "AlphaFold/Protein.md",
-    "AlphaFold/SE(3) Transformer.md",
+    "Books/Conversations of Socrates by Xenophon.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
+    "Books/Operating Systems - Three Easy Pieces.md",
     "Books/Understanding Distributed Systems by Roberto Vitillo.md",
-    "How",
-    "Books",
-    "AlphaFold"
+    "Books/Plato's Five Dialogues.md",
+    "Books/Code - The Hidden Language of Computer Hardware and Software.md",
+    "Untitled.md",
+    "Learning Notes/OMSCS Courses/Machine Learning for Trading",
+    "Learning Notes/OMSCS Courses",
+    "Learning Notes/OMSCS Courses/Algorithms",
+    "Learning Notes/OMSCS Courses/Computer Architecture",
+    "Learning Notes/OMSCS Courses/Deep Learning",
+    "Learning Notes/Untitled/Untitled.md",
+    "Learning Notes/OMSCS Courses/Operating Systems",
+    "Learning Notes",
+    "Ideas",
+    "Papers",
+    "Articles",
+    "Learning Notes/AlphaFold/MSA.md",
+    "Learning Notes/AlphaFold/Templates.md",
+    "Learning Notes/AlphaFold/Protein.md",
+    "Learning Notes/AlphaFold/SE(3) Transformer.md"
   ]
 }
