@@ -36,7 +36,7 @@ It is important to note that the query, key, and value matrices are **projection
 ![[Pasted image 20240227215510.png]]
 
 It is also important to note that the embeddings for each token are a kind of representation of that token **embedded in its context**. That is, the embeddings are context-aware and differ based on the token's surrounding words and its position in the sequence.
-## Transformers as Big n-gram Models
+## Decoder-Only Transformers as Big n-gram Models
 
 So, given the above discussion, if our value (V) matrix projection is learned well, an intuitive interpretation of what it is doing is **shifting each vector embedding in our input sequence to a position that helps us to find our next continuation in the embedding space**. 
 
@@ -44,7 +44,9 @@ In particular, since a fully-connected layer without a non-linearity can be inte
 
 $\vec{y}$ in this case can be thought of as the vector representation, starting from $\vec{x}$, that contributes **most** to finding the $n+1$st vector that will continue our length $n$ sequence **given** the other $n-1$ vectors in the sequence. 
 
-A linear layer at the end then uses these refined $n$ vector embeddings to create a probability distribution over the $k$ tokens in our vocabulary. But this is **precisely** the definition of what an $n$-gram model would predict, except this time we are using a continuous representation of $n$ tokens rather than using the discrete tokens themselves.
+A linear layer at the end then uses these refined $n$ vector embeddings to create a probability distribution over the $k$ tokens in our vocabulary. The fully connected layer responsible for output, rather than acting elementwise like the fully connected layers we discussed previously that are internal to the transformer, actually compute a sort of weighted average of the $n$ vector embeddings to output a value for each of the $k$ vocabulary tokens. We then use $\texttt{softmax}$ to turn this output into a distribution that can be sampled from. 
+
+But this is **precisely** the definition of what an $n$-gram model would predict, except this time we are using a continuous representation of the $n$ input tokens rather than using the discrete tokens themselves.
 ## Next Steps: Do Some Empirical Testing
 
 Could be very interesting to look at how the vector projections of each token evolve over the course of the forward pass. ie. for token $i$ in the sequence, at each layer, map embedding $i$ in the value matrix back to its closest token and see the value

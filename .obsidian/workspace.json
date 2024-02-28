@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c22095e2ef097bf",
+        "id": "25072d9c6df57a65",
         "type": "tabs",
         "children": [
           {
-            "id": "16b4252d83c16966",
+            "id": "dfd83d6780383216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Operating Systems - Three Easy Pieces.md",
+                "file": "Books/Understanding Distributed Systems by Roberto Vitillo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56745dba05b3d506",
+            "id": "d38d52adcaf4c3fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240227215510.png"
+                "file": "Learning Notes/AlphaFold/Templates.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "f1b238d4b6e181ae",
+            "id": "58695ee3abef0114",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49ef3d1cfaec43ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Notes/Decoder-Only Transformers as Differentiable n-gram Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+                "file": "Learning Notes/Decoder-Only Transformers as Differentiable n-gram Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+                "file": "Learning Notes/Decoder-Only Transformers as Differentiable n-gram Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md"
+                "file": "Learning Notes/Decoder-Only Transformers as Differentiable n-gram Models.md"
               }
             }
           }
@@ -169,52 +183,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1b238d4b6e181ae",
+  "active": "49ef3d1cfaec43ba",
   "lastOpenFiles": [
-    "Learning Notes/Transformers as Differentiable n-gram Models.md",
-    "Learning Notes/AlphaFold/Protein.md",
-    "Learning Notes/AlphaFold/SE(3) Transformer.md",
-    "Learning Notes/AlphaFold/Templates.md",
-    "Learning Notes/AlphaFold/MSA.md",
     "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+    "Learning Notes/Decoder-Only Transformers as Differentiable n-gram Models.md",
+    "Books/Understanding Distributed Systems by Roberto Vitillo.md",
+    "Learning Notes/AlphaFold/Templates.md",
     "Pasted image 20240227230538.png",
     "Pasted image 20240227225836.png",
     "Pasted image 20240227224005.png",
     "Pasted image 20240227223411.png",
     "Pasted image 20240227223331.png",
-    "Pasted image 20240227214251.png",
     "Pasted image 20240227215748.png",
-    "Pasted image 20240227214248.png",
     "Pasted image 20240227215510.png",
     "Pasted image 20240227214848.png",
+    "Pasted image 20240227214635.png",
+    "Papers",
+    "Learning Notes/AlphaFold/SE(3) Transformer.md",
+    "Learning Notes/AlphaFold/Protein.md",
+    "Learning Notes/AlphaFold/MSA.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
-    "Books/Code - The Hidden Language of Computer Hardware and Software.md",
-    "Books/Plato's Five Dialogues.md",
-    "Books/Understanding Distributed Systems by Roberto Vitillo.md",
-    "Books/Operating Systems - Three Easy Pieces.md",
+    "AlphaFold/MSA.md",
     "Readwise/Tweets/With many 🧩 dropping recently, a more complete picture is....md",
     "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md",
-    "Readwise/Book Highlights/Ai 2041.md",
+    "Readwise/Book Highlights/Zero to Sold.md",
+    "Readwise/Book Highlights/Zeckendorf.md",
+    "Readwise/Book Highlights/You Don't Know JS Yet.md",
+    "Readwise/Book Highlights/Working Backwards.md",
+    "Readwise/Book Highlights/What the CEO Wants You to Know.md",
+    "Readwise/Book Highlights/Thinking in Systems.md",
+    "Readwise/Book Highlights/Think and Grow Rich.md",
+    "Readwise/Book Highlights/The Wright Brothers.md",
+    "Readwise/Book Highlights/The War That Made the Roman Empire.md",
+    "Readwise/Book Highlights/The Theoretical Minimum.md",
+    "Readwise/Book Highlights/The Road to Learn React.md",
+    "Readwise/Book Highlights/The Price of Time.md",
+    "Readwise/Book Highlights/The Power Law.md",
+    "Readwise/Book Highlights/The Pleasure of Finding Things Out.md",
+    "Readwise/Book Highlights/The Phoenix Project.md",
     "Readwise/Tweets",
     "Readwise/Article Highlights",
-    "Readwise/Book Highlights/Alexander the Great.md",
-    "Readwise/Book Highlights/Ancient Greece.md",
-    "Readwise/Book Highlights/ABM Is B2B..md",
-    "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
-    "Readwise/Book Highlights/Zeckendorf.md",
-    "Readwise/Book Highlights/Working Backwards.md",
-    "Readwise/Book Highlights/You Don't Know JS Yet.md",
-    "Readwise/Book Highlights/Napoleon.md",
-    "Readwise/Book Highlights/Rubicon.md",
-    "Readwise/Book Highlights/Central Banking 101.md",
-    "Readwise/Book Highlights/Augustus.md",
     "Readwise/Book Highlights",
     "Readwise",
-    "Learning Notes/OMSCS Courses/Machine Learning for Trading",
-    "Learning Notes/OMSCS Courses",
-    "Learning Notes/OMSCS Courses/Algorithms",
-    "Learning Notes/OMSCS Courses/Computer Architecture",
-    "Learning Notes/OMSCS Courses/Deep Learning",
-    "Learning Notes/OMSCS Courses/Operating Systems"
+    "Learning Notes/AlphaFold",
+    "Learning Notes",
+    "Untitled",
+    "How",
+    "Books"
   ]
 }
