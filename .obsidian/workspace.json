@@ -4,71 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "25072d9c6df57a65",
+        "id": "2c22095e2ef097bf",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd83d6780383216",
+            "id": "16b4252d83c16966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Understanding Distributed Systems by Roberto Vitillo.md",
+                "file": "Books/Operating Systems - Three Easy Pieces.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d38d52adcaf4c3fc",
+            "id": "56745dba05b3d506",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Learning Notes/AlphaFold/SE(3) Transformer.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240227215510.png"
               }
             }
           },
           {
-            "id": "a33afaaa5348ef8c",
+            "id": "f1b238d4b6e181ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/AlphaFold/MSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a18f8eee60036f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/AlphaFold/MSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58695ee3abef0114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
+                "file": "Learning Notes/Transformers as Differentiable n-gram Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
+                "file": "Learning Notes/Transformers as Differentiable n-gram Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
+                "file": "Learning Notes/Transformers as Differentiable n-gram Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md"
+                "file": "Learning Notes/Transformers as Differentiable n-gram Models.md"
               }
             }
           }
@@ -195,8 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80f6f9d9b21bcc37",
+  "active": "f1b238d4b6e181ae",
   "lastOpenFiles": [
+    "Pasted image 20240227223411.png",
+    "Pasted image 20240227223331.png",
+    "Pasted image 20240227214251.png",
+    "Learning Notes/Transformers as Differentiable n-gram Models.md",
+    "Pasted image 20240227215748.png",
+    "Pasted image 20240227214248.png",
+    "Pasted image 20240227215510.png",
+    "Pasted image 20240227214848.png",
+    "Pasted image 20240227214635.png",
+    "Books/How to Read a Book by Mortimer J. Adler.md",
+    "Books/Code - The Hidden Language of Computer Hardware and Software.md",
+    "Books/Plato's Five Dialogues.md",
+    "Books/Understanding Distributed Systems by Roberto Vitillo.md",
+    "Books/Operating Systems - Three Easy Pieces.md",
     "Readwise/Tweets/With many 🧩 dropping recently, a more complete picture is....md",
     "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md",
     "Readwise/Book Highlights/Ai 2041.md",
@@ -214,17 +202,10 @@
     "Readwise/Book Highlights/Central Banking 101.md",
     "Readwise/Book Highlights/Augustus.md",
     "Readwise/Book Highlights/Beginning MERN Stack.md",
-    "Books/How to Read a Book by Mortimer J. Adler.md",
     "Readwise/Book Highlights/Creators, Conquerors, and Citizens.md",
     "Readwise/Book Highlights/The Dawn of Everything.md",
     "Readwise/Book Highlights/The War That Made the Roman Empire.md",
     "Readwise/Book Highlights/The Theoretical Minimum.md",
-    "Readwise/Book Highlights/High Output Management.md",
-    "Readwise/Book Highlights/Selective Breeding and the Birth of Philosophy.md",
-    "Readwise/Book Highlights/The Long Game.md",
-    "Readwise/Book Highlights/Churchill.md",
-    "Readwise/Book Highlights/The Phoenix Project.md",
-    "Readwise/Book Highlights/The Goal.md",
     "Readwise/Book Highlights",
     "Readwise",
     "Learning Notes/OMSCS Courses/Machine Learning for Trading",
