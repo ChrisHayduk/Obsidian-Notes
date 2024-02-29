@@ -1,5 +1,5 @@
-Link: https://www.biorxiv.org/content/10.1101/2024.01.30.577970v1
-Authors: Zhidian Zhang, Hannah K. Wayment-Steele, Garyk Brixi, Haobo Wang, Matteo Dal Peraro, Dorothee Kern, Sergey Ovchinnikov
+**Link:** https://www.biorxiv.org/content/10.1101/2024.01.30.577970v1
+**Authors:** Zhidian Zhang, Hannah K. Wayment-Steele, Garyk Brixi, Haobo Wang, Matteo Dal Peraro, Dorothee Kern, Sergey Ovchinnikov
 ## Summary
 
 The authors proposed three hypotheses for how protein language models learn to enable highly accurate protein structure prediction. These are:
