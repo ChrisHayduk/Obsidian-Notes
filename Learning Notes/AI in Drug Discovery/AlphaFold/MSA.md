@@ -20,7 +20,7 @@ Row-wise attention builds attentions weights for residue pairs within the same s
 
 ![[Pasted image 20240228131252.png]]
 
-## MSA Row-wise Gated Self-Attention
+## MSA Column-wise Gated Self-Attention
 
 Column-wise attention lets the elements that belong to the same target residue exchange information *across* sequences in the MSA. The updated MSA representation matrix thus ensures that each residue has a *cross-sequence representation* - that is, for the embedding for residue $i$ in sequence $k$ also takes into account information from residue $i$ in sequences $1, \ldots, k-1, k+1, \ldots, s$.
 
