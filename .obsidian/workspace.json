@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "47131c6cbfcc3d84",
+            "id": "9845cba21321debf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+                "file": "Learning Notes/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+                "file": "Learning Notes/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+                "file": "Learning Notes/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md"
+                "file": "Learning Notes/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md"
               }
             }
           }
@@ -160,10 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80f6f9d9b21bcc37",
+  "active": "9845cba21321debf",
   "lastOpenFiles": [
-    "Learning Notes/AI in Drug Discovery/AlphaFold/MSA.md",
+    "Pasted image 20240305110428.png",
+    "Pasted image 20240227214635.png",
+    "Learning Notes/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
+    "Learning Notes/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
     "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+    "Learning Notes/AI in Drug Discovery/AlphaFold/MSA.md",
     "Learning Notes/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
     "Learning Notes/LLMs/Encoder-Only Transformers with MLM Objective as Continuous Fuzzy String Matching.md",
     "Pasted image 20240228131142.png",
@@ -175,8 +179,6 @@
     "Pasted image 20240227223331.png",
     "Pasted image 20240227215748.png",
     "Pasted image 20240227215510.png",
-    "Pasted image 20240227214848.png",
-    "Learning Notes/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
     "Learning Notes/LLMs",
     "Learning Notes/AI in Drug Discovery",
     "Untitled",
@@ -201,7 +203,6 @@
     "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
     "Readwise/Book Highlights/Zeckendorf.md",
     "Readwise/Book Highlights/Working Backwards.md",
-    "Readwise/Book Highlights/You Don't Know JS Yet.md",
     "Readwise/Book Highlights",
     "Readwise",
     "Learning Notes/OMSCS Courses/Machine Learning for Trading",
