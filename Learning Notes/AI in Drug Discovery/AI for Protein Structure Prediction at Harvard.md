@@ -26,17 +26,20 @@ Company Website: https://www.biomap.com/
 	- Network effects of interacting/cascading/inhibiting signals
 	- Multiple relevant scales (e.g. organism, cell, molecule, etc.)
 - High dimensional space in biology but small data (especially labeled data)
-- Try to mitigate the lack of labeled data and small per-modality data by dumping everything into a transformer trained using self-supervision. In order of lowest level to highest level:
-	- Genomes
-	- RNA sequences
-	- RNA structures
-	- Protein sequences
-	- Protein structures
-	- Interactions
-	- Cells
-	- Molecular perturbations
-	- Spatial data
+- Idea is to mitigate the lack of labeled data and small per-modality data by dumping everything into a transformer trained using self-supervision. 
+	- In order of lowest scale to highest scale:
+		- Genomes
+		- RNA sequences
+		- RNA structures
+		- Protein sequences
+		- Protein structures
+		- Interactions
+		- Cells
+		- Molecular perturbations
+		- Spatial data
+	- They haven't built this yet, focusing on separate modalities at the moment (built a protein language model and a gene language model)
 - Built a 100B protein language model
 	- Interestingly, instead of just masked language modeling, they used masked language modeling + causal language modeling as the objective
 		- This allows for both protein encoding and protein generation
+			- Use reinforcement learning to optimize protein generation for specific objectives (e.g. function predictions)
 	- Found that proteins with specific gene ontology labels cluster in embedding space without training on function information
