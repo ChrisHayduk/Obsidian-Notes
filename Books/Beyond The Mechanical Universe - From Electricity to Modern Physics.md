@@ -1,6 +1,6 @@
 ## What Kind of Book
 
-Practical / Philosophy
+Practical / Expository
 ## Summary
 
 ## Outline

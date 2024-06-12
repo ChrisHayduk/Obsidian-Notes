@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 13231243,
+  "lastSavedStatusID": 14755329,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -67,7 +67,13 @@
     "Readwise/Book Highlights/Ancient Greece.md": "37633144",
     "Readwise/Book Highlights/Creators, Conquerors, and Citizens.md": "38121086",
     "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md": "38146935",
-    "Readwise/Tweets/With many 🧩 dropping recently, a more complete picture is....md": "38147009"
+    "Readwise/Tweets/With many 🧩 dropping recently, a more complete picture is....md": "38147009",
+    "Readwise/Book Highlights/Quantum Mechanics.md": "39068885",
+    "Readwise/Book Highlights/The War That Ended Peace.md": "40128956",
+    "Readwise/Book Highlights/The MANIAC.md": "40389302",
+    "Readwise/Book Highlights/Turing's Cathedral.md": "40487412",
+    "Readwise/Book Highlights/The Information.md": "40695009",
+    "Readwise/Book Highlights/The Art of Doing Science and Engineering.md": "41219590"
   },
   "reimportShowConfirmation": true
 }

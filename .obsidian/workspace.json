@@ -4,52 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "91b7dbe908008ca5",
+        "id": "2c0bc677a1f83c3f",
         "type": "tabs",
         "children": [
           {
-            "id": "82351f19102fc089",
+            "id": "18431b281e20689d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/LLMs/Encoder-Only Transformers with MLM Objective as Continuous Fuzzy String Matching.md",
+                "file": "Learning Notes/Information Theory/Kolmogorov Complexity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "47131c6cbfcc3d84",
+            "id": "36169600fbf24ea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdb69ea68309c4e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b05a4dd2b4f2e96a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/LLMs/Encoder-Only Transformers with MLM Objective as Continuous Fuzzy String Matching.md",
+                "file": "Learning Notes/Information Theory/Shannon Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,14 +98,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Notes/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
-                "collapseAll": false,
+                "file": "Learning Notes/Information Theory/Shannon Entropy.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Notes/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
+                "file": "Learning Notes/Information Theory/Shannon Entropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,11 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Notes/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md"
+                "file": "Learning Notes/Information Theory/Shannon Entropy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,53 +160,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47131c6cbfcc3d84",
+  "active": "36169600fbf24ea9",
   "lastOpenFiles": [
-    "Pasted image 20240305124119.png",
-    "Pasted image 20240305124052.png",
-    "Pasted image 20240305124012.png",
-    "Pasted image 20240305122111.png",
-    "Pasted image 20240305110428.png",
-    "Learning Notes/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
-    "Learning Notes/LLMs/Encoder-Only Transformers with MLM Objective as Continuous Fuzzy String Matching.md",
-    "Papers/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
-    "Learning Notes/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
-    "Learning Notes/AI in Drug Discovery/AlphaFold/MSA.md",
-    "Pasted image 20240229005307.png",
-    "Pasted image 20240229004943.png",
-    "Pasted image 20240229001533.png",
-    "Pasted image 20240229001048.png",
-    "Learning Notes/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
-    "Learning Notes/LLMs",
-    "Learning Notes/AI in Drug Discovery",
-    "Untitled",
-    "Learning Notes/AI in Drug Discovery/AlphaFold/SE(3) Transformer.md",
-    "Learning Notes/AI in Drug Discovery/AlphaFold/Templates.md",
-    "Learning Notes/AI in Drug Discovery/AlphaFold/Protein.md",
-    "Pasted image 20240227214635.png",
-    "().md",
-    "Pasted image 20240228170146.png",
-    "Learning Notes/Transformers as Differentiable n-gram Models.md",
-    "Books/How to Read a Book by Mortimer J. Adler.md",
+    "Readwise/Book Highlights/The Art of Doing Science and Engineering.md",
+    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
+    "Learning Notes/Information Theory/Shannon Entropy.md",
+    "Learning Notes/Deep Learning/Talks/An Observation on Generalization.md",
+    "Courses/Stanford CS244W - Machine Learning with Graphs/Lecture 1.1 - Why Graphs.md",
+    "Courses/Stanford CS244W - Machine Learning with Graphs",
+    "Courses",
+    "Learning Notes/Information Theory",
+    "Learning Notes/Deep Learning/Paper Deep Dives/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+    "Books/Conversations of Socrates by Xenophon.md",
+    "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md",
+    "Books/The Mechanical Universe - Introduction to Mechanics and Heat.md",
+    "Books/Deep Learning with Python.md",
+    "Books/Deep Learning.md",
+    "Books/Inside Deep Learning.md",
+    "Books/Beyond The Mechanical Universe - From Electricity to Modern Physics.md",
+    "Books/Computer Networking - A Top-down Approach.md",
     "Books/Code - The Hidden Language of Computer Hardware and Software.md",
+    "Books/Computer Architecture - A Quantitative Approach.md",
+    "Books/Computer Organization and Design.md",
+    "Books/Designing Data Intensive Applications.md",
+    "Books/Operating Systems - Three Easy Pieces.md",
+    "Images/Pasted image 20240605133906.png",
+    "Learning Notes/Deep Learning/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
+    "Learning Notes/Deep Learning/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
+    "Learning Notes/Deep Learning/AI in Drug Discovery/Computational Chemistry Talk at NVIDIA GTC.md",
+    "Learning Notes/Deep Learning/Talks",
+    "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
     "Books/Plato's Five Dialogues.md",
     "Books/Understanding Distributed Systems by Roberto Vitillo.md",
-    "Books/Operating Systems - Three Easy Pieces.md",
-    "Readwise/Tweets/With many 🧩 dropping recently, a more complete picture is....md",
-    "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md",
-    "Readwise/Book Highlights/Ai 2041.md",
+    "Books/How to Read a Book by Mortimer J. Adler.md",
+    "Images/Pasted image 20240228131252.png",
+    "Images/Pasted image 20240228131146.png",
+    "Images/Pasted image 20240227214635.png",
+    "Images/Pasted image 20240227214848.png",
+    "Images",
+    "Learning Notes/Deep Learning",
+    "Images/Pasted image 20240228132207.png",
+    "Images/Pasted image 20240305124119.png",
+    "Images/Pasted image 20240305124052.png",
+    "Images/Pasted image 20240305124012.png",
+    "Images/Pasted image 20240305122111.png",
+    "Learning Notes/Deep Learning/LLMs",
+    "Learning Notes/Deep Learning/AI in Drug Discovery",
     "Readwise/Tweets",
-    "Readwise/Article Highlights",
-    "Readwise/Book Highlights/Alexander the Great.md",
-    "Readwise/Book Highlights/Ancient Greece.md",
-    "Readwise/Book Highlights/ABM Is B2B..md",
-    "Readwise/Book Highlights/A Monetary and Fiscal History of the United States, 1961–2021.md",
-    "Readwise/Book Highlights/Zeckendorf.md",
-    "Readwise/Book Highlights/Working Backwards.md",
-    "Readwise/Book Highlights",
-    "Readwise",
-    "Learning Notes/OMSCS Courses/Machine Learning for Trading",
-    "Learning Notes/OMSCS Courses",
-    "Learning Notes/OMSCS Courses/Algorithms"
+    "Readwise/Article Highlights"
   ]
 }
