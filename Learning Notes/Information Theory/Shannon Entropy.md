@@ -35,6 +35,16 @@ $k_B$ has units of energy divided by temperature. Thus, it provides a link betwe
 In multiplying $\ln W$ by $k_B$ in the definition of the Boltzmann energy $S$, we imbue the unit-less $\ln W$ with units of Joules per Kelvin, matching the original thermodynamic conception of entropy as proposed by Rudolf Clausius. Clausius's entropy is defined as the quotient of an infinitesimal amount of heat to the instantaneous temperature, given mathematically as $$dS = \frac{\partial Q_{\text{rev}}}{T}$$
 So we *don't* multiply by a constant in Shannon Entropy because we're okay with it being unit-less. In Boltzmann Entropy, we need to align with the original conception of entropy as heat per temperature, and so multiplying by $k_B$ provides us with those units and rescales the values to match Clausius's Entropy.
 ## Connection to Data Compression
+Suppose we have a stochastic process $X$ with countable indices (i.e. time is discrete). Then we can define a sequence of joint entropies $H_n(X_1, X_2, \ldots, X_n)$ for every $n \in \mathbb{N}$. If the limit exists, **the entropy rate** is defined as $$H(X) := \lim_{n \to \infty} \frac{1}{n} H_n \tag{1}$$
+**Joint entropy** is a measure of uncertainty associated with a set of variables. Note that a joint Shannon entropy of two discrete random variables $X$ and $Y$ with images $\mathcal{X}$ and $\mathcal{Y}$ is given by $$H(X, Y) = - \sum_{x \in \mathcal{X}} \sum_{y \in \mathcal{Y}} P(x,y) \log_2 \left [ P(x,y) \right ]$$
+where $x$ and $y$ are particular values of $X$ and $Y$ respectively, $P(x, y)$ is the joint probability of these values occurring together, and $P(x, y) \log_2 \left [ P(x,y) \right ]$ is defined to be 0 if $P(x,y) = 0$. For $n$ random variables, this expands to $$H(X_1, \ldots, X_n) = - \sum_{x_1 \in \mathcal{X}_1} \cdots \sum_{x_n \in \mathcal{X}_n} P(x_1, \ldots, x_n) \log_2 \left [ P(x_1, \ldots, x_n) \right ] \tag{2}$$
+**Thus (1), the entropy rate of a data source, is the average number of bits per symbol needed to encode it.** Why? Because $H_n$ gives us the total number of bits of uncertainty for the *entire sequence* of length $n$ (given by equation (2)), where we consider each element of the sequence an event (and hence the length $n$ sequence is a set of events which we compute a joint probability over). We then divide by $n$, yielding the average bits per symbol for a sequence of length $n$. By performing a limiting process, we get the entropy rate for the data source (i.e. data generating process) itself.
+
+For compression to be lossless, then the compressed message has the same quantity of information as the original message, but communicated in fewer characters. It there has more information (higher entropy) per character. Therefore, the entropy rate of the compressed message will be higher than that of the uncompressed message.
+## Entropy of a Sequence
+
+## Data as a Markov Process
+
 ## See Also
 1. [[Kolmogorov Complexity]]
 2. [[An Observation on Generalization]]
