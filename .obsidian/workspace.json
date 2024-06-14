@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
+                "file": "Learning Notes/Information Theory/Shannon Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240613183746.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240613183746.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240613183746.png"
+                "file": "Courses/OMSCS Computer Networks/Exam 1 Review.md"
               }
             }
           }
@@ -223,16 +221,18 @@
   "lastOpenFiles": [
     "Learning Notes/Information Theory/Shannon Entropy.md",
     "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
+    "Courses/OMSCS Computer Networks/Exam 1 Review.md",
+    "Courses/OMSCS Computer Networks",
+    "Learning Notes/Information Theory/Mutual Information.md",
+    "Images/Pasted image 20240613183746.png",
     "Learning Notes/Deep Learning/Talks/An Observation on Generalization.md",
     "Images/Pasted image 20240613184532.png",
     "Images/Pasted image 20240613183910.png",
-    "Images/Pasted image 20240613183746.png",
     "Untitled",
     "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
     "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
     "Learning Notes/Information Theory/Cross-Entropy.md",
     "Learning Notes/Information Theory/Directed Information.md",
-    "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Information Theory/Kolmogorov Complexity.md",
     "Readwise/Book Highlights/The Art of Doing Science and Engineering.md",
     "Courses/Stanford CS244W - Machine Learning with Graphs/Lecture 1.1 - Why Graphs.md",
@@ -264,7 +264,6 @@
     "Images/Pasted image 20240228132207.png",
     "Images/Pasted image 20240305124119.png",
     "Learning Notes/Deep Learning/LLMs",
-    "Learning Notes/Deep Learning/AI in Drug Discovery",
-    "Readwise/Tweets"
+    "Learning Notes/Deep Learning/AI in Drug Discovery"
   ]
 }
