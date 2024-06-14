@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c37bace20d149ea2",
+            "id": "b05bc44ebd7dc42e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/OMSCS Computer Networks/Exam 1 Review.md"
+                "file": "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md"
               }
             }
           }
@@ -217,23 +220,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80f6f9d9b21bcc37",
+  "active": "965acc75ed81f768",
   "lastOpenFiles": [
-    "Learning Notes/Information Theory/Shannon Entropy.md",
-    "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
-    "Courses/OMSCS Computer Networks/Exam 1 Review.md",
-    "Courses/OMSCS Computer Networks",
+    "Learning Notes/Deep Learning/AI in Drug Discovery/Computational Chemistry Talk at NVIDIA GTC.md",
+    "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
+    "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
+    "Learning Notes/Information Theory/Cross-Entropy.md",
+    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
+    "Learning Notes/Information Theory/Directed Information.md",
     "Learning Notes/Information Theory/Mutual Information.md",
+    "Learning Notes/Information Theory/Shannon Entropy.md",
+    "blue.md",
+    "Courses/OMSCS Computer Networks/Exam 1 Review.md",
+    "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
+    "Courses/OMSCS Computer Networks",
     "Images/Pasted image 20240613183746.png",
     "Learning Notes/Deep Learning/Talks/An Observation on Generalization.md",
     "Images/Pasted image 20240613184532.png",
     "Images/Pasted image 20240613183910.png",
     "Untitled",
-    "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
-    "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
-    "Learning Notes/Information Theory/Cross-Entropy.md",
-    "Learning Notes/Information Theory/Directed Information.md",
-    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
     "Readwise/Book Highlights/The Art of Doing Science and Engineering.md",
     "Courses/Stanford CS244W - Machine Learning with Graphs/Lecture 1.1 - Why Graphs.md",
     "Courses/Stanford CS244W - Machine Learning with Graphs",
@@ -251,8 +256,6 @@
     "Books/Code - The Hidden Language of Computer Hardware and Software.md",
     "Books/Computer Architecture - A Quantitative Approach.md",
     "Books/Computer Organization and Design.md",
-    "Books/Designing Data Intensive Applications.md",
-    "Books/Operating Systems - Three Easy Pieces.md",
     "Images/Pasted image 20240605133906.png",
     "Learning Notes/Deep Learning/Talks",
     "Images/Pasted image 20240228131252.png",
