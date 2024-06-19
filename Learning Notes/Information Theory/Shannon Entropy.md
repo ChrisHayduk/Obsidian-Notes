@@ -41,10 +41,6 @@ where $x$ and $y$ are particular values of $X$ and $Y$ respectively, $P(x, y)$ i
 **Thus (1), the entropy rate of a data source, is the average number of bits per symbol needed to encode it.** Why? Because $H_n$ gives us the total number of bits of uncertainty for the *entire sequence* of length $n$ (given by equation (2)), where we consider each element of the sequence an event (and hence the length $n$ sequence is a set of events which we compute a joint probability over). We then divide by $n$, yielding the average bits per symbol for a sequence of length $n$. By performing a limiting process, we get the entropy rate for the data source (i.e. data generating process) itself.
 
 For compression to be lossless, then the compressed message has the same quantity of information as the original message, but communicated in fewer characters. It there has more information (higher entropy) per character. Therefore, the entropy rate of the compressed message will be higher than that of the uncompressed message.
-## Entropy of a Sequence
-
-## Data as a Markov Process
-
 ## See Also
 1. [[Kolmogorov Complexity]]
 2. [[An Observation on Generalization]]
