@@ -8,12 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c307167b413c70a",
+            "id": "62a7e79c61f000b7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20240619141338.png"
+                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdc1e8192f87eb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -155,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240619141338.png",
+                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240619141338.png",
+                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240619141338.png"
+                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md"
               }
             }
           }
@@ -217,10 +231,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80f6f9d9b21bcc37",
+  "active": "62a7e79c61f000b7",
   "lastOpenFiles": [
     "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
-    "Learning Notes/Deep Learning/Talks/Beyond the Basics of Retrieval for Augmenting Generation.md",
+    "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+    "Learning Notes/Applied LLMs/Beyond the Basics of Retrieval for Augmenting Generation.md",
+    "Learning Notes/Applied LLMs/LLMOps",
+    "Learning Notes/Applied LLMs/Agents",
+    "Learning Notes/Applied LLMs/RAG",
+    "Learning Notes/Applied LLMs",
+    "Images/Pasted image 20240619141338.png",
     "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Information Theory/Directed Information.md",
     "Learning Notes/Information Theory/Shannon Entropy.md",
@@ -229,7 +249,6 @@
     "Images/Pasted image 20240619142318.png",
     "Images/Pasted image 20240619141458.png",
     "Images/Pasted image 20240619141430.png",
-    "Images/Pasted image 20240619141338.png",
     "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
     "Images/Pasted image 20240613184532.png",
@@ -259,10 +278,6 @@
     "Images/Pasted image 20240605133906.png",
     "Learning Notes/Deep Learning/Talks",
     "Images",
-    "Learning Notes/Deep Learning",
-    "Learning Notes/Deep Learning/LLMs",
-    "Learning Notes/Deep Learning/AI in Drug Discovery",
-    "Readwise/Tweets",
-    "Readwise/Article Highlights"
+    "Learning Notes/Deep Learning"
   ]
 }
