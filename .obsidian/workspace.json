@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62a7e79c61f000b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8df152e5e041a329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7520fcf4287c3a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing Research/Multiscale Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7537d1cdbe0159ef",
             "type": "leaf",
             "state": {
@@ -68,6 +32,18 @@
             }
           },
           {
+            "id": "62a7e79c61f000b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdc1e8192f87eb30",
             "type": "leaf",
             "state": {
@@ -78,81 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "73f8a218a445fb1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Information Theory/Mutual Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b13a029c431b8a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Information Theory/Directed Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36169600fbf24ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Information Theory/Kolmogorov Complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82a3bb088ffb1f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Information Theory/Cross-Entropy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70d797d39544913f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "965acc75ed81f768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Research/Multiscale Data.md",
+                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Research/Multiscale Data.md",
+                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Research/Multiscale Data.md"
+                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md"
               }
             }
           }
@@ -280,21 +184,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06527e7da10d29f7",
+  "active": "bdc1e8192f87eb30",
   "lastOpenFiles": [
-    "Writing Research/Protein Structure Tokenization in ESM3.md",
+    "Learning Notes/Information Theory/Mutual Information.md",
+    "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
+    "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
     "Writing Research/Multiscale Data.md",
+    "Writing Research/Protein Structure Tokenization in ESM3.md",
     "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
     "Writing Research",
-    "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
-    "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
     "Learning Notes/Applied LLMs/Beyond the Basics of Retrieval for Augmenting Generation.md",
     "Learning Notes/Applied LLMs/LLMOps",
     "Learning Notes/Applied LLMs/Agents",
     "Learning Notes/Applied LLMs/RAG",
     "Learning Notes/Applied LLMs",
     "Images/Pasted image 20240619141338.png",
-    "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Information Theory/Directed Information.md",
     "Learning Notes/Information Theory/Shannon Entropy.md",
     "Images/Pasted image 20240619142944.png",
