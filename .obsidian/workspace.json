@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "8df152e5e041a329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7520fcf4287c3a22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Multiscale Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7537d1cdbe0159ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Protein Structure Tokenization in ESM3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06527e7da10d29f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Multiscale Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bdc1e8192f87eb30",
             "type": "leaf",
             "state": {
@@ -103,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -169,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+                "file": "Writing Research/Multiscale Data.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+                "file": "Writing Research/Multiscale Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md"
+                "file": "Writing Research/Multiscale Data.md"
               }
             }
           }
@@ -231,10 +280,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62a7e79c61f000b7",
+  "active": "06527e7da10d29f7",
   "lastOpenFiles": [
-    "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
+    "Writing Research/Protein Structure Tokenization in ESM3.md",
+    "Writing Research/Multiscale Data.md",
+    "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
+    "Writing Research",
     "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+    "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
     "Learning Notes/Applied LLMs/Beyond the Basics of Retrieval for Augmenting Generation.md",
     "Learning Notes/Applied LLMs/LLMOps",
     "Learning Notes/Applied LLMs/Agents",
@@ -272,12 +325,8 @@
     "Books/Deep Learning.md",
     "Books/Inside Deep Learning.md",
     "Books/Beyond The Mechanical Universe - From Electricity to Modern Physics.md",
-    "Books/Computer Networking - A Top-down Approach.md",
-    "Books/Code - The Hidden Language of Computer Hardware and Software.md",
-    "Books/Computer Architecture - A Quantitative Approach.md",
     "Images/Pasted image 20240605133906.png",
     "Learning Notes/Deep Learning/Talks",
-    "Images",
-    "Learning Notes/Deep Learning"
+    "Images"
   ]
 }
