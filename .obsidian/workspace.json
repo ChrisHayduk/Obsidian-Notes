@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
+                "file": "Writing Research/Protein Structure Tokenization in ESM3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
+                "file": "Writing Research/Protein Structure Tokenization in ESM3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md"
+                "file": "Writing Research/Protein Structure Tokenization in ESM3.md"
               }
             }
           }
@@ -184,10 +183,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdc1e8192f87eb30",
+  "active": "7537d1cdbe0159ef",
   "lastOpenFiles": [
-    "Learning Notes/Information Theory/Mutual Information.md",
     "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
+    "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
     "Writing Research/Multiscale Data.md",
     "Writing Research/Protein Structure Tokenization in ESM3.md",
