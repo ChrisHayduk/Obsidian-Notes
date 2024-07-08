@@ -1,4 +1,10 @@
 # Outline
+## Introduction
+## What is Tokenization?
+## Tokenization in Language Models
+## Tokenizing 3D Structures
+## Reconstructing 3D Structures from Tokens
+## Conclusion
 # Useful Links
 - ESM3 Github: https://github.com/evolutionaryscale/esm
 - ESM3 Paper: https://www.evolutionaryscale.ai/papers/esm3-simulating-500-million-years-of-evolution-with-a-language-model

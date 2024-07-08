@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7537d1cdbe0159ef",
+            "id": "a30fa489753a48b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/A Deep Dive Into Peptide Binders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134fb2d059643b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Research/Multiscale Data.md",
+                "file": "Writing Research/Multiscale Data in Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Research/Protein Structure Tokenization in ESM3.md",
+                "file": "Writing Research/A Deep Dive Into Peptide Binders.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Research/Protein Structure Tokenization in ESM3.md",
+                "file": "Writing Research/A Deep Dive Into Peptide Binders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Research/Protein Structure Tokenization in ESM3.md"
+                "file": "Writing Research/A Deep Dive Into Peptide Binders.md"
               }
             }
           }
@@ -183,13 +195,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7537d1cdbe0159ef",
+  "active": "a30fa489753a48b2",
   "lastOpenFiles": [
     "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
-    "Learning Notes/Information Theory/Mutual Information.md",
+    "Writing Research/Multiscale Data in Biology.md",
     "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
-    "Writing Research/Multiscale Data.md",
+    "Writing Research/A Deep Dive Into Peptide Binders.md",
     "Writing Research/Protein Structure Tokenization in ESM3.md",
+    "Readwise/Book Highlights/Organizational Physics.md",
+    "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
     "Writing Research",
     "Learning Notes/Applied LLMs/Beyond the Basics of Retrieval for Augmenting Generation.md",
@@ -226,8 +240,6 @@
     "Books/The Mechanical Universe - Introduction to Mechanics and Heat.md",
     "Books/Deep Learning with Python.md",
     "Books/Deep Learning.md",
-    "Books/Inside Deep Learning.md",
-    "Books/Beyond The Mechanical Universe - From Electricity to Modern Physics.md",
     "Images/Pasted image 20240605133906.png",
     "Learning Notes/Deep Learning/Talks",
     "Images"

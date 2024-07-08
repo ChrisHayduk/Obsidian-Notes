@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 14988889,
+  "lastSavedStatusID": 15143457,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -73,7 +73,8 @@
     "Readwise/Book Highlights/The MANIAC.md": "40389302",
     "Readwise/Book Highlights/Turing's Cathedral.md": "40487412",
     "Readwise/Book Highlights/The Information.md": "40695009",
-    "Readwise/Book Highlights/The Art of Doing Science and Engineering.md": "41219590"
+    "Readwise/Book Highlights/The Art of Doing Science and Engineering.md": "41219590",
+    "Readwise/Book Highlights/Organizational Physics.md": "42002970"
   },
   "reimportShowConfirmation": true
 }
