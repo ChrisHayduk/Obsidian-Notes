@@ -48,6 +48,51 @@
 		- Aptamers are much smaller in size and mass than antibodies, which could be a relevant factor in choosing which is best suited for a given application. When aptamers are available for a particular application, their advantages over antibodies include potentially lower immunogenicity, greater replicability and lower cost, a greater level of control due to the _in vitro_ selection conditions, and capacity to be efficiently engineered for durability, specificity, and sensitivity.
 			- Because aptamers are nucleic-acid based, they can be directly synthesized, eliminating the need for cell-based expression and extraction as is the case in antibody production
 ## Paving the Road for RNA Therapeutics (2020)
+- Therapeutic RNA holds high potential for treatments, but there are obstacles with unmodified RNA molecules:
+	- Rapidly degraded and cleared from circulation
+	- Their large size and negative charge complicates their passing through the cell membrane
+	- They need to be delivered to the target cell
+- Pharma typically focuses on targeting proteins with small molecules. 
+	- Advantages of small molecules include:
+		- Ease of production
+		- Possibility of oral administration
+		- Favorable pharmacokinetics
+		- Ability to pass through the cell membrane
+	- Major disadvantage: it is estimated that of the ~20,000 human proteins, only ~3000 are druggable
+		- As of 2017, approved drugs targeted only 667 human proteins
+			- This not only indicates that more drugs can be developed to reach the 3000 druggable targets, but also highlights that the vast majority of 20 000 human proteins remain undruggable.
+		- Whether a biological target is druggable or not depends on a variety of factors such as the presence of suitable pockets in the protein structure in which small molecules can dock, a suitable size to accommodate binding, and the degree of polarity. Docking into a deep cavity is crucial in achieving sufficiently high binding affinities
+- Monoclonal antibodies (mABs) have entered the pharma scene as a response to some of the failings of small molecules
+	- Advantages over small molecules include:
+		- Longer half-life
+		- Ability to target a broader group of proteins (due to the vast mAb repertoire)
+		- Ability to be engineered to widen their applicability and increase their specificity
+		- Lower toxicity
+	- Disadvantages compared to small molecules include:
+		- More complicated pharmacological profile
+		- Higher cost of production
+		- Limits in route of administration (mostly intravenous)
+	- In 2018, 17 of the 59 newly approved drugs were biologics (biologics becoming increasingly important to treat disease)
+- A new class of therapeutic is arising to address limitations of mABs and small molecules: nucleic-acid-based therapy
+	- Includes:
+		- Oligos
+		- Plasmid DNA
+		- mRNA
+		- Ribozymes (RNA enzymes; RNA molecules with catalytic activity)
+		- RNAi-related nucleic acids such as miRNA, siRNA, and short hairpin RNA (shRNA)
+	- While the use of mAbs are limited to cell surface receptors or secreted proteins, nucleic acids can interfere with protein expression itself and therefore circumvent the druggability issue during drug development.
+**The image below gives an overview of RNA-based therapies:**
+![[Pasted image 20240709112634.png]]
+**Caption accompanying figure:** Figure 1. Overview of Different Mechanisms of Action of Different RNA Therapeutics. (1) Without therapeutic RNA molecules, the translation of a pathogenic protein proceeds without inhibition (shown in the broken line box). (2) ASOs hybridize to the target mRNA, while the (3) siRNA/miRNA mimics utilize the RISC in the RNAi pathway to (4) inhibit translation of target mRNA. (5) Over expression of a therapeutic protein that counteracts the function of the pathogenic protein can be done by delivering the mRNA of the therapeutic protein. (6) saRNA can be delivered to the cell where it binds to AGO2, is imported to the nucleus, and in turn activates an endogenous gene. (7) A more permanent approach to remove the pathogenic protein is by gene knockout using Cas9 and sgRNA RNPs. Abbreviations: AGO2, argonaute 2; ASO, antisense oligonucleotide; RISC, RNA-induced silencing complex; RNP, ribonucleoprotein; saRNA, small activating RNA.
+
+- **Types of RNA therapeutics**
+	- **Antisense oligonucleotides (ASOs)**
+		- 
+	- **siRNA and miRNA**
+	- **mRNA**
+	- **RNA Aptamers**
+	- **saRNA**
+	- **gRNA for CRISPR/Cas9-Directed Knockout**
 ## The Limitless Future of RNA Therapeutics (2021)
 - Traditional drug discovery relies on the ability of small molecule drugs to target active sites of proteins so as to inhibit or alter their function. 
 	- Only ~1.5% of the human genome encodes proteins and only 10-14% of those coded-for proteins have active sites that are druggable. Hence, only a very small portion of what the human genome does can be modified by using small molecules to target proteins

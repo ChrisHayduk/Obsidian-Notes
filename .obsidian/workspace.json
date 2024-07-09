@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6221e84e319a453d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/A Deep Dive into Peptide Therapies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7848774d4056e944",
             "type": "leaf",
             "state": {
@@ -209,16 +221,18 @@
   },
   "active": "a9ec82a39d2a25ed",
   "lastOpenFiles": [
+    "Writing Research/A Deep Dive into Peptide Therapies.md",
+    "Writing Research/A Deep Dive Into Peptide Binders.md",
+    "Writing Research/A Deep Dive Into RNA Therapeutics.md",
+    "Writing Research/Protein Structure Tokenization in ESM3.md",
+    "Images/Pasted image 20240709112634.png",
     "Images/Pasted image 20240708174145.png",
     "Images/Pasted image 20240708173008.png",
     "Images/Pasted image 20240708171929.png",
     "Images/Pasted image 20240708170349.png",
-    "Writing Research/A Deep Dive Into Peptide Binders.md",
-    "Writing Research/A Deep Dive Into RNA Therapeutics.md",
     "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
     "Writing Research/Multiscale Data in Biology.md",
     "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
-    "Writing Research/Protein Structure Tokenization in ESM3.md",
     "Readwise/Book Highlights/Organizational Physics.md",
     "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
@@ -235,10 +249,8 @@
     "Images/Pasted image 20240619142822.png",
     "Images/Pasted image 20240619142318.png",
     "Images/Pasted image 20240619141458.png",
-    "Images/Pasted image 20240619141430.png",
     "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
-    "Images/Pasted image 20240613184532.png",
     "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
     "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
     "Learning Notes/Information Theory/Cross-Entropy.md",
