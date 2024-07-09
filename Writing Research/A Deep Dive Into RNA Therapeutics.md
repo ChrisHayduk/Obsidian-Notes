@@ -2,13 +2,15 @@
 # Useful Links
 - RNA - https://en.wikipedia.org/wiki/RNA
 - RNA Therapeutics - https://en.wikipedia.org/wiki/RNA_therapeutics
-- RNA-based Therapeutics: Current Progress and Future Prospects (2013) - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3269031/
-- RNA Therapeutics: Updates and Future Potential (2022) - https://link.springer.com/article/10.1007/s11427-022-2171-2
+- Paving the Road for RNA Therapeutics (2020) - https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(20)30185-1
 - The Limitless Future of RNA Therapeutics (2021) - https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2021.628137/full
+- Noncoding RNA Therapeutics: Challenges and Potential Solutions (2021) - https://www.nature.com/articles/s41573-021-00219-z
+- RNA Therapeutics: Updates and Future Potential (2022) - https://link.springer.com/article/10.1007/s11427-022-2171-2
 - RNA-based Therapeutics: An Overview and Prospectus (2022) - https://www.nature.com/articles/s41419-022-05075-2
-- mRNA-based Therapeutics: Powerful and Versatile Tools to Combat Diseases - https://www.nature.com/articles/s41392-022-01007-w
-- Drug Delivery Systems for RNA Therapeutics - https://www.nature.com/articles/s41576-021-00439-4
-- Nanotechnologies in Delivery of mRNA Therapeutics using Nonviral Vector-based Delivery Systems - https://www.nature.com/articles/gt20175
+- mRNA-based Therapeutics: Powerful and Versatile Tools to Combat Diseases (2022) - https://www.nature.com/articles/s41392-022-01007-w
+- Nanotechnologies in Delivery of mRNA Therapeutics using Nonviral Vector-based Delivery Systems (2017) - https://www.nature.com/articles/gt20175
+- Drug Delivery Systems for RNA Therapeutics (2022) - https://www.nature.com/articles/s41576-021-00439-4
+- Personalized RNA neoantigen vaccines stimulate T cells in pancreatic cancer (2023) - https://www.nature.com/articles/s41586-023-06063-y
 # Notes
 ## RNA (Wikipedia)
 - RNA is a molecule that is essential for most biological functions. It comes in two broad types:
@@ -45,21 +47,79 @@
 		- RNA aptamers are oligomers (molecules consisting of a few repeating subunits that could be derived from monomers) that bind to a specific target molecule or family of target molecules. Aptamers and antibodies can be used in many of the same applications, but the nucleic acid-based structure of RNA aptamers is very different from the amino acid-based structure of antibodies. This difference can make aptamers a better choice than antibodies for some purposes.
 		- Aptamers are much smaller in size and mass than antibodies, which could be a relevant factor in choosing which is best suited for a given application. When aptamers are available for a particular application, their advantages over antibodies include potentially lower immunogenicity, greater replicability and lower cost, a greater level of control due to the _in vitro_ selection conditions, and capacity to be efficiently engineered for durability, specificity, and sensitivity.
 			- Because aptamers are nucleic-acid based, they can be directly synthesized, eliminating the need for cell-based expression and extraction as is the case in antibody production
-## RNA-based Therapeutics: Current Progress and Future Prospects (2013)
-- Emerging RNA drugs include:
-	- Therapeutic ribozymes
-	- Aptamers
-	- Small interfering RNAs (siRNAs)
-- Limitations: RNA is inherently unstable, potentially immunogenic, and typically requires a delivery vehicle for efficient transport to the targeted cells
-	- Note: immunogenic - relating to or denoting substances able to produce an immune response.
-	- RNA is inherently unstable because it contains a hydroxyl group, which makes it more susceptible to hydrolysis and degradation than DNA. It also has ribose sugars, which are more reactive than DNA's deoxyribose sugar. Lastly, it has larger helical grooves than DNA, making it easier for enzymes to attack.
-- RNA-based therapeutics can be classified by the mechanism of activity
-	- Inhibitors of mRNA translation (antisense)
-	- Agents of RNA interference (RNAi)
-	- Catalytically active RNA molecules (ribozymes)
-	- RNA that bind proteins and other molecular ligands (aptamers)
-## RNA Therapeutics: Updates and Future Potential
-## The Limitless Future of RNA Therapeutics
-## RNA-based Therapeutics: An Overview and Prospectus
-## mRNA-based Therapeutics: Powerful and Versatile Tools to Combat Diseases
-## Drug Delivery Systems for RNA Therapeutics
+## Paving the Road for RNA Therapeutics (2020)
+## The Limitless Future of RNA Therapeutics (2021)
+- Traditional drug discovery relies on the ability of small molecule drugs to target active sites of proteins so as to inhibit or alter their function. 
+	- Only ~1.5% of the human genome encodes proteins and only 10-14% of those coded-for proteins have active sites that are druggable. Hence, only a very small portion of what the human genome does can be modified by using small molecules to target proteins
+- RNA drugs have largely focused on two approaches
+	1. Antisense RNA (RNAi), where short oligonucleotides recognize and hybridize to form complementary sequences in endogenous RNA transcripts and alter their processing
+	2. Message RNA (mRNA), where mRNAs encoding certain peptides or proteins elicit their transient expression in the cytoplasm (for instance, to replace defective proteins or present antigens for vaccination)
+- Development of RNA therapeutics required that several major hurdles be overcome:
+	1. Rapid degradation of exogenous RNA by RNases that are ubiquitous in the environment and tissues
+	2. Delivery of negatively charged RNA across hydrophobic cytoplasmic membrane
+	3. Strong immunogenicity of exogenous RNA that causes cell toxicity and impaired translation into therapeutic proteins
+- Advantages of RNA-based drugs are:
+	1. Their ability to act on targets that are otherwise "undruggable" for a small molecule or protein
+	2. Their rapid and cost effective development when compared to small molecules or recombinant proteins
+	3. The ability to rapidly alter the sequence of the mRNA construct for personalized treatments or to adapt to an evolving pathogen
+- Broadly, we can classify RNA therapeutics into two groups - those that inhibit translation or promote degradation, and those that promote the expression of a specific protein or antigen (see below image).
+![[Pasted image 20240708170349.png]]
+- There are several therapeutic modalities that utilizes mRNA:
+	1. Replacement therapy, where mRNA is administered to the patient to compensate for a defective gene/protein or to supply therapeutic proteins (see image below)
+	2. Vaccination, where mRNA encoding specific antigen(s) is administered to elicit protective immunity
+	3. Cell therapy, where mRNA is transfected into the cells *ex vivo* to alter the cell phenotype or function, and then these cells are delivered into the patient
+![[Pasted image 20240708171929.png]]
+- mRNA vaccine development in response to the COVID-19 pandemic highlights the speed and flexibility of mRNA vaccines:
+	- After sequencing of the SARS-CoV-2 genome, it took 2 days to select the appropriate sequence for the Moderna vaccine candidate, 25 days to manufacture the first clinical batch of mRNA-1273, and another 35 days to dose the first trial participant. This gives a total of **only 62 days from genome sequencing to first trial dose of the vaccine**.
+- mRNA vaccines have some advantages over DNA vaccines and viral vector vaccines
+	1. mRNA vaccines are not confounded by pre-existing immunity against the vector (as in viral vector vaccines)
+	2. mRNA vaccines do not need to enter the nucleus for translation (unlike plasmid DNA vaccines)
+- Self-amplifying mRNA vaccines include an antigen-encoding sequence along with other elements required for replication (typically derived from an alphavirus, a positive-sense single-stranded RNA virus with a high capacity for replication). This allows for significantly higher amounts of the antigen to be expressed for a given dose of mRNA. See below image for a diagram of its function
+![[Pasted image 20240708173008.png]]
+- Targeted delivery is a major hurdle for RNA therapeutics:
+	- RNA requires delivery vehicles that will protect the cargo from RNase degradation
+	- RNA needs to be delivered to the site of therapeutic action
+	- RNA needs assistance crossing the cell membrane and entering the cytoplasm where it may exert its effect
+- RNA therapeutic delivery mechanisms:
+	- Lipid-based nanoparticles
+		- Liposomes are formed when materials containing polar head groups and non-polar tails (phospholipids) are dispersed in aqueous phase. They are spherical vesicles consisting of at least one phospholipid bilayer enclosing an aqueous core.
+		- They are a flexible drug delivery particle which may have various surface modifications capable of delivering a variety of therapeutic payloads
+		- Liposomes have an inherent advantage in that they mimic cell membrane composition and can encapsulate mRNA when combined with cationic lipids
+		- Liposome delivery systems have some flaws:
+			1. Liposomes are less stable and may fuse or leak RNA
+			2. They entrap less RNA
+			3. They can be harmful if oxidized
+			4. They are not consistent in size (heterogeneity of the particles increases batch to batch variability)
+		- Advances in surface modifications of liposomes are mitigating some of these flaws (for example, the mRNA COVID vaccines are delivered using liposomes)
+		- The surface of the lipid nanoparticles can be modified to improve targeting to specific proteins. The nanoparticle can also transport peptides, hydrophobic small molecules, and hydrophilic small molecules in addition to nucleic acids
+		![[Pasted image 20240708174145.png]]
+	- Polymer nanomaterials
+		- Polymer nanomaterials normally refer to synthetic compounds made of a handful of base units that come together to form complex structures
+		- Advantages include:
+			- A long shelf life
+			- The ability to encapsulate hydrophilic and hydrophobic compounds and proteins
+			- The capability for tuned delivery of therapeutic compounds
+		- Tend to induce inflammation within the immediate microenvironment, due either to lack of degradation or through byproducts
+	- Silica nanoparticles
+		- Mesoporous silica nanoparticles (MSNPs) have gained more attention for their therapeutic applications. The nanoparticles consist of an amorphous silica (silicon dioxide) matrix with ordered porosity in the mesoporous range. The peculiar feature of this nanoparticle includes large surface areas with large pore volumes, ease of modification, and established silanol chemistry.
+		- The surface of the nanoparticles can be modified by positively charged moieties to transport negatively charged RNA.
+		- The particles have high loading capacity for nucleic acids and efficient delivery. RNA can be loaded inside pores for their transport and the surface can be modified with cancer specific ligands and antibodies to deliver the RNA to the target site.
+		- Particle aggregation is a hurdle that must be overcome so that the product is safe for injection. Aggregation can cause thrombosis or induce tissue injury
+	- Carbon and gold nanoparticles
+		- Gold nanoparticles, quantum dots, nanographene oxide, carbon nanotubes are each synthesized nanostructures that have the capacity to harbor RNA, protecting it from degradation and delivering it to the targeted disease site
+	- N-Acetylgalactosamine (GalNAc)
+		- GalNAc is a trivalent ligand that binds to asialoglycoprotein (ASGPR) receptors in hepatocytes.
+		- Clinical studies suggest that GalNAc conjugated siRNAs are very efficient to knockdown gene expression in the liver
+- Why have mRNA therapeutics exploded in popularity and investment recently? They have some inherent advantages:
+	- **Fast Cycle Times:** High-purity RNA constructs can be generated much faster than traditional small molecule drugs or recombinant proteins
+	- **Low Relative Investment:** RNA is cheaper to manufacture than small molecules or recombinant proteins
+	- **Flexible Manufacturing Process:** the manufacturing process is adaptable to any RNA sequence, allowing for personalized RNA therapeutics
+	- **Lower Regulatory Burden:** RNA has a superior safety profile and simpler regulatory roadmap compared to DNA-based gene therapy because it doesn't integrate into the host genome
+- mRNA therapeutics are a disruptive therapeutic technology, as small biotech startups, as well as academic groups, can rapidly develop new and personalized mRNA constructs.
+## Noncoding RNA Therapeutics: Challenges and Potential Solutions (2021)
+## RNA Therapeutics: Updates and Future Potential (2022)
+## RNA-based Therapeutics: An Overview and Prospectus (2022)
+## mRNA-based Therapeutics: Powerful and Versatile Tools to Combat Diseases (2022)
+## Personalized RNA Neoantigen Vaccines Stimulate T cells in Pancreatic Cancer (2023)
+## Nanotechnologies in Delivery of mRNA Therapeutics using Nonviral Vector-based Delivery Systems (2017)
+## Drug Delivery Systems for RNA Therapeutics (2022)
