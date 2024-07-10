@@ -83,16 +83,72 @@
 	- While the use of mAbs are limited to cell surface receptors or secreted proteins, nucleic acids can interfere with protein expression itself and therefore circumvent the druggability issue during drug development.
 **The image below gives an overview of RNA-based therapies:**
 ![[Pasted image 20240709112634.png]]
-**Caption accompanying figure:** Figure 1. Overview of Different Mechanisms of Action of Different RNA Therapeutics. (1) Without therapeutic RNA molecules, the translation of a pathogenic protein proceeds without inhibition (shown in the broken line box). (2) ASOs hybridize to the target mRNA, while the (3) siRNA/miRNA mimics utilize the RISC in the RNAi pathway to (4) inhibit translation of target mRNA. (5) Over expression of a therapeutic protein that counteracts the function of the pathogenic protein can be done by delivering the mRNA of the therapeutic protein. (6) saRNA can be delivered to the cell where it binds to AGO2, is imported to the nucleus, and in turn activates an endogenous gene. (7) A more permanent approach to remove the pathogenic protein is by gene knockout using Cas9 and sgRNA RNPs. Abbreviations: AGO2, argonaute 2; ASO, antisense oligonucleotide; RISC, RNA-induced silencing complex; RNP, ribonucleoprotein; saRNA, small activating RNA.
+**Figure 1. Overview of Different Mechanisms of Action of Different RNA Therapeutics.** (1) Without therapeutic RNA molecules, the translation of a pathogenic protein proceeds without inhibition (shown in the broken line box). (2) ASOs hybridize to the target mRNA, while the (3) siRNA/miRNA mimics utilize the RISC in the RNAi pathway to (4) inhibit translation of target mRNA. (5) Over expression of a therapeutic protein that counteracts the function of the pathogenic protein can be done by delivering the mRNA of the therapeutic protein. (6) saRNA can be delivered to the cell where it binds to AGO2, is imported to the nucleus, and in turn activates an endogenous gene. (7) A more permanent approach to remove the pathogenic protein is by gene knockout using Cas9 and sgRNA RNPs. Abbreviations: AGO2, argonaute 2; ASO, antisense oligonucleotide; RISC, RNA-induced silencing complex; RNP, ribonucleoprotein; saRNA, small activating RNA.
 
 - **Types of RNA therapeutics**
 	- **Antisense oligonucleotides (ASOs)**
-		- 
+		- Single-stranded oligonucleotides that are complementary to a target mRNA
+		- Hybridize with mRNA and modulate protein expression (usually inhibit translation from mRNA to amino acids)
+		- Can be based on DNA or RNA
+		- ASOs can also increase translation efficiency of the target protein by sterically inhibiting the translation of an upstream open reading frame 
+			- **Steric inhibition** involves physically blocking a biological process due to the spatial arrangement of molecules. In this context, it means that the binding of ASOs to a specific RNA region prevents the ribosome or other translation machinery from accessing and translating that region.
+			- **An upstream open reading frame (uORF)** is a sequence of nucleotides in the mRNA that can be translated into a peptide, located upstream (5' end) of the main coding sequence (the primary open reading frame or ORF) of the gene. uORFs can regulate the translation of the downstream main ORF by affecting ribosome scanning and initiation processes.
+				- **Function:** uORFs can regulate the translation of the main ORF in various ways:
+					- **Ribosome Stalling:** When ribosomes initiate translation at a uORF, they may stall and dissociate after translating the uORF, reducing the number of ribosomes available to translate the main ORF.
+					- **Reinitiation:** After translating a uORF, ribosomes may resume scanning and reinitiate translation at the main ORF, but this process can be less efficient.
+					- **Regulatory Role:** uORFs often play a role in feedback mechanisms and can be involved in the response to cellular conditions, affecting the overall expression of the main protein.
 	- **siRNA and miRNA**
+		- siRNAs are short (20–25 nucleotides), double-stranded RNA molecules that use the RNAi pathway to degrade a target mRNA in a sequence-specific manner
+			- Upon delivery into the cytoplasm, argonaute (AGO)2 cleaves the passenger (sense) strand and the guide (antisense) strand of the siRNA is loaded into the RNA-induced silencing complex (RISC). The guide strand then guides the RISC to the target mRNA which is recognized and cleaved
+		- miRNA mimics are synthetic, double-stranded RNAs that mimic a naturally occurring miRNA. These miRNA mimics can replenish altered miRNA functionality. For instance, in certain types of cancer, miRNAs that silence oncogenes are downregulated and miRNA mimics can give a therapeutic effect in such cases
 	- **mRNA**
+		- mRNA is seen as a safer alternative to DNA for therapeutic purposes such as protein replacement therapy, as it degrades quickly leading to no concerns about potential adverse effects from long-lasting expression or genomic integration.
+		- Some disadvantages relative to DNA therapy:
+			- mRNA expression is more difficult to regulate than DNA expression, leading to possible toxicity from mRNA expression at off-target sites (leading to unwanted protein expression)
+			- mRNA is unstable and so it can degrade before it has had a therapeutic effect
+		- The field of mRNA therapeutics received a major boost only as advances in chemistry created more stable modified nucleotides and sophisticated regulation systems for mRNA expression were generated
+		- Some roles for mRNA therapies:
+			- Protein replacement therapy
+			- Vaccines for infections diseases (e.g. expression of viral antigens in dendritic cells)
+			- *in vivo* production of mAbs
 	- **RNA Aptamers**
+		- Aptamers are short single-stranded oligonucleotides that can consist of both DNA and RNA. RNA Aptamers are defined as **RNA oligonucleotides that bind to a specific target with high affinity and specificity**, similarly to how an antibody binds to an antigen.
+		- Besides the therapeutic potential of RNA aptamers, aptamers are also used solely as targeting moieties to aid delivery of other RNA payloads such as siRNA
+			- **Targeting moieties** are specific molecules or molecular structures that are used to direct the delivery of therapeutic agents (such as drugs, siRNA, or other biologically active molecules) to specific cells, tissues, or organs within the body. By binding selectively to target cells or receptors, these moieties enhance the specificity and efficiency of the delivery process, thereby improving therapeutic outcomes and reducing off-target effects.
 	- **saRNA**
+		- saRNAs are 21-nucleotide, double-stranded, noncoding RNA that possess two nucleotide overhangs on both ends
+		- saRNAs are initially loaded on the AGO2 protein where the passenger strand is cleaved. The saRNA–AGO2 complex then enters the nucleus and binds to promoter regions of genes to enhance transcription
 	- **gRNA for CRISPR/Cas9-Directed Knockout**
+		- The codelivery of Cas9 mRNA and sgRNA against a certain genomic target has promising applications for gene knock out strategies
+
+- The high immunogenicity combined with low RNA stability necessitates chemical modifications of the RNA molecule to make advancement to the clinic more realistic
+	- Such modifications can involve alterations of the ribose group, the phosphate backbone, the RNA termini, or modification of the nucleobases themselves
+- The major challenge in RNA therapeutics is delivery and difficulties in intracellular uptake of RNA molecules due to the large molecular weight and negatively charged phosphate backbone that hinders internalization
+	- While chemical modifications of the RNA molecules dramatically increase the stability and decrease the immunogenicity, intravenous injection of naked RNA remains challenging where multiple barriers hamper RNA uptake. Cellular barriers include difficulties in both passing of the cell membrane as well as the subsequent endosomal escape. While other RNA molecules might be hampered with these cellular barriers, naked mRNA delivery somewhat circumvents these barriers as dendritic cells actively internalize naked mRNA by micropinocytosis. Another barrier is the mononuclear phagocyte system (MPS), which effectively clears administered particulates through phagocytosis. Although the smaller RNA molecules such as siRNA are not taken up by the MPS, a disadvantage of the small size is the increased clearance rate by the kidneys as the glomerular filtration barrier limit is about 8 nm. Kidney clearance is therefore the major obstacle for intravenous administration of naked RNA
+- Several delivery strategies can be used to enable safe and efficient delivery of RNA therapeutics:
+	- RNA conjugated with a targeting moiety.
+		- The attachment of an active targeting moiety such as an antibody to the RNA can aid in both tissue/cell targeting and in internalization into target cells. Although it does not directly protect the RNA against degradation, it facilitates accumulation into the cells of interest
+		- Antibodies are a popular choice as targeting moieties due to their specificity, high affinity, well-defined structure, and long in vivo circulation time
+		- Antibody-RNA conjugation methods can include either a covalent attachment or a non-covalent attachment. 
+	- Aptamers
+		- Aptamers have been used to direct therapeutic RNA molecules to target sites
+		- In terms of specificity and affinity, they are highly comparable to antibodies but are smaller, have a higher stability, and are easier to generate
+	- Lipid nanoparticles
+		- Lipid nanoparticles (LNPs) are complex and large structures (~100 nm) that also have been used to deliver large RNA molecules such as mRNA *in vivo*
+		- LNPs can encapsulate large amounts of RNA and protect them against RNase degradation and renal clearance
+	- Polymers
+		- Cationic polymers are well suited for the delivery of RNA due to their positive charge, chemical diversity, and compatibility with various targeting moieties
+
+![[Pasted image 20240709164013.png]]
+**Figure 2. Examples of Delivery Vehicles for Different RNA Payloads:** (A) Antibody conjugated to RNA molecules which can be mediated by using for instance positively charged protamine (shown as plus signs). (B) Conjugate of RNA with a single-chain variable fragment (scFv). (C) RNA–aptamer conjugates. (D) RNA encapsulated in lipid nanoparticles (LNPs). Cationic or ionizable lipids (shown in green) aid in encapsulating the RNA payload through electrostatic interactions. This way, the RNA is encapsulated in inverted micelles. Cholesterol (shown in grey) provides stability to the LNPs. The surface of the LNPs are generally coated with PEG (black lines). Reactive groups such as maleimide (purple triangles) can be linked to the PEG and are used to functionalize the LNPs with targeting moieties (chemical conjugation of targeting moieties). (E) Cationic polymers can encapsulate RNA therapeutics by electrostatic interactions.
+
+- Considerations for future work in RNA therapies:
+	- **Challenge:** Most RNA-based therapeutics are chemically modified RNAs and it is important to pay attention to potential adverse effects of these modifications. Not only does modified RNA differ structurally from unmodified RNA but it can also affect the functionality. Therefore, some caution is necessary when focusing on an improved pharmacokinetic profile of synthetic RNA molecules with disregard to altered biological functionalities that might not be directly visible.
+		- **Potential Solution:** To address this issue, a new class of RNAs has been explored. These are the bioengineered RNA agents (BERAs), which are made and folded in living cells and demonstrate favorable stability in human cells. They could represent a more natural alternative to the extensively chemical modified RNAs currently used
+	- **Challenge:** In terms of delivery of RNA therapeutics, most strategies have focused on the ‘low-hanging fruit’ by delivering the RNA to the liver and most drug candidates have hence focused on liver- and kidney-related diseases (with some upcoming potential in the central nervous system as well). Future ambitions should focus on sites in the body that are harder to reach such as leukocytes that are dispersed over the body and intrinsically hard to transfect
+		- **Potential Solution**:** Currently, it seems that this necessitates the inclusion of targeting moieties such as peptides, antibodies, other proteins, polysaccharides, and more. Besides cell targeting, such targeting moieties might also aid in enhancing internalization of the payload.
+	- **Challenge:** Internalization and endosomal escape is a real bottleneck in RNA delivery. While a small fraction of siRNA release in the cytosol is sufficient for knockdown, other RNA-based approaches still lack potency due to endosomal entrapment
+		- No potential solution given
 ## The Limitless Future of RNA Therapeutics (2021)
 - Traditional drug discovery relies on the ability of small molecule drugs to target active sites of proteins so as to inhibit or alter their function. 
 	- Only ~1.5% of the human genome encodes proteins and only 10-14% of those coded-for proteins have active sites that are druggable. Hence, only a very small portion of what the human genome does can be modified by using small molecules to target proteins
@@ -162,6 +218,24 @@
 	- **Lower Regulatory Burden:** RNA has a superior safety profile and simpler regulatory roadmap compared to DNA-based gene therapy because it doesn't integrate into the host genome
 - mRNA therapeutics are a disruptive therapeutic technology, as small biotech startups, as well as academic groups, can rapidly develop new and personalized mRNA constructs.
 ## Noncoding RNA Therapeutics: Challenges and Potential Solutions (2021)
+- Noncoding RNAs (ncRNAs) are generated from the larger part of the genome that does not encode proteins but produces noncoding transcripts that regulate gene expression and protein function.
+- Two major classes of ncRNA are the well-studied short microRNAs (miRNAs) and the more recently identified long ncRNAs (lncRNAs)
+	- Deregulation of both types of transcript has been linked to every cancer investigated to date and affects all major cancer hallmarks. Also associated with a number of other complex biological processes
+		- Therapeutic targeting of such naturally occurring ncRNAs thus represents a very promising approach for the treatment of various diseases
+- The use of miRNA-based therapeutics has dual advantages:
+	- miRNAs are naturally occurring molecules in human cells, unlike man-made chemotherapy compounds or antisense oligonucleotides (ASOs), and therefore have all the mechanisms in place for their processing and downstream target selection
+	- miRNAs act by targeting multiple genes within one pathway, thus causing a broader yet specific response
+- LncRNA targeting may include transcriptional inhibition, post-transcriptional inhibition, steric hindrance of secondary structure formation or protein interactions, introduction of synthetic (for example, circular) lncRNAs, and modulation of lncRNA genomic loci or expression patterns via CRISPR–Cas9 and CRISPR–Cas13, respectively
+- Main issues facing all RNA-based therapeutics are:
+	- Specificity
+		- Undesired on-target effects due to uptake in cells other than the cells of interest
+		- Off-target effects caused by either sequence similarities or overdosing to much higher than expected levels endogenously
+	- Delivery
+		- Instability of naked, chemically unmodified RNA structures
+		- Inefficient intracellular delivery which requires the exploitation of endosomal escape mechanisms
+		- Lack of delivery vehicles suitable for targeting the organ and cell type of interest
+	- Tolerability
+		- Caused by the recognition of RNA structures by pathogen-associated molecular pattern (PAMP) receptors, such as Toll-like receptors (TLRs), leading to adverse immune effects.
 ## RNA Therapeutics: Updates and Future Potential (2022)
 ## RNA-based Therapeutics: An Overview and Prospectus (2022)
 ## mRNA-based Therapeutics: Powerful and Versatile Tools to Combat Diseases (2022)
