@@ -32,12 +32,48 @@
             }
           },
           {
+            "id": "8010453e4c3286b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Causal Language Models as Differentiable n-gram Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9edc338490093486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Notes/Deep Learning/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7848774d4056e944",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Writing Research/A Deep Dive Into Peptide Binders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae75e351b50d91d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Reflections on \"An Observation on Generalization\" by Ilya Sutskever.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,44 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "06527e7da10d29f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing Research/Multiscale Data in Biology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62a7e79c61f000b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdc1e8192f87eb30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Research/A Deep Dive Into RNA Therapeutics.md",
+                "file": "Writing Research/A Deep Dive into Peptide Therapies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Research/A Deep Dive Into RNA Therapeutics.md",
+                "file": "Writing Research/A Deep Dive into Peptide Therapies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Research/A Deep Dive Into RNA Therapeutics.md"
+                "file": "Writing Research/A Deep Dive into Peptide Therapies.md"
               }
             }
           }
@@ -219,12 +220,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9ec82a39d2a25ed",
+  "active": "6221e84e319a453d",
   "lastOpenFiles": [
-    "Writing Research/Protein Structure Tokenization in ESM3.md",
-    "Writing Research/A Deep Dive Into Peptide Binders.md",
+    "Writing Research/Causal Language Models as Differentiable n-gram Models.md",
+    "Learning Notes/Deep Learning/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
+    "Learning Notes/Deep Learning/LLMs/Encoder-Only Transformers with MLM Objective as Continuous Fuzzy String Matching.md",
+    "Learning Notes/Deep Learning/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
     "Writing Research/A Deep Dive into Peptide Therapies.md",
+    "Writing Research/A Deep Dive Into Peptide Binders.md",
+    "Images/Pasted image 20240712085133.png",
+    "Images/Pasted image 20240712082553.png",
+    "Writing Research/Protein Structure Tokenization in ESM3.md",
+    "Readwise/Book Highlights/The Gene.md",
+    "Images/Pasted image 20240711101749.png",
     "Writing Research/A Deep Dive Into RNA Therapeutics.md",
+    "Writing Research/Multiscale Data in Biology.md",
+    "Writing Research/Reflections on \"An Observation on Generalization\" by Ilya Sutskever.md",
+    "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
+    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
+    "Learning Notes/Information Theory/Shannon Entropy.md",
+    "Learning Notes/Information Theory/Cross-Entropy.md",
     "Images/Pasted image 20240709164013.png",
     "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
     "Images/Pasted image 20240709112634.png",
@@ -232,8 +247,6 @@
     "Images/Pasted image 20240708173008.png",
     "Images/Pasted image 20240708171929.png",
     "Images/Pasted image 20240708170349.png",
-    "Writing Research/Multiscale Data in Biology.md",
-    "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
     "Readwise/Book Highlights/Organizational Physics.md",
     "Learning Notes/Information Theory/Mutual Information.md",
     "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
@@ -245,25 +258,14 @@
     "Learning Notes/Applied LLMs",
     "Images/Pasted image 20240619141338.png",
     "Learning Notes/Information Theory/Directed Information.md",
-    "Learning Notes/Information Theory/Shannon Entropy.md",
-    "Images/Pasted image 20240619142944.png",
-    "Images/Pasted image 20240619142822.png",
-    "Images/Pasted image 20240619142318.png",
     "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
     "Books/How to Read a Book by Mortimer J. Adler.md",
     "Learning Notes/Information Theory/Shannon's Source Coding Theorem.md",
     "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
-    "Learning Notes/Information Theory/Cross-Entropy.md",
-    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
     "Readwise/Book Highlights/The Art of Doing Science and Engineering.md",
-    "Learning Notes/Deep Learning/Talks/An Observation on Generalization.md",
-    "Courses/Stanford CS244W - Machine Learning with Graphs/Lecture 1.1 - Why Graphs.md",
     "Courses/Stanford CS244W - Machine Learning with Graphs",
     "Courses",
     "Learning Notes/Information Theory",
-    "Learning Notes/Deep Learning/Paper Deep Dives/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
-    "Books/Conversations of Socrates by Xenophon.md",
-    "Readwise/Article Highlights/At the Intersection of LLMs and Kernels - Research Roundup.md",
     "Learning Notes/Deep Learning/Talks",
     "Images"
   ]
