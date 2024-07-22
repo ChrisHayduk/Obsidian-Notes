@@ -225,6 +225,11 @@
 - The use of miRNA-based therapeutics has dual advantages:
 	- miRNAs are naturally occurring molecules in human cells, unlike man-made chemotherapy compounds or antisense oligonucleotides (ASOs), and therefore have all the mechanisms in place for their processing and downstream target selection
 	- miRNAs act by targeting multiple genes within one pathway, thus causing a broader yet specific response
+	
+**Fig. 1: MicroRNA biogenesis pathway and ways to interfere therapeutically.**
+![[Pasted image 20240719094942.png]]
+**Figure Caption:** MicroRNA (miRNA) biogenesis is a multistep process (see blue boxes) consisting of transcription of a pri-miRNA by RNA polymerase II or III, its nuclear processing into a pre-miRNA by Drosha and DGCR8, nuclear export of the pre-miRNA by exportin 5, cytoplasmic processing by Dicer and TRBP into a mature miRNA duplex and its helicase-mediated unwinding. The passenger strand is degraded, and the mature miRNA strand is integrated into the RNA-induced silencing complex (RISC) to mediate either translational repression or mRNA degradation depending on the extent of complementarity to the mRNA target. Translational repression is mediated through effects on translation initiation, elongation and termination as well as co-translational degradation. mRNA degradation is mediated through mechanisms resulting first in mRNA deadenylation (step 1), followed by de-capping (step 2) and concluded by exonuclease-mediated 5′ to 3′ degradation (step 3). Ways to interfere with the endogenous miRNA pathway (see red boxes) include inhibition of biogenesis at the nuclear or cytoplasmic level, miRNA replacement therapy and functional inhibition of the mature miRNA or the interaction with its target mRNA. As oligonucleotides are not readily taken up into cells, commonly used delivery methods are shown and include conjugation to various chemical or biological entities as well as delivery within lipid particles, polymers and viral or bacterial vector systems.
+
 - LncRNA targeting may include transcriptional inhibition, post-transcriptional inhibition, steric hindrance of secondary structure formation or protein interactions, introduction of synthetic (for example, circular) lncRNAs, and modulation of lncRNA genomic loci or expression patterns via CRISPR–Cas9 and CRISPR–Cas13, respectively
 - Main issues facing all RNA-based therapeutics are:
 	- Specificity
@@ -235,7 +240,60 @@
 		- Inefficient intracellular delivery which requires the exploitation of endosomal escape mechanisms
 		- Lack of delivery vehicles suitable for targeting the organ and cell type of interest
 	- Tolerability
-		- Caused by the recognition of RNA structures by pathogen-associated molecular pattern (PAMP) receptors, such as Toll-like receptors (TLRs), leading to adverse immune effects.
+		-  Caused by the recognition of RNA structures by pathogen-associated molecular pattern (PAMP) receptors, such as Toll-like receptors (TLRs), leading to adverse immune effects.
+
+- **Main characteristics of microRNAs and long noncoding RNAs**
+	- **microRNAs (miRNAs)**
+		- Small in size (17-25 nucleotides)
+		- Single-stranded and non-coding (ncRNA) that act as gene regulators
+		- Act through post-transcriptional gene silencing
+			- Post-transcriptional == after DNA has been translated to mRNA for gene expression
+		- The miRNA 'seed sequence' (i.e. the sequence that identified and binds to a particular mRNA) is situated from nucleotides 2 to 7 at the 5'-end of the miRNA sequence.
+			- Seed sequence binding with *perfect* complementarity (i.e. the seed sequence exactly matches with a part of the mRNA) results in the deadenylation and degradation of the targeted mRNA
+			- Seed sequence binding with *imperfect* complementarity (i.e. the seed sequence partially matches with part of the mRNA), which is more common, results in translational inhibition
+	- **Long noncoding RNAs (lncRNAs)**
+		- Large in size (>200 nucleotides)
+		- Synthesized similarly to mRNAs, but not translated into proteins
+		- LncRNAs contain two types of functional element:
+			- The *interactor elements* involved in direct physical interaction with other nucleic acids, with proteins or lipids
+			- The *structural elements*, leading to the occurrence of secondary and/or tertiary 3D RNA structures, which direct their functional interactions
+		- Can interact with DNA and RNA in linear form via base pairing *or* interact with DNA/RNA/proteins via chemical interactions in secondary structures (sort of acts like a protein and an RNA molecule!).
+			- Allows for significantly more variable functions when compared to miRNAs
+		- Gene-regulatory roles have been identified for many lncRNAs, for example, by influencing transcription factor binding or epigenetic marks
+			- Interactions with mRNAs may influence their stability or rate of translation.
+			- lncRNA–protein interactions may influence the stability, activity or localization of the protein
+	
+- **Types of RNA-targeting therapeutics**
+	- RNA-targeting therapeutics are used to:
+		1. Induce miRNA-like functions (i.e. inhibit mRNA translation and reduce gene expression)
+		2. Restore or deplete the levels of a miRNA (i.e. downregulate/upregulate gene expression)
+		3. Inhibit the interaction of a miRNA with its targets (i.e. upregulate gene expression)
+	1. **Induce miRNA-like functions**
+		- **Antisense oligonucleotides (ASOs)** are single-stranded DNA molecules with full complementarity to one select target mRNA and may act by blocking protein translation (via steric hindrance), causing mRNA degradation (via RNase H cleavage) or changing pre-mRNA splicing (via interference with _cis_-splicing elements causing exon inclusion or exclusion)
+		- **Small interfering RNAs (siRNAs)** may be single or double stranded and exploit the endogenous miRNA pathway and mediate silencing of one, fully complementary mRNA via their loading into the RNA-induced silencing complex (RISC)
+		- **Short hairpin RNAs (shRNAs)** exploit the miRNA maturation pathway, being cleaved by Dicer into a double-stranded mature product before RISC loading. ShRNAs are traditionally introduced into cells using viral vector systems such as adenovirus-associated viruses, retroviruses or lentiviruses. Bifunctional shRNAs have higher knock-down efficacy as they simultaneously produce transcripts with perfect and imperfect complementarity to trigger degradation as well as translational inhibition
+	2. **Restore or deplete the levels of miRNA**
+		- **MiRNA mimics** exploit the main advantage of endogenous miRNAs being able to target multiple mRNAs at once. miRNA mimics have the same sequence as an endogenous miRNA while the passenger strand carries a few mismatches to prevent RISC loading and potential action as an anti-microRNA (antimiR)
+		- **Anti-microRNAs (antimiRs)** are essentially ASOs designed to be fully or partially complementary to an endogenous miRNA to prevent the interaction with its target genes.
+		- **MiRNA sponges** are artificial transcripts that contain multiple miRNA binding sites to trap and sequester it. miRNA sponges may target one specific or multiple different miRNAs
+	3. **Inhibit the interaction of a miRNA with its targets**
+		- **MiRNA-masking ASOs** represent an inverted approach that masks the binding site of a miRNA within the target gene and offers a gene-specific and safe therapeutic strategy in cases where seed-family members have dual effects.
+	- **LncRNA therapeutics** have only become the focus of investigations in the past decade and no lncRNA-targeting therapeutics have entered clinical development so far. LncRNAs are being actively explored as biomarkers, supporting their prevalent link with diseases. In the future, lncRNAs are expected to broaden the amount of RNA interference (RNAi) and CRISPR targets, and specific lncRNA types such as circular RNAs or natural antisense transcripts represent entirely new therapeutic approaches.
+
+- **Targeting RNA viruses with RNA-based therapeutics**
+	- Positive-strand RNA viruses resemble endogenous mRNAs and can consequently be directly bound and regulated by microRNAs (miRNAs).
+		- This can influence viral replication positively or negatively via various mechanisms such as RNA stabilization, and thus differs from miRNA interaction with endogenous mRNAs, which generally results in downregulation (see figure below)
+		- In addition, viral infection may sequester endogenous miRNAs or change their expression, which can similarly lead to pro- or antiviral effects
+	- Both miRNA replacement and miRNA inhibitory therapeutics can be applicable for the treatment of viral infection.
+![[Pasted image 20240719110654.png]]
+
+- **The hurdle of immunogenicity**
+
+- **The hurdle of specificity**
+
+- **The hurdle of delivery**
+
+- **Outlook**
 ## RNA Therapeutics: Updates and Future Potential (2022)
 ## RNA-based Therapeutics: An Overview and Prospectus (2022)
 ## mRNA-based Therapeutics: Powerful and Versatile Tools to Combat Diseases (2022)
