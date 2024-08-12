@@ -1,0 +1,118 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.enabled {
+    opacity: 1;
+}
+.disabled {
+    opacity: 0.5;
+}
+
+.error-notice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.status-bar-auto-anki {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0.3em;
+    border: black 1px solid;
+}
+
+.status-bar-icon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.status-bar-auto-anki > div {
+    margin-left: 0.3em;
+}
+
+.status-bar-auto-anki.--error > .status-bar-icon  {
+    color: red;
+}
+
+.status-bar-auto-anki.--running > .status-bar-icon {
+    -webkit-animation-name: spin;
+    -webkit-animation-duration: 1000ms;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+
+    animation-name: spin;
+    animation-duration: 1000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@-webkit-keyframes spin { 
+    from { 
+        -webkit-transform: rotate(0deg); 
+    } to { 
+        -webkit-transform: rotate(360deg); 
+    }
+}
+@keyframes spin { 
+    from { 
+        transform: rotate(0deg); 
+    } to { 
+        transform: rotate(360deg); 
+    }
+}
+
+.modal-buttons {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.modal-buttons > div > *:first-child {
+    /* overwrite setting-item style */
+    margin: 0;
+}
+
+.slider-val {
+    margin-left: 0.5rem;
+    width: 3.5rem;
+    text-align: end;
+}
+
+.question-options-container,
+.deck-options-container {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.question-options__buttons > button,
+.deck-options__buttons > button {
+    margin-right: 1em;
+}
+
+.question-option,
+.deck-option {
+    padding: 0.5rem 1rem;
+    margin: 1rem 0rem;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    border: 1px solid rgb(0, 0, 0, 0.1);
+    border-radius: 1rem;
+}
+
+.question-option.--selected,
+.deck-option.--selected {
+    background: var(--color-accent);
+    color: var(--text-on-accent);
+}

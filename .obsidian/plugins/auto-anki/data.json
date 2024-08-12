@@ -1,0 +1,23 @@
+{
+  "ankiConnectPort": 8765,
+  "ankiDestinationDeck": "Knowledge",
+  "openAiApiKey": "sk-proj-IXIrpbPKBIIc3NaQMJh0T3BlbkFJyZunEDRGlGri85cjVHnq",
+  "openAiApiKeyIdentifier": "sk-...VHnq",
+  "gptAdvancedOptions": {
+    "temperature": 1,
+    "top_p": 1,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "max_tokens_per_question": 256
+  },
+  "questionGenerationDefaults": {
+    "textSelection": {
+      "numQuestions": 1,
+      "numAlternatives": 0
+    },
+    "file": {
+      "numQuestions": 5,
+      "numAlternatives": 0
+    }
+  }
+}

@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "8d4bdf523f3ea423",
+            "id": "9def19058475268a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Research/Reflections & Reviews/What We Call \"Tech\" Matters.md",
+                "file": "Learning Notes/Information Theory/Shannon Entropy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6221e84e319a453d",
+            "id": "869d48dac822b919",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing Research/The Sciences/A Deep Dive into Peptide Therapies.md",
+                "file": "The Modularity of the Genomic Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,30 @@
               "type": "markdown",
               "state": {
                 "file": "Writing Research/The Sciences/A Deep Dive Into Peptide Binders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f47392a8842f087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/The Sciences/A Deep Dive Into Peptide Binders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4bdf523f3ea423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Reflections & Reviews/What We Call \"Tech\" Matters.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,42 +98,6 @@
               "type": "markdown",
               "state": {
                 "file": "Writing Research/The Sciences/Causal Language Models as Differentiable n-gram Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9edc338490093486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning Notes/Deep Learning/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae75e351b50d91d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing Research/The Sciences/Reflections on \"An Observation on Generalization\" by Ilya Sutskever.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "134fb2d059643b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing Research/The Sciences/Protein Structure Tokenization in ESM3.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing Research/The Sciences/A Deep Dive into Peptide Therapies.md",
+                "file": "The Modularity of the Genomic Architecture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing Research/The Sciences/A Deep Dive into Peptide Therapies.md",
+                "file": "The Modularity of the Genomic Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing Research/The Sciences/A Deep Dive into Peptide Therapies.md"
+                "file": "The Modularity of the Genomic Architecture.md"
               }
             }
           }
@@ -244,34 +232,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6221e84e319a453d",
+  "active": "869d48dac822b919",
   "lastOpenFiles": [
-    "Writing Research/Reflections & Reviews/What We Call \"Tech\" Matters.md",
-    "Readwise/Book Highlights/The Song of the Cell.md",
-    "Writing Research/Reflections & Reviews",
+    "Learning Notes/Information Theory/Shannon Entropy.md",
     "Writing Research/The Sciences/A Deep Dive Into RNA Therapeutics.md",
-    "Writing Research/The Sciences/Protein Structure Tokenization in ESM3.md",
-    "Writing Research/The Sciences/Reflections on \"An Observation on Generalization\" by Ilya Sutskever.md",
+    "The Modularity of the Genomic Architecture.md",
     "Writing Research/The Sciences/Causal Language Models as Differentiable n-gram Models.md",
-    "Learning Notes/Deep Learning/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
     "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
     "Writing Research/The Sciences/A Deep Dive Into Peptide Binders.md",
+    "Writing Research/Reflections & Reviews/What We Call \"Tech\" Matters.md",
+    "Learning Notes/Deep Learning/LLMs/Decoder-Only Transformers as Differentiable n-gram Models.md",
+    "Learning Notes/Deep Learning/Talks/An Observation on Generalization.md",
+    "Learning Notes/Deep Learning/Paper Deep Dives/Protein Language Models Learn Evolutionary Statistics of Interacting Sequence Motifs.md",
+    "Writing Research/The Sciences/Protein Structure Tokenization in ESM3.md",
+    "Writing Research/The Sciences/Reflections on \"An Observation on Generalization\" by Ilya Sutskever.md",
+    "Learning Notes/Information Theory/Cross-Entropy.md",
+    "Learning Notes/Information Theory/Directed Information.md",
+    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
+    "Learning Notes/Information Theory/Kullback-Leibler (KL) Divergence.md",
+    "Learning Notes/Information Theory/Mutual Information.md",
+    "Readwise/Book Highlights/The Gene.md",
+    "Writing Research/The Sciences/A Deep Dive into Peptide Therapies.md",
+    "Readwise/Book Highlights/The Song of the Cell.md",
+    "Writing Research/Reflections & Reviews",
     "Writing Research/The Humanities/Rejuvenation in Political Systems and Markets.md",
     "Writing Research/The Humanities",
     "Writing Research/The Sciences",
     "Images/Pasted image 20240719110654.png",
     "Images/Pasted image 20240719094942.png",
-    "Writing Research/The Sciences/A Deep Dive into Peptide Therapies.md",
     "Learning Notes/Deep Learning/LLMs/Encoder-Only Transformers with MLM Objective as Continuous Fuzzy String Matching.md",
     "Learning Notes/Deep Learning/AI in Drug Discovery/How ESMFold Replaces MSA with Language Modeling.md",
     "Images/Pasted image 20240712085133.png",
     "Images/Pasted image 20240712082553.png",
-    "Readwise/Book Highlights/The Gene.md",
     "Images/Pasted image 20240711101749.png",
     "Writing Research/The Sciences/Multiscale Data in Biology.md",
-    "Learning Notes/Information Theory/Kolmogorov Complexity.md",
-    "Learning Notes/Information Theory/Shannon Entropy.md",
-    "Learning Notes/Information Theory/Cross-Entropy.md",
     "Images/Pasted image 20240709164013.png",
     "Books/Probability Theory - The Logic of Science by ET Jaynes.md",
     "Images/Pasted image 20240709112634.png",
@@ -279,17 +273,11 @@
     "Images/Pasted image 20240708173008.png",
     "Images/Pasted image 20240708171929.png",
     "Readwise/Book Highlights/Organizational Physics.md",
-    "Learning Notes/Information Theory/Mutual Information.md",
-    "Learning Notes/Deep Learning/AI in Drug Discovery/AI for Protein Structure Prediction at Harvard.md",
     "Writing Research",
-    "Learning Notes/Applied LLMs/Beyond the Basics of Retrieval for Augmenting Generation.md",
     "Learning Notes/Applied LLMs/LLMOps",
     "Learning Notes/Applied LLMs/Agents",
     "Learning Notes/Applied LLMs/RAG",
     "Learning Notes/Applied LLMs",
-    "Learning Notes/Information Theory/Directed Information.md",
-    "Learning Notes/Deep Learning/Talks/Shaping the Future of AI from the History of the Transformer.md",
-    "Books/How to Read a Book by Mortimer J. Adler.md",
     "Courses/Stanford CS244W - Machine Learning with Graphs",
     "Courses"
   ]
