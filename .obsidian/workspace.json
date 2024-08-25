@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Modularity of the Genomic Architecture.md",
+                "file": "Writing Research/The Sciences/A Deep Dive Into RNA Therapeutics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Modularity of the Genomic Architecture.md",
+                "file": "Writing Research/The Sciences/A Deep Dive Into RNA Therapeutics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Modularity of the Genomic Architecture.md"
+                "file": "Writing Research/The Sciences/A Deep Dive Into RNA Therapeutics.md"
               }
             }
           }
@@ -232,11 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "869d48dac822b919",
+  "active": "a9ec82a39d2a25ed",
   "lastOpenFiles": [
     "Learning Notes/Information Theory/Shannon Entropy.md",
-    "Writing Research/The Sciences/A Deep Dive Into RNA Therapeutics.md",
     "The Modularity of the Genomic Architecture.md",
+    "Readwise/Book Highlights/Our Oriental Heritage.md",
+    "Writing Research/The Sciences/A Deep Dive Into RNA Therapeutics.md",
     "Writing Research/The Sciences/Causal Language Models as Differentiable n-gram Models.md",
     "Learning Notes/Applied LLMs/What We Learned from a Year of Building with LLMs.md",
     "Writing Research/The Sciences/A Deep Dive Into Peptide Binders.md",
@@ -272,7 +272,6 @@
     "Images/Pasted image 20240708174145.png",
     "Images/Pasted image 20240708173008.png",
     "Images/Pasted image 20240708171929.png",
-    "Readwise/Book Highlights/Organizational Physics.md",
     "Writing Research",
     "Learning Notes/Applied LLMs/LLMOps",
     "Learning Notes/Applied LLMs/Agents",

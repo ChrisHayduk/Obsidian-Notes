@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 15619433,
+  "lastSavedStatusID": 15851194,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -76,7 +76,8 @@
     "Readwise/Book Highlights/The Art of Doing Science and Engineering.md": "41219590",
     "Readwise/Book Highlights/Organizational Physics.md": "42002970",
     "Readwise/Book Highlights/The Gene.md": "42229897",
-    "Readwise/Book Highlights/The Song of the Cell.md": "42592989"
+    "Readwise/Book Highlights/The Song of the Cell.md": "42592989",
+    "Readwise/Book Highlights/Our Oriental Heritage.md": "43177461"
   },
   "reimportShowConfirmation": true
 }
